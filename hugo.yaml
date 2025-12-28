@@ -1,0 +1,86 @@
+baseURL: https://alexkasper.com/
+languageCode: en-us
+title: Alex Kasper
+theme: hextra
+
+# Enable emoji in content
+enableEmoji: true
+
+# Enable Git info for last modified dates
+enableGitInfo: true
+
+menu:
+  main:
+    - name: About
+      pageRef: /docs/about
+      weight: 1
+    - name: Projects
+      pageRef: /docs/projects
+      weight: 2
+    - name: Press
+      pageRef: /docs/press
+      weight: 3
+    - name: Citations
+      pageRef: /docs/citations
+      weight: 4
+    - name: Search
+      weight: 5
+      params:
+        type: search
+    # Social icons removed from header - they go in footer instead
+
+params:
+  description: "Alex Kasper - World's Least Famous Hacker. Cybersecurity educator, social engineering expert, co-creator of CSEPS."
+  
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/toto-logo.svg
+      dark: images/toto-logo-dark.svg
+      link: /
+      width: 40
+      height: 40
+  
+  page:
+    width: normal
+  
+  footer:
+    displayCopyright: true
+    displayPoweredBy: false
+  
+  editURL:
+    enable: false
+
+  # Theme settings
+  theme:
+    default: system
+    displayToggle: true
+
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+
+# Taxonomies for organizing content
+taxonomies:
+  tag: tags
+  category: categories
+  project: projects
+
+# Output formats
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+# Markup settings
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false

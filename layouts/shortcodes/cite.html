@@ -1,0 +1,15 @@
+{{- $id := .Get 0 -}}
+{{- $citation := index (where site.Data.citations "id" $id) 0 -}}
+{{- if $citation -}}
+  {{- $linkText := $citation.title -}}
+  {{- if $citation.publication -}}
+    {{- $linkText = printf "%s, %s" $citation.title $citation.publication -}}
+  {{- end -}}
+  {{- if $citation.url -}}
+    <a href="{{ $citation.url }}" class="citation-link" title="{{ $citation.description }}" target="_blank" rel="noopener">[{{ $linkText }}]</a>
+  {{- else -}}
+    <a href="/docs/citations/#{{ $id }}" class="citation-link" title="{{ $citation.description }}">[{{ $linkText }}]</a>
+  {{- end -}}
+{{- else -}}
+  <span class="citation-missing">[Citation not found: {{ $id }}]</span>
+{{- end -}}

@@ -1,0 +1,120 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Kasper – Projects</title>
+    <link>http://localhost:1313/docs/projects/</link>
+    <description>Recent content in Projects on Alex Kasper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	  <atom:link href="http://localhost:1313/docs/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>CSEPS</title>
+      <link>http://localhost:1313/docs/projects/cseps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/projects/cseps/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Certified Social Engineering Prevention Specialist (CSEPS)&lt;/strong&gt; was the world&amp;rsquo;s first professional certification focused specifically on defending against social engineering attacks &lt;sup class=&#34;citation-ref&#34;&gt;&lt;a href=&#34;http://localhost:1313/docs/citations/#cseps-launch-2003&#34; title=&#34;First Anti-Social Engineering Certification Launched&#34;&gt;[↗]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2&gt;Background&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;background&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#background&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Co-created by Alex Kasper and Kevin Mitnick in the early 2000s, CSEPS emerged from their combined decades of experience—Mitnick&amp;rsquo;s infamous exploits demonstrating social engineering&amp;rsquo;s power, and their joint work developing defensive countermeasures.&lt;/p&gt;
+&lt;h2&gt;The Problem CSEPS Addressed&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-problem-cseps-addressed&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-problem-cseps-addressed&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;At the time, cybersecurity certifications focused almost exclusively on technical controls: firewalls, encryption, network security. But as Mitnick had demonstrated repeatedly, the weakest link in any security system is the human element.&lt;/p&gt;
+&lt;p&gt;Social engineering—manipulating people into revealing information or taking actions that compromise security—was (and remains) the most effective attack vector. Yet no formal training or certification existed to help organizations defend against it.&lt;/p&gt;
+&lt;h2&gt;The Approach&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-approach&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;CSEPS training covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt; - Identifying social engineering attempts across phone, email, and in-person vectors&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Psychological principles&lt;/strong&gt; - Understanding why social engineering works (authority, urgency, reciprocity, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organizational defenses&lt;/strong&gt; - Policies, procedures, and culture changes that reduce vulnerability&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incident response&lt;/strong&gt; - What to do when an attempt is detected&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Legacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;legacy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#legacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The concepts pioneered in CSEPS have since become standard in security awareness training industry-wide. The emphasis on &amp;ldquo;manufactured urgency&amp;rdquo; as a key manipulation technique—now central to Alex&amp;rsquo;s current work—originated in this early curriculum.&lt;/p&gt;
+&lt;h2&gt;Related&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;related&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#related&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wiley.com/en-us/The&amp;#43;Art&amp;#43;of&amp;#43;Deception-p-9780471237129&#34; class=&#34;citation-link&#34; title=&#34;Kevin Mitnick&amp;#39;s seminal book on social engineering, drawing on experiences and concepts developed in partnership with Alex Kasper.
+&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[The Art of Deception]&lt;/a&gt; - Kevin Mitnick&amp;rsquo;s book expanding on many CSEPS concepts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.imdb.com/title/tt0309614/&#34; class=&#34;citation-link&#34; title=&#34;Documentary about Kevin Mitnick featuring Alex Kasper discussing their early work together and the formation of defensive security concepts.
+&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;[Freedom Downtime]&lt;/a&gt; - Documentary featuring both Mitnick and Kasper&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Return Fire</title>
+      <link>http://localhost:1313/docs/projects/return-fire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/projects/return-fire/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Return Fire&lt;/strong&gt; was a vehicular combat strategy game produced by Alex Kasper at Silent Software for the 3DO Interactive Multiplayer in 1995 &lt;sup class=&#34;citation-ref&#34;&gt;&lt;a href=&#34;http://localhost:1313/docs/citations/#return-fire-review-nextgen&#34; title=&#34;Return Fire Review&#34;&gt;[↗]&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;h2&gt;Overview&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Return Fire combined action gameplay with strategic elements, allowing players to choose between different military vehicles (jeep, tank, helicopter, armored support vehicle) to capture the enemy&amp;rsquo;s flag while defending their own base.&lt;/p&gt;
+&lt;h2&gt;Reception&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;reception&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#reception&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The game was critically acclaimed and became one of the 3DO&amp;rsquo;s most celebrated titles &lt;sup class=&#34;citation-ref&#34;&gt;&lt;a href=&#34;http://localhost:1313/docs/citations/#return-fire-egd&#34; title=&#34;Return Fire: A New Kind of Strategy Game&#34;&gt;[↗]&lt;/a&gt;&lt;/sup&gt;. It was later ported to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PlayStation&lt;/li&gt;
+&lt;li&gt;Windows PC&lt;/li&gt;
+&lt;li&gt;Sega Saturn&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Notable Features&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;notable-features&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#notable-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Classical music soundtrack (including Ride of the Valkyries, which became iconic to the game)&lt;/li&gt;
+&lt;li&gt;Split-screen multiplayer&lt;/li&gt;
+&lt;li&gt;Destructible environments&lt;/li&gt;
+&lt;li&gt;Multiple vehicle types with distinct capabilities&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Legacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;legacy&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#legacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Return Fire demonstrated Alex&amp;rsquo;s early career in interactive entertainment before his pivot to cybersecurity work. The game remains a cult classic among 3DO enthusiasts and is frequently cited in discussions of the console&amp;rsquo;s best titles.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Naturesign</title>
+      <link>http://localhost:1313/docs/projects/naturesign/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/projects/naturesign/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Naturesign&lt;/strong&gt; is a B2B SaaS platform that automates the generation of regulatory documents for the flavor and fragrance industry.&lt;/p&gt;
+&lt;h2&gt;The Problem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-problem&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-problem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Companies in the flavor and fragrance industry must produce extensive regulatory documentation for every product—safety data sheets, compliance certificates, ingredient declarations, and more. This documentation is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Time-consuming to create manually&lt;/li&gt;
+&lt;li&gt;Error-prone when done by hand&lt;/li&gt;
+&lt;li&gt;Required by multiple regulatory bodies worldwide&lt;/li&gt;
+&lt;li&gt;Constantly needing updates as regulations change&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Solution&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-solution&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-solution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Naturesign automates this entire workflow:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Data Input&lt;/strong&gt; - Product formulations and ingredient data are entered once&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Document Generation&lt;/strong&gt; - The platform automatically produces all required regulatory documents&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compliance Updates&lt;/strong&gt; - As regulations change, documents can be regenerated automatically&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-format Output&lt;/strong&gt; - Documents are produced in formats required by different regulatory bodies&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Technology&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;technology&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#technology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Built on Salesforce with custom Lightning Web Components, Naturesign leverages Alex&amp;rsquo;s deep Salesforce expertise to deliver a robust, scalable solution.&lt;/p&gt;
+&lt;h2&gt;Current Status&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;current-status&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#current-status&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Naturesign currently serves clients in the F&amp;amp;F industry and is actively expanding. For more information, visit &lt;a href=&#34;https://naturesign.com&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;naturesign.com&lt;/a&gt; or contact &lt;a href=&#34;mailto:info@naturesign.com&#34;&gt;info@naturesign.com&lt;/a&gt;.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

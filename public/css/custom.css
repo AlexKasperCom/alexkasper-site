@@ -1,0 +1,64 @@
+/* Citation styling */
+.citation-link {
+  color: var(--primary-color, #3b82f6);
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.citation-link:hover {
+  text-decoration: underline;
+}
+
+.citation-ref a {
+  color: var(--primary-color, #3b82f6);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.citation-ref a:hover {
+  text-decoration: underline;
+}
+
+.citation-missing {
+  color: #ef4444;
+  font-style: italic;
+}
+
+/* Citation list on citations page */
+.citation-entry {
+  border-left: 3px solid var(--primary-color, #3b82f6);
+  padding-left: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.citation-entry .citation-title {
+  font-weight: 600;
+  font-size: 1.1em;
+}
+
+.citation-entry .citation-meta {
+  color: #6b7280;
+  font-size: 0.9em;
+  margin-top: 0.25rem;
+}
+
+.citation-entry .citation-description {
+  margin-top: 0.5rem;
+}
+
+.citation-entry .citation-tags {
+  margin-top: 0.5rem;
+}
+
+.citation-entry .citation-tags span {
+  display: inline-block;
+  background: #f3f4f6;
+  padding: 0.125rem 0.5rem;
+  border-radius: 9999px;
+  font-size: 0.75em;
+  margin-right: 0.25rem;
+}
+
+.dark .citation-entry .citation-tags span {
+  background: #374151;
+}

@@ -1,0 +1,7 @@
+{{- $id := .Get 0 -}}
+{{- $citation := index (where site.Data.citations "id" $id) 0 -}}
+{{- if $citation -}}
+  <sup class="citation-ref"><a href="/docs/citations/#{{ $id }}" title="{{ $citation.title }}">[↗]</a></sup>
+{{- else -}}
+  <sup class="citation-ref citation-missing">[?]</sup>
+{{- end -}}
