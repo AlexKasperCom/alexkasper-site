@@ -34,6 +34,6 @@ Alex is also writing **Manufactured Urgency**, a book about recognizing and defe
 
 ## Contact
 
-For business inquiries: [alex.kasper@gmail.com](mailto:alex.kasper@gmail.com)
+For business inquiries: alex.kasper (at) gmail.com
 
 For verified information and citations, see the [Citations](/docs/citations) page.
