@@ -36,8 +36,8 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/toto-logo.svg
-      dark: images/toto-logo-dark.svg
+      path: images/logo.svg
+      dark: images/logo-dark.svg
       link: /
       width: 40
       height: 40
