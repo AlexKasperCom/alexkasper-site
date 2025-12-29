@@ -1,0 +1,410 @@
+# Return Fire Citations
+# Converted from Zotero BibTeX export
+# PDF paths match Zotero storage structure
+
+# --- 1994 ---
+
+- id: egm2-next-wave-1994-08
+  type: article
+  title: "The Next Wave: Return Fire"
+  publication: "EGM2"
+  date: 1994-08-01
+  pages: "78"
+  language: en
+  pdf: files/141/1994-08__en__EGM2_Next-Wave_Return-Fire.pdf
+  tags:
+    - return-fire
+    - preview
+    - egm2
+
+- id: egm2-review-1994-08
+  type: article
+  title: "Review: Return Fire"
+  publication: "EGM2"
+  date: 1994-08-01
+  pages: "8"
+  language: en
+  pdf: files/142/1994-08__en__EGM2_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - egm2
+
+- id: edge-ces-news-1994-09
+  type: article
+  title: "CES News: Return Fire"
+  publication: "Edge"
+  date: 1994-09-01
+  pages: "12-14"
+  language: en
+  pdf: files/139/1994-09__en__Edge_CES-News_Return-Fire.pdf
+  tags:
+    - return-fire
+    - preview
+    - edge
+    - ces
+
+- id: edge-pre-screen-1994-12
+  type: article
+  title: "Pre Screen: Return Fire"
+  publication: "Edge"
+  date: 1994-12-01
+  pages: "42-43"
+  language: en
+  pdf: files/140/1994-12__en__Edge_Pre-Screen_Return-Fire.pdf
+  tags:
+    - return-fire
+    - preview
+    - edge
+
+- id: egm-fact-file-1994-12
+  type: article
+  title: "Return Fire: Fact File"
+  publication: "Electronic Gaming Monthly"
+  date: 1994-12-01
+  pages: "327-332"
+  language: en
+  pdf: files/143/1994-12__en__Electronic-Gaming-Monthly_Fact-File_Return-Fire.pdf
+  tags:
+    - return-fire
+    - preview
+    - egm
+
+# --- 1995 ---
+
+- id: egm-game-of-month-1995-02
+  type: article
+  title: "Game of the Month: Return Fire (Editor's Choice 'Gold Award')"
+  publication: "Electronic Gaming Monthly"
+  date: 1995-02-01
+  pages: "30"
+  language: en
+  pdf: files/134/1995-02__en__Electronic-Gaming-Monthly_Game-of-the-Month_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - award
+    - egm
+
+- id: 3do-magazine-review-1995-02
+  type: article
+  title: "Review: Return Fire"
+  publication: "3DO Magazine"
+  date: 1995-02-01
+  pages: "31-53"
+  language: en
+  pdf: files/137/1995-02__en__3DO_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - 3do-magazine
+
+- id: 3do-interview-1995-02
+  type: article
+  title: "Making Porsches in a VW World (interview)"
+  publication: "3DO"
+  date: 1995-02-01
+  pages: "12-13"
+  language: en
+  pdf: files/138/1995-02__en__3DO_Interview_Making-Porsches-in-a-VW-World.pdf
+  tags:
+    - return-fire
+    - interview
+    - 3do-magazine
+
+- id: 3do-japan-review-1995-02
+  type: article
+  title: "Review: Return Fire"
+  publication: "3DO Magazine (Japan)"
+  date: 1995-02-01
+  pages: "113"
+  language: jp
+  pdf: files/144/1995-02__jp__3DO-Japan_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - japan
+
+- id: player-one-review-1995-02
+  type: article
+  title: "Review: Return Fire"
+  publication: "Player One"
+  date: 1995-02-01
+  pages: "80-81"
+  language: fr
+  authors:
+    - Ludwig von Wolf
+  pdf: files/133/1995-02__fr__Player-One_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - france
+
+- id: video-business-tip-sheet-1995-02
+  type: article
+  title: "Tip Sheet: Return Fire"
+  publication: "Video Business"
+  date: 1995-02-12
+  pages: "3"
+  language: en
+  authors:
+    - Chris Gore
+  pdf: files/136/1995-02-12__en__Video-Business_Tip-Sheet_Return-Fire.pdf
+  tags:
+    - return-fire
+    - industry
+
+- id: game-informer-review-1995-03
+  type: article
+  title: "Review: Return Fire"
+  publication: "Game Informer"
+  date: 1995-03-01
+  pages: "29"
+  language: en
+  pdf: files/129/1995-03__en__Game-Informer_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - game-informer
+
+- id: 3-for-3do-feature-1995-03
+  type: article
+  title: "Return Fire: A Dynamic Game of Destruction"
+  publication: "3 For 3DO Enthusiasts"
+  date: 1995-03-01
+  pages: "28-31"
+  language: en
+  authors:
+    - Kraig Kuyawa
+  pdf: files/135/1995-03__en__3-for-3DO-Enthusiasts_Feature_Return-Fire.pdf
+  tags:
+    - return-fire
+    - feature
+    - 3do
+
+- id: edge-test-screen-1995-04
+  type: article
+  title: "Test Screen: Return Fire"
+  publication: "Edge"
+  date: 1995-04-01
+  pages: "72-73"
+  language: en
+  pdf: files/127/1995-04__en__Edge_Test-Screen_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - edge
+
+- id: edge-game-watch-1995-04
+  type: article
+  title: "Game Watch: Return Fire — It's Brilliant"
+  publication: "Edge"
+  date: 1995-04-01
+  pages: "40-41"
+  language: en
+  authors:
+    - Simon Kirrane
+  pdf: files/130/1995-04__en__Edge_Game-Watch_Feature_Return-Fire-Its-Brilliant.pdf
+  tags:
+    - return-fire
+    - feature
+    - edge
+
+- id: gamepro-review-1995-04
+  type: article
+  title: "Pro Review: Return Fire"
+  publication: "Game Pro"
+  date: 1995-04-01
+  pages: "88"
+  language: en
+  pdf: files/131/1995-04__en__Game-Pro_Pro-Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - gamepro
+
+- id: la-times-review-1995-04
+  type: article
+  title: "Video Games Review: Return Fire"
+  publication: "Los Angeles Times"
+  date: 1995-04-06
+  pages: "J-14"
+  language: en
+  authors:
+    - Aaron Curtiss
+  pdf: files/128/1995-04-06__en__Los-Angeles-Times_Video-Games-Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - mainstream-press
+
+- id: video-games-germany-review-1995-04
+  type: article
+  title: "Review: Return Fire — A Video Classic"
+  publication: "Video Games (Germany)"
+  date: 1995-04-01
+  pages: "82"
+  language: de
+  pdf: files/124/1995-04__de__Video-Games-Germany_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - germany
+
+- id: video-games-award-1995-04
+  type: article
+  title: "Return Fire: 4 Mega Hit 10 Award"
+  publication: "Video Games"
+  date: 1995-04-01
+  pages: "82-83"
+  language: en
+  authors:
+    - Chris Gore
+  pdf: files/122/1995-04__en__Video-Games_Award_Return-Fire-4-Mega-Hit-10.pdf
+  tags:
+    - return-fire
+    - award
+
+- id: video-games-strategy-1995-04
+  type: article
+  title: "Return Fire: Exclusive Strategy Guide"
+  publication: "Video Games"
+  date: 1995-04-01
+  pages: "40-43"
+  language: en
+  pdf: files/121/1995-04__en__Video-Games_Strategy-Guide_Return-Fire.pdf
+  tags:
+    - return-fire
+    - strategy-guide
+
+- id: ultimate-future-games-1995-04
+  type: article
+  title: "The Hottest Action: Return Fire"
+  publication: "Ultimate Future Games"
+  date: 1995-04-01
+  pages: "72-73"
+  language: en
+  pdf: files/119/1995-04__en__Ultimate-Future-Games_Feature_The-Hottest-Action_Return-Fire.pdf
+  tags:
+    - return-fire
+    - feature
+
+- id: south-wales-argus-review-1995-04
+  type: article
+  title: "Review: Return Fire — Superb"
+  publication: "South Wales Argus"
+  date: 1995-04-22
+  pages: "21"
+  language: en
+  pdf: files/125/1995-04-22__en__South-Wales-Argus_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - mainstream-press
+    - uk
+
+- id: games-world-feature-1995-04
+  type: article
+  title: "Return Fire: On a Mission"
+  publication: "Games World"
+  date: 1995-04-01
+  pages: "88-89"
+  language: en
+  pdf: files/126/1995-04__en__Games-World_Feature_On-a-Mission_Return-Fire.pdf
+  tags:
+    - return-fire
+    - feature
+    - uk
+
+- id: games-world-review-1995-04
+  type: article
+  title: "Review: Return Fire"
+  publication: "Games World"
+  date: 1995-04-01
+  pages: "33"
+  language: en
+  pdf: files/132/1995-04__en__Games-World_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - uk
+
+- id: game-players-feature-1995-05
+  type: article
+  title: "Destroy, Destroy, Destroy"
+  publication: "Game Players"
+  date: 1995-05-01
+  pages: "92-94"
+  language: en
+  authors:
+    - Jeff Lundigran
+  pdf: files/118/1995-05__en__Game-Players_Feature_Destroy-Destroy-Destroy.pdf
+  tags:
+    - return-fire
+    - feature
+
+- id: swat-pro-feature-1995-05
+  type: article
+  title: "Return Fire: Under Fire"
+  publication: "SWAT Pro"
+  date: 1995-05-01
+  pages: "58-61"
+  language: en
+  authors:
+    - Bro' Buzz
+  pdf: files/123/1995-05__en__SWAT-Pro_Feature_Return-Fire-Under-Fire.pdf
+  tags:
+    - return-fire
+    - feature
+
+- id: video-games-tips-tricks-1995-05
+  type: article
+  title: "Return Fire Exclusive Strategy Guide"
+  publication: "Video Games Tips & Tricks"
+  date: 1995-05-01
+  pages: "50-53"
+  language: en
+  pdf: files/120/1995-05__en__Video-Games-Tips-and-Tricks_Strategy-Guide_Return-Fire.pdf
+  tags:
+    - return-fire
+    - strategy-guide
+
+- id: electronic-games-feature-1995-07
+  type: article
+  title: "Happy Returns: Return Fire Simulates War"
+  publication: "Electronic Games"
+  date: 1995-07-01
+  pages: "50,57"
+  language: en
+  pdf: files/115/1995-07__en__Electronic-Games_Feature_Happy-Returns_Return-Fire.pdf
+  tags:
+    - return-fire
+    - feature
+
+- id: flux-feature-1995-07
+  type: article
+  title: "Return Fire: A Sonic Joy"
+  publication: "Flux"
+  date: 1995-07-01
+  pages: "88"
+  language: en
+  authors:
+    - Jeff Kitts
+  pdf: files/116/1995-07__en__Flux_Feature_Return-Fire.pdf
+  tags:
+    - return-fire
+    - feature
+    - soundtrack
+
+- id: 3do-japan-review-1995-07
+  type: article
+  title: "Review: Return Fire"
+  publication: "3DO Magazine (Japan)"
+  date: 1995-07-01
+  pages: "40-49"
+  language: jp
+  pdf: files/117/1995-07__jp__3DO-Magazine-Japan_Review_Return-Fire.pdf
+  tags:
+    - return-fire
+    - review
+    - japan

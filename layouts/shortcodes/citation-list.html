@@ -7,30 +7,45 @@
   {{ if $items }}
     <h2>{{ $type | humanize }}s</h2>
     {{ range $items }}
-      <div class="citation-entry" id="{{ .id }}">
-        <div class="citation-title">
-          {{ if .url }}
-            <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
-          {{ else }}
-            {{ .title }}
-          {{ end }}
-        </div>
-        <div class="citation-meta">
-          {{ if .publication }}{{ .publication }} · {{ end }}
-          {{ if .publisher }}{{ .publisher }} · {{ end }}
-          {{ if .authors }}{{ delimit .authors ", " }} · {{ end }}
-          {{ if .date }}{{ dateFormat "January 2006" .date }}{{ end }}
-        </div>
-        {{ if .description }}
-          <div class="citation-description">{{ .description }}</div>
-        {{ end }}
-        {{ if .tags }}
-          <div class="citation-tags">
-            {{ range .tags }}
-              <span>{{ . }}</span>
-            {{ end }}
+      <div class="citation-entry" id="{{ .id }}" style="display: flex; gap: 1rem; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee;">
+        {{ if .pdf }}
+          {{ $pdfPath := .pdf }}
+          {{ $coverPath := replaceRE "/[^/]+$" "/cover.jpg" $pdfPath }}
+          <div class="citation-cover" style="flex-shrink: 0;">
+            <a href="/{{ .pdf }}" target="_blank">
+              <img src="/{{ $coverPath }}" alt="{{ .title }}" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+            </a>
           </div>
         {{ end }}
+        <div class="citation-details">
+          <div class="citation-title" style="font-weight: 600; margin-bottom: 0.25rem;">
+            {{ if .url }}
+              <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+            {{ else }}
+              {{ .title }}
+            {{ end }}
+          </div>
+          <div class="citation-meta" style="color: #666; font-size: 0.9rem;">
+            {{ if .publication }}<em>{{ .publication }}</em>{{ end }}
+            {{ if .pages }} · pp. {{ .pages }}{{ end }}
+            {{ if .authors }} · {{ delimit .authors ", " }}{{ end }}
+            {{ if .date }} · {{ dateFormat "January 2006" .date }}{{ end }}
+            {{ if .language }}
+              {{ if ne .language "en" }} · ({{ .language }}){{ end }}
+            {{ end }}
+          </div>
+          {{ if .abstract }}
+            <div class="citation-abstract" style="margin-top: 0.5rem; font-size: 0.9rem;">{{ .abstract }}</div>
+          {{ end }}
+          {{ if .description }}
+            <div class="citation-description" style="margin-top: 0.5rem; font-size: 0.9rem;">{{ .description }}</div>
+          {{ end }}
+          {{ if .pdf }}
+            <div class="citation-pdf" style="margin-top: 0.5rem;">
+              <a href="/{{ .pdf }}" target="_blank" style="color: #0066cc; font-size: 0.85rem;">📄 View PDF</a>
+            </div>
+          {{ end }}
+        </div>
       </div>
     {{ end }}
   {{ end }}
@@ -41,21 +56,41 @@
 {{ if $otherItems }}
   <h2>Other</h2>
   {{ range $otherItems }}
-    <div class="citation-entry" id="{{ .id }}">
-      <div class="citation-title">
-        {{ if .url }}
-          <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
-        {{ else }}
-          {{ .title }}
+    <div class="citation-entry" id="{{ .id }}" style="display: flex; gap: 1rem; margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #eee;">
+      {{ if .pdf }}
+        {{ $pdfPath := .pdf }}
+        {{ $coverPath := replaceRE "/[^/]+$" "/cover.jpg" $pdfPath }}
+        <div class="citation-cover" style="flex-shrink: 0;">
+          <a href="/{{ .pdf }}" target="_blank">
+            <img src="/{{ $coverPath }}" alt="{{ .title }}" style="width: 100px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+          </a>
+        </div>
+      {{ end }}
+      <div class="citation-details">
+        <div class="citation-title" style="font-weight: 600; margin-bottom: 0.25rem;">
+          {{ if .url }}
+            <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+          {{ else }}
+            {{ .title }}
+          {{ end }}
+        </div>
+        <div class="citation-meta" style="color: #666; font-size: 0.9rem;">
+          {{ if .publication }}<em>{{ .publication }}</em>{{ end }}
+          {{ if .pages }} · pp. {{ .pages }}{{ end }}
+          {{ if .date }} · {{ dateFormat "January 2006" .date }}{{ end }}
+        </div>
+        {{ if .abstract }}
+          <div class="citation-abstract" style="margin-top: 0.5rem; font-size: 0.9rem;">{{ .abstract }}</div>
+        {{ end }}
+        {{ if .description }}
+          <div class="citation-description" style="margin-top: 0.5rem; font-size: 0.9rem;">{{ .description }}</div>
+        {{ end }}
+        {{ if .pdf }}
+          <div class="citation-pdf" style="margin-top: 0.5rem;">
+            <a href="/{{ .pdf }}" target="_blank" style="color: #0066cc; font-size: 0.85rem;">📄 View PDF</a>
+          </div>
         {{ end }}
       </div>
-      <div class="citation-meta">
-        {{ if .publication }}{{ .publication }} · {{ end }}
-        {{ if .date }}{{ dateFormat "January 2006" .date }}{{ end }}
-      </div>
-      {{ if .description }}
-        <div class="citation-description">{{ .description }}</div>
-      {{ end }}
     </div>
   {{ end }}
 {{ end }}

@@ -1,0 +1,109 @@
+# =============================================================================
+# CITATIONS DATABASE - Source of Truth
+# =============================================================================
+# This file contains all citations (press, books, films, articles) that can be
+# referenced throughout the site using the {{</* cite "id" */>}} shortcode.
+#
+# Each citation needs a unique 'id' that you'll use to reference it.
+# =============================================================================
+
+# -----------------------------------------------------------------------------
+# ARTICLES & PRESS
+# -----------------------------------------------------------------------------
+
+- id: freedom-downtime-2001
+  type: film
+  title: "Freedom Downtime"
+  date: 2001-01-01
+  director: Emmanuel Goldstein
+  publisher: 2600 Films
+  url: https://www.imdb.com/title/tt0309614/
+  description: >
+    Documentary about Kevin Mitnick featuring Alex Kasper discussing their
+    early work together and the formation of defensive security concepts.
+  tags:
+    - kevin-mitnick
+    - documentary
+    - hacking-history
+
+- id: cseps-launch-2003
+  type: article
+  title: "First Anti-Social Engineering Certification Launched"
+  publication: Security Focus
+  date: 2003-06-15
+  # url: https://example.com/article  # Add when you find the URL
+  authors:
+    - Staff Writer
+  description: >
+    Coverage of the launch of CSEPS (Certified Social Engineering Prevention
+    Specialist), the world's first certification focused on defending against
+    social engineering attacks.
+  tags:
+    - cseps
+    - kevin-mitnick
+    - social-engineering
+
+- id: return-fire-review-nextgen
+  type: article
+  title: "Return Fire Review"
+  publication: Next Generation Magazine
+  date: 1995-09-01
+  description: >
+    Review of Return Fire for the 3DO Interactive Multiplayer, produced by
+    Alex Kasper at Silent Software.
+  tags:
+    - return-fire
+    - video-games
+    - 3do
+
+- id: return-fire-egd
+  type: article
+  title: "Return Fire: A New Kind of Strategy Game"
+  publication: Electronic Gaming Daily
+  date: 1995-08-15
+  description: >
+    Feature article on the innovative gameplay mechanics of Return Fire.
+  tags:
+    - return-fire
+    - video-games
+
+# -----------------------------------------------------------------------------
+# BOOKS
+# -----------------------------------------------------------------------------
+
+- id: art-of-deception
+  type: book
+  title: "The Art of Deception"
+  authors:
+    - Kevin Mitnick
+    - William L. Simon
+  date: 2002-10-01
+  publisher: Wiley
+  isbn: "978-0471237129"
+  url: https://www.wiley.com/en-us/The+Art+of+Deception-p-9780471237129
+  description: >
+    Kevin Mitnick's seminal book on social engineering, drawing on experiences
+    and concepts developed in partnership with Alex Kasper.
+  tags:
+    - kevin-mitnick
+    - social-engineering
+    - books
+
+# -----------------------------------------------------------------------------
+# TEMPLATE FOR NEW CITATIONS
+# -----------------------------------------------------------------------------
+# Copy and modify this template to add new citations:
+#
+# - id: unique-identifier-here
+#   type: article | book | film | interview | podcast
+#   title: "Full Title Here"
+#   publication: Publication Name  # for articles
+#   publisher: Publisher Name      # for books
+#   date: YYYY-MM-DD
+#   url: https://link-to-source.com
+#   authors:
+#     - Author Name
+#   description: >
+#     Brief description of the citation and its relevance.
+#   tags:
+#     - relevant-tag
