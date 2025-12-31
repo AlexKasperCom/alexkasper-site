@@ -1,6 +1,7 @@
 ---
 title: Return Fire
-weight: 2
+dte: 1995
+weight: 30
 ---
 
 **Return Fire** was a vehicular combat strategy game produced by Alex Kasper at Silent Software for the 3DO Interactive Multiplayer in 1995 {{< ref "return-fire-review-nextgen" >}}.

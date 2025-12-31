@@ -14,4 +14,3 @@ Cybersecurity educator, social engineering expert, and co-creator of the world's
 
 - [About](/docs/about) - Background and experience
 - [Projects](/docs/projects) - From Return Fire to CSEPS to Naturesign
-- [Citations](/docs/citations) - Verified references and documentation

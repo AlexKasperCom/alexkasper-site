@@ -1,155 +1,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alex Kasper – Documentation</title>
-    <link>http://localhost:1313/docs/</link>
-    <description>Recent content in Documentation on Alex Kasper</description>
+    <title>Alex Kasper – Return Fire</title>
+    <link>http://localhost:1313/docs/projects/return-fire/</link>
+    <description>Recent content in Return Fire on Alex Kasper</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/projects/return-fire/index.xml" rel="self" type="application/rss+xml" />
     
     
       
         
       
     
-    
-    <item>
-      <title>About Alex Kasper</title>
-      <link>http://localhost:1313/docs/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/about/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Alex Kasper is a cybersecurity consultant, entrepreneur, and educator known as &amp;ldquo;the world&amp;rsquo;s least famous hacker.&amp;rdquo; A longtime partner and collaborator of Kevin Mitnick, Alex co-created the Certified Social Engineering Prevention Specialist (CSEPS) certification in the early 2000s—the world&amp;rsquo;s first credential focused specifically on defending against social engineering attacks &lt;sup class=&#34;citation-ref citation-missing&#34;&gt;[?]&lt;/sup&gt;.&lt;/p&gt;
-&lt;h2&gt;Background&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;background&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#background&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Alex&amp;rsquo;s career spans an unusually diverse range of industries:&lt;/p&gt;
-&lt;h3&gt;Cybersecurity &amp;amp; Social Engineering&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cybersecurity--social-engineering&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cybersecurity--social-engineering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Working alongside Kevin Mitnick beginning in the early days of the hacking scene, Alex developed deep expertise in social engineering—both offensive techniques and, more importantly, how to defend against them. This work culminated in the creation of CSEPS and ongoing training programs that help organizations recognize and resist manipulation.&lt;/p&gt;
-&lt;p&gt;Alex was featured in the documentary &lt;span class=&#34;citation-missing&#34;&gt;[Citation not found: freedom-downtime-2001]&lt;/span&gt;, which chronicled Mitnick&amp;rsquo;s story and the broader hacking culture of the era.&lt;/p&gt;
-&lt;h3&gt;Video Games&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;video-games&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#video-games&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In the mid-1990s, Alex produced &lt;strong&gt;Return Fire&lt;/strong&gt; for the 3DO Interactive Multiplayer at Silent Software &lt;sup class=&#34;citation-ref citation-missing&#34;&gt;[?]&lt;/sup&gt;. The game became one of the system&amp;rsquo;s most acclaimed titles and was later ported to multiple platforms.&lt;/p&gt;
-&lt;h3&gt;Film &amp;amp; Creative Industries&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;film--creative-industries&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#film--creative-industries&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Alex&amp;rsquo;s creative background includes film production work, including producing Martin Starr&amp;rsquo;s first film, and various music publishing projects involving Berlin Philharmonic musicians.&lt;/p&gt;
-&lt;h2&gt;Current Work&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;current-work&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#current-work&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Today Alex runs multiple businesses:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Naturesign&lt;/strong&gt; - A B2B SaaS platform generating regulatory documents for the flavor and fragrance industry&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Kasper Defense&lt;/strong&gt; - Cybersecurity training focused on social engineering prevention, built around the PSPSP framework&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Alex is also writing &lt;strong&gt;Manufactured Urgency&lt;/strong&gt;, a book about recognizing and defending against social engineering attacks in the modern era.&lt;/p&gt;
-&lt;h2&gt;Contact&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contact&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contact&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;For business inquiries: alex.kasper (at) gmail.com&lt;/p&gt;
-&lt;p&gt;For verified information and citations, see the &lt;a href=&#34;http://localhost:1313/docs/citations&#34;&gt;Citations&lt;/a&gt; page.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>CSEPS</title>
-      <link>http://localhost:1313/docs/projects/cseps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/projects/cseps/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The &lt;strong&gt;Certified Social Engineering Prevention Specialist (CSEPS)&lt;/strong&gt; was the world&amp;rsquo;s first professional certification focused specifically on defending against social engineering attacks &lt;sup class=&#34;citation-ref citation-missing&#34;&gt;[?]&lt;/sup&gt;.&lt;/p&gt;
-&lt;h2&gt;Background&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;background&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#background&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Co-created by Alex Kasper and Kevin Mitnick in the early 2000s, CSEPS emerged from their combined decades of experience—Mitnick&amp;rsquo;s infamous exploits demonstrating social engineering&amp;rsquo;s power, and their joint work developing defensive countermeasures.&lt;/p&gt;
-&lt;h2&gt;The Problem CSEPS Addressed&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-problem-cseps-addressed&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-problem-cseps-addressed&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;At the time, cybersecurity certifications focused almost exclusively on technical controls: firewalls, encryption, network security. But as Mitnick had demonstrated repeatedly, the weakest link in any security system is the human element.&lt;/p&gt;
-&lt;p&gt;Social engineering—manipulating people into revealing information or taking actions that compromise security—was (and remains) the most effective attack vector. Yet no formal training or certification existed to help organizations defend against it.&lt;/p&gt;
-&lt;h2&gt;The Approach&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-approach&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;CSEPS training covered:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Recognition&lt;/strong&gt; - Identifying social engineering attempts across phone, email, and in-person vectors&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Psychological principles&lt;/strong&gt; - Understanding why social engineering works (authority, urgency, reciprocity, etc.)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Organizational defenses&lt;/strong&gt; - Policies, procedures, and culture changes that reduce vulnerability&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Incident response&lt;/strong&gt; - What to do when an attempt is detected&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Legacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;legacy&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#legacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The concepts pioneered in CSEPS have since become standard in security awareness training industry-wide. The emphasis on &amp;ldquo;manufactured urgency&amp;rdquo; as a key manipulation technique—now central to Alex&amp;rsquo;s current work—originated in this early curriculum.&lt;/p&gt;
-&lt;h2&gt;Related&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;related&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#related&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;citation-missing&#34;&gt;[Citation not found: art-of-deception]&lt;/span&gt; - Kevin Mitnick&amp;rsquo;s book expanding on many CSEPS concepts&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;citation-missing&#34;&gt;[Citation not found: freedom-downtime-2001]&lt;/span&gt; - Documentary featuring both Mitnick and Kasper&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Naturesign</title>
-      <link>http://localhost:1313/docs/projects/naturesign/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/projects/naturesign/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Naturesign&lt;/strong&gt; is a B2B SaaS platform that automates the generation of regulatory documents for the flavor and fragrance industry.&lt;/p&gt;
-&lt;h2&gt;The Problem&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-problem&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-problem&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Companies in the flavor and fragrance industry must produce extensive regulatory documentation for every product—safety data sheets, compliance certificates, ingredient declarations, and more. This documentation is:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Time-consuming to create manually&lt;/li&gt;
-&lt;li&gt;Error-prone when done by hand&lt;/li&gt;
-&lt;li&gt;Required by multiple regulatory bodies worldwide&lt;/li&gt;
-&lt;li&gt;Constantly needing updates as regulations change&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;The Solution&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-solution&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-solution&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Naturesign automates this entire workflow:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Data Input&lt;/strong&gt; - Product formulations and ingredient data are entered once&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Document Generation&lt;/strong&gt; - The platform automatically produces all required regulatory documents&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Compliance Updates&lt;/strong&gt; - As regulations change, documents can be regenerated automatically&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Multi-format Output&lt;/strong&gt; - Documents are produced in formats required by different regulatory bodies&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Technology&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;technology&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#technology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Built on Salesforce with custom Lightning Web Components, Naturesign leverages Alex&amp;rsquo;s deep Salesforce expertise to deliver a robust, scalable solution.&lt;/p&gt;
-&lt;h2&gt;Current Status&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;current-status&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#current-status&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Naturesign currently serves clients in the F&amp;amp;F industry and is actively expanding. For more information, visit &lt;a href=&#34;https://naturesign.com&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;naturesign.com&lt;/a&gt; or contact &lt;a href=&#34;mailto:info@naturesign.com&#34;&gt;info@naturesign.com&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Press &amp; Media</title>
-      <link>http://localhost:1313/docs/press/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/press/</guid>
-      <description>
-        
-        
-        &lt;p&gt;For press inquiries, contact &lt;a href=&#34;mailto:alex@alexkasper.com&#34;&gt;alex@alexkasper.com&lt;/a&gt;.&lt;/p&gt;
-&lt;h2&gt;Media Kit&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;media-kit&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#media-kit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Coming soon: downloadable press photos, bio, and logo assets.&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;Coverage&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;coverage&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#coverage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;For a complete list of verified press references and citations, see the &lt;a href=&#34;http://localhost:1313/docs/citations&#34;&gt;Citations&lt;/a&gt; page.&lt;/p&gt;
-&lt;h3&gt;Featured In&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;featured-in&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#featured-in&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;citation-missing&#34;&gt;[Citation not found: freedom-downtime-2001]&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Selected Press&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;selected-press&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#selected-press&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;span class=&#34;citation-missing&#34;&gt;[Citation not found: cseps-launch-2003]&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span class=&#34;citation-missing&#34;&gt;[Citation not found: return-fire-review-nextgen]&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Speaking &amp;amp; Appearances&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;speaking--appearances&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#speaking--appearances&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Alex is available for speaking engagements on topics including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Social engineering defense&lt;/li&gt;
-&lt;li&gt;The psychology of manipulation (&amp;ldquo;Manufactured Urgency&amp;rdquo;)&lt;/li&gt;
-&lt;li&gt;Cybersecurity awareness training&lt;/li&gt;
-&lt;li&gt;The history of hacking and social engineering&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;For booking inquiries, contact &lt;a href=&#34;mailto:alex@alexkasper.com&#34;&gt;alex@alexkasper.com&lt;/a&gt;.&lt;/p&gt;
-
-      </description>
-    </item>
     
     <item>
       <title>References</title>

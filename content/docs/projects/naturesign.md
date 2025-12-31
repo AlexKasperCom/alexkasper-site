@@ -1,6 +1,7 @@
 ---
 title: Naturesign
-weight: 3
+date: 2023
+weight: 10
 ---
 
 **Naturesign** is a B2B SaaS platform that automates the generation of regulatory documents for the flavor and fragrance industry.

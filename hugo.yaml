@@ -20,14 +20,10 @@ menu:
     - name: Press
       pageRef: /docs/press
       weight: 3
-    - name: Citations
-      pageRef: /docs/citations
-      weight: 4
     - name: Search
-      weight: 5
+      weight: 4
       params:
         type: search
-    # Social icons removed from header - they go in footer instead
 
 params:
   description: "Alex Kasper - World's Least Famous Hacker. Cybersecurity educator, social engineering expert, co-creator of CSEPS."

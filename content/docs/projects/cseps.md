@@ -1,6 +1,7 @@
 ---
 title: CSEPS
-weight: 1
+date: 2003
+weight: 20
 ---
 
 The **Certified Social Engineering Prevention Specialist (CSEPS)** was the world's first professional certification focused specifically on defending against social engineering attacks {{< ref "cseps-launch-2003" >}}.

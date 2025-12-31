@@ -1,5 +1,5 @@
 ---
-title: Citations & References
+title: References
 weight: 10
 ---
 
