@@ -40,11 +40,15 @@
           {{ if .description }}
             <div class="citation-description" style="margin-top: 0.5rem; font-size: 0.9rem;">{{ .description }}</div>
           {{ end }}
-          {{ if .pdf }}
-            <div class="citation-pdf" style="margin-top: 0.5rem;">
-              <a href="/{{ .pdf }}" target="_blank" style="color: #0066cc; font-size: 0.85rem;">📄 View PDF</a>
-            </div>
-          {{ end }}
+          <div class="citation-links" style="margin-top: 0.5rem; font-size: 0.85rem;">
+            {{ if .pdf }}
+              <a href="/{{ .pdf }}" target="_blank" style="color: #0066cc;">📄 View PDF</a>
+            {{ end }}
+            {{ if .archive_url }}
+              {{ if .pdf }} · {{ end }}
+              <a href="{{ .archive_url }}" target="_blank" rel="noopener" style="color: #666;">🏛️ Internet Archive</a>
+            {{ end }}
+          </div>
         </div>
       </div>
     {{ end }}
@@ -85,11 +89,15 @@
         {{ if .description }}
           <div class="citation-description" style="margin-top: 0.5rem; font-size: 0.9rem;">{{ .description }}</div>
         {{ end }}
-        {{ if .pdf }}
-          <div class="citation-pdf" style="margin-top: 0.5rem;">
-            <a href="/{{ .pdf }}" target="_blank" style="color: #0066cc; font-size: 0.85rem;">📄 View PDF</a>
-          </div>
-        {{ end }}
+        <div class="citation-links" style="margin-top: 0.5rem; font-size: 0.85rem;">
+          {{ if .pdf }}
+            <a href="/{{ .pdf }}" target="_blank" style="color: #0066cc;">📄 View PDF</a>
+          {{ end }}
+          {{ if .archive_url }}
+            {{ if .pdf }} · {{ end }}
+            <a href="{{ .archive_url }}" target="_blank" rel="noopener" style="color: #666;">🏛️ Internet Archive</a>
+          {{ end }}
+        </div>
       </div>
     </div>
   {{ end }}
