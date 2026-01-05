@@ -6,6 +6,7 @@
   pages: '78'
   language: en
   pdf: files/141/1994-08__en__EGM2_Next-Wave_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - preview
@@ -19,6 +20,7 @@
   pages: '8'
   language: en
   pdf: files/142/1994-08__en__EGM2_Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -32,6 +34,7 @@
   pages: 12-14
   language: en
   pdf: files/139/1994-09__en__Edge_CES-News_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - preview
@@ -46,6 +49,7 @@
   pages: 42-43
   language: en
   pdf: files/140/1994-12__en__Edge_Pre-Screen_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - preview
@@ -60,6 +64,7 @@
   language: en
   pdf: files/143/1994-12__en__Electronic-Gaming-Monthly_Fact-File_Return-Fire.pdf
   archive_url: https://archive.org/details/Electronic_Gaming_Monthly_65/page/n359/mode/2up
+  archive_url:
   tags:
   - return-fire
   - preview
@@ -73,6 +78,7 @@
   pages: '30'
   language: en
   pdf: files/134/1995-02__en__Electronic-Gaming-Monthly_Game-of-the-Month_Return-Fire.pdf
+  archive_url: https://archive.org/details/electronic-gaming-monthly-issue-67-february-1995/page/n29/mode/2up
   tags:
   - return-fire
   - review
@@ -87,7 +93,7 @@
   pages: 51-53
   language: en
   pdf: files/137/1995-02__en__3DO_Review_Return-Fire.pdf
-  archive_url: https://archive.org/details/electronic-gaming-monthly-issue-67-february-1995/page/n29/mode/2up
+  archive_url: 
   tags:
   - return-fire
   - review
@@ -101,6 +107,7 @@
   pages: 12-13
   language: en
   pdf: files/138/1995-02__en__3DO_Interview_Making-Porsches-in-a-VW-World.pdf
+  archive_url:
   tags:
   - return-fire
   - interview
@@ -114,6 +121,7 @@
   pages: '113'
   language: jp
   pdf: files/144/1995-02__jp__3DO-Japan_Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -129,6 +137,7 @@
   authors:
   - Ludwig von Wolf
   pdf: files/133/1995-02__fr__Player-One_Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -144,6 +153,7 @@
   authors:
   - Chris Gore
   pdf: files/136/1995-02-12__en__Video-Business_Tip-Sheet_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - industry
@@ -156,6 +166,7 @@
   pages: '29'
   language: en
   pdf: files/129/1995-03__en__Game-Informer_Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -171,6 +182,7 @@
   authors:
   - Kraig Kuyawa
   pdf: files/135/1995-03__en__3-for-3DO-Enthusiasts_Feature_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - feature
@@ -184,6 +196,7 @@
   pages: 72-73
   language: en
   pdf: files/127/1995-04__en__Edge_Test-Screen_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -199,6 +212,7 @@
   authors:
   - Simon Kirrane
   pdf: files/130/1995-04__en__Edge_Game-Watch_Feature_Return-Fire-Its-Brilliant.pdf
+  archive_url:
   tags:
   - return-fire
   - feature
@@ -228,6 +242,7 @@
   authors:
   - Aaron Curtiss
   pdf: files/128/1995-04-06__en__Los-Angeles-Times_Video-Games-Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -241,6 +256,7 @@
   pages: '82'
   language: de
   pdf: files/124/1995-04__de__Video-Games-Germany_Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
@@ -256,6 +272,7 @@
   authors:
   - Chris Gore
   pdf: files/122/1995-04__en__Video-Games_Award_Return-Fire-4-Mega-Hit-10.pdf
+  archive_url:
   tags:
   - return-fire
   - award
@@ -268,6 +285,7 @@
   pages: 40-43
   language: en
   pdf: files/121/1995-04__en__Video-Games_Strategy-Guide_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - strategy-guide
@@ -337,6 +355,7 @@
   authors:
   - Jeff Lundigran
   pdf: files/118/1995-05__en__Game-Players_Feature_Destroy-Destroy-Destroy.pdf
+  archive_url:
   tags:
   - return-fire
   - feature
@@ -363,6 +382,7 @@
   pages: 50-53
   language: en
   pdf: files/120/1995-05__en__Video-Games-Tips-and-Tricks_Strategy-Guide_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - strategy-guide
@@ -375,6 +395,7 @@
   pages: 50,57
   language: en
   pdf: files/115/1995-07__en__Electronic-Games_Feature_Happy-Returns_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - feature
@@ -389,6 +410,7 @@
   authors:
   - Jeff Kitts
   pdf: files/116/1995-07__en__Flux_Feature_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - feature
@@ -402,6 +424,7 @@
   pages: 40-49
   language: jp
   pdf: files/117/1995-07__jp__3DO-Magazine-Japan_Review_Return-Fire.pdf
+  archive_url:
   tags:
   - return-fire
   - review
