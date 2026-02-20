@@ -429,3 +429,21 @@
   - review
   - japan
   abstract: This 3DO Magazine (Japan) review presents Return Fire as a highly addictive, destruction-driven Capture the Flag action game that emphasizes tactical use of four distinct vehicles across large, cleverly designed maps. The article praises the game’s balance between simple objectives and deep strategy, highlighting its strong audiovisual direction, dynamic zoom, and especially its competitive two-player mode as central to the experience. Overall, Return Fire is portrayed as an outstanding original title whose focus on controlled chaos and replayability makes it one of the most compelling releases on the 3DO.
+- id: cseps-launch-2003
+  type: web
+  title: Certified Social Engineering Prevention Specialist (CSEPS)
+  date: 2003-01-01
+  url: https://www.wikidata.org/wiki/Q5065242
+  tags:
+  - cseps
+  - cybersecurity
+  abstract: CSEPS certification co-created by Alex Kasper and Kevin Mitnick, the world's first credential focused on defending against social engineering attacks.
+- id: freedom-downtime-2001
+  type: film
+  title: Freedom Downtime
+  date: 2001-01-01
+  url: https://www.imdb.com/title/tt0307988/
+  tags:
+  - documentary
+  - kevin-mitnick
+  abstract: Documentary film chronicling Kevin Mitnick's imprisonment and the hacking culture of the era, featuring Alex Kasper.

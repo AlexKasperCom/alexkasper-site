@@ -2,7 +2,6 @@
 title: About Alex Kasper
 weight: 1
 ---
-
 Alex Kasper (born Alexis C Kasperavičius) is a cybersecurity consultant, entrepreneur, and educator known as "the world's least famous hacker." A longtime partner and collaborator of Kevin Mitnick, Alex co-created the Certified Social Engineering Prevention Specialist (CSEPS) certification in the early 2000s—the world's first credential focused specifically on defending against social engineering attacks {{< ref "cseps-launch-2003" >}}.
 
 ## Background
@@ -28,7 +27,7 @@ Alex's creative background includes film production work, including producing Ma
 Today Alex runs multiple businesses:
 
 - **Naturesign** - A B2B SaaS platform generating regulatory documents for the flavor and fragrance industry
-- **Kasper Defense** - Cybersecurity training focused on social engineering prevention, built around the PSPSP framework
+- **Kasper Defense** - Cybersecurity training focused on social engineering prevention, built around the GRIFT framework (Gather, Rattle, Invite, Fleece, Twist)
 
 Alex is also writing **Manufactured Urgency**, a book about recognizing and defending against social engineering attacks in the modern era.
 
@@ -36,4 +35,4 @@ Alex is also writing **Manufactured Urgency**, a book about recognizing and defe
 
 For business inquiries: alex.kasper (at) gmail.com
 
-For verified information and citations, see the [Citations](/docs/citations) page.
+For verified information and citations, see the [References](/docs/projects/return-fire/references/) page.
