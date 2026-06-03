@@ -1,4 +1,5 @@
 ---
+draft: true
 title: Projects
 weight: 2
 ---
