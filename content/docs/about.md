@@ -1,5 +1,5 @@
 ---
-title: "About Alex Kasper"
+title: "About"
 description: "Biography of Alex Kasper, also known as Alexis C. Kasperavičius: entrepreneur, cybersecurity educator, video game producer, co-founder of Defensive Thinking with Kevin Mitnick, co-developer of CSEPS, and producer of Return Fire."
 ---
 
