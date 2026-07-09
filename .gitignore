@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Hugo generated output
+/public/
+
+# Local backup copies
+backup/
+**/backup/
+
+# Scratch files
+external-dependencies.txt
