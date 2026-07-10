@@ -10,3 +10,6 @@ backup/
 
 # Scratch files
 external-dependencies.txt
+
+# Accidental Hugo output
+isableFastRender/
