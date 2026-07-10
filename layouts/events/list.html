@@ -1,0 +1,109 @@
+{{ define "main" }}
+
+<main id="primary">
+   <section class="content">
+      <header>
+         <h1>{{ .Title }}</h1>
+
+         {{ with .Description }}
+            <p>{{ . }}</p>
+         {{ end }}
+      </header>
+
+      {{ $upcoming := slice }}
+      {{ $past := slice }}
+
+      {{ range .RegularPages }}
+         {{ $eventPage := . }}
+
+         {{ with .Params.eventDate }}
+            {{ $eventDate := time.AsTime . }}
+
+            {{ if ge $eventDate now }}
+               {{ $upcoming = $upcoming | append (dict
+                  "page" $eventPage
+                  "eventDate" $eventDate
+               ) }}
+            {{ else }}
+               {{ $past = $past | append (dict
+                  "page" $eventPage
+                  "eventDate" $eventDate
+               ) }}
+            {{ end }}
+         {{ end }}
+      {{ end }}
+
+      {{ $upcoming = sort $upcoming "eventDate" "asc" }}
+      {{ $past = sort $past "eventDate" "desc" }}
+
+      <section id="upcomingEvents">
+         <h2>Upcoming Events</h2>
+
+         {{ range $upcoming }}
+            {{ $page := .page }}
+            {{ $eventDate := .eventDate }}
+
+            <article class="event clearfix">
+               <div class="eventDate"
+                    title="{{ $eventDate.Format "January 2, 2006" }}">
+                  <span class="month">{{ $eventDate.Format "Jan" }}</span>
+                  <span class="day">{{ $eventDate.Format "02" }}</span>
+               </div>
+
+               <div class="eventDetail">
+                  <h3>
+                     <a href="{{ $page.RelPermalink }}">
+                        {{ $page.Title }}
+                     </a>
+                  </h3>
+
+                  {{ with $page.Params.location }}
+                     <p class="location">{{ . }}</p>
+                  {{ end }}
+
+                  {{ with $page.Summary }}
+                     <div class="excerpt">
+                        {{ . }}
+                     </div>
+                  {{ end }}
+               </div>
+            </article>
+         {{ else }}
+            <p>No upcoming events are currently scheduled.</p>
+         {{ end }}
+      </section>
+
+      {{ if $past }}
+         <section id="pastEvents">
+            <h2>Past Events</h2>
+
+            {{ range $past }}
+               {{ $page := .page }}
+               {{ $eventDate := .eventDate }}
+
+               <article class="event clearfix">
+                  <div class="eventDate"
+                       title="{{ $eventDate.Format "January 2, 2006" }}">
+                     <span class="month">{{ $eventDate.Format "Jan" }}</span>
+                     <span class="day">{{ $eventDate.Format "02" }}</span>
+                  </div>
+
+                  <div class="eventDetail">
+                     <h3>
+                        <a href="{{ $page.RelPermalink }}">
+                           {{ $page.Title }}
+                        </a>
+                     </h3>
+
+                     {{ with $page.Params.location }}
+                        <p class="location">{{ . }}</p>
+                     {{ end }}
+                  </div>
+               </article>
+            {{ end }}
+         </section>
+      {{ end }}
+   </section>
+</main>
+
+{{ end }}

@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<main id="primary">
+   <section class="content">
+      <article>
+         <header>
+            <p class="meta">
+               {{ .Date.Format "January 02, 2006" }}
+            </p>
+
+            <h1>{{ .Title }}</h1>
+         </header>
+
+         <div class="entry-content">
+            {{ .Content }}
+         </div>
+      </article>
+   </section>
+</main>
+
+{{ end }}

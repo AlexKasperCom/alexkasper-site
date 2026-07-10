@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<main id="primary">
+   <section class="content">
+      <article>
+         {{ $eventDate := time.AsTime .Params.eventDate }}
+
+         <header>
+            <p class="meta">
+               {{ $eventDate.Format "January 2, 2006" }}
+            </p>
+
+            <h1>{{ .Title }}</h1>
+
+            {{ with .Params.location }}
+               <p class="location">{{ . }}</p>
+            {{ end }}
+         </header>
+
+         <div class="entry-content">
+            {{ .Content }}
+         </div>
+      </article>
+   </section>
+</main>
+
+{{ end }}
