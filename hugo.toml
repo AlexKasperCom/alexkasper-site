@@ -1,3 +1,5 @@
 baseURL = 'https://test.alexkasper.com/'
 languageCode = 'en-us'
-title = 'Test Site'
+title = 'Alex Kasper'
+[pagination]
+  pagerSize = 15

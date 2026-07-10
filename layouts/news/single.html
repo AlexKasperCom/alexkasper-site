@@ -1,20 +1,84 @@
 {{ define "main" }}
 
 <main id="primary">
-   <section class="content">
-      <article>
-         <header>
-            <p class="meta">
-               {{ .Date.Format "January 02, 2006" }}
-            </p>
+   <section class="content columns clearfix">
 
-            <h1>{{ .Title }}</h1>
-         </header>
+      <!-- Main article column -->
+      <section>
+         <section class="block">
+            <article class="post">
+               <header>
+                  <h2>{{ .Title }}</h2>
 
-         <div class="entry-content">
-            {{ .Content }}
-         </div>
-      </article>
+                  <p class="meta">
+                     {{ .Date.Format "January 2, 2006" }}
+                  </p>
+               </header>
+
+               <main class="fullPost clearfix">
+                  {{ .Content }}
+               </main>
+
+               <section id="share">
+                  <a
+                     href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}"
+                     class="facebook button share"
+                     target="_blank"
+                     rel="noopener noreferrer">
+                     Share
+                  </a>
+
+                  <a
+                     href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}"
+                     class="x button share"
+                     target="_blank"
+                     rel="noopener noreferrer">
+                     Post
+                  </a>
+
+                  <a
+                     href="https://wa.me/?text={{ printf "%s — %s" .Title .Permalink | urlquery }}"
+                     class="whatsapp button share"
+                     target="_blank"
+                     rel="noopener noreferrer">
+                     Share
+                  </a>
+               </section>
+            </article>
+         </section>
+      </section>
+
+      <!-- Right-hand sidebar -->
+      <section>
+         <section id="latestPosts" class="block simple">
+            <h2>Latest Posts</h2>
+
+            <ul>
+               {{ $currentPage := . }}
+
+               {{ range first 10
+                  (where
+                     (where
+                        .Site.RegularPages.ByDate.Reverse
+                        "Section"
+                        "news"
+                     )
+                     "RelPermalink"
+                     "ne"
+                     $currentPage.RelPermalink
+                  )
+               }}
+                  <li>
+                     <a href="{{ .RelPermalink }}"
+                        title="Permanent Link to {{ .Title }}">
+                        {{ .Title }}
+                     </a>
+                  </li>
+               {{ end }}
+            </ul>
+         </section>
+      </section>
+
    </section>
 </main>
 
