@@ -1,0 +1,52 @@
+{{ define "main" }}
+
+<main id="primary">
+   <section class="content">
+      <header>
+         <h1>{{ .Title }}</h1>
+
+         {{ with .Description }}
+            <p>{{ . }}</p>
+         {{ end }}
+      </header>
+
+      <section class="tilesWrapper two">
+         <div class="grid-sizer"></div>
+         <div class="gutter-sizer"></div>
+
+         {{ range .RegularPages.ByDate.Reverse }}
+            <article class="tile">
+               <header>
+                  <p class="meta">
+                     {{ .Date.Format "January 02, 2006" }}
+                  </p>
+
+                  <h3>
+                     <a href="{{ .RelPermalink }}"
+                        title="Permanent Link to '{{ .Title }}'"
+                        rel="bookmark">
+                        {{ .Title }}
+                     </a>
+                  </h3>
+               </header>
+
+               <main class="excerpt clearfix">
+                  {{ .Summary }}
+
+                  {{ if .Truncated }}
+                     <p>
+                        <a class="moretag" href="{{ .RelPermalink }}">
+                           continued
+                        </a>
+                     </p>
+                  {{ end }}
+               </main>
+            </article>
+         {{ else }}
+            <p>No news items have been published yet.</p>
+         {{ end }}
+      </section>
+   </section>
+</main>
+
+{{ end }}
