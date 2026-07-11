@@ -1,85 +1,135 @@
 {{ define "main" }}
 
 <main id="primary">
-   <section class="content columns clearfix">
+  <section class="content columns clearfix">
 
-      <!-- Main article column -->
-      <section>
-         <section class="block">
-            <article class="post">
-               <header>
-                  <h2>{{ .Title }}</h2>
+    <!-- Main article column -->
+    <section>
+      <section class="block">
+        <article class="post">
 
-                  <p class="meta">
-                     {{ .Date.Format "January 2, 2006" }}
-                  </p>
-               </header>
+          <header>
+            <h2>{{ .Title }}</h2>
 
-               <main class="fullPost clearfix">
-                  {{ .Content }}
-               </main>
+            <p class="meta">
+              <span>{{ .Date.Format "January 2, 2006" }}</span>
 
-               <section id="share">
-                  <a
-                     href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}"
-                     class="facebook button share"
-                     target="_blank"
-                     rel="noopener noreferrer">
-                     Share
-                  </a>
+              {{ with .Params.publication }}
+                <span> · {{ . }}</span>
+              {{ end }}
 
-                  <a
-                     href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}"
-                     class="x button share"
-                     target="_blank"
-                     rel="noopener noreferrer">
-                     Post
-                  </a>
+              {{ with .Params.medium }}
+                <span> · {{ . | title }}</span>
+              {{ end }}
+            </p>
+          </header>
 
-                  <a
-                     href="https://wa.me/?text={{ printf "%s — %s" .Title .Permalink | urlquery }}"
-                     class="whatsapp button share"
-                     target="_blank"
-                     rel="noopener noreferrer">
-                     Share
-                  </a>
-               </section>
-            </article>
-         </section>
+          <main class="fullPost clearfix">
+            {{ .Content }}
+          </main>
+
+{{ $source := .Params.source }}
+{{ $archive := .Params.archive }}
+
+{{ if or $source $archive }}
+<p class="document-link">
+
+  {{ if $source }}
+    {{ if or (hasPrefix $source "http://") (hasPrefix $source "https://") }}
+      <a href="{{ $source }}" target="_blank" rel="noopener noreferrer">
+        Link to source
+      </a>
+    {{ else }}
+      {{ with .Resources.GetMatch $source }}
+        <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
+          Link to source
+        </a>
+      {{ else }}
+        {{ warnf "Source %q was not found for page %q" $source $.File.Path }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{ if and $source $archive }}
+    or
+  {{ end }}
+
+  {{ if $archive }}
+    <a href="{{ $archive }}" target="_blank" rel="noopener noreferrer">
+      {{ if $source }}
+        archive
+      {{ else }}
+        Link to archive
+      {{ end }}
+    </a>
+  {{ end }}
+
+</p>
+{{ end }}
+
+          <section id="share">
+            <a
+              href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}"
+              class="facebook button share"
+              target="_blank"
+              rel="noopener noreferrer">
+              Share
+            </a>
+
+            <a
+              href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}"
+              class="x button share"
+              target="_blank"
+              rel="noopener noreferrer">
+              Post
+            </a>
+
+            <a
+              href="https://wa.me/?text={{ printf "%s — %s" .Title .Permalink | urlquery }}"
+              class="whatsapp button share"
+              target="_blank"
+              rel="noopener noreferrer">
+              Share
+            </a>
+          </section>
+
+        </article>
       </section>
+    </section>
 
-      <!-- Right-hand sidebar -->
-      <section>
-         <section id="latestPosts" class="block simple">
-            <h2>Latest Posts</h2>
+    <!-- Right-hand sidebar -->
+    <section>
+      <section id="latestPosts" class="block simple">
+        <h2>Latest Posts</h2>
 
-            <ul>
-               {{ $currentPage := . }}
+        <ul>
+          {{ $currentPage := . }}
 
-               {{ range first 10
-                  (where
-                     (where
-                        .Site.RegularPages.ByDate.Reverse
-                        "Section"
-                        "news"
-                     )
-                     "RelPermalink"
-                     "ne"
-                     $currentPage.RelPermalink
-                  )
-               }}
-                  <li>
-                     <a href="{{ .RelPermalink }}"
-                        title="Permanent Link to {{ .Title }}">
-                        {{ .Title }}
-                     </a>
-                  </li>
-               {{ end }}
-            </ul>
-         </section>
+          {{ range first 10
+            (where
+              (where
+                .Site.RegularPages.ByDate.Reverse
+                "Section"
+                "news"
+              )
+              "RelPermalink"
+              "ne"
+              $currentPage.RelPermalink
+            )
+          }}
+            <li>
+              <a
+                href="{{ .RelPermalink }}"
+                title="Permanent Link to {{ .Title }}">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
       </section>
+    </section>
 
-   </section>
+  </section>
 </main>
 
 {{ end }}

@@ -12,7 +12,7 @@ projects:
 - return-fire
 tags:
 - industry
-pdf: 1995-02-12__en__Video-Business_Tip-Sheet_Return-Fire.pdf
+source: 1995-02-12__en__Video-Business_Tip-Sheet_Return-Fire.pdf
 summary: This Video Business tip sheet presents Return Fire as a strategically accessible
   yet highly destructive action game that transforms a simple Capture the Flag concept
   into a compelling competitive experience.
@@ -20,4 +20,3 @@ summary: This Video Business tip sheet presents Return Fire as a strategically a
 
 This Video Business tip sheet presents Return Fire as a strategically accessible yet highly destructive action game that transforms a simple Capture the Flag concept into a compelling competitive experience. The piece emphasizes its immediate appeal, distinctive vehicle-based gameplay, orchestral soundtrack, and strong two-player mode, identifying it as a sleeper hit with significant replay value. Overall, Return Fire is positioned as a standout 3DO title with strong commercial potential driven by word-of-mouth and multiplayer appeal.
 
-*Source: [Video Business](1995-02-12__en__Video-Business_Tip-Sheet_Return-Fire.pdf) — original (PDF).*

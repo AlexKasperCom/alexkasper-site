@@ -12,7 +12,7 @@ projects:
 tags:
 - preview
 - ces
-pdf: 1994-09__en__Edge_CES-News_Return-Fire.pdf
+source: 1994-09__en__Edge_CES-News_Return-Fire.pdf
 summary: Edge's Summer CES 1994 coverage highlights Return Fire as a standout 3DO
   title, describing it as "a superb sequel to that classic 1987 Amiga splitscreen
   tank game, Fire Power" with "a slanted, top-down, scaling perspective providing
@@ -22,4 +22,3 @@ summary: Edge's Summer CES 1994 coverage highlights Return Fire as a standout 3D
 
 Edge's Summer CES 1994 coverage highlights Return Fire as a standout 3DO title, describing it as "a superb sequel to that classic 1987 Amiga splitscreen tank game, Fire Power" with "a slanted, top-down, scaling perspective providing originality" and "all the makings of a strong twoplayer blaster." The sidebar calls it "another intriguingly good 3DO title" with "twoplayer action and great 3D scrolling.
 
-*Source: [Edge](1994-09__en__Edge_CES-News_Return-Fire.pdf) — original (PDF).*

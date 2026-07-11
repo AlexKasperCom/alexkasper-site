@@ -13,7 +13,7 @@ projects:
 - return-fire
 tags:
 - feature
-pdf: 1995-03__en__3-for-3DO-Enthusiasts_Feature_Return-Fire.pdf
+source: 1995-03__en__3-for-3DO-Enthusiasts_Feature_Return-Fire.pdf
 summary: This feature presents Return Fire as a rare success in balancing fast-paced
   action with tactical depth, built around a deceptively simple Capture the Flag objective.
 ---
@@ -23,4 +23,3 @@ This feature presents Return Fire as a rare success in balancing fast-paced acti
 
 limitations of each vehicle, the importance of strategy over brute force, and the game’s standout two-player mode. With strong audiovisual presentation and a sharp sense of humor, Return Fire is framed as one of the most engaging and memorable titles on the 3DO platform.
 
-*Source: [3 For 3DO Enthusiasts](1995-03__en__3-for-3DO-Enthusiasts_Feature_Return-Fire.pdf) — original (PDF).*

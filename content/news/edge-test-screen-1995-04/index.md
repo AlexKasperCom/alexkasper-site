@@ -11,7 +11,7 @@ projects:
 - return-fire
 tags:
 - review
-pdf: 1995-04__en__Edge_Test-Screen_Return-Fire.pdf
+source: 1995-04__en__Edge_Test-Screen_Return-Fire.pdf
 summary: This Edge “Test Screen” review presents Return Fire as a deceptively elegant
   blend of arcade action and strategic cat-and-mouse gameplay, centered on capturing
   the enemy flag using four highly specialized vehicles.
@@ -19,4 +19,3 @@ summary: This Edge “Test Screen” review presents Return Fire as a deceptivel
 
 This Edge “Test Screen” review presents Return Fire as a deceptively elegant blend of arcade action and strategic cat-and-mouse gameplay, centered on capturing the enemy flag using four highly specialized vehicles. The article praises its clean design, intelligent two-player dynamics, and strong audiovisual identity, particularly the use of classical music to heighten tension and spectacle. While noting limited longevity against the AI, Edge ultimately positions Return Fire as fast, competitive, and deeply enjoyable when played head-to-head, awarding it a strong 8/10 rating.
 
-*Source: [Edge](1995-04__en__Edge_Test-Screen_Return-Fire.pdf) — original (PDF).*

@@ -11,7 +11,7 @@ projects:
 - return-fire
 tags:
 - strategy-guide
-pdf: 1995-05__en__Video-Games-Tips-and-Tricks_Strategy-Guide_Return-Fire.pdf
+source: 1995-05__en__Video-Games-Tips-and-Tricks_Strategy-Guide_Return-Fire.pdf
 summary: This strategy guide for Return Fire focuses on mastering the game’s deceptively
   simple Capture the Flag mechanics through vehicle-specific tactics, map awareness,
   and efficient use of radar, beacons, and terrain.
@@ -19,4 +19,3 @@ summary: This strategy guide for Return Fire focuses on mastering the game’s d
 
 This strategy guide for Return Fire focuses on mastering the game’s deceptively simple Capture the Flag mechanics through vehicle-specific tactics, map awareness, and efficient use of radar, beacons, and terrain. It emphasizes multiplayer strategy, defensive play, and situational decision-making, reinforcing the game’s depth beneath its arcade-style presentation. Overall, the guide frames Return Fire as a skill-driven combat game where preparation and tactical awareness consistently outweigh brute force.
 
-*Source: [Video Games Tips & Tricks](1995-05__en__Video-Games-Tips-and-Tricks_Strategy-Guide_Return-Fire.pdf) — original (PDF).*

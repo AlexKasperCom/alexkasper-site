@@ -12,11 +12,10 @@ projects:
 - return-fire
 tags:
 - feature
-pdf: 1995-05__en__Game-Players_Feature_Destroy-Destroy-Destroy.pdf
+source: 1995-05__en__Game-Players_Feature_Destroy-Destroy-Destroy.pdf
 summary: Three-page strategy guide by Jeff Lundrigan calling Return Fire "one of the
   most kickin' games of the year." Rated B\#4 with a score of 88\%.
 ---
 
 Three-page strategy guide by Jeff Lundrigan calling Return Fire "one of the most kickin' games of the year." Rated B\#4 with a score of 88\%. Provides detailed tactical advice for each vehicle: helicopter ("Death from Above"), jeep ("Getting There is Half the Fun"), tank ("Don't Tread on Me"), and ASV ("The Lowly Hapless Armored Support Vehicle"). Includes tips on destroying enemy defenses, capturing flags, and managing fuel. Written in an enthusiastic, humorous military style.
 
-*Source: [Game Players](1995-05__en__Game-Players_Feature_Destroy-Destroy-Destroy.pdf) — original (PDF).*
