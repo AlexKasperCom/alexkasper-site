@@ -6,5 +6,4 @@ draft: false
 Alex Kasper will introduce the ideas behind *Manufactured Urgency*
 during DEF CON in Las Vegas.
 <!--more-->
-The project examines how pressure and panic are weaponized to trick
-people and machines.
+The project examines how pressure and panic are weaponized to trick people and machines.
