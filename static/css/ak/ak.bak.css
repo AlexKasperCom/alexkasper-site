@@ -472,9 +472,6 @@
 .document-link a {
     color: #ff5f24;
     text-decoration: none;
-    background: none;
-    border: 0;
-    padding: 0;
 }
 
 .document-link .moretag {
@@ -486,6 +483,12 @@
     color: #bbb;
 }
 
+.document-link .secondary {
+    font-size: inherit;
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: normal;
+}
  @media screen and (max-width:1920px){
      #sidebar{
          width:400px 

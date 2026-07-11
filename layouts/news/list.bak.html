@@ -48,17 +48,17 @@
    {{ end }}
 
    {{ if and .Truncated (or $source $archive) }}
-      <span class="separator">&bull;</span>
+      <span class="separator">|</span>
    {{ end }}
 
    {{ if $source }}
       {{ if or (hasPrefix $source "http://") (hasPrefix $source "https://") }}
-         <a href="{{ $source }}" target="_blank" rel="noopener noreferrer">
+         <a class="secondary" href="{{ $source }}" target="_blank" rel="noopener noreferrer">
             Source
          </a>
       {{ else }}
          {{ with .Resources.GetMatch $source }}
-            <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
+            <a class="secondary" href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
                Source
             </a>
          {{ else }}
@@ -72,7 +72,7 @@
    {{ end }}
 
    {{ with $archive }}
-      <a href="{{ . }}" target="_blank" rel="noopener noreferrer">
+      <a class="secondary" href="{{ . }}" target="_blank" rel="noopener noreferrer">
          Archive
       </a>
    {{ end }}
