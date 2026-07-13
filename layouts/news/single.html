@@ -26,65 +26,52 @@
 
 </header>
 
+{{/* Select the first available live destination. */}}
+{{ $destinationURL := "" }}
+
+{{ if and .Params.source_url (not .Params.source_dead) }}
+  {{ $destinationURL = .Params.source_url }}
+{{ else if and .Params.archive1_url (not .Params.archive1_dead) }}
+  {{ $destinationURL = .Params.archive1_url }}
+{{ else if and .Params.archive2_url (not .Params.archive2_dead) }}
+  {{ $destinationURL = .Params.archive2_url }}
+{{ else if .Params.local_file }}
+  {{ with .Resources.GetMatch .Params.local_file }}
+    {{ $destinationURL = .RelPermalink }}
+  {{ else }}
+    {{ warnf "Local file %q was not found for page %q" $.Params.local_file $.File.Path }}
+  {{ end }}
+{{ end }}
+
 <div class="fullPost clearfix">
 
   {{ with .Resources.GetMatch "cover.*" }}
     <figure class="news-cover">
-      <img
-        src="{{ .RelPermalink }}"
-        alt="{{ $.Title }}"
-        loading="eager">
+      {{ if $destinationURL }}
+        <a href="{{ $destinationURL }}" target="_blank" rel="noopener noreferrer">
+          <img
+            src="{{ .RelPermalink }}"
+            alt="{{ $.Title }}"
+            loading="eager">
+        </a>
+      {{ else }}
+        <img
+          src="{{ .RelPermalink }}"
+          alt="{{ $.Title }}"
+          loading="eager">
+      {{ end }}
     </figure>
   {{ end }}
 
-  {{ .Content }}
+  {{ if $destinationURL }}
+    {{ $actionLabel := partial "news-action-label.html" . }}
+    {{ $actionLink := printf ` <a class="read-more" href="%s" target="_blank" rel="noopener noreferrer">%s &rarr;</a></p>` $destinationURL $actionLabel }}
+    {{ .Content | replaceRE `</p>\s*$` $actionLink | safeHTML }}
+  {{ else }}
+    {{ .Content }}
+  {{ end }}
 
 </div>
-
-{{ $sourceURL := .Params.source_url }}
-{{ $localFile := .Params.local_file }}
-{{ $archiveURL := .Params.archive_url }}
-{{ $archiveURL2 := .Params.archive_url_2 }}
-
-{{ if or $sourceURL $localFile $archiveURL $archiveURL2 }}
-<p class="document-link">
-
-  {{ if $sourceURL }}
-    <a href="{{ $sourceURL }}" target="_blank" rel="noopener noreferrer">
-      Link to source
-    </a>
-  {{ else if $localFile }}
-    {{ with .Resources.GetMatch $localFile }}
-      <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
-        Link to source
-      </a>
-    {{ else }}
-      {{ warnf "Local file %q was not found for page %q" $localFile $.File.Path }}
-    {{ end }}
-  {{ end }}
-
-  {{ if and (or $sourceURL $localFile) (or $archiveURL $archiveURL2) }}
-    or
-  {{ end }}
-
-  {{ if $archiveURL }}
-    <a href="{{ $archiveURL }}" target="_blank" rel="noopener noreferrer">
-      Archive
-    </a>
-  {{ end }}
-
-  {{ if and $archiveURL $archiveURL2 }}
-    ·
-  {{ end }}
-
-  {{ if $archiveURL2 }}
-    <a href="{{ $archiveURL2 }}" target="_blank" rel="noopener noreferrer">
-      Archive 2
-    </a>
-  {{ end }}
-
-</p>
-{{ end }}
 
           <section id="share">
             <a
