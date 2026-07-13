@@ -14,53 +14,70 @@
             <p class="meta">
               <span>{{ .Date.Format "January 2, 2006" }}</span>
 
-              {{ with .Params.publication }}
+              {{ with .Params.publisher }}
                 <span> · {{ . }}</span>
               {{ end }}
 
-              {{ with .Params.medium }}
+              {{ with .Params.source_type }}
                 <span> · {{ . | title }}</span>
               {{ end }}
             </p>
           </header>
 
-          <main class="fullPost clearfix">
-            {{ .Content }}
-          </main>
+<main class="fullPost clearfix">
 
-{{ $source := .Params.source }}
-{{ $archive := .Params.archive }}
+  {{ with .Resources.GetMatch "cover.*" }}
+    <figure class="news-cover">
+      <img
+        src="{{ .RelPermalink }}"
+        alt="{{ $.Title }}"
+        loading="eager">
+    </figure>
+  {{ end }}
 
-{{ if or $source $archive }}
+  {{ .Content }}
+
+</main>
+
+{{ $sourceURL := .Params.source_url }}
+{{ $localFile := .Params.local_file }}
+{{ $archiveURL := .Params.archive_url }}
+{{ $archiveURL2 := .Params.archive_url_2 }}
+
+{{ if or $sourceURL $localFile $archiveURL $archiveURL2 }}
 <p class="document-link">
 
-  {{ if $source }}
-    {{ if or (hasPrefix $source "http://") (hasPrefix $source "https://") }}
-      <a href="{{ $source }}" target="_blank" rel="noopener noreferrer">
+  {{ if $sourceURL }}
+    <a href="{{ $sourceURL }}" target="_blank" rel="noopener noreferrer">
+      Link to source
+    </a>
+  {{ else if $localFile }}
+    {{ with .Resources.GetMatch $localFile }}
+      <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
         Link to source
       </a>
     {{ else }}
-      {{ with .Resources.GetMatch $source }}
-        <a href="{{ .RelPermalink }}" target="_blank" rel="noopener noreferrer">
-          Link to source
-        </a>
-      {{ else }}
-        {{ warnf "Source %q was not found for page %q" $source $.File.Path }}
-      {{ end }}
+      {{ warnf "Local file %q was not found for page %q" $localFile $.File.Path }}
     {{ end }}
   {{ end }}
 
-  {{ if and $source $archive }}
+  {{ if and (or $sourceURL $localFile) (or $archiveURL $archiveURL2) }}
     or
   {{ end }}
 
-  {{ if $archive }}
-    <a href="{{ $archive }}" target="_blank" rel="noopener noreferrer">
-      {{ if $source }}
-        archive
-      {{ else }}
-        Link to archive
-      {{ end }}
+  {{ if $archiveURL }}
+    <a href="{{ $archiveURL }}" target="_blank" rel="noopener noreferrer">
+      Archive
+    </a>
+  {{ end }}
+
+  {{ if and $archiveURL $archiveURL2 }}
+    ·
+  {{ end }}
+
+  {{ if $archiveURL2 }}
+    <a href="{{ $archiveURL2 }}" target="_blank" rel="noopener noreferrer">
+      Archive 2
     </a>
   {{ end }}
 
