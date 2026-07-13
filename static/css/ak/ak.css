@@ -593,6 +593,32 @@ header#hero #tiktok .caption:before {
   }
 }
 
+/* News list cover images */
+
+.news-tile-cover {
+  display: block;
+  float: left;
+  margin: 0.25rem 1.25rem 0.75rem 0;
+}
+
+.news-tile-cover img {
+  display: block;
+  width: 120px;
+  height: auto;
+}
+
+@media screen and (max-width: 600px) {
+  .news-tile-cover {
+    float: none;
+    margin: 0 0 1rem;
+  }
+
+  .news-tile-cover img {
+    width: 100%;
+    max-width: 160px;
+  }
+}
+
 /* Inline contextual source link */
 
 .read-more:link,
@@ -618,6 +644,17 @@ header#hero #tiktok .caption:before {
 
 .post header h2 {
   margin: 0 0 1.25rem;
+}
+
+/* News list tiles */
+
+.tile header .meta {
+  margin-bottom: 0.15rem !important;
+}
+
+.tile header h3 {
+  margin-top: 0 !important;
+  margin-bottom: 1rem;
 }
 @media screen and (max-width: 1920px) {
   #sidebar {

@@ -7,20 +7,20 @@
     {{- $action = "Read the post" -}}
   {{- else if eq . "book" -}}
     {{- $action = "Read the book" -}}
+  {{- else if eq . "webpage" -}}
+    {{- $action = "Visit the page" -}}
   {{- else if eq . "document" -}}
     {{- $action = "View the document" -}}
   {{- else if eq . "image" -}}
     {{- $action = "View the image" -}}
+  {{- else if eq . "audio" -}}
+    {{- $action = "Listen to the recording" -}}
+  {{- else if eq . "podcast" -}}
+    {{- $action = "Listen to the podcast" -}}
   {{- else if eq . "video" -}}
     {{- $action = "Watch the video" -}}
   {{- else if eq . "film" -}}
     {{- $action = "Watch the film" -}}
-  {{- else if eq . "podcast" -}}
-    {{- $action = "Listen to the podcast" -}}
-  {{- else if eq . "audio" -}}
-    {{- $action = "Listen to the recording" -}}
-  {{- else if eq . "webpage" -}}
-    {{- $action = "Visit the page" -}}
   {{- end -}}
 {{- end -}}
 

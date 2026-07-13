@@ -1,0 +1,20 @@
+{{- $destinationURL := "" -}}
+
+{{- if and .Params.source_url (not .Params.source_dead) -}}
+  {{- $destinationURL = .Params.source_url -}}
+
+{{- else if and .Params.archive1_url (not .Params.archive1_dead) -}}
+  {{- $destinationURL = .Params.archive1_url -}}
+
+{{- else if and .Params.archive2_url (not .Params.archive2_dead) -}}
+  {{- $destinationURL = .Params.archive2_url -}}
+
+{{- else if .Params.local_file -}}
+  {{- with .Resources.GetMatch .Params.local_file -}}
+    {{- $destinationURL = .RelPermalink -}}
+  {{- else -}}
+    {{- warnf "Local file %q was not found for page %q" $.Params.local_file $.File.Path -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $destinationURL -}}
