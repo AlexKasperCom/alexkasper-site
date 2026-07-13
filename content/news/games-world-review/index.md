@@ -58,4 +58,6 @@ language: en
 
 ---
 
-This Games World review describes Return Fire as an impressive Desert Strike–style action game that challenges players to complete multiple military objectives using a small set of clearly differentiated vehicles. The article highlights the game’s addictive structure, extensive replay value, and particularly strong two-player split-screen mode, noting its effective use of zooming visuals and accessible controls. Overall, Return Fire is praised as a highly original, skill-driven title and regarded as one of the standout releases on the 3DO platform.
+This Games World review describes Return Fire as an impressive Desert Strike–style action game that challenges players to complete multiple military objectives using a small set of clearly differentiated vehicles.
+
+The article highlights the game’s addictive structure, extensive replay value, and particularly strong two-player split-screen mode, noting its effective use of zooming visuals and accessible controls. Overall, Return Fire is praised as a highly original, skill-driven title and regarded as one of the standout releases on the 3DO platform.

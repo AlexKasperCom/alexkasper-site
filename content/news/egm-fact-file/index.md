@@ -57,4 +57,6 @@ language: en
 
 ---
 
-This Electronic Gaming Monthly Fact File presents Return Fire as a fast, objective-driven action game that combines arcade combat with strategic vehicle use and map control. It emphasizes the distinct strengths and limitations of each vehicle, the importance of scouting and timing, and the game’s scalable challenge across single- and two-player modes. Overall, the feature characterizes Return Fire as a tightly designed, highly addictive experience whose simplicity masks considerable tactical depth.
+This Electronic Gaming Monthly Fact File presents Return Fire as a fast, objective-driven action game that combines arcade combat with strategic vehicle use and map control.
+
+It emphasizes the distinct strengths and limitations of each vehicle, the importance of scouting and timing, and the game’s scalable challenge across single- and two-player modes. Overall, the feature characterizes Return Fire as a tightly designed, highly addictive experience whose simplicity masks considerable tactical depth.

@@ -42,21 +42,11 @@
             <div class="gutter-sizer"></div>
             {{ $news := where site.RegularPages "Section" "news" }}
             {{ range first 8 ($news.ByDate.Reverse) }}
-            {{ $page := . }}
             <article class="tile">
                <header>
                   <p class="meta">
-                     <span>{{ .Date.Format "January 2, 2006" }}</span>
-
-                     {{ with .Params.publisher }}
-                     <span> · {{ . }}</span>
-                     {{ end }}
-
-                     {{ with .Params.source_type }}
-                     <span> · {{ . | title }}</span>
-                     {{ end }}
+                     {{ .Date.Format "January 02, 2006" }}
                   </p>
-
                   <h3>
                      <a href="{{ .RelPermalink }}"
                         title="Permanent Link to '{{ .Title }}'"
@@ -65,32 +55,16 @@
                      </a>
                   </h3>
                </header>
-
-               <div class="excerpt clearfix">
-                  {{ with .Resources.GetMatch "cover.*" }}
-                  <a
-                     class="news-tile-cover"
-                     href="{{ $page.RelPermalink }}"
-                     aria-label="Read {{ $page.Title }}">
-                     <img
-                        src="{{ .RelPermalink }}"
-                        alt="{{ $page.Title }}"
-                        loading="lazy">
-                  </a>
-                  {{ end }}
-
-                  {{ with .Params.summary }}
-                  <p class="news-summary">
-                     {{ . | markdownify }}
-
-                     <a
-                        class="read-more"
-                        href="{{ $page.RelPermalink }}">
-                        Read more &rarr;
+               <main class="excerpt clearfix">
+                  {{ .Summary }}
+                  {{ if .Truncated }}
+                  <p>
+                     <a class="moretag" href="{{ .RelPermalink }}">
+                     continued
                      </a>
                   </p>
                   {{ end }}
-               </div>
+               </main>
             </article>
             {{ end }}
          </section>

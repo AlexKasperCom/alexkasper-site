@@ -57,4 +57,6 @@ language: en
 
 ---
 
-This Edge “Test Screen” review presents Return Fire as a deceptively elegant blend of arcade action and strategic cat-and-mouse gameplay, centered on capturing the enemy flag using four highly specialized vehicles. The article praises its clean design, intelligent two-player dynamics, and strong audiovisual identity, particularly the use of classical music to heighten tension and spectacle. While noting limited longevity against the AI, Edge ultimately positions Return Fire as fast, competitive, and deeply enjoyable when played head-to-head, awarding it a strong 8/10 rating.
+This Edge “Test Screen” review presents Return Fire as a deceptively elegant blend of arcade action and strategic cat-and-mouse gameplay, centered on capturing the enemy flag using four highly specialized vehicles.
+
+The article praises its clean design, intelligent two-player dynamics, and strong audiovisual identity, particularly the use of classical music to heighten tension and spectacle. While noting limited longevity against the AI, Edge ultimately positions Return Fire as fast, competitive, and deeply enjoyable when played head-to-head, awarding it a strong 8/10 rating.

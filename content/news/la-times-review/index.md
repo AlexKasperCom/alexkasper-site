@@ -56,4 +56,6 @@ language: en
 
 ---
 
-This Los Angeles Times review praises Return Fire as one of the most enjoyable action games available on the 3DO, built around a refreshingly simple rule set that encourages blowing everything up while capturing the enemy flag. The article highlights its excellent vehicle variety, intuitive gameplay, and especially its standout orchestral soundtrack, which transforms even routine missions into gleeful spectacle. Overall, Return Fire is characterized as a rare example of a 3DO title that prioritizes fun and replayability over technical flash, making it an easy recommendation for action fans.
+This Los Angeles Times review praises Return Fire as one of the most enjoyable action games available on the 3DO, built around a refreshingly simple rule set that encourages blowing everything up while capturing the enemy flag.
+
+The article highlights its excellent vehicle variety, intuitive gameplay, and especially its standout orchestral soundtrack, which transforms even routine missions into gleeful spectacle. Overall, Return Fire is characterized as a rare example of a 3DO title that prioritizes fun and replayability over technical flash, making it an easy recommendation for action fans.

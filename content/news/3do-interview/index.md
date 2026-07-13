@@ -57,4 +57,8 @@ language: en
 
 ---
 
-In-depth interview with Silent Software founder Baron Reichart "Kurt" Von Wolfsheild about Return Fire's development and his philosophy on game design. Reveals Return Fire took about two years to develop and three months just for the visual "look," with the 3DO handling 200,000-230,000 polygons per second. Credits team members Van Arno (graphic artist), Will Ware (programmer), and Alex Kasperavicius (producer). Von Wolfsheild describes the game as "more a philosophy than a game" designed for two-player competition, comparing it to chess. Discusses his background from MTV producer to game developer, his work on Firepower (the 16-bit prequel), and his "Porsches in a VW world" analogy for creating high-performance games. Expresses excitement about the upcoming M2 hardware.
+In-depth interview with Silent Software founder Baron Reichart "Kurt" Von Wolfsheild about Return Fire's development and his philosophy on game design. Reveals Return Fire took about two years to develop and three months just for the visual "look," with the 3DO handling 200,000-230,000 polygons per second.
+
+Credits team members Van Arno (graphic artist), Will Ware (programmer), and Alex Kasperavicius (producer). Von Wolfsheild describes the game as "more a philosophy than a game" designed for two-player competition, comparing it to chess.
+
+Discusses his background from MTV producer to game developer, his work on Firepower (the 16-bit prequel), and his "Porsches in a VW world" analogy for creating high-performance games. Expresses excitement about the upcoming M2 hardware.

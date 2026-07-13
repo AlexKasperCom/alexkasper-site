@@ -57,4 +57,6 @@ language: en
 
 ---
 
-This Game Informer review praises Return Fire for blending fast-paced arcade action with strategic planning, centering on a clear Capture the Flag structure supported by four specialized vehicles. The article highlights the game’s accessible controls, dramatic use of classical music, and especially its strong two-player mode, which adds depth and replay value. Overall, Return Fire is presented as a highly polished and addictive title that stands out among 3DO releases for both solo and competitive play.
+This Game Informer review praises Return Fire for blending fast-paced arcade action with strategic planning, centering on a clear Capture the Flag structure supported by four specialized vehicles.
+
+The article highlights the game’s accessible controls, dramatic use of classical music, and especially its strong two-player mode, which adds depth and replay value. Overall, Return Fire is presented as a highly polished and addictive title that stands out among 3DO releases for both solo and competitive play.

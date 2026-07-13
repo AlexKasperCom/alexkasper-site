@@ -57,8 +57,8 @@ language: en
 
 ---
 
-This Ultimate Future Games feature celebrates Return Fire as a blisteringly intense action game that channels pure destruction through a simple Capture the Flag framework and four sharply defined military vehicles. 
+This Ultimate Future Games feature celebrates Return Fire as a blisteringly intense action game that channels pure destruction through a simple Capture the Flag framework and four sharply defined military vehicles.
 
-The article emphasizes its explosive combat, strong visual clarity, and infectious energy, highlighting two-player mode as the game’s true showcase for strategy and rivalry. 
+The article emphasizes its explosive combat, strong visual clarity, and infectious energy, highlighting two-player mode as the game’s true showcase for strategy and rivalry.
 
 Overall, Return Fire is positioned as one of the hottest and most immediately thrilling action titles on the 3DO, earning strong praise for its focus on fun over technical excess.

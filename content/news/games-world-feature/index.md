@@ -58,4 +58,6 @@ language: en
 
 ---
 
-This Games World feature frames Return Fire as a refreshing alternative to traditional run-and-gun shooters, emphasizing its mission-based structure and focus on tactical vehicle combat. The article highlights the game’s blend of destruction, exploration, and strategic planning, noting that success depends on intelligent use of terrain, vehicles, and timing rather than reflexes alone. Overall, Return Fire is presented as a distinctive and deeply engaging action game that rewards methodical play and experimentation.
+This Games World feature frames Return Fire as a refreshing alternative to traditional run-and-gun shooters, emphasizing its mission-based structure and focus on tactical vehicle combat.
+
+The article highlights the game’s blend of destruction, exploration, and strategic planning, noting that success depends on intelligent use of terrain, vehicles, and timing rather than reflexes alone. Overall, Return Fire is presented as a distinctive and deeply engaging action game that rewards methodical play and experimentation.

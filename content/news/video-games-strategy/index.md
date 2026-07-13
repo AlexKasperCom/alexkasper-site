@@ -57,4 +57,6 @@ language: en
 
 ---
 
-This strategy guide presents Return Fire as a deceptively simple Capture the Flag game whose depth emerges through careful vehicle management, map awareness, and tactical use of terrain, mines, drones, and bunkers. It emphasizes efficiency and decision-making over brute force, particularly in two-player mode, where anticipation and misdirection are key. Overall, the guide reinforces Return Fire as a skill-driven game that rewards planning, adaptability, and mastery of its systems.
+This strategy guide presents Return Fire as a deceptively simple Capture the Flag game whose depth emerges through careful vehicle management, map awareness, and tactical use of terrain, mines, drones, and bunkers.
+
+It emphasizes efficiency and decision-making over brute force, particularly in two-player mode, where anticipation and misdirection are key. Overall, the guide reinforces Return Fire as a skill-driven game that rewards planning, adaptability, and mastery of its systems.

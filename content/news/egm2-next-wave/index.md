@@ -57,4 +57,6 @@ language: en
 
 ---
 
-This EGM² “Next Wave” preview introduces Return Fire as a fast, action-oriented combat game that combines search-and-destroy gameplay with a simple yet engaging Capture the Flag objective. The article emphasizes its ease of learning, smooth zooming perspective, and the freedom to choose among multiple vehicles to approach each mission. Overall, Return Fire is presented as an accessible, highly enjoyable title that scales well from solo play to intense two-player competition.
+This EGM² “Next Wave” preview introduces Return Fire as a fast, action-oriented combat game that combines search-and-destroy gameplay with a simple yet engaging Capture the Flag objective.
+
+The article emphasizes its ease of learning, smooth zooming perspective, and the freedom to choose among multiple vehicles to approach each mission. Overall, Return Fire is presented as an accessible, highly enjoyable title that scales well from solo play to intense two-player competition.

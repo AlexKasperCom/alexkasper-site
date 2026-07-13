@@ -58,4 +58,8 @@ language: en
 
 ---
 
-Return Fire wins EGM's "Game of the Month" and "Editor's Choice Gold Award." Four reviewers score it 9-9-7-9. Ed Semrad compares it to Herzog Zwei, praising its strategy, graphics, and classical music soundtrack. Danyon Carpenter calls it "an example of what the 3DO can do" with "great control, very good graphics, and tons of interaction." Al Manuel notes the fine mechanics and full-motion video, while Sushi-X highlights the two-player competition. Reviewers unanimously recommend it as a top-rate 3DO title.
+Return Fire wins EGM's "Game of the Month" and "Editor's Choice Gold Award." Four reviewers score it 9-9-7-9.
+
+Ed Semrad compares it to Herzog Zwei, praising its strategy, graphics, and classical music soundtrack. Danyon Carpenter calls it "an example of what the 3DO can do" with "great control, very good graphics, and tons of interaction."
+
+Al Manuel notes the fine mechanics and full-motion video, while Sushi-X highlights the two-player competition. Reviewers unanimously recommend it as a top-rate 3DO title.
