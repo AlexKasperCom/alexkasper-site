@@ -1,0 +1,172 @@
+#!/bin/bash
+set -u
+
+TODAY=$(date +%F)
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+cd "$SITE_DIR" || {
+  echo "Could not open Hugo project root:"
+  echo "$SITE_DIR"
+  exit 1
+}
+
+echo
+echo "Create a new News & Media entry"
+echo
+echo "Press Enter to accept the value shown in [brackets]."
+echo "Press Ctrl+C at any time to cancel."
+echo
+
+# ─────────── PUBLICATION DATE ───────────
+
+while true; do
+  read -r -p "Publication date (YYYY-MM-DD) [$TODAY]: " PUBDATE
+  PUBDATE="${PUBDATE:-$TODAY}"
+
+  if [[ ! "$PUBDATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+    echo "Please enter the date as YYYY-MM-DD."
+    echo
+    continue
+  fi
+
+  if ! date -j -f "%Y-%m-%d" "$PUBDATE" "+%Y-%m-%d" >/dev/null 2>&1; then
+    echo "That isn't a valid calendar date."
+    echo
+    continue
+  fi
+
+  break
+done
+
+# ─────────── TITLE ───────────
+
+while true; do
+  read -r -p "Title: " TITLE
+
+  if [[ -n "${TITLE// }" ]]; then
+    break
+  fi
+
+  echo "A title is required."
+  echo
+done
+
+# ─────────── SLUG ───────────
+
+SUGGESTED_SLUG=$(
+  printf "%s" "$TITLE" |
+    tr '[:upper:]' '[:lower:]' |
+    sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//'
+)
+
+if [[ -z "$SUGGESTED_SLUG" ]]; then
+  echo "The title did not produce a usable slug."
+  exit 1
+fi
+
+SLUG="$SUGGESTED_SLUG"
+
+while true; do
+  read -r -p "Slug [$SLUG]: " ENTERED_SLUG
+  ENTERED_SLUG="${ENTERED_SLUG:-$SLUG}"
+
+  SLUG=$(
+    printf "%s" "$ENTERED_SLUG" |
+      tr '[:upper:]' '[:lower:]' |
+      sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//'
+  )
+
+  if [[ -z "$SLUG" ]]; then
+    echo "Slug cannot be blank."
+    echo
+    continue
+  fi
+
+  FOLDER="$SLUG"
+  TARGET="news/${FOLDER}/index.md"
+  FULL_PATH="$SITE_DIR/content/$TARGET"
+
+  if [[ ! -e "$FULL_PATH" ]]; then
+    break
+  fi
+
+  echo
+  echo "That folder already exists:"
+  echo "$FULL_PATH"
+  echo
+
+  SLUG="${SLUG}-2"
+done
+
+# ─────────── CONFIRMATION ───────────
+
+echo
+echo "Summary"
+echo "-------"
+echo "Title:  $TITLE"
+echo "Date:   $PUBDATE"
+echo "Slug:   $SLUG"
+echo
+
+read -r -p "Create entry? [Y/n]: " CONFIRM
+CONFIRM="${CONFIRM:-y}"
+
+case "$CONFIRM" in
+  y|Y|yes|YES)
+    ;;
+  *)
+    echo "Cancelled."
+    exit 0
+    ;;
+esac
+
+# ─────────── CREATE ENTRY ───────────
+
+echo
+echo "Creating content/$TARGET"
+
+if ! hugo new "$TARGET"; then
+  echo
+  echo "Hugo could not create the entry."
+  exit 1
+fi
+
+if [[ ! -f "$FULL_PATH" ]]; then
+  echo "The expected index.md file was not created."
+  exit 1
+fi
+
+# Populate title and publication date.
+python3 - "$FULL_PATH" "$TITLE" "$PUBDATE" <<'PY'
+import json
+import pathlib
+import sys
+
+path = pathlib.Path(sys.argv[1])
+title = sys.argv[2]
+pubdate = sys.argv[3]
+
+lines = path.read_text().splitlines()
+
+for index, line in enumerate(lines):
+    if line.startswith("title:"):
+        lines[index] = f"title: {json.dumps(title, ensure_ascii=False)}"
+    elif line.startswith("date:"):
+        lines[index] = f'date: "{pubdate}"'
+
+path.write_text("\n".join(lines) + "\n")
+PY
+
+echo
+echo "Created:"
+echo "content/$TARGET"
+
+if command -v code >/dev/null 2>&1; then
+  code "$FULL_PATH"
+else
+  open "$FULL_PATH"
+fi
+
+open "$(dirname "$FULL_PATH")"

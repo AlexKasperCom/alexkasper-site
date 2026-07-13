@@ -1,0 +1,92 @@
+#!/bin/bash
+set -u
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+cd "$SITE_DIR" || {
+  echo "Could not open project:"
+  echo "$SITE_DIR"
+  exit 1
+}
+
+echo
+echo "Git status"
+echo "----------"
+git status --short
+echo
+
+if [[ -z "$(git status --porcelain)" ]]; then
+  echo "There are no changes to commit."
+  exit 0
+fi
+
+BRANCH=$(git branch --show-current)
+
+echo "Branch: $BRANCH"
+echo
+git diff --stat
+echo
+
+while true; do
+  read -r -p "What changed? " COMMIT_MESSAGE
+
+  if [[ -n "${COMMIT_MESSAGE// }" ]]; then
+    break
+  fi
+
+  echo "A commit message is required."
+  echo
+done
+
+echo
+echo "This will:"
+echo "  1. Add all changed and new files"
+echo "  2. Commit as: $COMMIT_MESSAGE"
+echo "  3. Push branch: $BRANCH"
+echo
+
+read -r -p "Continue? [Y/n]: " CONFIRM
+CONFIRM="${CONFIRM:-y}"
+
+case "$CONFIRM" in
+  y|Y|yes|YES)
+    ;;
+  *)
+    echo "Cancelled."
+    exit 0
+    ;;
+esac
+
+echo
+echo "Adding files..."
+git add --all || exit 1
+
+echo
+echo "Staged changes"
+echo "--------------"
+git diff --cached --stat
+echo
+
+read -r -p "Commit and push these changes? [Y/n]: " FINAL_CONFIRM
+FINAL_CONFIRM="${FINAL_CONFIRM:-y}"
+
+case "$FINAL_CONFIRM" in
+  y|Y|yes|YES)
+    ;;
+  *)
+    echo "Cancelled. Files remain staged."
+    exit 0
+    ;;
+esac
+
+echo
+echo "Committing..."
+git commit -m "$COMMIT_MESSAGE" || exit 1
+
+echo
+echo "Pushing to GitHub..."
+git push || exit 1
+
+echo
+echo "Done."
