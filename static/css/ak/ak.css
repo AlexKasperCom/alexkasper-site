@@ -486,6 +486,31 @@
     color: #bbb;
 }
 
+/* News article cover */
+
+.news-cover {
+    float: left;
+    margin: 0.25rem 1.5rem 1rem 0;
+}
+
+.news-cover img {
+    display: block;
+    width: 180px;
+    height: auto;
+}
+
+@media screen and (max-width: 600px) {
+    .news-cover {
+        float: none;
+        margin: 0 0 1rem;
+    }
+
+    .news-cover img {
+        width: 100%;
+        max-width: 220px;
+    }
+}
+
  @media screen and (max-width:1920px){
      #sidebar{
          width:400px 

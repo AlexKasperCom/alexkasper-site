@@ -24,7 +24,7 @@
             </p>
           </header>
 
-<main class="fullPost clearfix">
+<div class="fullPost clearfix">
 
   {{ with .Resources.GetMatch "cover.*" }}
     <figure class="news-cover">
@@ -37,7 +37,7 @@
 
   {{ .Content }}
 
-</main>
+</div>
 
 {{ $sourceURL := .Params.source_url }}
 {{ $localFile := .Params.local_file }}
