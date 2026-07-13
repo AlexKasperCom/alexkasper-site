@@ -29,12 +29,15 @@ publisher:            # Publication, publisher, production company, or releasing
 
 source_url:
 access_date:          # YYYY-MM-DD
+source_dead: false
 
-archive_url:
-archive_date:         # YYYY-MM-DD
+archive1_url:
+archive1_date:        # YYYY-MM-DD
+archive1_dead: false
 
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
+archive2_url:
+archive2_date:        # YYYY-MM-DD
+archive2_dead: false
 
 local_file:           # Filename in this leaf bundle, e.g. article.pdf
 
