@@ -8,21 +8,23 @@
       <section class="block">
         <article class="post">
 
-          <header>
-            <h2>{{ .Title }}</h2>
+<header>
 
-            <p class="meta">
-              <span>{{ .Date.Format "January 2, 2006" }}</span>
+  <p class="meta">
+    <span>{{ .Date.Format "January 2, 2006" }}</span>
 
-              {{ with .Params.publisher }}
-                <span> · {{ . }}</span>
-              {{ end }}
+    {{ with .Params.publisher }}
+      <span> · {{ . }}</span>
+    {{ end }}
 
-              {{ with .Params.source_type }}
-                <span> · {{ . | title }}</span>
-              {{ end }}
-            </p>
-          </header>
+    {{ with .Params.source_type }}
+      <span> · {{ . | title }}</span>
+    {{ end }}
+  </p>
+
+  <h2>{{ .Title }}</h2>
+
+</header>
 
 <div class="fullPost clearfix">
 

@@ -511,6 +511,14 @@
     }
 }
 
+.post header .meta {
+    margin: 0 0 0.4rem;
+}
+
+.post header h2 {
+    margin: 0 0 1.25rem;
+}
+
  @media screen and (max-width:1920px){
      #sidebar{
          width:400px 
