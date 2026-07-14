@@ -1,9 +1,5 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
-title: "Manufactured Urgency at DEF CON"
+title: "DEF CON 34"
 
 date: "2026-07-10"
 
@@ -15,7 +11,7 @@ draft: false          # Set to false when ready to publish.
 source_type: blog_post          # article | blog_post | book | webpage | document |
                       # image | audio | video | film | podcast
 
-summary:              # One- or two-sentence summary.
+summary: Prepare yourselves! DEF CON 34 Workshop registration goes live at noon PDT on July 14! First come, first served.
 
 projects:              # Related project slugs:
                       #   - return-fire

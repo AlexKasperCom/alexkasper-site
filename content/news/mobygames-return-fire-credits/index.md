@@ -1,0 +1,42 @@
+---
+title: "Return Fire Credits (3DO)"
+
+date: "2026-05-24"
+
+draft: true
+
+source_type: webpage
+
+summary:
+
+projects:
+
+tags:
+
+author:
+
+publisher:
+
+source_url:
+access_date:
+source_dead: false
+
+archive1_url:
+archive1_date:
+archive1_dead: false
+
+archive2_url:
+archive2_date:
+archive2_dead: false
+
+local_file:
+
+pages:
+isbn:
+
+time:
+duration:
+
+language: en
+
+---
