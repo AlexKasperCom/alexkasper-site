@@ -1,0 +1,38 @@
+#!/bin/bash
+set -u
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+cd "$SITE_DIR" || {
+  echo "Could not open project:"
+  echo "$SITE_DIR"
+  exit 1
+}
+
+echo
+echo "Cleaning previous build..."
+echo "--------------------------"
+rm -rf public
+
+echo
+echo "Building Hugo site..."
+echo "---------------------"
+
+if ! hugo; then
+  echo
+  echo "❌ Hugo build failed."
+  exit 1
+fi
+
+echo
+echo "Starting Pagefind..."
+echo "--------------------"
+echo
+echo "Search:"
+echo "  http://localhost:1414/search/"
+echo
+echo "Press Ctrl+C to stop."
+echo
+
+exec npx -y pagefind --site public --serve
