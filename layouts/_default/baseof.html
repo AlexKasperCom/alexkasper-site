@@ -9,7 +9,7 @@
       <link rel="stylesheet" href="/css/ak/ak.css">
       <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
       <script src="/js/jquery/min/jquery-3.6.0.min.js"></script>
-      <title>Alex Kasper &#8211; Hacker - Author - Speaker</title>
+      <title>{{ if .Title }}{{ .Title }} – {{ end }}Alex Kasper</title>
    </head>
    <body class="ak">
       <p class="skip"><a href="#primary">Skip to Content</a></p>
@@ -21,17 +21,17 @@
             </a>
          </figure>
          <div id="primaryNavWrapper">
-            <p id="mobiToggle">Menu</p>
+            <button id="mobiToggle" type="button" aria-label="Toggle navigation">Menu</button>
             <nav id="primaryNav">
                <ul>
-                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8829"><a href="/biography">Biography</a></li>
-                  <li class="events menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-27361"><a href="/events">Events</a></li>
-                  <li class="events menu-item menu-item-type-post_type_archive menu-item-object-event menu-item-27361"><a href="/news">News</a></li>
-                  <li class="music menu-item menu-item-type-post_type_archive menu-item-object-music-catalog menu-item-31505"><a href="/music-catalog">Exploit Catalog</a></li>
-                  <li class="recordings menu-item menu-item-type-post_type_archive menu-item-object-recordings menu-item-32152"><a href="/recordings">Videos</a></li>
-                  <li class="virtualschool menu-item menu-item-type-custom menu-item-object-custom menu-item-40623"><a target="_blank" href="https://academy.alexkasper.com">Academy</a></li>
-                  <li class="shop menu-item menu-item-type-custom menu-item-object-custom menu-item-31494"><a target="_blank" href="https://shop.alexkasper.com">Shop</a></li>
-                  <li class="contact menu-item menu-item-type-post_type menu-item-object-page menu-item-8834"><a href="/contact">Contact</a></li>
+                  <li><a href="/biography/">Biography</a></li>
+                  <li><a href="/events/">Events</a></li>
+                  <li><a href="/news/">News</a></li>
+                  <li><a href="/exploit-catalog/">Exploit Catalog</a></li>
+                  <li><a href="/projects/">Projects</a></li>
+                  <li><a target="_blank" rel="noopener noreferrer" href="https://academy.alexkasper.com">Academy</a></li>
+                  <li><a target="_blank" rel="noopener noreferrer" href="https://shop.alexkasper.com">Shop</a></li>
+                  <li><a href="/contact/">Contact</a></li>
                </ul>
                <ul class="social clearfix">
                   <li class="sFacebook"><a href="https://www.facebook.com/alexkaspercom/" title="Alex on Facebook" target="_blank" rel="noopener noreferrer">Facebook</a></li>
@@ -76,9 +76,8 @@
             <section id="footer">
                <ul id="socialWidgets">
                   <li class="facebook"><a href="https://www.facebook.com/alexkaspercom/" title="Like on Facebook" target="_blank" rel="noopener noreferrer">Like</a></li>
-                  <li class="x"><a href="https://x.com/AlexWhitacre" title="Follow on X" target="_blank" rel="noopener noreferrer">Follow</a></li>
+                  <li class="x"><a href="https://x.com/AlexKasperCom" title="Follow on X" target="_blank" rel="noopener noreferrer">Follow</a></li>
                   <li class="spotify"><a href="https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL" title="Follow on Spotify" target="_blank" rel="noopener noreferrer">Follow</a></li>
-                  <li class="applemusic"><a href="https://applemusic.com/Alexwhitacre" title="Listen on Apple Music" target="_blank" rel="noopener noreferrer">Listen on Apple Music</a></li>
                </ul>
                <form class="searchForm reversed" method="get" action="/">
                   <fieldset>
@@ -91,7 +90,6 @@
                   <li><a href="/terms">Terms &amp; Conditions</a></li>
                   <li>Copyright &copy; 2026 Alex Kasper</li>
                </ul>
-               <p id="yamaha">Yamaha Artist</p>
             </section>
             <!-- footer -->
          </footer>
