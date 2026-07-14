@@ -1,0 +1,142 @@
+{{ $shareLinks := slice
+  (dict
+    "name" "Facebook"
+    "url" (printf
+      "https://www.facebook.com/sharer/sharer.php?u=%s"
+      (.Permalink | urlquery)
+    )
+  )
+  (dict
+    "name" "X"
+    "url" (printf
+      "https://twitter.com/intent/tweet?text=%s&url=%s"
+      (.Title | urlquery)
+      (.Permalink | urlquery)
+    )
+  )
+  (dict
+    "name" "LinkedIn"
+    "url" (printf
+      "https://www.linkedin.com/sharing/share-offsite/?url=%s"
+      (.Permalink | urlquery)
+    )
+  )
+  (dict
+    "name" "Reddit"
+    "url" (printf
+      "https://www.reddit.com/submit?url=%s&title=%s"
+      (.Permalink | urlquery)
+      (.Title | urlquery)
+    )
+  )
+  (dict
+    "name" "WhatsApp"
+    "url" (printf
+      "https://wa.me/?text=%s"
+      ((printf "%s — %s" .Title .Permalink) | urlquery)
+    )
+  )
+}}
+
+<section id="share" class="share-menu">
+  <button
+    type="button"
+    id="share-toggle"
+    class="button"
+    aria-expanded="false"
+    aria-controls="share-options">
+    Share
+  </button>
+
+  <div id="share-options" class="share-options" hidden>
+    {{ range $shareLinks }}
+      <a
+        href="{{ .url }}"
+        target="_blank"
+        rel="noopener noreferrer">
+        {{ .name }}
+      </a>
+    {{ end }}
+
+    <button type="button" id="share-more">
+      More…
+    </button>
+
+    <button type="button" id="share-copy">
+      Copy link
+    </button>
+  </div>
+</section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggle = document.getElementById("share-toggle");
+  const options = document.getElementById("share-options");
+  const moreButton = document.getElementById("share-more");
+  const copyButton = document.getElementById("share-copy");
+
+  if (!toggle || !options || !moreButton || !copyButton) {
+    return;
+  }
+
+  const shareData = {
+    title: {{ .Title | jsonify | safeJS }},
+    text: {{ .Params.summary | default .Title | jsonify | safeJS }},
+    url: {{ .Permalink | jsonify | safeJS }}
+  };
+
+  toggle.addEventListener("click", function () {
+    const isOpen = toggle.getAttribute("aria-expanded") === "true";
+
+    toggle.setAttribute("aria-expanded", String(!isOpen));
+    options.hidden = isOpen;
+  });
+
+  moreButton.addEventListener("click", async function () {
+    if (navigator.share) {
+      try {
+        await navigator.share(shareData);
+      } catch (error) {
+        if (error.name !== "AbortError") {
+          console.error("Unable to share:", error);
+        }
+      }
+
+      return;
+    }
+
+    try {
+      await navigator.clipboard.writeText(shareData.url);
+      moreButton.textContent = "Link copied";
+
+      window.setTimeout(function () {
+        moreButton.textContent = "More…";
+      }, 1500);
+    } catch (error) {
+      window.prompt("Copy this link:", shareData.url);
+    }
+  });
+
+  copyButton.addEventListener("click", async function () {
+    try {
+      await navigator.clipboard.writeText(shareData.url);
+
+      const originalText = copyButton.textContent;
+      copyButton.textContent = "Copied!";
+
+      window.setTimeout(function () {
+        copyButton.textContent = originalText;
+      }, 1500);
+    } catch (error) {
+      window.prompt("Copy this link:", shareData.url);
+    }
+  });
+
+  document.addEventListener("click", function (event) {
+    if (!event.target.closest("#share")) {
+      options.hidden = true;
+      toggle.setAttribute("aria-expanded", "false");
+    }
+  });
+});
+</script>

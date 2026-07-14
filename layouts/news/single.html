@@ -73,31 +73,7 @@
 
 </div>
 
-          <section id="share">
-            <a
-              href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink | urlquery }}"
-              class="facebook button share"
-              target="_blank"
-              rel="noopener noreferrer">
-              Share
-            </a>
-
-            <a
-              href="https://twitter.com/intent/tweet?text={{ .Title | urlquery }}&url={{ .Permalink | urlquery }}"
-              class="x button share"
-              target="_blank"
-              rel="noopener noreferrer">
-              Post
-            </a>
-
-            <a
-              href="https://wa.me/?text={{ printf "%s — %s" .Title .Permalink | urlquery }}"
-              class="whatsapp button share"
-              target="_blank"
-              rel="noopener noreferrer">
-              Share
-            </a>
-          </section>
+{{ partial "share.html" . }}
 
         </article>
       </section>
