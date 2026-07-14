@@ -6,23 +6,18 @@
     <!-- Main article column -->
     <section>
       <section class="block">
-        <article class="post">
+        <article class="post" data-pagefind-body>
 
 <header>
 
   <p class="meta">
     <span>{{ .Date.Format "January 2, 2006" }}</span>
-
     {{ with .Params.publisher }}
       <span> · {{ . }}</span>
     {{ end }}
-
-    {{ with .Params.source_type }}
-      <span> · {{ . | title }}</span>
-    {{ end }}
   </p>
 
-  <h2>{{ .Title }}</h2>
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
 </header>
 
@@ -72,9 +67,9 @@
   {{ end }}
 
 </div>
-
+<div data-pagefind-ignore>
 {{ partial "share.html" . }}
-
+</div>
         </article>
       </section>
     </section>
