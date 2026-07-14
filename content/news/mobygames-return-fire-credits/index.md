@@ -3,7 +3,7 @@ title: "Return Fire Credits (3DO)"
 
 date: "2026-05-24"
 
-draft: true
+draft: false
 
 source_type: webpage
 

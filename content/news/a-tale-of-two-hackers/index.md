@@ -1,7 +1,7 @@
 ---
 title: "A Tale of Two Hackers"
 date: "2005-06-06"
-draft: true
+draft: false
 source_type: article
 summary: "A profile contrasting the lives and careers of Alex Kasper and Kevin Mitnick."
 projects:

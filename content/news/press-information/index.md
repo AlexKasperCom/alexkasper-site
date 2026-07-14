@@ -1,7 +1,7 @@
 ---
 title: "Press Information"
 date: "2004-01-01"
-draft: true
+draft: false
 source_type: webpage
 summary: "Background information about Defensive Thinking and its security training programs."
 projects:

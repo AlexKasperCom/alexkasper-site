@@ -1,7 +1,7 @@
 ---
 title: "DarkSide of the Internet"
 date: "2001-01-01"
-draft: true
+draft: false
 source_type: audio
 summary: "A KFI radio program about computers, hacking, and internet security."
 projects:

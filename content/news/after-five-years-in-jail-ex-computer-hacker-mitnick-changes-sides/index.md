@@ -1,7 +1,7 @@
 ---
 title: "After five years in jail, ex-computer hacker Mitnick changes sides"
 date: "2003-01-19"
-draft: true
+draft: false
 source_type: article
 summary: "A profile of Kevin Mitnick's move from convicted hacker to security consultant."
 projects:

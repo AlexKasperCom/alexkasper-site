@@ -1,7 +1,7 @@
 ---
 title: "And The Winner Is... 3DO Awards Honor Best of the Best for 1995"
 date: "1995-12-19"
-draft: true
+draft: false
 source_type: article
 summary: "The 3DO Company announces the winners of its 1995 game awards."
 projects:

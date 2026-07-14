@@ -1,7 +1,7 @@
 ---
 title: "Ex-Hacker Kevin Mitnick Teaches From Experience"
 date: "2003-10-15"
-draft: true
+draft: false
 source_type: article
 summary: "A profile of Kevin Mitnick's transition from hacker to security educator."
 projects:

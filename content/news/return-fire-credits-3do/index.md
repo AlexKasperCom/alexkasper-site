@@ -1,7 +1,7 @@
 ---
 title: "Return Fire Credits (3DO)"
 date: "1995-01-01"
-draft: true
+draft: false
 source_type: webpage
 summary: "Production credits for the 3DO version of Return Fire."
 projects:

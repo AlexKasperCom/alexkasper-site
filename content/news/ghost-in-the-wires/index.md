@@ -1,7 +1,7 @@
 ---
 title: "Ghost in the Wires: My Adventures as the World's Most Wanted Hacker"
 date: "2011-08-15"
-draft: true
+draft: false
 source_type: book
 summary: "Kevin Mitnick recounts his hacking career and eventual move into security consulting."
 projects:
