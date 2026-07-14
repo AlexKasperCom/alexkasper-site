@@ -3,21 +3,50 @@
 <main id="primary">
    <section class="content clearfix">
       <section class="block">
+
+         <link
+            href="/pagefind/pagefind-component-ui.css"
+            rel="stylesheet"
+         >
+
+         <script
+            src="/pagefind/pagefind-component-ui.js"
+            type="module">
+         </script>
+
          <h1>Search</h1>
 
-         <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+         <div id="search">
+            <pagefind-input
+               id="pagefind-search-input"
+               placeholder="Enter keyword(s)..."
+               autofocus>
+            </pagefind-input>
 
-         <div id="search"></div>
+            <hr>
 
-         <script src="/pagefind/pagefind-ui.js"></script>
-         <script>
-            window.addEventListener("DOMContentLoaded", function () {
-               new PagefindUI({
-                  element: "#search",
-                  showSubResults: true
-               });
-            });
-         </script>
+            <pagefind-summary></pagefind-summary>
+
+            <pagefind-results show-images></pagefind-results>
+         </div>
+
+<script type="module">
+   const params = new URLSearchParams(window.location.search);
+   const query = params.get("q")?.trim();
+
+   if (query) {
+      await customElements.whenDefined("pagefind-input");
+
+      const manager =
+         window.PagefindComponents.getInstanceManager();
+
+      const searchInstance =
+         manager.getInstance("default");
+
+      searchInstance.triggerSearch(query);
+   }
+</script>
+
       </section>
    </section>
 </main>
