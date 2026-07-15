@@ -17,7 +17,7 @@ carousel:
     alt: "Alex Kasper with Kevin Mitnick"
     caption: "Alex Kasper and Kevin Mitnick"
 
-featured_title: "Press"
+featured_title: "Selected Press"
 
 featured:
   - id: wired
