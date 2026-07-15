@@ -17,26 +17,28 @@ carousel:
     alt: "Alex Kasper with Kevin Mitnick"
     caption: "Alex Kasper and Kevin Mitnick"
 
-featured_title: "Featured On"
+featured_title: "Press"
 
 featured:
-  - id: cbsSundayMorning
-    name: "CBS Sunday Morning"
+  - id: wired
+    name: "Wired"
+    page: "/news/a-tale-of-two-hackers/"    
 
   - id: wallStreetJournal
     name: "The Wall Street Journal"
-
-  - id: wired
-    name: "Wired"
+    page: "/news/ex-hacker-kevin-mitnick-teaches-from-experience/"
 
   - id: kfiAm640
     name: "KFI AM 640"
+    page: "/news/darkside-of-the-internet/"
 
   - id: businessWire
     name: "Business Wire"
+    page: "/news/and-the-winner-is-3do-awards-honor-best-of-the-best/"
 
   - id: electronicGamingMonthly
     name: "Electronic Gaming Monthly"
+    page: "/news/egm-game-of-month/"
 ---
 
 Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone phreak community alongside Kevin Mitnick, Lewis De Payne, and others, driven not by profit but rather an obsession with understanding how complex systems—and the people behind them—actually worked.

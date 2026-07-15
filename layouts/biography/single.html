@@ -47,13 +47,8 @@
   <ul>
     {{ range . }}
       <li id="{{ .id }}">
-        {{ if .url }}
-          <a
-            href="{{ .url }}"
-            {{ if strings.HasPrefix .url "http" }}
-              target="_blank"
-              rel="noopener noreferrer"
-            {{ end }}>
+        {{ if .page }}
+          <a href="{{ .page | relURL }}">
             <span>{{ .name }}</span>
           </a>
         {{ else }}
