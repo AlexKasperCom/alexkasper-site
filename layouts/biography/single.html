@@ -1,0 +1,276 @@
+{{ define "main" }}
+
+<main id="primary">
+  <section class="biography-layout">
+
+    <!-- Photograph/carousel placeholder -->
+    <section class="biography-layout__media">
+      <div class="biography-carousel-placeholder">
+        <span>Carousel placeholder</span>
+      </div>
+    </section>
+
+    <!-- Biography text -->
+    <section class="biography-layout__text block">
+      <article class="page" data-pagefind-body>
+
+        <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+        {{ with .Params.quote }}
+          <div class="bio-quote">
+            <div class="bio-quote__mark" aria-hidden="true">“</div>
+
+            <div class="bio-quote__content">
+              <p>{{ .text }}</p>
+
+              {{ with .source }}
+                <cite>— {{ . }}</cite>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+
+        <div class="fullPost clearfix">
+          {{ .Content }}
+        </div>
+
+      </article>
+    </section>
+
+    <!-- Featured sidebar -->
+    <aside class="biography-layout__featured">
+      <section id="featuredOn" class="block intro">
+
+        <h2>{{ default "Featured On" .Params.featured_title }}</h2>
+
+        {{ with .Params.featured }}
+          <ul>
+            {{ range . }}
+              <li>
+                {{ if .url }}
+                  <a
+                    href="{{ .url }}"
+                    {{ if strings.HasPrefix .url "http" }}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    {{ end }}>
+                    <span>{{ .name }}</span>
+                  </a>
+                {{ else }}
+                  <span>{{ .name }}</span>
+                {{ end }}
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+
+      </section>
+    </aside>
+
+  </section>
+</main>
+
+<style>
+  /*
+   * Biography page layout only.
+   * Deliberately does not use .content.columns, so the site's generic
+   * column and breakpoint rules cannot rearrange these three areas.
+   */
+
+  .biography-layout {
+    box-sizing: border-box;
+    display: grid;
+    grid-template-columns:
+      minmax(0, 29fr)
+      minmax(0, 39fr)
+      minmax(0, 29fr);
+    gap: 20px;
+    width: 100%;
+    max-width: none;
+    margin: 0;
+    padding: 0;
+    align-items: start;
+  }
+
+  .biography-layout > * {
+    box-sizing: border-box;
+    min-width: 0;
+    width: auto;
+    margin: 0;
+  }
+
+  /* Temporary carousel placeholder */
+
+  .biography-carousel-placeholder {
+    display: grid;
+    place-items: center;
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    border: 1px dashed rgba(127, 127, 127, 0.55);
+    border-radius: 5px;
+    background: rgba(127, 127, 127, 0.08);
+    color: rgba(70, 70, 70, 0.65);
+    font-size: 14px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  /* Biography column */
+
+  .biography-layout__text {
+    padding: 30px 32px 36px;
+  }
+
+  .biography-layout__text h1 {
+    margin: 0 0 28px;
+    font-family:
+      "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+    letter-spacing: 0.08rem;
+    text-transform: uppercase;
+  }
+
+  /*
+   * Custom pull quote.
+   * This avoids inherited blockquote styling from the global stylesheet.
+   */
+
+  .bio-quote {
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+    margin: 4px 0 40px 34px;
+  }
+
+  .bio-quote__mark {
+    flex: 0 0 auto;
+    margin-top: 1px;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 7.8rem;
+    font-weight: 700;
+    font-style: normal;
+    line-height: 0.72;
+    color: #dfd1c7;
+  }
+
+  .bio-quote__content {
+    max-width: 330px;
+    color: #927461;
+  }
+
+  .bio-quote__content p {
+    margin: 0 0 16px;
+    font-size: 2.2rem;
+    line-height: 1.22;
+    font-style: italic;
+  }
+
+  .bio-quote__content cite {
+    display: block;
+    margin: 0;
+    font-size: 1.8rem;
+    line-height: 2.2rem;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+  .biography-layout__text .fullPost {
+    font-size: 1.6rem;
+    line-height: 2.25rem;
+  }
+
+  .biography-layout__text .fullPost p {
+    margin: 0 0 20px;
+  }
+
+  .biography-layout__text .fullPost p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* Featured column */
+
+  #featuredOn {
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+    padding: 30px 28px 34px;
+    text-align: center;
+  }
+
+  #featuredOn h2 {
+    margin: 0 0 28px;
+    font-family:
+      "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 2.4rem;
+    line-height: 2.8rem;
+    letter-spacing: 0.08rem;
+    text-transform: uppercase;
+  }
+
+  #featuredOn ul,
+  #featuredOn li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #featuredOn li {
+    margin-bottom: 24px;
+  }
+
+  #featuredOn li:last-child {
+    margin-bottom: 0;
+  }
+
+  #featuredOn li::before,
+  #featuredOn li::marker {
+    display: none;
+    content: none;
+  }
+
+  #featuredOn a,
+  #featuredOn span {
+    display: block;
+  }
+
+  /* Responsive layout */
+
+  @media screen and (max-width: 1050px) {
+    .biography-layout {
+      grid-template-columns: minmax(0, 38fr) minmax(0, 62fr);
+    }
+
+    .biography-layout__featured {
+      grid-column: 1 / -1;
+    }
+  }
+
+  @media screen and (max-width: 700px) {
+    .biography-layout {
+      display: block;
+      padding: 0;
+    }
+
+    .biography-layout__text,
+    .biography-layout__featured {
+      margin-top: 20px;
+    }
+
+    .bio-quote {
+      margin-left: 0;
+    }
+
+    .bio-quote__mark {
+      font-size: 6.8rem;
+    }
+
+    .bio-quote__content p {
+      font-size: 2rem;
+    }
+  }
+</style>
+
+{{ end }}
