@@ -3,12 +3,36 @@
 <main id="primary">
   <section class="biography-layout">
 
-    <!-- Photograph/carousel placeholder -->
-    <section class="biography-layout__media">
-      <div class="biography-carousel-placeholder">
-        <span>Carousel placeholder</span>
+<section class="biography-layout__media">
+  {{ with .Params.carousel }}
+    <div class="bio-carousel">
+      <div class="bio-carousel__viewport">
+        <div class="bio-carousel__container">
+
+          {{ range $index, $slide := . }}
+            {{ with $.Resources.GetMatch $slide.image }}
+              <figure class="bio-carousel__slide">
+                <img
+                  src="{{ .RelPermalink }}"
+                  alt="{{ $slide.alt | default $.Title }}"
+                  width="{{ .Width }}"
+                  height="{{ .Height }}"
+                  {{ if eq $index 0 }}
+                    loading="eager"
+                  {{ else }}
+                    loading="lazy"
+                  {{ end }}>
+              </figure>
+            {{ end }}
+          {{ end }}
+        </div>
       </div>
-    </section>
+      	<div class="bio-carousel__dots"
+  			aria-label="Choose photograph">
+		</div>
+    </div>
+  {{ end }}
+</section>
 
     <!-- Biography text -->
     <section class="biography-layout__text block">
@@ -96,20 +120,99 @@
 
   /* Temporary carousel placeholder */
 
-  .biography-carousel-placeholder {
-    display: grid;
-    place-items: center;
-    width: 100%;
-    aspect-ratio: 3 / 2;
-    border: 1px dashed rgba(127, 127, 127, 0.55);
-    border-radius: 5px;
-    background: rgba(127, 127, 127, 0.08);
-    color: rgba(70, 70, 70, 0.65);
-    font-size: 14px;
-    letter-spacing: 0.08em;
-    text-transform: uppercase;
-  }
+/* Stage 1: constrain the real image to the carousel area */
 
+.bio-carousel {
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #eee;
+  position: relative;
+}
+
+.bio-carousel__dots {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 12px;
+
+  display: flex;
+  justify-content: center;
+  gap: 8px;
+
+  padding: 0 12px;
+  z-index: 2;
+}
+
+.bio-carousel__dot {
+  display: block;
+  width: 18px;
+  height: 18px;
+  min-height: 0;
+  margin: 0;
+  padding: 0;
+
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  border-radius: 50%;
+  background: transparent;
+  background-image: none;
+  box-shadow: none;
+
+  appearance: none;
+  cursor: pointer;
+}
+
+.bio-carousel__dot::before {
+  display: block;
+  width: 8px;
+  height: 8px;
+  margin: 4px;
+
+  content: "";
+  border-radius: 50%;
+  background: transparent;
+}
+
+.bio-carousel__dot:hover,
+.bio-carousel__dot:focus,
+.bio-carousel__dot:active {
+  border-color: #fff;
+  background: transparent;
+  background-image: none;
+  box-shadow: none;
+}
+
+.bio-carousel__dot:hover::before,
+.bio-carousel__dot.is-selected::before {
+  background: #fff;
+}
+.bio-carousel__viewport {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  touch-action: pan-y pinch-zoom;
+}
+
+.bio-carousel__container {
+  display: flex;
+}
+
+.bio-carousel__slide {
+  position: relative;
+  flex: 0 0 100%;
+  min-width: 0;
+  aspect-ratio: 3 / 2;
+  margin: 0;
+}
+
+.bio-carousel__slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
   /* Biography column */
 
   .biography-layout__text {
@@ -337,5 +440,74 @@
   background-image: url("/img/featured/newYorkTimes-01.svg");
 }
 </style>
+<script src="/js/vendor/embla-carousel.umd.js"></script>
+<script src="/js/vendor/embla-carousel-autoplay.umd.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const carousel = document.querySelector(".bio-carousel");
 
+  if (!carousel || typeof EmblaCarousel === "undefined") {
+    return;
+  }
+
+  const viewport = carousel.querySelector(".bio-carousel__viewport");
+  const dotsContainer = carousel.querySelector(".bio-carousel__dots");
+
+const autoplay = EmblaCarouselAutoplay({
+  delay: 5000,
+  stopOnInteraction: false,
+  stopOnMouseEnter: true
+});
+
+const embla = EmblaCarousel(
+  viewport,
+  {
+    loop: true,
+    align: "start",
+    slidesToScroll: 1
+  },
+  [autoplay]
+);
+
+  embla.scrollSnapList().forEach(function (_, index) {
+    const dot = document.createElement("button");
+
+    dot.type = "button";
+    dot.className = "bio-carousel__dot";
+    dot.setAttribute(
+      "aria-label",
+      "Show photograph " + (index + 1)
+    );
+
+    dot.addEventListener("click", function () {
+      embla.scrollTo(index);
+    });
+
+    dotsContainer.appendChild(dot);
+  });
+
+  const dots = Array.from(
+    dotsContainer.querySelectorAll(".bio-carousel__dot")
+  );
+
+  function updateDots() {
+    const selectedIndex = embla.selectedScrollSnap();
+
+    dots.forEach(function (dot, index) {
+      const selected = index === selectedIndex;
+
+      dot.classList.toggle("is-selected", selected);
+      dot.setAttribute(
+        "aria-pressed",
+        selected ? "true" : "false"
+      );
+    });
+  }
+
+  embla.on("select", updateDots);
+  embla.on("reInit", updateDots);
+
+  updateDots();
+});
+</script>
 {{ end }}

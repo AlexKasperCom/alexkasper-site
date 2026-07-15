@@ -9,13 +9,18 @@ quote:
 carousel:
   - image: "alex-01.jpg"
     alt: "Alex Kasper"
-    caption: "Alex Kasper"
+
   - image: "alex-02.jpg"
-    alt: "Alex Kasper speaking at a cybersecurity event"
-    caption: "Speaking on social engineering and manufactured urgency"
+    alt: "Alex Kasper"
+
   - image: "alex-03.jpg"
-    alt: "Alex Kasper with Kevin Mitnick"
-    caption: "Alex Kasper and Kevin Mitnick"
+    alt: "Alex Kasper"
+
+  - image: "alex-04.jpg"
+    alt: "Alex Kasper"
+
+  - image: "alex-05.jpg"
+    alt: "Alex Kasper"
 
 featured_title: "Selected Press"
 
