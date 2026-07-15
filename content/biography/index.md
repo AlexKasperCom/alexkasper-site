@@ -18,14 +18,25 @@ carousel:
     caption: "Alex Kasper and Kevin Mitnick"
 
 featured_title: "Featured On"
+
 featured:
-  - name: "DEF CON"
-    url: "https://defcon.org/"
-  - name: "The Wall Street Journal"
-  - name: "Wired"
-  - name: "Los Angeles Times"
-  - name: "KFI AM 640"
-  - name: "Salesforce Community"
+  - id: cbsSundayMorning
+    name: "CBS Sunday Morning"
+
+  - id: wallStreetJournal
+    name: "The Wall Street Journal"
+
+  - id: wired
+    name: "Wired"
+
+  - id: kfiAm640
+    name: "KFI AM 640"
+
+  - id: businessWire
+    name: "Business Wire"
+
+  - id: electronicGamingMonthly
+    name: "Electronic Gaming Monthly"
 ---
 
 Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone phreak community alongside Kevin Mitnick, Lewis De Payne, and others, driven not by profit but rather an obsession with understanding how complex systems—and the people behind them—actually worked.
