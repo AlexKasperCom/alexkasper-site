@@ -3,24 +3,29 @@ title: "Biography"
 date: 2026-07-14
 
 quote:
-  text: "Call him the one that got away."
+  text: "...the one that got away."
   source: "Wired"
 
 carousel:
   - image: "alex-01.jpg"
     alt: "Alex Kasper"
+    position: "center 15%"
 
   - image: "alex-02.jpg"
     alt: "Alex Kasper"
+    position: "center center"
 
   - image: "alex-03.jpg"
     alt: "Alex Kasper"
+    position: "center 35%"
 
   - image: "alex-04.jpg"
     alt: "Alex Kasper"
+    position: "center 35%"
 
   - image: "alex-05.jpg"
     alt: "Alex Kasper"
+    position: "center 35%"
 
 featured_title: "Selected Press"
 

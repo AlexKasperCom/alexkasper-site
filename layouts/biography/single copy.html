@@ -17,7 +17,6 @@
                   alt="{{ $slide.alt | default $.Title }}"
                   width="{{ .Width }}"
                   height="{{ .Height }}"
-                  style="object-position: {{ $slide.position | default "center center" }};"
                   {{ if eq $index 0 }}
                     loading="eager"
                   {{ else }}
@@ -26,14 +25,11 @@
               </figure>
             {{ end }}
           {{ end }}
-
         </div>
       </div>
-
-      <div
-        class="bio-carousel__dots"
-        aria-label="Choose photograph">
-      </div>
+      	<div class="bio-carousel__dots"
+  			aria-label="Choose photograph">
+		</div>
     </div>
   {{ end }}
 </section>
