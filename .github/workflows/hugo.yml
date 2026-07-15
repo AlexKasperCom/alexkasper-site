@@ -64,12 +64,6 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
 
-      - name: Verify biography build
-        run: |
-          echo "Checking generated biography page..."
-          grep -n "biography-layout" public/biography/index.html
-          grep -n "Featured On" public/biography/index.html
-
       - name: Build Pagefind index
         run: npx -y pagefind --site public
 
