@@ -34,6 +34,10 @@ a:active {
   color: #9f330c;
 }
 
+#primaryNav a.active {
+   color: #ff5a1f;
+}
+
 #logo {
   position: relative;
   display: block;
@@ -115,11 +119,6 @@ a:active {
 #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:active,
 #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:hover {
   color: #fff;
-}
-
-#primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:link,
-#primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:visited {
-  color: #ff5f24;
 }
 #primaryNavWrapper
   nav#primaryNav

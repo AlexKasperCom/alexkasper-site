@@ -23,16 +23,28 @@
          <div id="primaryNavWrapper">
             <button id="mobiToggle" type="button" aria-label="Toggle navigation">Menu</button>
             <nav id="primaryNav">
-               <ul>
-                  <li><a href="/biography/">Biography</a></li>
-                  <li><a href="/events/">Events</a></li>
-                  <li><a href="/news/">News</a></li>
-                  <li><a href="/exploit-catalog/">Exploit Catalog</a></li>
-                  <li><a href="/projects/">Projects</a></li>
-                  <li><a target="_blank" rel="noopener noreferrer" href="https://academy.alexkasper.com">Academy</a></li>
-                  <li><a target="_blank" rel="noopener noreferrer" href="https://shop.alexkasper.com">Shop</a></li>
-                  <li><a href="/contact/">Contact</a></li>
-               </ul>
+<ul>
+   {{ range .Site.Menus.main }}
+      <li>
+         <a
+            href="{{ .URL }}"
+            {{ if or
+               ($.IsMenuCurrent "main" .)
+               ($.HasMenuCurrent "main" .)
+            }}
+               class="active"
+               aria-current="page"
+            {{ end }}
+            {{ if strings.HasPrefix .URL "http" }}
+               target="_blank"
+               rel="noopener noreferrer"
+            {{ end }}
+         >
+            {{ .Name }}
+         </a>
+      </li>
+   {{ end }}
+</ul>
                <ul class="social clearfix">
                   <li class="sFacebook"><a href="https://www.facebook.com/alexkaspercom/" title="Alex on Facebook" target="_blank" rel="noopener noreferrer">Facebook</a></li>
                   <li class="sLinkedIn"><a href="https://www.linkedin.com/in/alexkaspercom/" title="Alex on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
