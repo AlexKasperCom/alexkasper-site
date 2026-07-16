@@ -65,7 +65,7 @@
       </article>
     </section>
 
-    <!-- Featured sidebar -->
+    <!-- Featured sidebar and biography FAQ -->
     <aside class="biography-layout__featured">
       <section id="featuredOn" class="block intro">
 
@@ -88,6 +88,12 @@
 {{ end }}
 
       </section>
+
+      {{ with .Params.faq_groups }}
+        <section class="biography-layout__faq block simple">
+          {{ partial "faq.html" $ }}
+        </section>
+      {{ end }}
     </aside>
 
   </section>
@@ -292,6 +298,10 @@
   }
 
   /* Featured column */
+
+  .biography-layout__faq {
+    margin-top: 20px;
+  }
 
   #featuredOn {
     box-sizing: border-box;

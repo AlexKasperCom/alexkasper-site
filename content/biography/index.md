@@ -52,17 +52,21 @@ featured:
     
 faq_title: "Frequently Asked Questions"
 
-faq_intro: "Common questions about Alex’s background and work."
+faq_intro: "Common questions about Alex’s background, Kevin Mitnick, and the early hacker community."
 
 faq_groups:
-  - title: "Background"
+  - title: "Alex and Kevin Mitnick"
     questions:
       - question: "How did Alex meet Kevin Mitnick?"
-        answer: "Answer here."
+        answer: "..."
 
-      - question: "Does Alex still work in cybersecurity?"
-        answer: "Answer here."    
-    
+      - question: "Did Alex and Kevin later work together?"
+        answer: "..."
+
+  - title: "Background"
+    questions:
+      - question: "Why was Alex called “the one that got away”?"
+        answer: "..."
 ---
 
 Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone phreak community alongside Kevin Mitnick, Lewis De Payne, and others, driven not by profit but rather an obsession with understanding how complex systems—and the people behind them—actually worked.
