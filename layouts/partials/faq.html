@@ -1,0 +1,38 @@
+{{/*
+Reusable FAQ partial.
+
+Expected front matter:
+faq_title: "Frequently Asked Questions"   # optional
+faq_intro: "Introductory text."           # optional
+faq_groups:
+  - title: "Group title"
+    questions:
+      - question: "Question?"
+        answer: "Answer."
+*/}}
+
+{{ with .Params.faq_groups }}
+  <div class="faq-section">
+    <h2>{{ default "Frequently Asked Questions" $.Params.faq_title }}</h2>
+
+    {{ with $.Params.faq_intro }}
+      <p class="faq-intro">{{ . }}</p>
+    {{ end }}
+
+    {{ range . }}
+      <section class="faq-group">
+        <h3>{{ .title }}</h3>
+
+        {{ range .questions }}
+          <details class="faq-item">
+            <summary>{{ .question }}</summary>
+
+            <div class="faq-answer">
+              {{ .answer | markdownify }}
+            </div>
+          </details>
+        {{ end }}
+      </section>
+    {{ end }}
+  </div>
+{{ end }}

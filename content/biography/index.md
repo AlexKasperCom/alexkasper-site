@@ -49,6 +49,20 @@ featured:
   - id: electronicGamingMonthly
     name: "Electronic Gaming Monthly"
     page: "/news/egm-game-of-month/"
+    
+faq_title: "Frequently Asked Questions"
+
+faq_intro: "Common questions about Alex’s background and work."
+
+faq_groups:
+  - title: "Background"
+    questions:
+      - question: "How did Alex meet Kevin Mitnick?"
+        answer: "Answer here."
+
+      - question: "Does Alex still work in cybersecurity?"
+        answer: "Answer here."    
+    
 ---
 
 Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone phreak community alongside Kevin Mitnick, Lewis De Payne, and others, driven not by profit but rather an obsession with understanding how complex systems—and the people behind them—actually worked.
