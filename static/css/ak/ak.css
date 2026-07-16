@@ -1,3 +1,72 @@
+/* =====================================================
+   AlexKasper.com Design System
+   Change these values to adjust the site-wide look.
+   ===================================================== */
+
+:root {
+  /* Brand colors */
+  --color-accent: #ff5f24;
+  --color-accent-hover: #d24916;
+  --color-accent-active: #9f330c;
+
+  /* Surfaces */
+  --color-bg: #f9f4f1;
+  --color-panel: #ffffff;
+  --color-panel-hover: #eeeeee;
+
+  /* Text and borders */
+  --color-text: #323232;
+  --color-body: #666666;
+  --color-body-light: #777777;
+  --color-muted: #927461;
+  --color-muted-light: #bca495;
+  --color-muted-dark: #75533e;
+  --color-muted-darker: #593824;
+  --color-border: #dfd1c7;
+  --color-border-light: #cccccc;
+  --color-light: #a9a9a9;
+
+  /* Dark colors */
+  --color-black: #000000;
+  --color-black-90: #111111;
+  --color-black-80: #222222;
+  --color-dark: #333333;
+
+  /* Buttons */
+  --color-button: #a8320d;
+  --color-button-hover: #8f290a;
+
+  /* Font families
+     Multi-word family names are quoted; generic families are not. */
+  --font-display:
+    "futura-pt",
+    "Segoe UI",
+    Arial,
+    "Helvetica Neue",
+    Helvetica,
+    sans-serif;
+
+  /* Font sizes */
+  --text-xs: 1.4rem;
+  --text-sm: 1.5rem;
+  --text-base: 1.6rem;
+  --text-lg: 1.8rem;
+  --text-xl: 1.9rem;
+  --text-2xl: 2.1rem;
+  --text-3xl: 2.2rem;
+  --text-4xl: 2.6rem;
+  --text-hero: 4rem;
+
+  /* Font weights */
+  --weight-normal: 400;
+  --weight-medium: 500;
+  --weight-semibold: 600;
+  --weight-bold: 700;
+
+  /* Common shape */
+  --radius: 3px;
+}
+
 #sidebar {
      position: fixed;
      top: 0;
@@ -6,7 +75,7 @@
      min-height: 100vh;
      padding: 0;
      text-align: center;
-     background-color: #000;
+     background-color: var(--color-black);
 }
  #container {
      position: relative;
@@ -16,7 +85,7 @@
      min-height: 100vh;
      margin-left: 440px;
      padding: 0;
-     background-color: #f9f4f1;
+     background-color: var(--color-bg);
 }
  main#primary {
      margin: 0;
@@ -24,13 +93,13 @@
      flex-grow: 1;
 }
  a:link, a:visited {
-     color: #ff5f24;
+     color: var(--color-accent);
 }
  a:hover {
-     color: #d24916;
+     color: var(--color-accent-hover);
 }
  a:active {
-     color: #9f330c;
+     color: var(--color-accent-active);
 }
  #logo {
      position: relative;
@@ -52,9 +121,9 @@
 }
  #logo a:link h1, #logo a:visited h1 {
      margin: 0;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 500;
-     font-size: 4rem;
+     font-family: var(--font-display);
+     font-weight: var(--weight-medium);
+     font-size: var(--text-hero);
      line-height: 4rem;
      text-transform: uppercase;
      text-indent: -9999px;
@@ -62,9 +131,9 @@
 }
  #logo a:link p, #logo a:visited p {
      margin: 0;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 400;
-     font-size: 1.6rem;
+     font-family: var(--font-display);
+     font-weight: var(--weight-normal);
+     font-size: var(--text-base);
      text-transform: uppercase;
      text-indent: -9999px;
      overflow: hidden;
@@ -80,8 +149,8 @@
      text-align: center;
      font-size: 0;
      line-height: 0;
-     border-top: 1px solid #323232;
-     border-bottom: 1px solid #323232;
+     border-top: 1px solid var(--color-text);
+     border-bottom: 1px solid var(--color-text);
 }
  #primaryNavWrapper nav#primaryNav > ul:first-of-type > li {
      margin: 0;
@@ -93,24 +162,24 @@
      display: block;
      margin: 0;
      padding: 0;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 400;
-     font-size: 1.8rem;
+     font-family: var(--font-display);
+     font-weight: var(--weight-normal);
+     font-size: var(--text-lg);
      height: 3.8rem;
      line-height: 3.8rem;
      letter-spacing: 0.1rem;
      text-transform: uppercase;
      text-decoration: none;
-     color: #a9a9a9;
+     color: var(--color-light);
 }
  #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:active, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:hover {
-     color: #fff;
+     color: var(--color-panel);
 }
  #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:visited {
-     color: #ff5f24;
+     color: var(--color-accent);
 }
  #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-ancestor a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-ancestor a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-item a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-item a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-parent a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-parent a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-page-ancestor a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-page-ancestor a:visited {
-     color: #ff5f24;
+     color: var(--color-accent);
 }
  #primaryNavWrapper #mobiToggle {
      display: none;
@@ -120,17 +189,17 @@
      margin: 0;
      padding: 0 15px 0 45px;
      height: 40px;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 400;
-     font-size: 1.8rem;
+     font-family: var(--font-display);
+     font-weight: var(--weight-normal);
+     font-size: var(--text-lg);
      line-height: 3.7rem;
      letter-spacing: 0.1rem;
      text-transform: uppercase;
      text-decoration: none;
      text-align: left;
-     color: #fff;
-     border: 1px solid #666;
-     border-radius: 3px;
+     color: var(--color-panel);
+     border: 1px solid var(--color-body);
+     border-radius: var(--radius);
      cursor: pointer;
      z-index: 300;
 }
@@ -160,7 +229,7 @@
      height: calc((100vw - 460px) / 2);
      margin: -40px -40px 40px -40px;
      padding: 0;
-     background-color: #927461;
+     background-color: var(--color-muted);
      overflow: hidden;
 }
  header#hero #biography {
@@ -170,7 +239,7 @@
      left: 0;
      width: 50%;
      height: 100%;
-     background: #a9a9a9 url("/img/ak/hero/biography.v1.jpg") center center no-repeat;
+     background: var(--color-light) url("/img/ak/hero/biography.v1.jpg") center center no-repeat;
      background-size: cover;
 }
  header#hero #biography .wrapper {
@@ -184,9 +253,9 @@
 }
  header#hero #biography p {
      margin-bottom: 0;
-     font-size: 1.8rem;
+     font-size: var(--text-lg);
      line-height: 2.6rem;
-     color: #fff;
+     color: var(--color-panel);
 }
  header#hero #biography ul {
      display: block;
@@ -201,9 +270,9 @@
      margin: 0;
      padding: 5px 20px;
      list-style-type: none;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 600;
-     font-size: 1.9rem;
+     font-family: var(--font-display);
+     font-weight: var(--weight-semibold);
+     font-size: var(--text-xl);
      line-height: 1.9rem;
      letter-spacing: 0.1rem;
      text-transform: uppercase;
@@ -211,7 +280,7 @@
  header#hero #biography ul li a:active, header#hero #biography ul li a:hover, header#hero #biography ul li a:link, header#hero #biography ul li a:visited {
      display: block;
      text-decoration: none;
-     color: #fff;
+     color: var(--color-panel);
 }
  header#hero #biography ul li:after {
      position: absolute;
@@ -251,16 +320,16 @@
 }
  header#hero .caption h2, header#hero .caption h2 a:link, header#hero .caption h2 a:visited, header#hero .caption h3, header#hero .caption h3 a:link, header#hero .caption h3 a:visited {
      text-decoration: none;
-     color: #fff;
+     color: var(--color-panel);
 }
  header#hero .caption h2 {
      margin: -5px 0 0 0;
-     font-weight: 600;
-     font-size: 2.6rem;
+     font-weight: var(--weight-semibold);
+     font-size: var(--text-4xl);
      hyphens: auto;
 }
  header#hero .caption h3 {
-     font-weight: 400;
+     font-weight: var(--weight-normal);
      letter-spacing: 0.1rem;
 }
  header#hero #virtualSchool {
@@ -270,7 +339,7 @@
      right: 0;
      width: 50%;
      height: 50%;
-     background: #000 url("/img/ak/hero/academy.jpg") center bottom no-repeat;
+     background: var(--color-black) url("/img/ak/hero/academy.jpg") center bottom no-repeat;
      background-size: cover;
 }
  header#hero #virtualSchool .caption:before {
@@ -284,7 +353,7 @@
      right: 25%;
      width: 25%;
      height: 50%;
-     background: #323232 url("/img/ak/hero/instagram.v3.jpg") center bottom no-repeat;
+     background: var(--color-text) url("/img/ak/hero/instagram.v3.jpg") center bottom no-repeat;
      background-size: cover;
 }
  header#hero #instagram .caption:before, header#hero #tiktok .caption:before {
@@ -292,7 +361,7 @@
 }
  header#hero #tiktok {
      right: 0;
-     background: #927461 url("/img/ak/hero/tiktok.v1.jpg") center bottom no-repeat;
+     background: var(--color-muted) url("/img/ak/hero/tiktok.v1.jpg") center bottom no-repeat;
      background-size: cover;
 }
  header#hero #tiktok .caption:before {
@@ -311,14 +380,14 @@
 }
  #upcomingEvents #eventsOverview {
      padding-top: 15px;
-     border-top: 1px solid #dfd1c7;
+     border-top: 1px solid var(--color-border);
 }
  #upcomingEvents #eventsOverview .event {
      position: relative;
      min-height: 58px;
      margin: 0 0 15px 0;
      padding: 0 0 15px 0;
-     border-bottom: 1px solid #dfd1c7;
+     border-bottom: 1px solid var(--color-border);
 }
  #upcomingEvents #eventsOverview .event:last-of-type {
      margin-bottom: 0;
@@ -331,28 +400,28 @@
      left: -5px;
      width: 45px;
      margin: 0;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 700;
+     font-family: var(--font-display);
+     font-weight: var(--weight-bold);
      text-align: center;
      text-transform: uppercase;
 }
  #upcomingEvents #eventsOverview .eventDate .month {
      display: block;
-     font-weight: 600;
-     font-size: 1.6rem;
+     font-weight: var(--weight-semibold);
+     font-size: var(--text-base);
      line-height: 2rem;
-     color: #ff5f24;
+     color: var(--color-accent);
 }
  #upcomingEvents #eventsOverview .eventDate .day {
      display: block;
-     font-size: 2.6rem;
+     font-size: var(--text-4xl);
      line-height: 2.6rem;
-     color: #ff5f24;
+     color: var(--color-accent);
 }
  #upcomingEvents #eventsOverview .eventDetail {
      margin-left: 50px;
      padding-left: 15px;
-     border-left: 1px solid #dfd1c7;
+     border-left: 1px solid var(--color-border);
 }
  #upcomingEvents #eventsOverview .eventDetail p {
      margin: 0;
@@ -362,13 +431,13 @@
      margin: -1px 0 5px 0;
 }
  #upcomingEvents #eventsOverview .eventDetail h3, #upcomingEvents #eventsOverview .eventDetail h3 a:link, #upcomingEvents #eventsOverview .eventDetail h3 a:visited {
-     color: #ff5f24;
+     color: var(--color-accent);
 }
  #upcomingEvents #eventsOverview .eventDetail h3 a:hover {
-     color: #d24916;
+     color: var(--color-accent-hover);
 }
  #upcomingEvents #eventsOverview .eventDetail h3 a:active {
-     color: #9f330c;
+     color: var(--color-accent-active);
 }
  #featuredAlbum:link, #featuredAlbum:visited {
      display: block;
@@ -376,7 +445,7 @@
      padding: 0;
      text-decoration: none;
      background-image: none;
-     background-color: #000;
+     background-color: var(--color-black);
      border: none;
 }
  #featuredAlbum:link img, #featuredAlbum:visited img {
@@ -399,7 +468,7 @@
      margin-bottom: 10px;
 }
  #featuredAlbum:link header h2, #featuredAlbum:link header h2 a:link, #featuredAlbum:link header h2 a:visited, #featuredAlbum:link header p, #featuredAlbum:link header p a:link, #featuredAlbum:link header p a:visited, #featuredAlbum:visited header h2, #featuredAlbum:visited header h2 a:link, #featuredAlbum:visited header h2 a:visited, #featuredAlbum:visited header p, #featuredAlbum:visited header p a:link, #featuredAlbum:visited header p a:visited {
-     color: #fff;
+     color: var(--color-panel);
 }
  #merch:link, #merch:visited, #totw:link, #totw:visited, #virtualChoir:link, #virtualChoir:visited {
      display: block;
@@ -414,7 +483,7 @@
  #virtualChoir:link, #virtualChoir:visited {
      padding: 0 0 45% 0;
      border: none;
-     background: #000 url("/img/vc/hero.vc6.jpg") center center no-repeat;
+     background: var(--color-black) url("/img/vc/hero.vc6.jpg") center center no-repeat;
      background-size: cover;
 }
  #virtualChoir:link span, #virtualChoir:visited span {
@@ -442,27 +511,27 @@
 }
  #merch:link, #merch:visited {
      padding: 0 0 40% 0;
-     background: #323232 url("/img/ak/officialMerch.svg") center center no-repeat;
+     background: var(--color-text) url("/img/ak/officialMerch.svg") center center no-repeat;
      background-size: 70% auto;
 }
  #merch:hover {
-     background-color: #222;
+     background-color: var(--color-black-80);
 }
  #merch:active {
-     background-color: #000;
+     background-color: var(--color-black);
 }
  #totw:link, #totw:visited {
      margin: 0;
      padding: 0 0 30% 0;
      border: none;
-     background: #927461 url("/img/ak/totw/totwReversed.v1-01.svg") center center no-repeat;
+     background: var(--color-muted) url("/img/ak/totw/totwReversed.v1-01.svg") center center no-repeat;
      background-size: 70% auto;
 }
  #totw:hover {
-     background-color: #75533e;
+     background-color: var(--color-muted-dark);
 }
  #totw:active {
-     background-color: #593824;
+     background-color: var(--color-muted-darker);
 }
 /* News article cover */
  .news-cover {
@@ -507,17 +576,17 @@
 }
 /* Inline contextual source link */
  .read-more:link, .read-more:visited {
-     color: #ff5f24;
-     font-weight: 500;
+     color: var(--color-accent);
+     font-weight: var(--weight-medium);
      text-decoration: none;
      white-space: nowrap;
 }
  .read-more:hover {
-     color: #d24916;
+     color: var(--color-accent-hover);
      text-decoration: underline;
 }
  .read-more:active {
-     color: #9f330c;
+     color: var(--color-accent-active);
 }
  .post header .meta {
      margin: 0 0 0.25rem;
@@ -546,8 +615,8 @@
      min-width: 190px;
      margin: 0;
      padding: 6px;
-     background: #fff;
-     border: 1px solid #ccc;
+     background: var(--color-panel);
+     border: 1px solid var(--color-border-light);
      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18);
 }
 /* Keep the main Share button styled like the site buttons */
@@ -558,12 +627,12 @@
      margin: 0;
      padding: 10px 20px;
      border: 0;
-     border-radius: 3px;
-     background: #a8320d;
-     color: #fff;
-     font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
-     font-weight: 600;
-     font-size: 1.4rem;
+     border-radius: var(--radius);
+     background: var(--color-button);
+     color: var(--color-panel);
+     font-family: var(--font-display);
+     font-weight: var(--weight-semibold);
+     font-size: var(--text-xs);
      line-height: 1.4rem;
      letter-spacing: 0.1rem;
      text-transform: uppercase;
@@ -571,7 +640,7 @@
      cursor: pointer;
 }
  #share #share-toggle:hover, #share #share-toggle:focus {
-     background: #8f290a;
+     background: var(--color-button-hover);
 }
 /* Reset inherited social-button styling inside the dropdown */
  #share .share-options a, #share .share-options a:link, #share .share-options a:visited, #share .share-options button {
@@ -587,10 +656,10 @@
      border-radius: 0;
      background: transparent;
      background-image: none;
-     color: #333;
+     color: var(--color-dark);
      font-family: inherit;
-     font-size: 1.5rem;
-     font-weight: 400;
+     font-size: var(--text-sm);
+     font-weight: var(--weight-normal);
      line-height: 1.3;
      letter-spacing: normal;
      text-align: left;
@@ -603,8 +672,8 @@
      cursor: pointer;
 }
  #share .share-options a:hover, #share .share-options a:focus, #share .share-options button:hover, #share .share-options button:focus {
-     background: #eee;
-     color: #111;
+     background: var(--color-panel-hover);
+     color: var(--color-black-90);
      outline: none;
 }
 /* Contact Section Styles */
@@ -632,7 +701,7 @@
  .contact-section {
      margin: 0 0 30px;
      padding: 0 0 30px;
-     border-bottom: 1px solid #dfd1c7;
+     border-bottom: 1px solid var(--color-border);
 }
  .contact-section:last-child {
      margin-bottom: 0;
@@ -654,7 +723,7 @@
  .contact-publishing {
      margin: 30px 0 0;
      padding: 30px 0 0;
-     border-top: 1px solid #dfd1c7;
+     border-top: 1px solid var(--color-border);
 }
  .contact-publishing h2 {
      margin: 0 0 20px;
@@ -665,7 +734,7 @@
  .contact-personal-note {
      margin: 30px 0 0;
      padding: 30px 0 0;
-     border-top: 1px solid #dfd1c7;
+     border-top: 1px solid var(--color-border);
 }
  .contact-personal-note h3 {
      margin: 0 0 18px;
@@ -687,9 +756,9 @@
 }
  .contact-personal-note__figure figcaption {
      margin-top: 14px;
-     font-size: 1.4rem;
+     font-size: var(--text-xs);
      line-height: 2rem;
-     color: #777;
+     color: var(--color-body-light);
 }
  @media screen and (max-width: 800px) {
      .contact-layout {
@@ -717,26 +786,26 @@
 }
  .faq-item {
      margin: 0;
-     background-color: #fff;
-     border: 1px solid #dfd1c7;
+     background-color: var(--color-panel);
+     border: 1px solid var(--color-border);
      border-bottom: 0;
 }
  .faq-item:first-of-type {
      border-radius: 3px 3px 0 0;
 }
  .faq-item:last-child {
-     border-bottom: 1px solid #dfd1c7;
+     border-bottom: 1px solid var(--color-border);
      border-radius: 0 0 3px 3px;
 }
  .faq-item:only-of-type {
-     border-bottom: 1px solid #dfd1c7;
-     border-radius: 3px;
+     border-bottom: 1px solid var(--color-border);
+     border-radius: var(--radius);
 }
  .faq-item summary {
      position: relative;
      padding: 12px 16px 12px 38px;
-     font-weight: 400;
-     color: #927461;
+     font-weight: var(--weight-normal);
+     color: var(--color-muted);
      cursor: pointer;
      list-style: none;
 }
@@ -748,9 +817,9 @@
      top: 12px;
      left: 11px;
      content: "+";
-     font-size: 1.8rem;
+     font-size: var(--text-lg);
      line-height: 1;
-     color: #bca495;
+     color: var(--color-muted-light);
 }
  .faq-item[open] summary::before {
      content: "−";
@@ -761,7 +830,7 @@
 }
  .faq-answer {
      padding: 0 16px 14px 38px;
-     color: #666;
+     color: var(--color-body);
 }
  .faq-answer > :last-child {
      margin-bottom: 0;
@@ -813,7 +882,7 @@
          padding: 30px 0;
     }
      #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:visited {
-         font-size: 1.6rem;
+         font-size: var(--text-base);
          height: 3.2rem;
          line-height: 3.2rem;
     }
@@ -834,7 +903,7 @@
          padding: 200px 40px 40px 40px;
     }
      header#hero .caption h2 {
-         font-size: 2.2rem;
+         font-size: var(--text-3xl);
     }
      header#hero .caption:before {
          display: none;
@@ -843,14 +912,14 @@
          padding: 200px 40px 40px 40px;
     }
      header#hero #biography p {
-         font-size: 1.5rem;
+         font-size: var(--text-sm);
          line-height: 2.2rem;
     }
      header#hero #biography ul {
          margin-top: 20px;
     }
      header#hero #biography ul li {
-         font-size: 1.6rem;
+         font-size: var(--text-base);
          line-height: 1.6rem;
     }
      #virtualChoir:link, #virtualChoir:visited {
@@ -876,7 +945,7 @@
          left: 0;
          width: 340px;
          height: 100vh;
-         background-color: #000;
+         background-color: var(--color-black);
          transform: translateX(-100%);
          z-index: 200;
     }
@@ -943,7 +1012,7 @@
          right: auto;
          bottom: auto;
          padding: 30px;
-         background-color: #927461;
+         background-color: var(--color-muted);
          background-image: none;
     }
      header#hero #biography ul {
@@ -959,7 +1028,7 @@
          display: none;
     }
      header#hero .caption h2 {
-         font-size: 2.1rem;
+         font-size: var(--text-2xl);
     }
      header#hero #instagram, header#hero #tiktok, header#hero #virtualSchool {
          position: relative;
