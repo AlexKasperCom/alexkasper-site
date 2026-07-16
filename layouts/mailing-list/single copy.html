@@ -31,7 +31,7 @@
               value='{"keyname":"AlexKasper","fallback":"true","orgId":"00DHn000002UECt","ts":""}'>
 
             <input type="hidden" name="oid" value="00DHn000002UECt">
-            <input type="hidden" name="retURL" value="https://test.alexkasper.com/mailing-list/?submitted=true">
+            <input type="hidden" name="retURL" value="https://test.alexkasper.com/">
             <input type="hidden" name="lead_source" value="Web">
             <input type="hidden" name="company" value="Individual">
 
@@ -380,7 +380,6 @@
   </label>
 
 </div>
-              </div>
 
               <div class="fieldRow">
                 <div
@@ -394,25 +393,6 @@
               </button>
             </fieldset>
           </form>
-
-          <div
-            id="subscriptionSuccess"
-            class="subscription-success"
-            role="status"
-            hidden>
-
-            <h4>Subscription Received!</h4>
-
-            <p>
-              Thank you for joining my mailing list.
-            </p>
-
-            <p>
-              Your subscription request has been received. You’ll occasionally
-              receive news about talks, events, articles, books, training, and
-              new projects.
-            </p>
-          </div>
 
           <p id="recaptcha">
             This site is protected by reCAPTCHA and the Google
@@ -491,39 +471,6 @@ document.getElementById("mailingListForm").addEventListener("submit", function (
         interests[0].focus();
     }
 
-});
-</script>
-
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  const params = new URLSearchParams(window.location.search);
-
-  if (params.get("submitted") !== "true") {
-    return;
-  }
-
-  const form = document.getElementById("mailingListForm");
-  const success = document.getElementById("subscriptionSuccess");
-  const recaptchaNotice = document.getElementById("recaptcha");
-
-  if (form) {
-    form.hidden = true;
-  }
-
-  if (recaptchaNotice) {
-    recaptchaNotice.hidden = true;
-  }
-
-  if (success) {
-    success.hidden = false;
-  }
-
-  window.history.replaceState(
-    {},
-    document.title,
-    window.location.pathname
-  );
 });
 </script>
 

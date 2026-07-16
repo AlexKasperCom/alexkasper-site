@@ -927,7 +927,44 @@
     margin-top: 30px;
 }
 
+.mailing-list-page .subscription-success {
+  padding: 24px 36px;
+  color: #26920f;
+  background-color: #f1fced;
+}
 
+.mailing-list-page .subscription-success h4 {
+  position: relative;
+  margin: 0 0 16px;
+  padding-left: 36px;
+  font-weight: var(--weight-bold);
+  text-transform: uppercase;
+  color: #26920f;
+}
+
+.mailing-list-page .subscription-success h4::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  color: #fff;
+  background-color: #26920f;
+  font-size: 15px;
+  line-height: 22px;
+  text-align: center;
+  content: "✓";
+}
+
+.mailing-list-page .subscription-success p {
+  margin: 0 0 16px 36px;
+  color: #26920f;
+}
+
+.mailing-list-page .subscription-success p:last-child {
+  margin-bottom: 0;
+}
 /* News list tiles */
  .tile header .meta {
      margin-bottom: 0.15rem !important;
