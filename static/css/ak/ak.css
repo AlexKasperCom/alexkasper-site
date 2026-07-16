@@ -835,6 +835,99 @@
  .faq-answer > :last-child {
      margin-bottom: 0;
 }
+/* Mailing List */
+
+.mailing-list-page .block.intro,
+.mailing-list-page .block.intro h1,
+.mailing-list-page .block.intro .fullPost,
+.mailing-list-page .block.intro p,
+.mailing-list-page .block.intro strong,
+.mailing-list-page .block.intro em,
+.mailing-list-page .block.intro li {
+    color: #fff;
+}
+
+.mailing-list-page .block.intro a,
+.mailing-list-page .block.intro a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+.mailing-list-page .block.intro a:hover,
+.mailing-list-page .block.intro a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.mailing-list-page .interest-group {
+  margin-top: 6px;
+}
+
+.mailing-list-page .interest-group label.check {
+  position: relative;
+  display: block;
+  width: 100%;
+  min-height: 20px;
+  margin: 0 0 8px;
+  padding-left: 30px;
+  line-height: 20px;
+  font-weight: normal;
+  cursor: pointer;
+}
+
+.mailing-list-page .interest-group label.check input {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.mailing-list-page .interest-group label.check .checkmark {
+  position: absolute;
+  display: inline-block;
+  top: 3px;
+  left: 0;
+  width: 18px;
+  height: 18px;
+  color: #666;
+  background-color: #fff;
+  border: 1px solid #dfd1c7;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.mailing-list-page .interest-group label.check .checkmark::after {
+  position: absolute;
+  display: none;
+  top: 3px;
+  left: 3px;
+  width: 11px;
+  height: 11px;
+  background:
+    transparent
+    url("/img/global/iconSprite.v43-01.svg")
+    -250px -300px
+    no-repeat;
+  content: "";
+  z-index: 0;
+}
+
+.mailing-list-page .interest-group label.check input:checked ~ .checkmark::after {
+  display: block;
+}
+
+.mailing-list-page .interest-group label.check .checkmark:hover {
+  border-color: #bca495;
+}
+
+.mailing-list-page .g-recaptcha {
+    margin-top: 30px;
+}
+
+
 /* News list tiles */
  .tile header .meta {
      margin-bottom: 0.15rem !important;

@@ -10,118 +10,6 @@
       <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
       <script src="/js/jquery/min/jquery-3.6.0.min.js"></script>
       <title>{{ if .Title }}{{ .Title }} – {{ end }}Alex Kasper</title>
-
-      <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-      <style>
-         /*
-          * Mailing-list form inside the orange footer promo tile.
-          * Scoped here so it does not affect other forms or promo panels.
-          */
-         footer#primary #promo .flex > #promoMailingList {
-            position: relative;
-            flex: 0 1 25%;
-            margin: 0;
-            padding: 40px 36px 32px 110px;
-            background-color: #ff5f24;
-            color: #fff;
-         }
-
-         footer#primary #promo .flex > #promoMailingList::before {
-            position: absolute;
-            top: 40px;
-            left: 40px;
-            width: 60px;
-            height: 60px;
-            background: transparent url("/img/global/icons/promo-mailing-list.svg") center center / contain no-repeat;
-            content: "";
-         }
-
-         footer#primary #promo #promoMailingList h3 {
-            margin: -7px 0 5px;
-            color: #fff;
-         }
-
-         footer#primary #promo #promoMailingList p {
-            margin: 0 0 12px;
-            font-size: 1.4rem;
-            line-height: 1.9rem;
-            color: #fff;
-         }
-
-         .promo-mailing-form {
-            margin: 0;
-         }
-
-         .promo-mailing-form__row {
-            display: flex;
-            gap: 6px;
-            margin-bottom: 8px;
-         }
-
-         .promo-mailing-form input[type="email"] {
-            flex: 1 1 auto;
-            min-width: 0;
-            height: 34px;
-            padding: 0 9px;
-            font-size: 1.3rem;
-            line-height: 34px;
-            color: #323232;
-            background: #fff;
-            border: 0;
-            border-radius: 3px;
-            box-shadow: none;
-         }
-
-         .promo-mailing-form button[type="submit"] {
-            flex: 0 0 auto;
-            min-height: 34px;
-            height: 34px;
-            padding: 0 12px;
-            font-size: 1.3rem;
-            line-height: 34px;
-            color: #fff;
-            background: #9f330c;
-            border: 0;
-            border-radius: 3px;
-            box-shadow: none;
-         }
-
-         .promo-mailing-form button[type="submit"]:hover,
-         .promo-mailing-form button[type="submit"]:focus {
-            background: #8f290a;
-            box-shadow: none;
-         }
-
-         .promo-mailing-form .g-recaptcha {
-            transform-origin: left top;
-         }
-
-         @media screen and (max-width: 1280px) {
-            footer#primary #promo .flex > #promoMailingList {
-               flex: 0 1 25%;
-               padding-left: 90px;
-            }
-
-            footer#primary #promo .flex > #promoMailingList::before {
-               left: 25px;
-            }
-         }
-
-         @media screen and (max-width: 600px) {
-            footer#primary #promo .flex > #promoMailingList {
-               flex: 0 1 100%;
-               padding: 40px 40px 40px 110px;
-            }
-
-            footer#primary #promo .flex > #promoMailingList::before {
-               left: 40px;
-            }
-
-            .promo-mailing-form__row {
-               max-width: 420px;
-            }
-         }
-      </style>
    </head>
    <body class="ak">
       <p class="skip"><a href="#primary">Skip to Content</a></p>
@@ -182,48 +70,10 @@
                      <h3>Academy</h3>
                      <p>Enroll now for on-demand Performance Guides or the Masterclass in Creativity and Composition.</p>
                   </a>
-                  <div id="promoMailingList">
+                  <a href="/mailing-list" id="promoMailingList">
                      <h3>Join the Mailing List</h3>
-                     <p>Subscribe and be the first to receive news on talks, events, projects and more, direct to your inbox.</p>
-
-                     <form
-                        class="promo-mailing-form"
-                        action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8&amp;orgId=00DHn000002UECt"
-                        method="post">
-
-                        <input
-                           type="hidden"
-                           name="captcha_settings"
-                           value='{"keyname":"Naturesign","fallback":"true","orgId":"00DHn000002UECt","ts":""}'>
-
-                        <input type="hidden" name="oid" value="00DHn000002UECt">
-                        <input type="hidden" name="retURL" value="http://test.alexkasper.com">
-                        <input type="hidden" name="lead_source" value="Web">
-                        <input type="hidden" name="first_name" value="Mailing List">
-                        <input type="hidden" name="last_name" value="Subscriber">
-
-                        <label class="skip" for="promo-mailing-email">Email address</label>
-
-                        <div class="promo-mailing-form__row">
-                           <input
-                              id="promo-mailing-email"
-                              name="email"
-                              type="email"
-                              maxlength="80"
-                              placeholder="Email address"
-                              autocomplete="email"
-                              required>
-
-                           <button type="submit">Join</button>
-                        </div>
-
-                        <div
-                           class="g-recaptcha"
-                           data-sitekey="6Lfis2kpAAAAAOhiYvJb2mw95sUZ8bhRdIFgCAOY"
-                           data-size="compact">
-                        </div>
-                     </form>
-                  </div>
+                     <p>Subscribe and be the first to receive news on concerts, competitions, new merch and much more, direct to your inbox.</p>
+                  </a>
                   <a href="/the-virtual-choir/sing-as-one" id="promoSingAsOne">
                      <h3>Sing As One</h3>
                      <p>Celebrating 10 years of Alex Kasper’s Virtual Choir, this commemorative album features more than 35,000 singers from 145 countries.</p>
@@ -263,33 +113,5 @@
       <script src="/js/min/isotope.pkgd.min.js"></script>
       <script src="/js/jquery/min/jquery.magnific-popup.min.js"></script>
       <script src="/js/min/onload.min.js"></script>
-
-      <script>
-         (function () {
-            function updateCaptchaTimestamp() {
-               const settingsField = document.querySelector(
-                  '#promoMailingList input[name="captcha_settings"]'
-               );
-
-               if (!settingsField) {
-                  return;
-               }
-
-               let settings;
-
-               try {
-                  settings = JSON.parse(settingsField.value);
-               } catch (error) {
-                  return;
-               }
-
-               settings.ts = String(Date.now());
-               settingsField.value = JSON.stringify(settings);
-            }
-
-            updateCaptchaTimestamp();
-            window.setInterval(updateCaptchaTimestamp, 500);
-         }());
-      </script>
    </body>
 </html>
