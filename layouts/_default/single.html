@@ -1,39 +1,39 @@
 {{ define "main" }}
 
 <main id="primary">
-  <section class="content columns clearfix">
+  <section class="content clearfix">
 
-    <section>
-      <section class="block">
-        <article class="page" data-pagefind-body>
+    <section class="block">
+      <article class="page" data-pagefind-body>
 
-          <header>
+        <header>
 
+          {{ if not .Params.hideDate }}
             {{ with .Date }}
-            <p class="meta">
-              {{ .Format "January 2, 2006" }}
-            </p>
+              <p class="meta">
+                {{ .Format "January 2, 2006" }}
+              </p>
             {{ end }}
+          {{ end }}
 
-            <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+          <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
-          </header>
+        </header>
 
-          {{ with .Resources.GetMatch "cover.*" }}
+        {{ with .Resources.GetMatch "cover.*" }}
           <figure class="page-cover">
             <img
               src="{{ .RelPermalink }}"
               alt="{{ $.Title }}"
               loading="eager">
           </figure>
-          {{ end }}
+        {{ end }}
 
-          <div class="fullPost clearfix">
-            {{ .Content }}
-          </div>
+        <div class="fullPost clearfix">
+          {{ .Content }}
+        </div>
 
-        </article>
-      </section>
+      </article>
     </section>
 
   </section>

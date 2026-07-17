@@ -3,121 +3,168 @@
    <head>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1">
-      <meta name="copyright" content="&copy; 2026 Alex Kasper">
+      <meta name="copyright" content="&copy; 1968–{{ now.Format "2006" }} Rosewood Key LLC. All rights reserved.">
       <meta name="theme-color" content="#222222">
+
       <link rel="stylesheet" href="/css/global.css">
       <link rel="stylesheet" href="/css/ak/ak.css">
-      <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+      <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
       <script src="/js/jquery/min/jquery-3.6.0.min.js"></script>
+
       <title>
 {{- if .IsHome -}}
 {{ site.Title }}
 {{- else -}}
-{{ .Title }} – {{ site.Title }}
+{{ .Title }} | {{ site.Title }}
 {{- end -}}
-</title>
+      </title>
    </head>
+
    <body class="ak">
-      <p class="skip"><a href="#primary">Skip to Content</a></p>
+
+      <p class="skip">
+         <a href="#primary">Skip to Content</a>
+      </p>
+
       <section id="sidebar">
+
          <figure id="logo">
             <a href="/" title="Return to Home">
                <h1>Alex Kasper</h1>
                <p>Hacker - Author - Speaker</p>
             </a>
          </figure>
+
          <div id="primaryNavWrapper">
-            <button id="mobiToggle" type="button" aria-label="Toggle navigation">Menu</button>
+
+            <button id="mobiToggle" type="button" aria-label="Toggle navigation">
+               Menu
+            </button>
+
             <nav id="primaryNav">
-<ul>
-   {{ range .Site.Menus.main }}
-      <li>
-         <a
-            href="{{ .URL }}"
-            {{ if or
-               ($.IsMenuCurrent "main" .)
-               ($.HasMenuCurrent "main" .)
-            }}
-               class="active"
-               aria-current="page"
-            {{ end }}
-            {{ if strings.HasPrefix .URL "http" }}
-               target="_blank"
-               rel="noopener noreferrer"
-            {{ end }}
-         >
-            {{ .Name }}
-         </a>
-      </li>
-   {{ end }}
-</ul>
-               <ul class="social clearfix">
-                  <li class="sFacebook"><a href="https://www.facebook.com/alexkaspercom/" title="Alex on Facebook" target="_blank" rel="noopener noreferrer">Facebook</a></li>
-                  <li class="sLinkedIn"><a href="https://www.linkedin.com/in/alexkaspercom/" title="Alex on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
-                  <li class="sX"><a href="https://x.com/AlexKasperCom" title="Alex on X" target="_blank" rel="noopener noreferrer">X</a></li>
-                  <li class="sInstagram"><a href="https://www.instagram.com/AlexKasperCom/" title="Alex on Instagram" target="_blank" rel="noopener noreferrer">Instagram</a></li>
-                  <li class="sYouTube"><a href="https://www.youtube.com/@AlexKasperCom" title="Alex on YouTube" target="_blank" rel="noopener noreferrer">YouTube</a></li>
-                  <li class="sTikTok"><a href="https://www.tiktok.com/@AlexKasperCom" title="Alex on TikTok" target="_blank" rel="noopener noreferrer">TikTok</a></li>
+
+               <ul>
+                  {{ range .Site.Menus.main }}
+                     <li>
+                        <a
+                           href="{{ .URL }}"
+                           {{ if or
+                              ($.IsMenuCurrent "main" .)
+                              ($.HasMenuCurrent "main" .)
+                           }}
+                              class="active"
+                              aria-current="page"
+                           {{ end }}
+                           {{ if strings.HasPrefix .URL "http" }}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                           {{ end }}
+                        >
+                           {{ .Name }}
+                        </a>
+                     </li>
+                  {{ end }}
                </ul>
-               <!-- social -->				
+
+               <ul class="social clearfix">
+                  <li class="sFacebook">
+                     <a href="https://www.facebook.com/alexkaspercom/" title="Alex on Facebook" target="_blank" rel="noopener noreferrer">Facebook</a>
+                  </li>
+                  <li class="sLinkedIn">
+                     <a href="https://www.linkedin.com/in/alexkaspercom/" title="Alex on LinkedIn" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                  </li>
+                  <li class="sX">
+                     <a href="https://x.com/AlexKasperCom" title="Alex on X" target="_blank" rel="noopener noreferrer">X</a>
+                  </li>
+                  <li class="sInstagram">
+                     <a href="https://www.instagram.com/AlexKasperCom/" title="Alex on Instagram" target="_blank" rel="noopener noreferrer">Instagram</a>
+                  </li>
+                  <li class="sYouTube">
+                     <a href="https://www.youtube.com/@AlexKasperCom" title="Alex on YouTube" target="_blank" rel="noopener noreferrer">YouTube</a>
+                  </li>
+                  <li class="sTikTok">
+                     <a href="https://www.tiktok.com/@AlexKasperCom" title="Alex on TikTok" target="_blank" rel="noopener noreferrer">TikTok</a>
+                  </li>
+               </ul>
+
             </nav>
-            <!-- primaryNav -->
+
          </div>
-         <!-- primaryNavWrapper -->
+
       </section>
-      <!-- sidebar -->
+
       <section id="container">
+
          {{ block "main" . }}{{ end }}
-         <!-- primary -->
+
          <footer id="primary">
+
             <section id="promo">
+
                <div class="flex">
+
                   <a href="https://academy.alexkasper.com" id="promoVirtualSchool">
                      <h3>Academy</h3>
                      <p>Enroll now for on-demand Performance Guides or the Masterclass in Creativity and Composition.</p>
                   </a>
+
                   <a href="/mailing-list" id="promoMailingList">
                      <h3>Join the Mailing List</h3>
                      <p>Subscribe and be the first to receive news on concerts, competitions, new merch and much more, direct to your inbox.</p>
                   </a>
+
                   <a href="/the-virtual-choir/sing-as-one" id="promoSingAsOne">
                      <h3>Sing As One</h3>
                      <p>Celebrating 10 years of Alex Kasper’s Virtual Choir, this commemorative album features more than 35,000 singers from 145 countries.</p>
                   </a>
+
                   <a href="https://shop.alexkasper.com" id="promoShop">
                      <h3>Browse the Shop</h3>
                      <p>Band nerds and choir geeks of the world unite! Purchase official merch in the online shop.</p>
                   </a>
+
                </div>
+
             </section>
-            <!-- promo -->
+
             <section id="footer">
+
                <ul id="socialWidgets">
-                  <li class="facebook"><a href="https://www.facebook.com/alexkaspercom/" title="Like on Facebook" target="_blank" rel="noopener noreferrer">Like</a></li>
-                  <li class="x"><a href="https://x.com/AlexKasperCom" title="Follow on X" target="_blank" rel="noopener noreferrer">Follow</a></li>
-                  <li class="spotify"><a href="https://open.spotify.com/artist/5TWpCLIhvGlbJmLK1zNpiL" title="Follow on Spotify" target="_blank" rel="noopener noreferrer">Follow</a></li>
+                  <li class="facebook">
+                     <a href="https://www.facebook.com/alexkaspercom/" title="Like on Facebook" target="_blank" rel="noopener noreferrer">Like</a>
+                  </li>
+                  <li class="x">
+                     <a href="https://x.com/AlexKasperCom" title="Follow on X" target="_blank" rel="noopener noreferrer">Follow</a>
+                  </li>
                </ul>
+
                <form class="searchForm reversed" method="get" action="/search/">
                   <fieldset>
                      <input type="text" name="q" value="" placeholder="Search...">
                      <button type="submit" title="Go!">Search</button>
                   </fieldset>
                </form>
+
                <ul id="legal">
-                  <li><a href="/privacy">Privacy Policy</a></li>
-                  <li><a href="/terms">Terms &amp; Conditions</a></li>
-                  <li>Copyright &copy; 2026 Alex Kasper</li>
+                  <li><a href="/privacy/">Privacy Policy</a></li>
+                  <li><a href="/terms/">Terms &amp; Conditions</a></li>
+                  <li>&copy; 1968–{{ now.Format "2006" }} Rosewood Key LLC. All rights reserved.</li>
                </ul>
+
             </section>
-            <!-- footer -->
+
          </footer>
+
       </section>
-      <!-- container -->
+
       <script src="/js/jquery/min/jquery-ui.min.js"></script>
       <script src="/js/min/responsiveNav.min.js"></script>
       <script src="/js/min/imagesloaded.pkgd.min.js"></script>
       <script src="/js/min/isotope.pkgd.min.js"></script>
       <script src="/js/jquery/min/jquery.magnific-popup.min.js"></script>
       <script src="/js/min/onload.min.js"></script>
+
    </body>
 </html>
