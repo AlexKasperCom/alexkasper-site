@@ -2,11 +2,11 @@
 title: "Alex Kasper"
 description: "The official website of Alex Kasper."
 
-heroText: >
-  *Wired* called him “the one that got away.” Kevin Mitnick called him his
-  “unindicted co-conspirator.” Today, Alex Kasper shows you the most
-  effective hacking technique ever devised, and how AI takes it to scale.
-
+heroText: >  
+  *Wired* called him “the one that got away.” Kevin Mitnick called him his 
+  “unindicted co-conspirator.” Today, Alex Kasper breaks down the most 
+  effective hacking technique ever devised, and shows how AI scales it up.
+  
 heroLinks:
   - title: "Biography"
     url: "/biography"
