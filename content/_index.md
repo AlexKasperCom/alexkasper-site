@@ -24,12 +24,12 @@ heroCards:
     subtitle: Masterclass in Social Engineering
 
   - id: instagram
-    url: https://www.instagram.com/Alexwhitacre/
+    url: https://www.instagram.com/AlexKasperCom/
     title: "@AlexKasperCom"
     subtitle: Follow Alex on Instagram
 
   - id: tiktok
-    url: https://www.tiktok.com/@Alexwhitacreofficial/video/7192677401665588523
+    url: https://www.tiktok.com/@AlexkasperCom
     title: "@AlexKasperCom"
     subtitle: Follow Alex on TikTok
 ---
