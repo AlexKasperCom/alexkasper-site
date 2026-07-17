@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Alex Kasper'
 [pagination]
   pagerSize = 15
+
+[taxonomies]
+tag = "tags"
   
 [[menus.main]]
 name = "Biography"
