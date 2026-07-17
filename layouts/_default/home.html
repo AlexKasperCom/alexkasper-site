@@ -1,38 +1,37 @@
 {{ define "main" }}
 <main id="primary">
    <header id="hero">
-      <article id="biography">
-         <div class="wrapper">
-            <p>Wired called him "the one that got away." Kevin Mitnick called him his "unindicted co-conspirator." Today, Alex Kasper can help you understand the human side of cybersecurity and the growing threats and opportunities from AI&#8230;</p>
-            <ul>
-               <li><a href="/biography">Biography</a></li>
-               <li><a href="/music-catalog">Exploit Catalog</a></li>
-               <li><a href="/recordings">Videos</a></li>
-            </ul>
-         </div>
-      </article>
-      <!-- biography -->
-      <a href="https://academy.alexkasper.com" id="virtualSchool">
+<article id="biography">
+   <div class="wrapper">
+
+      {{ with .Params.heroText }}
+      <p>{{ . | markdownify }}</p>
+      {{ end }}
+
+      {{ with .Params.heroLinks }}
+      <ul>
+         {{ range . }}
+         <li><a href="{{ .url }}">{{ .title }}</a></li>
+         {{ end }}
+      </ul>
+      {{ end }}
+
+   </div>
+</article>
+<!-- biography -->
+      {{ with .Params.heroCards }}
+      {{ range . }}
+      <a href="{{ .url }}"
+         id="{{ .id }}"
+         target="_blank"
+         rel="noopener noreferrer">
          <span class="caption">
-            <h2>Join the Academy</h2>
-            <h3>Masterclass in Social Engineering</h3>
+            <h2>{{ .title }}</h2>
+            <h3>{{ .subtitle }}</h3>
          </span>
       </a>
-      <!-- virtualSchool -->
-      <a href="https://www.instagram.com/Alexwhitacre/" id="instagram" target="_blank">
-         <span class="caption">
-            <h2>@AlexKasperCom</h2>
-            <h3>Follow Alex on Instagram</h3>
-         </span>
-      </a>
-      <!-- instagram -->
-      <a href="https://www.tiktok.com/@Alexwhitacreofficial/video/7192677401665588523" id="tiktok" target="_blank">
-         <span class="caption">
-            <h2>@AlexKasperCom</h2>
-            <h3>Follow Alex on TikTok</h3>
-         </span>
-      </a>
-      <!-- tiktok -->
+      {{ end }}
+      {{ end }}
    </header>
    <!-- hero -->
    <section id="latest" class="content columns clearfix">

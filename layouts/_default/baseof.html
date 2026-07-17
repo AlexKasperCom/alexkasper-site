@@ -9,7 +9,13 @@
       <link rel="stylesheet" href="/css/ak/ak.css">
       <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
       <script src="/js/jquery/min/jquery-3.6.0.min.js"></script>
-      <title>{{ if .Title }}{{ .Title }} – {{ end }}Alex Kasper</title>
+      <title>
+{{- if .IsHome -}}
+{{ site.Title }}
+{{- else -}}
+{{ .Title }} – {{ site.Title }}
+{{- end -}}
+</title>
    </head>
    <body class="ak">
       <p class="skip"><a href="#primary">Skip to Content</a></p>
