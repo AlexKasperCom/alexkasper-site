@@ -4,9 +4,9 @@
 <article id="biography">
    <div class="wrapper">
 
-      {{ with .Params.heroText }}
-      <p>{{ . | markdownify }}</p>
-      {{ end }}
+{{ with .Params.heroText }}
+    <p>{{ . | markdownify }}</p>
+{{ end }}
 
       {{ with .Params.heroLinks }}
       <ul>

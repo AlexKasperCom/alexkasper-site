@@ -77,7 +77,7 @@
      text-align: center;
      background-color: var(--color-black);
 }
- #container {
+#container {
      position: relative;
      display: flex;
      flex-direction: column;
@@ -101,7 +101,7 @@
  a:active {
      color: var(--color-accent-active);
 }
- #logo {
+#logo {
      position: relative;
      display: block;
      width: 320px;
@@ -109,7 +109,7 @@
      margin: 60px auto;
      overflow: hidden;
 }
- #logo a:link, #logo a:visited {
+#logo a:link, #logo a:visited {
      position: absolute;
      display: block;
      top: 0;
@@ -119,7 +119,7 @@
      background: transparent url("/img/ak/signatureLogo.svg") center 0 no-repeat;
      background-size: 100% auto;
 }
- #logo a:link h1, #logo a:visited h1 {
+#logo a:link h1, #logo a:visited h1 {
      margin: 0;
      font-family: var(--font-display);
      font-weight: var(--weight-medium);
@@ -129,7 +129,7 @@
      text-indent: -9999px;
      overflow: hidden;
 }
- #logo a:link p, #logo a:visited p {
+#logo a:link p, #logo a:visited p {
      margin: 0;
      font-family: var(--font-display);
      font-weight: var(--weight-normal);
@@ -138,11 +138,11 @@
      text-indent: -9999px;
      overflow: hidden;
 }
- #primaryNavWrapper {
+#primaryNavWrapper {
      margin: 0;
      padding: 0;
 }
- #primaryNavWrapper nav#primaryNav > ul:first-of-type {
+#primaryNavWrapper nav#primaryNav > ul:first-of-type {
      display: block;
      margin: 0 0 40px 0;
      padding: 40px 0;
@@ -152,12 +152,12 @@
      border-top: 1px solid var(--color-text);
      border-bottom: 1px solid var(--color-text);
 }
- #primaryNavWrapper nav#primaryNav > ul:first-of-type > li {
+#primaryNavWrapper nav#primaryNav > ul:first-of-type > li {
      margin: 0;
      padding: 0;
      list-style-type: none;
 }
- #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:visited {
+#primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:visited {
      position: relative;
      display: block;
      margin: 0;
@@ -172,16 +172,16 @@
      text-decoration: none;
      color: var(--color-light);
 }
- #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:active, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:hover {
+#primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:active, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a:hover {
      color: var(--color-panel);
 }
- #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:visited {
+#primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li a.active:visited {
      color: var(--color-accent);
 }
- #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-ancestor a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-ancestor a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-item a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-item a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-parent a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-parent a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-page-ancestor a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-page-ancestor a:visited {
+#primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-ancestor a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-ancestor a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-item a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-item a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-parent a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-menu-parent a:visited, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-page-ancestor a:link, #primaryNavWrapper nav#primaryNav > ul:first-of-type > li.current-page-ancestor a:visited {
      color: var(--color-accent);
 }
- #primaryNavWrapper #mobiToggle {
+#primaryNavWrapper #mobiToggle {
      display: none;
      position: absolute;
      top: 30px;
@@ -203,7 +203,7 @@
      cursor: pointer;
      z-index: 300;
 }
- #primaryNavWrapper #mobiToggle:before {
+#primaryNavWrapper #mobiToggle:before {
      position: absolute;
      top: 11px;
      left: 11px;
@@ -213,13 +213,13 @@
      content: "";
      z-index: 0;
 }
- #primaryNavWrapper #mobiToggle.active {
+#primaryNavWrapper #mobiToggle.active {
      width: 40px;
      padding: 0;
      text-indent: -9999px;
      overflow: hidden;
 }
- #primaryNavWrapper #mobiToggle.active:before {
+#primaryNavWrapper #mobiToggle.active:before {
      left: 8px;
      background-position: -500px -250px;
 }
@@ -232,30 +232,61 @@
      background-color: var(--color-muted);
      overflow: hidden;
 }
- header#hero #biography {
-     display: block;
-     position: absolute;
-     top: 0;
-     left: 0;
-     width: 50%;
-     height: 100%;
-     background: var(--color-light) url("/img/ak/hero/biography.v1.jpg") center center no-repeat;
-     background-size: cover;
+/* Biography hero image and edge-to-edge text scrim */
+header#hero #biography {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+  background:
+    var(--color-light)
+    url("/img/ak/hero/biography.v1.jpg")
+    center center / cover
+    no-repeat;
 }
- header#hero #biography .wrapper {
-     position: absolute;
-     bottom: 0;
-     left: 0;
-     width: 100%;
-     height: auto;
-     padding: 120px 200px 60px 60px;
-     background-image: linear-gradient( 185deg, transparent 30%, rgba(0, 0, 0, 0.8) 100% );
+
+header#hero #biography::after {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 60%;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.72) 0%,
+    rgba(0, 0, 0, 0.64) 20%,
+    rgba(0, 0, 0, 0.55) 40%,
+    rgba(0, 0, 0, 0.34) 60%,
+    rgba(0, 0, 0, 0.18) 75%,
+    rgba(0, 0, 0, 0.06) 90%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  content: "";
+  pointer-events: none;
+  z-index: 1;
 }
- header#hero #biography p {
-     margin-bottom: 0;
-     font-size: var(--text-lg);
-     line-height: 2.6rem;
-     color: var(--color-panel);
+
+header#hero #biography .wrapper {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  padding: 120px 200px 60px 60px;
+  background: none;
+  z-index: 2;
+}
+
+header#hero #biography p {
+  max-width: 650px;
+  margin-bottom: 0;
+  font-size: var(--text-lg);
+  line-height: 2.6rem;
+  color: var(--color-panel);
 }
  header#hero #biography ul {
      display: block;
@@ -367,34 +398,34 @@
  header#hero #tiktok .caption:before {
      background-position: -200px -150px;
 }
- #latest > section:first-child {
+#latest > section:first-child {
      flex: 0 1 calc(66.6666666667% - 10px);
      margin-right: 10px;
 }
- #latest > section:nth-child(2) {
+#latest > section:nth-child(2) {
      flex: 0 1 calc(33.3333333333% - 10px);
      margin-left: 10px;
 }
- #upcomingEvents {
+#upcomingEvents {
      padding-bottom: 30px;
 }
- #upcomingEvents #eventsOverview {
+#upcomingEvents #eventsOverview {
      padding-top: 15px;
      border-top: 1px solid var(--color-border);
 }
- #upcomingEvents #eventsOverview .event {
+#upcomingEvents #eventsOverview .event {
      position: relative;
      min-height: 58px;
      margin: 0 0 15px 0;
      padding: 0 0 15px 0;
      border-bottom: 1px solid var(--color-border);
 }
- #upcomingEvents #eventsOverview .event:last-of-type {
+#upcomingEvents #eventsOverview .event:last-of-type {
      margin-bottom: 0;
      padding-bottom: 0;
      border-bottom: none;
 }
- #upcomingEvents #eventsOverview .eventDate {
+#upcomingEvents #eventsOverview .eventDate {
      position: absolute;
      top: -1px;
      left: -5px;
@@ -405,41 +436,41 @@
      text-align: center;
      text-transform: uppercase;
 }
- #upcomingEvents #eventsOverview .eventDate .month {
+#upcomingEvents #eventsOverview .eventDate .month {
      display: block;
      font-weight: var(--weight-semibold);
      font-size: var(--text-base);
      line-height: 2rem;
      color: var(--color-accent);
 }
- #upcomingEvents #eventsOverview .eventDate .day {
+#upcomingEvents #eventsOverview .eventDate .day {
      display: block;
      font-size: var(--text-4xl);
      line-height: 2.6rem;
      color: var(--color-accent);
 }
- #upcomingEvents #eventsOverview .eventDetail {
+#upcomingEvents #eventsOverview .eventDetail {
      margin-left: 50px;
      padding-left: 15px;
      border-left: 1px solid var(--color-border);
 }
- #upcomingEvents #eventsOverview .eventDetail p {
+#upcomingEvents #eventsOverview .eventDetail p {
      margin: 0;
      line-height: 1.6rem;
 }
- #upcomingEvents #eventsOverview .eventDetail h3 {
+#upcomingEvents #eventsOverview .eventDetail h3 {
      margin: -1px 0 5px 0;
 }
- #upcomingEvents #eventsOverview .eventDetail h3, #upcomingEvents #eventsOverview .eventDetail h3 a:link, #upcomingEvents #eventsOverview .eventDetail h3 a:visited {
+#upcomingEvents #eventsOverview .eventDetail h3, #upcomingEvents #eventsOverview .eventDetail h3 a:link, #upcomingEvents #eventsOverview .eventDetail h3 a:visited {
      color: var(--color-accent);
 }
- #upcomingEvents #eventsOverview .eventDetail h3 a:hover {
+#upcomingEvents #eventsOverview .eventDetail h3 a:hover {
      color: var(--color-accent-hover);
 }
- #upcomingEvents #eventsOverview .eventDetail h3 a:active {
+#upcomingEvents #eventsOverview .eventDetail h3 a:active {
      color: var(--color-accent-active);
 }
- #featuredAlbum:link, #featuredAlbum:visited {
+#featuredAlbum:link, #featuredAlbum:visited {
      display: block;
      position: relative;
      padding: 0;
@@ -448,13 +479,13 @@
      background-color: var(--color-black);
      border: none;
 }
- #featuredAlbum:link img, #featuredAlbum:visited img {
+#featuredAlbum:link img, #featuredAlbum:visited img {
      width: 100%;
      height: auto;
      vertical-align: middle;
      border-radius: 5px;
 }
- #featuredAlbum:link header, #featuredAlbum:visited header {
+#featuredAlbum:link header, #featuredAlbum:visited header {
      position: absolute;
      width: 100%;
      padding: 40px 40px 60px 40px;
@@ -464,13 +495,13 @@
      border-radius: 5px 5px 0 0;
      z-index: 100;
 }
- #featuredAlbum:link header h2, #featuredAlbum:visited header h2 {
+#featuredAlbum:link header h2, #featuredAlbum:visited header h2 {
      margin-bottom: 10px;
 }
- #featuredAlbum:link header h2, #featuredAlbum:link header h2 a:link, #featuredAlbum:link header h2 a:visited, #featuredAlbum:link header p, #featuredAlbum:link header p a:link, #featuredAlbum:link header p a:visited, #featuredAlbum:visited header h2, #featuredAlbum:visited header h2 a:link, #featuredAlbum:visited header h2 a:visited, #featuredAlbum:visited header p, #featuredAlbum:visited header p a:link, #featuredAlbum:visited header p a:visited {
+#featuredAlbum:link header h2, #featuredAlbum:link header h2 a:link, #featuredAlbum:link header h2 a:visited, #featuredAlbum:link header p, #featuredAlbum:link header p a:link, #featuredAlbum:link header p a:visited, #featuredAlbum:visited header h2, #featuredAlbum:visited header h2 a:link, #featuredAlbum:visited header h2 a:visited, #featuredAlbum:visited header p, #featuredAlbum:visited header p a:link, #featuredAlbum:visited header p a:visited {
      color: var(--color-panel);
 }
- #merch:link, #merch:visited, #totw:link, #totw:visited, #virtualChoir:link, #virtualChoir:visited {
+#merch:link, #merch:visited, #totw:link, #totw:visited, #virtualChoir:link, #virtualChoir:visited {
      display: block;
      width: 100%;
      height: 0;
@@ -480,13 +511,13 @@
      text-indent: -9999px;
      overflow: hidden;
 }
- #virtualChoir:link, #virtualChoir:visited {
+#virtualChoir:link, #virtualChoir:visited {
      padding: 0 0 45% 0;
      border: none;
      background: var(--color-black) url("/img/vc/hero.vc6.jpg") center center no-repeat;
      background-size: cover;
 }
- #virtualChoir:link span, #virtualChoir:visited span {
+#virtualChoir:link span, #virtualChoir:visited span {
      position: absolute;
      width: 100%;
      height: auto;
@@ -494,7 +525,7 @@
      left: 50%;
      transform: translate(-50%, -50%);
 }
- #virtualChoir:link span h2, #virtualChoir:visited span h2 {
+#virtualChoir:link span h2, #virtualChoir:visited span h2 {
      display: block;
      width: 60%;
      margin: 0 auto 30px auto;
@@ -506,44 +537,44 @@
      text-indent: -9999px;
      overflow: hidden;
 }
- #virtualChoir:link span button, #virtualChoir:visited span button {
+#virtualChoir:link span button, #virtualChoir:visited span button {
      white-space: nowrap;
 }
- #merch:link, #merch:visited {
+#merch:link, #merch:visited {
      padding: 0 0 40% 0;
      background: var(--color-text) url("/img/ak/officialMerch.svg") center center no-repeat;
      background-size: 70% auto;
 }
- #merch:hover {
+#merch:hover {
      background-color: var(--color-black-80);
 }
- #merch:active {
+#merch:active {
      background-color: var(--color-black);
 }
- #totw:link, #totw:visited {
+#totw:link, #totw:visited {
      margin: 0;
      padding: 0 0 30% 0;
      border: none;
      background: var(--color-muted) url("/img/ak/totw/totwReversed.v1-01.svg") center center no-repeat;
      background-size: 70% auto;
 }
- #totw:hover {
+#totw:hover {
      background-color: var(--color-muted-dark);
 }
- #totw:active {
+#totw:active {
      background-color: var(--color-muted-darker);
 }
 /* News article cover */
- .news-cover {
+.news-cover {
      float: left;
      margin: 0.25rem 1.75rem 1rem 0;
 }
- .news-cover img {
+.news-cover img {
      display: block;
      width: 180px;
      height: auto;
 }
- @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
      .news-cover {
          float: none;
          margin: 0 0 1rem;
@@ -554,17 +585,17 @@
     }
 }
 /* News list cover images */
- .news-tile-cover {
+.news-tile-cover {
      display: block;
      float: left;
      margin: 0.25rem 1.25rem 0.75rem 0;
 }
- .news-tile-cover img {
+.news-tile-cover img {
      display: block;
      width: 120px;
      height: auto;
 }
- @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
      .news-tile-cover {
          float: none;
          margin: 0 0 1rem;
@@ -575,36 +606,36 @@
     }
 }
 /* Inline contextual source link */
- .read-more:link, .read-more:visited {
+.read-more:link, .read-more:visited {
      color: var(--color-accent);
      font-weight: var(--weight-medium);
      text-decoration: none;
      white-space: nowrap;
 }
- .read-more:hover {
+.read-more:hover {
      color: var(--color-accent-hover);
      text-decoration: underline;
 }
- .read-more:active {
+.read-more:active {
      color: var(--color-accent-active);
 }
- .post header .meta {
+.post header .meta {
      margin: 0 0 0.25rem;
 }
- .post header h2 {
+.post header h2 {
      margin: 0 0 1.25rem;
 }
 /* Share Customization */
 /* Share dropdown */
- #share.share-menu {
+#share.share-menu {
      position: relative;
      display: inline-block;
      margin-top: 1.5rem;
 }
- #share .share-options[hidden] {
+#share .share-options[hidden] {
      display: none !important;
 }
- #share .share-options {
+#share .share-options {
      position: absolute;
      top: calc(100% + 6px);
      left: 0;
@@ -620,7 +651,7 @@
      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18);
 }
 /* Keep the main Share button styled like the site buttons */
- #share #share-toggle {
+#share #share-toggle {
      display: inline-block;
      width: auto;
      height: auto;
@@ -639,11 +670,11 @@
      appearance: none;
      cursor: pointer;
 }
- #share #share-toggle:hover, #share #share-toggle:focus {
+#share #share-toggle:hover, #share #share-toggle:focus {
      background: var(--color-button-hover);
 }
 /* Reset inherited social-button styling inside the dropdown */
- #share .share-options a, #share .share-options a:link, #share .share-options a:visited, #share .share-options button {
+#share .share-options a, #share .share-options a:link, #share .share-options a:visited, #share .share-options button {
      position: static;
      display: block;
      box-sizing: border-box;
@@ -671,13 +702,13 @@
      overflow: visible;
      cursor: pointer;
 }
- #share .share-options a:hover, #share .share-options a:focus, #share .share-options button:hover, #share .share-options button:focus {
+#share .share-options a:hover, #share .share-options a:focus, #share .share-options button:hover, #share .share-options button:focus {
      background: var(--color-panel-hover);
      color: var(--color-black-90);
      outline: none;
 }
 /* Contact Section Styles */
- .contact-layout {
+.contact-layout {
      box-sizing: border-box;
      display: grid;
      grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -687,80 +718,80 @@
      padding: 0;
      align-items: start;
 }
- .contact-layout > * {
+.contact-layout > * {
      box-sizing: border-box;
      min-width: 0;
      margin: 0;
 }
- .contact-layout__details h1 {
+.contact-layout__details h1 {
      margin: 0 0 28px;
 }
- .contact-intro {
+.contact-intro {
      margin-bottom: 30px;
 }
- .contact-section {
+.contact-section {
      margin: 0 0 30px;
      padding: 0 0 30px;
      border-bottom: 1px solid var(--color-border);
 }
- .contact-section:last-child {
+.contact-section:last-child {
      margin-bottom: 0;
      padding-bottom: 0;
      border-bottom: 0;
 }
- .contact-section h3 {
+.contact-section h3 {
      margin-bottom: 10px;
 }
- .contact-list {
+.contact-list {
      margin: 0;
      padding: 0;
 }
- .contact-list li {
+.contact-list li {
      margin: 0 0 6px;
      padding: 0;
      list-style: none;
 }
- .contact-publishing {
+.contact-publishing {
      margin: 30px 0 0;
      padding: 30px 0 0;
      border-top: 1px solid var(--color-border);
 }
- .contact-publishing h2 {
+.contact-publishing h2 {
      margin: 0 0 20px;
 }
- .contact-list li strong {
+.contact-list li strong {
      font-weight: inherit;
 }
- .contact-personal-note {
+.contact-personal-note {
      margin: 30px 0 0;
      padding: 30px 0 0;
      border-top: 1px solid var(--color-border);
 }
- .contact-personal-note h3 {
+.contact-personal-note h3 {
      margin: 0 0 18px;
 }
- .contact-personal-note__text {
+.contact-personal-note__text {
      margin-bottom: 20px;
 }
- .contact-personal-note__text p {
+.contact-personal-note__text p {
      margin: 0 0 20px;
 }
- .contact-personal-note__figure {
+.contact-personal-note__figure {
      margin: 0;
 }
- .contact-personal-note__figure img {
+.contact-personal-note__figure img {
      display: block;
      width: 100%;
      max-width: 100%;
      height: auto;
 }
- .contact-personal-note__figure figcaption {
+.contact-personal-note__figure figcaption {
      margin-top: 14px;
      font-size: var(--text-xs);
      line-height: 2rem;
      color: var(--color-body-light);
 }
- @media screen and (max-width: 800px) {
+@media screen and (max-width: 800px) {
      .contact-layout {
          display: block;
     }
@@ -769,39 +800,39 @@
     }
 }
 /* FAQ Sections styling */
- .faq-section > h2 {
+.faq-section > h2 {
      margin-top: 0;
 }
- .faq-intro {
+.faq-intro {
      margin-bottom: 30px;
 }
- .faq-group {
+.faq-group {
      margin-bottom: 30px;
 }
- .faq-group:last-child {
+.faq-group:last-child {
      margin-bottom: 0;
 }
- .faq-group h3 {
+.faq-group h3 {
      margin: 0 0 14px;
 }
- .faq-item {
+.faq-item {
      margin: 0;
      background-color: var(--color-panel);
      border: 1px solid var(--color-border);
      border-bottom: 0;
 }
- .faq-item:first-of-type {
+.faq-item:first-of-type {
      border-radius: 3px 3px 0 0;
 }
- .faq-item:last-child {
+.faq-item:last-child {
      border-bottom: 1px solid var(--color-border);
      border-radius: 0 0 3px 3px;
 }
- .faq-item:only-of-type {
+.faq-item:only-of-type {
      border-bottom: 1px solid var(--color-border);
      border-radius: var(--radius);
 }
- .faq-item summary {
+.faq-item summary {
      position: relative;
      padding: 12px 16px 12px 38px;
      font-weight: var(--weight-normal);
@@ -809,10 +840,10 @@
      cursor: pointer;
      list-style: none;
 }
- .faq-item summary::-webkit-details-marker {
+.faq-item summary::-webkit-details-marker {
      display: none;
 }
- .faq-item summary::before {
+.faq-item summary::before {
      position: absolute;
      top: 12px;
      left: 11px;
@@ -821,20 +852,21 @@
      line-height: 1;
      color: var(--color-muted-light);
 }
- .faq-item[open] summary::before {
+.faq-item[open] summary::before {
      content: "−";
 }
- .faq-item summary::after {
+.faq-item summary::after {
      display: none;
      content: none;
 }
- .faq-answer {
+.faq-answer {
      padding: 0 16px 14px 38px;
      color: var(--color-body);
 }
- .faq-answer > :last-child {
+.faq-answer > :last-child {
      margin-bottom: 0;
 }
+
 /* Mailing List */
 
 .mailing-list-page .block.intro,
@@ -966,14 +998,14 @@
   margin-bottom: 0;
 }
 /* News list tiles */
- .tile header .meta {
+.tile header .meta {
      margin-bottom: 0.15rem !important;
 }
- .tile header h3 {
+.tile header h3 {
      margin-top: 0 !important;
      margin-bottom: 1rem;
 }
- @media screen and (max-width: 1920px) {
+@media screen and (max-width: 1920px) {
      #sidebar {
          width: 400px;
     }
@@ -998,7 +1030,7 @@
          padding: 30px 30px 60px 30px;
     }
 }
- @media (min-width: 1440px) and (-webkit-min-device-pixel-ratio: 1.5), screen and (max-width: 1440px) {
+@media (min-width: 1440px) and (-webkit-min-device-pixel-ratio: 1.5), screen and (max-width: 1440px) {
      #sidebar {
          width: 340px;
     }
@@ -1041,6 +1073,9 @@
      header#hero #biography .wrapper {
          padding: 200px 40px 40px 40px;
     }
+     header#hero #biography::after {
+         height: 65%;
+    }
      header#hero #biography p {
          font-size: var(--text-sm);
          line-height: 2.2rem;
@@ -1056,7 +1091,7 @@
          padding: 0 0 60% 0;
     }
 }
- @media screen and (max-width: 1280px) {
+@media screen and (max-width: 1280px) {
      #sidebar {
          position: relative;
          width: 100%;
@@ -1093,7 +1128,7 @@
          height: calc(100vh - 150px);
     }
 }
- @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
      #primaryNavWrapper nav#primaryNav {
          width: 100vw;
     }
@@ -1126,24 +1161,40 @@
      header#hero #biography {
          position: relative;
          top: auto;
-         left: auto;
          right: auto;
          bottom: auto;
+         left: auto;
          width: 100%;
          height: auto;
          padding-top: 100vw;
-         background-size: 100% auto;
          background-position: center top;
+         background-size: cover;
+    }
+     header#hero #biography::after {
+         height: 72%;
+         background: linear-gradient(
+             to top,
+             rgba(0, 0, 0, 0.80) 0%,
+             rgba(0, 0, 0, 0.70) 22%,
+             rgba(0, 0, 0, 0.58) 42%,
+             rgba(0, 0, 0, 0.34) 62%,
+             rgba(0, 0, 0, 0.16) 78%,
+             rgba(0, 0, 0, 0.05) 91%,
+             rgba(0, 0, 0, 0) 100%
+         );
     }
      header#hero #biography .wrapper {
-         position: relative;
+         position: absolute;
          top: auto;
-         left: auto;
-         right: auto;
-         bottom: auto;
-         padding: 30px;
-         background-color: var(--color-muted);
-         background-image: none;
+         right: 0;
+         bottom: 0;
+         left: 0;
+         padding: 90px 30px 30px;
+         background: none;
+         z-index: 2;
+    }
+     header#hero #biography p {
+         max-width: none;
     }
      header#hero #biography ul {
          margin: 20px 0 0 0;
@@ -1189,4 +1240,3 @@
          padding-bottom: 20px;
     }
 }
- 
