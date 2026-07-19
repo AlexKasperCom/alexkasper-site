@@ -30,12 +30,26 @@
 
       <section id="sidebar">
 
-         <figure id="logo">
-            <a href="/" title="Return to Home">
-               <h1>Alex Kasper</h1>
-               <p>Hacker - Author - Speaker</p>
-            </a>
-         </figure>
+<figure id="logo">
+   <a href="/" title="{{ i18n "returnToHome" }}">
+      <img
+         class="logoSignature"
+         src="/img/signature.svg"
+         alt=""
+         aria-hidden="true"
+      >
+
+      <span class="logoName">Alex Kasper</span>
+
+<span class="logoTagline">
+  {{ i18n "hacker" }}
+  <span class="sep">•</span>
+  {{ i18n "author" }}
+  <span class="sep">•</span>
+  {{ i18n "speaker" }}
+</span>
+   </a>
+</figure>
 
          <div id="primaryNavWrapper">
 

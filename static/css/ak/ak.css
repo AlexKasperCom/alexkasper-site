@@ -101,43 +101,61 @@
  a:active {
      color: var(--color-accent-active);
 }
+
+/* Sidebar logo */
+
 #logo {
-     position: relative;
-     display: block;
-     width: 320px;
-     height: 109px;
-     margin: 60px auto;
-     overflow: hidden;
+    margin: 0;
+    padding: 52px 20px 62px;
+    text-align: center;
 }
-#logo a:link, #logo a:visited {
-     position: absolute;
-     display: block;
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 100%;
-     background: transparent url("/img/ak/signatureLogo.svg") center 0 no-repeat;
-     background-size: 100% auto;
+
+#logo a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: inherit;
+    text-decoration: none;
 }
-#logo a:link h1, #logo a:visited h1 {
-     margin: 0;
-     font-family: var(--font-display);
-     font-weight: var(--weight-medium);
-     font-size: var(--text-hero);
-     line-height: 4rem;
-     text-transform: uppercase;
-     text-indent: -9999px;
-     overflow: hidden;
+
+#logo .logoSignature {
+    display: block;
+    width: 82px;
+    max-width: none;
+    height: auto;
+    margin: 0 auto 10px;
 }
-#logo a:link p, #logo a:visited p {
-     margin: 0;
-     font-family: var(--font-display);
-     font-weight: var(--weight-normal);
-     font-size: var(--text-base);
-     text-transform: uppercase;
-     text-indent: -9999px;
-     overflow: hidden;
+
+#logo .logoName {
+    display: block;
+    color: var(--color-panel);
+    font-size: 2.95rem;
+    font-weight: var(--weight-medium);
+    line-height: 1;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    white-space: nowrap;
 }
+
+#logo .logoTagline {
+    display: block;
+    margin-top: 12px;
+    color: var(--color-light);
+    font-size: 1rem;
+    font-weight: var(--weight-normal);
+    line-height: 1;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    white-space: nowrap;
+}
+
+#logo .logoTagline .sep {
+    font-size: 0.85em;
+    line-height: 0;
+    vertical-align: 0.10em;
+    margin: 0 0.12em;
+}
+
 #primaryNavWrapper {
      margin: 0;
      padding: 0;
@@ -1034,11 +1052,7 @@ header#hero .caption h2 {
      #sidebar {
          width: 340px;
     }
-     #logo {
-         width: 280px;
-         height: 95px;
-         margin: 40px auto;
-    }
+
      #primaryNavWrapper nav#primaryNav > ul:first-of-type {
          margin: 0 0 30px 0;
          padding: 30px 0;
@@ -1098,11 +1112,7 @@ header#hero .caption h2 {
          min-height: auto;
          padding: 1px 0;
     }
-     #logo {
-         width: 280px;
-         height: 95px;
-         margin: 30px auto;
-    }
+
      #primaryNavWrapper nav#primaryNav {
          display: block;
          position: absolute;
