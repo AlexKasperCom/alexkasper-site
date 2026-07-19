@@ -1,8 +1,15 @@
 #!/bin/bash
-set -u
+set -euo pipefail
 
-SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+# Prevent Git from opening less or another pager for large change sets.
+export GIT_PAGER=cat
+export PAGER=cat
+
+# Maximum number of changed files to display in previews.
+PREVIEW_LIMIT=40
 
 cd "$SITE_DIR" || {
   echo "Could not open project:"
@@ -13,35 +20,66 @@ cd "$SITE_DIR" || {
 echo
 echo "Git status"
 echo "----------"
-git status --short
-echo
 
-if [[ -z "$(git status --porcelain)" ]]; then
+STATUS_OUTPUT="$(git status --porcelain=v1)"
+CHANGE_COUNT="$(printf '%s\n' "$STATUS_OUTPUT" | sed '/^$/d' | wc -l | tr -d ' ')"
+
+if [[ "$CHANGE_COUNT" -eq 0 ]]; then
   echo "There are no changes to commit."
   exit 0
 fi
 
-BRANCH=$(git branch --show-current)
+printf '%s\n' "$STATUS_OUTPUT" | head -n "$PREVIEW_LIMIT"
+
+if [[ "$CHANGE_COUNT" -gt "$PREVIEW_LIMIT" ]]; then
+  echo
+  echo "...and $((CHANGE_COUNT - PREVIEW_LIMIT)) more changed files."
+fi
+
+echo
+echo "Total changed files: $CHANGE_COUNT"
+
+BRANCH="$(git branch --show-current)"
+
+if [[ -z "$BRANCH" ]]; then
+  echo
+  echo "Cannot continue: Git is currently in a detached HEAD state."
+  exit 1
+fi
 
 echo "Branch: $BRANCH"
+
 echo
-git diff --stat
-echo
+echo "Change summary"
+echo "--------------"
+git --no-pager diff --stat --stat-count="$PREVIEW_LIMIT"
+
+UNTRACKED_COUNT="$(
+  git ls-files --others --exclude-standard |
+  sed '/^$/d' |
+  wc -l |
+  tr -d ' '
+)"
+
+if [[ "$UNTRACKED_COUNT" -gt 0 ]]; then
+  echo
+  echo "Untracked files: $UNTRACKED_COUNT"
+fi
 
 while true; do
+  echo
   read -r -p "What changed? " COMMIT_MESSAGE
 
-  if [[ -n "${COMMIT_MESSAGE// }" ]]; then
+  if [[ -n "${COMMIT_MESSAGE//[[:space:]]/}" ]]; then
     break
   fi
 
   echo "A commit message is required."
-  echo
 done
 
 echo
 echo "This will:"
-echo "  1. Add all changed and new files"
+echo "  1. Add all changed, deleted, and new files"
 echo "  2. Commit as: $COMMIT_MESSAGE"
 echo "  3. Push branch: $BRANCH"
 echo
@@ -60,14 +98,36 @@ esac
 
 echo
 echo "Adding files..."
-git add --all || exit 1
+git add --all
+
+if git diff --cached --quiet; then
+  echo "There are no staged changes to commit."
+  exit 0
+fi
 
 echo
 echo "Staged changes"
 echo "--------------"
-git diff --cached --stat
-echo
 
+STAGED_OUTPUT="$(git diff --cached --name-status)"
+STAGED_COUNT="$(printf '%s\n' "$STAGED_OUTPUT" | sed '/^$/d' | wc -l | tr -d ' ')"
+
+printf '%s\n' "$STAGED_OUTPUT" | head -n "$PREVIEW_LIMIT"
+
+if [[ "$STAGED_COUNT" -gt "$PREVIEW_LIMIT" ]]; then
+  echo
+  echo "...and $((STAGED_COUNT - PREVIEW_LIMIT)) more staged files."
+fi
+
+echo
+echo "Total staged files: $STAGED_COUNT"
+
+echo
+echo "Staged summary"
+echo "--------------"
+git --no-pager diff --cached --stat --stat-count="$PREVIEW_LIMIT"
+
+echo
 read -r -p "Commit and push these changes? [Y/n]: " FINAL_CONFIRM
 FINAL_CONFIRM="${FINAL_CONFIRM:-y}"
 
@@ -82,11 +142,11 @@ esac
 
 echo
 echo "Committing..."
-git commit -m "$COMMIT_MESSAGE" || exit 1
+git commit -m "$COMMIT_MESSAGE"
 
 echo
-echo "Pushing to GitHub..."
-git push || exit 1
+echo "Pushing branch $BRANCH to GitHub..."
+git push --set-upstream origin "$BRANCH"
 
 echo
 echo "Done."

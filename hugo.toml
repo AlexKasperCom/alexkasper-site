@@ -6,7 +6,13 @@ title = 'Alex Kasper'
 
 [taxonomies]
 tag = "tags"
-  
+
+[server]
+  [[server.redirects]]
+    from = "/**"
+    to = "/404.html"
+    status = 404
+    
 [[menus.main]]
 name = "Biography"
 pageRef = "/biography"
@@ -46,3 +52,6 @@ weight = 70
 name = "Contact"
 pageRef = "/contact"
 weight = 80
+[permalinks]
+  [permalinks.page]
+    news = '/news/:contentbasename/:slug/'

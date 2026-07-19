@@ -1,5 +1,7 @@
 ---
+id:                   # Immutable News ID, e.g. n000123. Replaced by new-news.
 title:
+slug:                 # Human-readable URL slug. Replaced by new-news from the title.
 
 date: "{{ now.Format "2006-01-02" }}" # Replaced by new-news with the cited work's publication date.
 
