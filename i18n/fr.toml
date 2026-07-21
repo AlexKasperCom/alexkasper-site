@@ -1,11 +1,5 @@
 [returnToHome]
 other = "Retour à l’accueil"
 
-[hacker]
-other = "Hacker"
-
-[author]
-other = "Auteur"
-
-[speaker]
-other = "Conférencier"
+[primary]
+other = "La tromperie décryptée"
