@@ -118,7 +118,7 @@
     text-decoration: none;
 }
 
-#logo .logoSignature {
+#logo .logoCircle {
     display: block;
     width: 82px;
     max-width: none;
@@ -139,12 +139,12 @@
 
 #logo .logoTagline {
     display: block;
-    margin-top: 12px;
+    margin-top: 8px;
     color: var(--color-light);
-    font-size: 1rem;
-    font-weight: var(--weight-normal);
+    font-size: 1.15rem;
+    font-weight: var(--weight-medium);
     line-height: 1;
-    letter-spacing: 0.28em;
+    letter-spacing: 0.26em;
     text-transform: uppercase;
     white-space: nowrap;
 }
