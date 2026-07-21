@@ -8,20 +8,14 @@ heroText: >
   effective hacking technique ever devised, and shows how AI scales it up.
   
 heroLinks:
-  - title: "Biography"
-    url: "/biography"
-
-  - title: "Hack Catalog"
-    url: "/exploit-catalog"
-
-  - title: "Videos"
-    url: "/videos"
+  - title: "About"
+    url: "/about"
 
 heroCards:
   - id: virtualSchool
-    url: https://academy.alexkasper.com
-    title: Join the School
-    subtitle: Masterclass in Social Engineering
+    url: "/projects/"
+    title: Manufactured Urgency
+    subtitle: Book coming soon
 
   - id: instagram
     url: https://www.instagram.com/AlexKasperCom/

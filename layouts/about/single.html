@@ -52,7 +52,7 @@
               <p>{{ .text }}</p>
 
               {{ with .source }}
-                <cite>— {{ . }}</cite>
+                <cite>— {{ . | markdownify }}</cite>
               {{ end }}
             </div>
           </div>

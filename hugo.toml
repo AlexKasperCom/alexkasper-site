@@ -14,19 +14,19 @@ tag = "tags"
     status = 404
     
 [[menus.main]]
-name = "Biography"
-pageRef = "/biography"
+name = "About"
+pageRef = "/about"
 weight = 10
-
-[[menus.main]]
-name = "Events"
-pageRef = "/events"
-weight = 20
 
 [[menus.main]]
 name = "News"
 pageRef = "/news"
 weight = 30
+
+[[menus.main]]
+name = "Events"
+pageRef = "/events"
+weight = 40
 
 [[menus.main]]
 name = "Projects"

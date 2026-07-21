@@ -1,10 +1,10 @@
 ---
-title: "Biography"
+title: "About Alex"
 date: 2026-07-14
 
 quote:
   text: "...the one that got away."
-  source: "Wired"
+  source: "_Wired_"
 
 carousel:
   - image: "alex-01.jpg"
@@ -32,23 +32,23 @@ featured_title: "Selected Press"
 featured:
   - id: wired
     name: "Wired"
-    page: "/news/a-tale-of-two-hackers/"    
+    page: "/news/n000072/a-tale-of-two-hackers/"    
 
   - id: wallStreetJournal
     name: "The Wall Street Journal"
-    page: "/news/ex-hacker-kevin-mitnick-teaches-from-experience/"
+    page: "/news/n000069/ex-hacker-kevin-mitnick-teaches-from-experience/"
 
   - id: kfiAm640
     name: "KFI AM 640"
-    page: "/news/darkside-of-the-internet/"
+    page: "/news/n000059/darkside-of-the-internet/"
 
   - id: businessWire
     name: "Business Wire"
-    page: "/news/and-the-winner-is-3do-awards-honor-best-of-the-best/"
+    page: "/n000041/and-the-winner-is-3do-awards-honor-best-of-the-best/"
 
   - id: electronicGamingMonthly
     name: "Electronic Gaming Monthly"
-    page: "/news/egm-game-of-month/"
+    page: "/news/n000016/egm-game-of-month/"
     
 faq_title: "Frequently Asked Questions"
 
