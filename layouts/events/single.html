@@ -1,40 +1,234 @@
 {{ define "main" }}
 
+{{ $page := . }}
+
+{{ $startDate := time.AsTime .Params.startDate }}
+
+{{ $endDate := $startDate }}
+{{ with .Params.endDate }}
+  {{ $endDate = time.AsTime . }}
+{{ end }}
+
 <main id="primary">
-  <section class="content columns clearfix">
+  <section class="content clearfix">
 
-    <section>
-      <section class="block">
-        <article class="page" data-pagefind-body>
+    <ul class="categories clearfix">
+      <li class="current-cat">
+        <a href="/events/">Upcoming Events</a>
+      </li>
+      <li>
+        <a href="/events/archive/">Archive</a>
+      </li>
+    </ul>
 
-          <header>
+    <section class="columns event-single-columns">
 
-            {{ with .Date }}
-            <p class="meta">
-              {{ .Format "January 2, 2006" }}
-            </p>
-            {{ end }}
+      <!-- Main event content -->
+      <section>
+
+        <section id="eventWrapper" class="block">
+
+          <header class="event-header">
+
+            <h3 class="event-datetime">
+
+              <span class="day">
+                {{ if and
+                  (eq ($startDate.Format "2006-01") ($endDate.Format "2006-01"))
+                  (ne ($startDate.Format "2006-01-02") ($endDate.Format "2006-01-02"))
+                }}
+                  {{ $startDate.Format "January 2" }}–{{ $endDate.Format "2, 2006" }}
+
+                {{ else if ne
+                  ($startDate.Format "2006-01-02")
+                  ($endDate.Format "2006-01-02")
+                }}
+                  {{ $startDate.Format "January 2, 2006" }}–{{ $endDate.Format "January 2, 2006" }}
+
+                {{ else }}
+                  {{ $startDate.Format "January 2, 2006" }}
+                {{ end }}
+              </span>
+
+              {{ if ne
+                ($startDate.Format "2006-01-02T15:04")
+                ($endDate.Format "2006-01-02T15:04")
+              }}
+                at {{ $startDate.Format "3:04 pm" }}–{{ $endDate.Format "3:04 pm" }}
+              {{ else }}
+                at {{ $startDate.Format "3:04 pm" }}
+              {{ end }}
+
+            </h3>
 
             <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+            {{ if or
+              .Params.location
+              .Params.city
+              .Params.region
+              .Params.country
+            }}
+              <p class="location">
+                {{- with .Params.location -}}
+                  <span class="venue">{{ . }}</span>
+                {{- end -}}
+                {{- with .Params.city -}}
+                  {{- if $page.Params.location }}, {{ end -}}{{ . }}
+                {{- end -}}
+                {{- with .Params.region -}}
+                  {{- if or $page.Params.location $page.Params.city }}, {{ end -}}{{ . }}
+                {{- end -}}
+                {{- with .Params.country -}}
+                  {{- if or
+                    $page.Params.location
+                    $page.Params.city
+                    $page.Params.region
+                  }}, {{ end -}}{{ . }}
+                {{- end -}}
+              </p>
+            {{ end }}
+
+            {{ with .Params.externalUrl }}
+              <p class="event-action">
+                <a
+                  href="{{ . }}"
+                  class="button secondary"
+                  target="_blank"
+                  rel="noopener noreferrer">
+                  Event Website
+                </a>
+              </p>
+            {{ end }}
 
           </header>
 
           {{ with .Resources.GetMatch "cover.*" }}
-          <figure class="page-cover">
-            <img
-              src="{{ .RelPermalink }}"
-              alt="{{ $.Title }}"
-              loading="eager">
-          </figure>
+            <figure class="event-cover">
+              <img
+                src="{{ .RelPermalink }}"
+                alt="{{ $page.Title }}"
+                loading="eager">
+            </figure>
           {{ end }}
 
-          <div class="fullPost clearfix">
-            {{ .Content }}
-          </div>
+          {{ with .Content }}
+            <div class="fullPost clearfix" data-pagefind-body>
+              {{ . }}
+            </div>
+          {{ end }}
 
-        </article>
+        </section>
+        <!-- eventWrapper -->
+
       </section>
+
+      <!-- Upcoming-events sidebar -->
+      <section>
+
+        <section id="upcomingEvents" class="block simple">
+
+          <h2>
+            <a href="/events/" title="Upcoming Events">
+              Upcoming Events
+            </a>
+          </h2>
+
+          <div id="eventsOverview">
+
+            {{ $upcoming := slice }}
+
+            {{ range where site.RegularPages "Section" "events" }}
+              {{ $eventPage := . }}
+
+              {{ with .Params.startDate }}
+                {{ $eventStart := time.AsTime . }}
+
+                {{ $eventEnd := $eventStart }}
+                {{ with $eventPage.Params.endDate }}
+                  {{ $eventEnd = time.AsTime . }}
+                {{ end }}
+
+                {{ if ge $eventEnd now }}
+                  {{ $upcoming = $upcoming | append (dict
+                    "page" $eventPage
+                    "startDate" $eventStart
+                  ) }}
+                {{ end }}
+              {{ end }}
+            {{ end }}
+
+            {{ $upcoming = sort $upcoming "startDate" "asc" }}
+
+            {{ range first 5 $upcoming }}
+              {{ $eventPage := .page }}
+              {{ $eventStart := .startDate }}
+
+              <div class="event clearfix">
+
+                <div
+                  class="eventDate"
+                  title="{{ $eventStart.Format "January 2, 2006" }}">
+
+                  <span class="month">
+                    {{ $eventStart.Format "Jan" }}
+                  </span>
+
+                  <span class="day">
+                    {{ $eventStart.Format "02" }}
+                  </span>
+
+                </div>
+
+                <div class="eventDetail">
+
+                  <h3>
+                    <a
+                      href="{{ $eventPage.RelPermalink }}"
+                      title="Permanent Link to '{{ $eventPage.Title }}'">
+                      {{ $eventPage.Title }}
+                    </a>
+                  </h3>
+
+                  {{ if or
+                    $eventPage.Params.city
+                    $eventPage.Params.region
+                    $eventPage.Params.country
+                  }}
+                    <p class="location">
+                      {{- with $eventPage.Params.city -}}
+                        {{ . }}
+                      {{- end -}}
+                      {{- with $eventPage.Params.region -}}
+                        {{- if $eventPage.Params.city }}, {{ end -}}{{ . }}
+                      {{- end -}}
+                      {{- with $eventPage.Params.country -}}
+                        {{- if or
+                          $eventPage.Params.city
+                          $eventPage.Params.region
+                        }}, {{ end -}}{{ . }}
+                      {{- end -}}
+                    </p>
+                  {{ end }}
+
+                </div>
+
+              </div>
+
+            {{ else }}
+              <p>No upcoming events are currently scheduled.</p>
+            {{ end }}
+
+          </div>
+          <!-- eventsOverview -->
+
+        </section>
+        <!-- upcomingEvents -->
+
+      </section>
+
     </section>
+    <!-- event-single-columns -->
 
   </section>
 </main>

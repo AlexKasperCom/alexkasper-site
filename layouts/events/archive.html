@@ -4,11 +4,11 @@
   <section class="content clearfix">
 
     <ul class="categories clearfix">
-      <li class="current-cat">
-        <a href="{{ .RelPermalink }}">Upcoming Events</a>
-      </li>
       <li>
-        <a href="{{ .RelPermalink }}archive/">Archive</a>
+        <a href="/events/">Upcoming Events</a>
+      </li>
+      <li class="current-cat">
+        <a href="/events/archive/">Archive</a>
       </li>
     </ul>
 
@@ -18,9 +18,9 @@
       </div>
     {{ end }}
 
-    {{ $upcoming := slice }}
+    {{ $archive := slice }}
 
-    {{ range .RegularPages }}
+    {{ range where site.RegularPages "Section" "events" }}
       {{ $page := . }}
 
       {{ with .Params.startDate }}
@@ -31,8 +31,8 @@
           {{ $endDate = time.AsTime . }}
         {{ end }}
 
-        {{ if ge $endDate now }}
-          {{ $upcoming = $upcoming | append (dict
+        {{ if lt $endDate now }}
+          {{ $archive = $archive | append (dict
             "page" $page
             "startDate" $startDate
             "endDate" $endDate
@@ -41,11 +41,11 @@
       {{ end }}
     {{ end }}
 
-    {{ $upcoming = sort $upcoming "startDate" "asc" }}
+    {{ $archive = sort $archive "startDate" "desc" }}
 
     <div id="eventsFull">
 
-      {{ range $upcoming }}
+      {{ range $archive }}
         {{ $page := .page }}
         {{ $startDate := .startDate }}
         {{ $endDate := .endDate }}
@@ -86,6 +86,7 @@
           </p>
 
           <div class="title col">
+
             <h3>
               <a
                 href="{{ $page.RelPermalink }}"
@@ -94,27 +95,32 @@
               </a>
             </h3>
 
-{{ if or
-  $page.Params.location
-  $page.Params.city
-  $page.Params.region
-  $page.Params.country
-}}
-  <p class="location">
-    {{- with $page.Params.location -}}
-      <span class="venue">{{ . }}</span>
-    {{- end -}}
-    {{- with $page.Params.city -}}
-      {{- if $page.Params.location }}, {{ end -}}{{ . }}
-    {{- end -}}
-    {{- with $page.Params.region -}}
-      {{- if or $page.Params.location $page.Params.city }}, {{ end -}}{{ . }}
-    {{- end -}}
-    {{- with $page.Params.country -}}
-      {{- if or $page.Params.location $page.Params.city $page.Params.region }}, {{ end -}}{{ . }}
-    {{- end -}}
-  </p>
-{{ end }}
+            {{ if or
+              $page.Params.location
+              $page.Params.city
+              $page.Params.region
+              $page.Params.country
+            }}
+              <p class="location">
+                {{- with $page.Params.location -}}
+                  <span class="venue">{{ . }}</span>
+                {{- end -}}
+                {{- with $page.Params.city -}}
+                  {{- if $page.Params.location }}, {{ end -}}{{ . }}
+                {{- end -}}
+                {{- with $page.Params.region -}}
+                  {{- if or $page.Params.location $page.Params.city }}, {{ end -}}{{ . }}
+                {{- end -}}
+                {{- with $page.Params.country -}}
+                  {{- if or
+                    $page.Params.location
+                    $page.Params.city
+                    $page.Params.region
+                  }}, {{ end -}}{{ . }}
+                {{- end -}}
+              </p>
+            {{ end }}
+
           </div>
 
           <p class="buttons col">
@@ -128,7 +134,7 @@
         </div>
 
       {{ else }}
-        <p>No upcoming events are currently scheduled.</p>
+        <p>No archived events are currently available.</p>
       {{ end }}
 
     </div>
