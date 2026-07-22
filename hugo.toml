@@ -29,8 +29,8 @@ pageRef = "/events"
 weight = 40
 
 [[menus.main]]
-name = "Projects"
-pageRef = "/projects"
+name = "Files"
+pageRef = "/files"
 weight = 50
 
 [[menus.main]]
@@ -43,3 +43,4 @@ weight = 80
   [permalinks.page]
     news = '/news/:contentbasename/:slug/'
     events = '/events/:contentbasename/:slug/'
+    files = '/files/:contentbasename/:slug/'
