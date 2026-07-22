@@ -15,15 +15,15 @@ heroCards:
   - id: virtualSchool
     url: "/projects/"
     title: Manufactured Urgency
-    subtitle: Book coming soon
+    subtitle: Be the first to see it!
 
   - id: instagram
     url: https://www.instagram.com/AlexKasperCom/
     title: "@AlexKasperCom"
-    subtitle: Follow Alex on Instagram
+    subtitle: Follow on Instagram
 
   - id: tiktok
     url: https://www.tiktok.com/@AlexkasperCom
     title: "@AlexKasperCom"
-    subtitle: Follow Alex on TikTok
+    subtitle: Follow on TikTok
 ---

@@ -102,7 +102,7 @@
                {{ $upcoming := slice }}
                {{ range where site.RegularPages "Section" "events" }}
                {{ $eventPage := . }}
-               {{ with .Params.eventDate }}
+               {{ with .Params.startDate }}
                {{ $eventDate := time.AsTime . }}
                {{ if ge $eventDate now }}
                {{ $upcoming = $upcoming | append (dict

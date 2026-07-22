@@ -37,6 +37,9 @@ weight = 50
 name = "Contact"
 pageRef = "/contact"
 weight = 80
+
+
 [permalinks]
   [permalinks.page]
     news = '/news/:contentbasename/:slug/'
+    events = '/events/:contentbasename/:slug/'
