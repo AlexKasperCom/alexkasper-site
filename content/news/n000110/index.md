@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by corrections.com concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Corrections.com commentary discussing supervision and monitoring conditions imposed on hackers like Kevin Mitnick after release, comparing them to restrictions used for other offender categories."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Hackers, Sex Offenders, and All the Rest” by Art Bowker was published in corrections.com. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Corrections.com commentary discusses the supervision and monitoring conditions imposed on hackers like Kevin Mitnick after their release, comparing them to restrictions used for other categories of offenders such as sex offenders.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece considers how correctional and probation systems adapted existing supervision models to the relatively new challenge of monitoring computer-literate offenders.

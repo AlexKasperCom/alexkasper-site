@@ -6,7 +6,7 @@ date: "2008-07-20"
 
 draft: false
 source_type: article
-summary: "A article published by CNET concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "CNET report by Elinor Mills on live social-engineering demonstrations by Kevin Mitnick and other hackers, illustrating how attackers manipulate people rather than just computers to breach security."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Social Engineering 101: Mitnick and other hackers show how it's done” by Elinor Mills was published in CNET on 2008-07-20. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Elinor Mills's CNET report covers live social-engineering demonstrations by Kevin Mitnick and other hackers, showing how attackers can manipulate people — rather than exploit software flaws — to gain unauthorized access.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece uses Mitnick's own demonstrations to illustrate techniques like pretexting and impersonation, underscoring his standing as one of the best-known practitioners and explainers of social engineering.

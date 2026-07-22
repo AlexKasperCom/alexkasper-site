@@ -1,58 +1,33 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000037
 title: "Review: Return Fire"
 slug: 3do-japan-review-1995-07
-
 date: "1995-07-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "This 3DO Magazine (Japan) review presents Return Fire as a highly addictive, destruction-driven Capture the Flag action game that emphasizes tactical use of four distinct vehicles across large, cleverly designed maps."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "review"
-  - "japan"
-
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
-
+  - review
+  - japan
+author:
 publisher: "3DO Magazine (Japan)"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url:
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-07__jp__3DO-Magazine-Japan_Review_Return-Fire.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "40-49"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: ja
 ---
 This 3DO Magazine (Japan) review presents Return Fire as a highly addictive, destruction-driven Capture the Flag action game that emphasizes tactical use of four distinct vehicles across large, cleverly designed maps.

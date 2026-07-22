@@ -6,7 +6,7 @@ date: "2023-07-20"
 
 draft: false
 source_type: article
-summary: "An obituary or death notice documenting Kevin Mitnick’s life, career, and death in July 2023."
+summary: "Washington Post obituary of Kevin Mitnick, tracing his path from fugitive hacker to celebrated security consultant, following his death from pancreatic cancer at 59."
 projects:
   - kevin-mitnick
 tags:
@@ -33,6 +33,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick, hacker and fugitive turned security consultant, dies at 59” by Kelly Kasulis Cho was published in The Washington Post on 2023-07-20. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Washington Post obituary traces Kevin Mitnick's path from fugitive hacker to celebrated security consultant, following his death from pancreatic cancer at age 59.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece recounts his rise as the era's most notorious computer criminal, his arrest and imprisonment, and his subsequent decades-long career advising companies and governments on cybersecurity.

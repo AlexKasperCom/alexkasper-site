@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "An obituary or death notice documenting Kevin Mitnick’s life, career, and death in July 2023."
+summary: "Post by Kevin Mitnick's widow, Kimberley Mitnick, marking the one-year anniversary of his death."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Kimberley Mitnick one year death anniversary post” was published in x.com. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This is a post by Kevin Mitnick's widow, Kimberley Mitnick, marking the one-year anniversary of his death.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+It reflects the ongoing public remembrance of Mitnick by his family following his passing in July 2023.

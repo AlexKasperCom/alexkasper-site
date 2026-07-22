@@ -6,7 +6,7 @@ date: "1999-08-09"
 
 draft: false
 source_type: press-release
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "U.S. Department of Justice press release announcing Kevin Mitnick's sentencing to nearly four years in federal prison and restitution orders to the corporate victims of his hacking, following his 1999 guilty plea."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick sentenced to nearly four years in prison; computer hacker ordered to pay restitution to victim companies whose systems were compromised” was published in justice.gov on 1999-08-09. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This U.S. Department of Justice press release announces Kevin Mitnick's sentencing to nearly four years in federal prison, along with orders to pay restitution to the corporate victims whose systems he compromised, following his 1999 guilty plea.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The release outlines the scope of the sentence, which combined with time already served effectively set his release date, and lists the categories of harm the restitution order was meant to address.

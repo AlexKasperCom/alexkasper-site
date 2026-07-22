@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "FBI Records: The Vault release of investigative files on Kevin Mitnick covering his early hacking activity and prosecutions from 1981 through the 1990s."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“FBI investigative files concerning Kevin Mitnick (1981–1990s)” was published in FBI Records: The Vault. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This FBI Records: The Vault release contains investigative files on Kevin Mitnick covering his hacking activity and prosecutions from 1981 through the 1990s.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The documents provide the government's own investigative record of the case, spanning Mitnick's early juvenile offenses through the multi-year fugitive investigation that led to his 1995 arrest.

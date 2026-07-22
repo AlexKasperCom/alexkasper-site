@@ -6,7 +6,7 @@ date: "2005-12-27"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Kevin Mitnick and William L. Simon's follow-up to The Art of Deception, recounting real-world hacking incidents told from the perspective of the intruders themselves."
 projects:
   - kevin-mitnick
 tags:
@@ -33,6 +33,6 @@ time:
 duration:
 language: en
 ---
-“The Art of Intrusion: The Real Stories Behind the Exploits of Hackers, Intruders & Deceivers” by Kevin Mitnick, William L. Simon was published in Wiley Books on 2005-12-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*The Art of Intrusion*, Kevin Mitnick's follow-up to *The Art of Deception*, co-written with William L. Simon, recounts real-world hacking incidents told from the perspective of the intruders who carried them out.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The book expands on Mitnick's earlier work by profiling other hackers' techniques and motivations, continuing his effort to translate his own criminal-era knowledge into security education for a legitimate audience.

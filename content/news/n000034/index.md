@@ -2,50 +2,32 @@
 id: n000034
 title: "Destroy, Destroy, Destroy"
 slug: game-players-feature
-
 date: "1995-05-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "Three-page strategy guide by Jeff Lundrigan calling Return Fire \"one of the most kickin' games of the year.\" Rated B\\#4 with a score of 88\\%."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "feature"
-
+  - feature
 author:
   - "Lundigran, Jeff"
-
 publisher: "Game Players"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url:
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-05__en__Game-Players_Feature_Destroy-Destroy-Destroy.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "92-94"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: en
 ---
 Three-page strategy guide by Jeff Lundrigan calling Return Fire "one of the most kickin' games of the year." Rated B\#4 with a score of 88\%.

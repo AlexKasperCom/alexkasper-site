@@ -1,59 +1,34 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000033
 title: "Review: Return Fire — Superb"
 slug: south-wales-argus-review
-
 date: "1995-04-22"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "This South Wales Argus review describes Return Fire as a standout shoot-’em-up for the 3DO, praising its fast-paced action, multiple vehicle types, and satisfying level-based objectives centered on collecting the enemy flag."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "review"
-  - "mainstream-press"
-  - "uk"
-
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
-
+  - review
+  - mainstream-press
+  - uk
+author:
 publisher: "South Wales Argus"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url:
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-04-22__en__South-Wales-Argus_Review_Return-Fire.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "21"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: en
 ---
 This South Wales Argus review describes Return Fire as a standout shoot-’em-up for the 3DO, praising its fast-paced action, multiple vehicle types, and satisfying level-based objectives centered on collecting the enemy flag.

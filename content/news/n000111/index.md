@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Dignity Memorial concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Official obituary of Kevin David Mitnick published by Dignity Memorial, noting he is survived by his wife Kimberley Mitnick, who was pregnant with their first child at the time of his death."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“Kevin David Mitnick” was published in Dignity Memorial. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This is the official obituary of Kevin David Mitnick, published by the Dignity Memorial funeral home in Las Vegas following his death in July 2023.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+It notes that he is survived by his wife, Kimberley Mitnick, who was pregnant with their first child at the time of his death, and it was the first public notice of his passing, later cited by outlets including SecurityWeek.

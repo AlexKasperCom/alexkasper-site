@@ -6,7 +6,7 @@ date: "2012-07-19"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Computerworld concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Computerworld interview with Kevin Mitnick on mobile security threats and his advisory role at Zimperium, the mobile security startup whose board he sat on."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Interview: World's most famous hacker, Kevin Mitnick, on mobile security & Zimperium” by Darlene Storm was published in Computerworld on 2012-07-19. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Computerworld interview covers Kevin Mitnick's views on mobile security threats and his advisory role at Zimperium, the mobile security startup whose board of advisors he sat on.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Mitnick discusses emerging risks to smartphones and mobile networks, drawing on his security-consulting background to explain how the mobile threat landscape was evolving.

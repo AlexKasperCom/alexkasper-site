@@ -6,7 +6,7 @@ date: "2016-07-26"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by CNBC concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "CNBC “Greed Report” profiling history's most notorious white-collar fugitives, including a recap of Kevin Mitnick's two-year run from the FBI and his eventual 1995 capture in Raleigh, North Carolina."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Greed Report: These White-Collar Manhunts Will Make Your Head Spin” by Scott Cohn was published in CNBC on 2016-07-26. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This CNBC "Greed Report" profiles several of history's most notorious white-collar fugitives, including a recap of Kevin Mitnick's two-year run from the FBI after agents searched his home over a suspected probation violation in 1992.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece describes how a multi-agency task force finally caught Mitnick in a Raleigh, North Carolina apartment in 1995, and notes his later reinvention as head of a "white hat" security firm that tests companies' defenses.

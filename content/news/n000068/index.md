@@ -6,7 +6,7 @@ date: "2003-10-01"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Kevin Mitnick and William L. Simon's first book, presenting real and fictionalized social-engineering case studies to teach organizations how attackers manipulate employees into giving up sensitive information."
 projects:
   - kevin-mitnick
 tags:
@@ -33,6 +33,6 @@ time:
 duration:
 language: en
 ---
-“The Art of Deception: Controlling the Human Element of Security” by Kevin Mitnick, William L. Simon was published in Wiley Books on 2003-10-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*The Art of Deception*, Kevin Mitnick's first book, co-written with William L. Simon, presents a series of real and fictionalized case studies illustrating social-engineering attacks — the manipulation tactics Mitnick himself relied on as a hacker.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Framed as a guide for organizations, the book argues that technical security measures are of limited use if employees can be talked into bypassing them, and it draws directly on Mitnick's own experience gaining unauthorized access through deception rather than code.

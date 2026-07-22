@@ -1,57 +1,32 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000013
 title: "3DO: Making Porsches in a VW World (interview)"
 slug: 3do-interview
-
 date: "1995-02-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "In-depth interview with Silent Software founder Baron Reichart \"Kurt\" Von Wolfsheild about Return Fire's development and his philosophy on game design."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "interview"
-
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
-
+  - interview
+author:
 publisher: "3DO"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url:
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-02__en__3DO_Interview_Making-Porsches-in-a-VW-World.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "12-13"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: en
 ---
 In-depth interview with Silent Software founder Baron Reichart "Kurt" Von Wolfsheild about Return Fire's development and his philosophy on game design. Reveals Return Fire took about two years to develop and three months just for the visual "look," with the 3DO handling 200,000-230,000 polygons per second.

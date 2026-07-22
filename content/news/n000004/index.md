@@ -6,7 +6,7 @@ date: "1994-07-04"
 
 draft: false
 source_type: article
-summary: "A article published by The New York Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "John Markoff's New York Times profile portrays Mitnick as a fugitive “computer programmer run amok,” detailing his cellular-phone software thefts, his teenage NORAD intrusion claim, and a quote from a former FBI agent calling him overdue for arrest — the piece Mitnick later said sent his public myth “into overdrive.”"
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Cyberspace's Most Wanted: Hacker Eludes F.B.I. Pursuit” by John Markoff was published in The New York Times on 1994-07-04. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+John Markoff's New York Times profile, published while Mitnick was a fugitive, describes him as a "computer programmer run amok" who eluded an FBI manhunt for more than a year and a half. It recounts his teenage break-in at a NORAD computer, his history of phone-phreaking and prior convictions, and his suspected theft of proprietary software from cellular telephone manufacturers.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article quotes former FBI computer-crime investigator James Settle saying Mitnick "should have been locked up long ago," and details his tactics of "social engineering" — impersonating employees to talk targets out of passwords. Mitnick later said this piece pushed his public myth "into overdrive" and helped pressure the FBI into prioritizing his capture.

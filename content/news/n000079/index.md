@@ -6,7 +6,7 @@ date: "2011-01-01"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Kevin Mitnick's bestselling memoir, co-written with William L. Simon, recounting his hacking career, years as a fugitive, arrest, and imprisonment in his own words."
 projects:
   - kevin-mitnick
 tags:
@@ -33,6 +33,6 @@ time:
 duration:
 language: en
 ---
-“Ghost in the Wires: My Adventures as the World's Most Wanted Hacker” by Kevin Mitnick, William L. Simon was published in Little, Brown and Company on 2011-01-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*Ghost in the Wires*, Kevin Mitnick's bestselling memoir co-written with William L. Simon, recounts his hacking career, years as a fugitive, arrest, and imprisonment in his own words.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The book gives Mitnick's first-person counter-narrative to the Shimomura/Markoff account in *Takedown*, covering his early social-engineering exploits, the FBI manhunt, and his eventual capture in Raleigh, North Carolina, in 1995.

@@ -6,7 +6,7 @@ date: "2014-09-27"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Vice concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Vice/Motherboard report on Kevin Mitnick's zero-day exploit brokerage, recapping his hacking history and quoting his own account of the Pacific Bell voicemail hack that made him a fugitive."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick Offers a Peek Inside the Cryptic Zero-Day Marketplace” by Michael Byrne was published in Vice on 2014-09-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Vice/Motherboard report covers Kevin Mitnick's zero-day exploit brokerage, recapping his hacking history for readers alongside details of the new venture.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece quotes Mitnick's own account, from his "lost bio," of the Pacific Bell voicemail hack that led to his years as a fugitive, and situates his current business within the broader, lucrative market for undisclosed software vulnerabilities.

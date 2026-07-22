@@ -6,7 +6,7 @@ date: "1995-02-16"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Los Angeles Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Los Angeles Times report on Kevin Mitnick's February 1995 arrest by the FBI in Raleigh, North Carolina, ending a two-and-a-half-year manhunt and detailing allegations that he cost victim companies millions in stolen software."
 projects:
   - kevin-mitnick
 tags:
@@ -34,6 +34,6 @@ time:
 duration:
 language: en
 ---
-“Fugitive North Hills Hacker Arrested in N. Carolina : Crime: Kevin Mitnick eluded authorities for two years. He is alleged to have cost victims millions.” by John Johnson, Ronald J. Ostrow, Josh Meyer was published in Los Angeles Times on 1995-02-16. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Los Angeles Times report covers Kevin Mitnick's arrest by the FBI on February 15, 1995, in Raleigh, North Carolina, ending a two-and-a-half-year manhunt. Reporters John Johnson, Ronald J. Ostrow, and Josh Meyer detail the allegations that Mitnick's intrusions cost victim companies millions of dollars.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article situates the arrest within the broader pursuit that had made Mitnick one of the FBI's most-wanted computer fugitives, following his 1992 disappearance after a probation violation investigation.

@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by sourcedns.com concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Full text of the federal indictment filed against Kevin Mitnick, detailing the computer fraud, wire fraud, and related charges brought against him."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick's Federal Indictment” was published in sourcedns.com. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This page hosts the full text of the federal indictment filed against Kevin Mitnick, detailing the computer fraud, wire fraud, and related charges brought against him from his years as a fugitive.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The document lays out the specific counts and factual allegations underlying the prosecution that would culminate in his 1999 guilty plea.

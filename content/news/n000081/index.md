@@ -6,7 +6,7 @@ date: "2011-08-18"
 
 draft: false
 source_type: broadcast
-summary: "A broadcast published by The Colbert Report concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Video of Kevin Mitnick's appearance on The Colbert Report discussing his memoir Ghost in the Wires and his hacking past."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick” was published in The Colbert Report on 2011-08-18. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This is video of Kevin Mitnick's appearance on Comedy Central's *The Colbert Report*, promoting his memoir *Ghost in the Wires* and discussing his hacking past in the show's satirical interview format.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The appearance reflects Mitnick's mainstream celebrity status roughly a decade after his release from prison, by which point he had become a recognizable public figure well beyond the security industry.

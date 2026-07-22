@@ -6,7 +6,7 @@ date: "1999-03-18"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by CNN concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "CNN retrospective by John Christensen tracing the full arc of Kevin Mitnick's hacking career, arrests, and prosecution up to his 1999 guilty plea."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“The trials of Kevin Mitnick” by John Christensen was published in CNN on 1999-03-18. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+John Christensen's CNN retrospective traces the full arc of Kevin Mitnick's hacking career, from his teenage phone-phreaking and early computer intrusions through his years as a fugitive, his 1995 arrest, and his 1999 guilty plea.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece was published around the time of Mitnick's plea agreement and summarizes both the government's case and the counter-narrative pushed by his supporters, who argued his crimes and threat level had been exaggerated.

@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Free Kevin Mitnick concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Case background page from the Free Kevin Mitnick support site, written by defense attorney Donald C. Randolph, arguing that the charges and media coverage against Mitnick were excessive."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“About Kevin's Case” by Donald C. Randolph was published in Free Kevin Mitnick. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This case background page from the Free Kevin Mitnick support site, written by defense attorney Donald C. Randolph, lays out the defense's view of the charges and conditions Mitnick faced while awaiting trial.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The page argues that the scope of the prosecution and the restrictions placed on Mitnick's pretrial confinement were disproportionate to the actual conduct alleged against him.

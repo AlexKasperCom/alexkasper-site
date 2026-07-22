@@ -6,7 +6,7 @@ date: "2009-06-22"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by cnet.com concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "CNET Q&A with Kevin Mitnick tracing his path from teenage ham radio operator and phone phreaker to FBI fugitive to security consultant."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Q&A: Kevin Mitnick, from ham operator to fugitive to consultant” by Elinor Mills was published in cnet.com on 2009-06-22. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This CNET Q&A traces Kevin Mitnick's path from teenage ham radio operator and phone phreaker to FBI fugitive to security consultant, with Mitnick reflecting on how his early interests in radio and telephone systems led to his later hacking career.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The interview covers his current work testing organizations' defenses and speaking publicly about security, framed against the arc of his earlier life as a wanted man.

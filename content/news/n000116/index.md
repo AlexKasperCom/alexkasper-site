@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by thememoryhole.org concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "The excised chapter from Kevin Mitnick's The Art of Deception that Wiley removed from the published book, preserved and republished by the transparency site the Memory Hole."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“The Missing Chapter from The Art of Deception by Kevin Mitnick” was published in thememoryhole.org. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This page preserves a chapter from Kevin Mitnick's *The Art of Deception* that publisher Wiley removed from the released book, republished by the transparency site the Memory Hole.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The excised chapter is presented alongside commentary noting its removal, raising questions among readers about why the material was cut from the published edition.

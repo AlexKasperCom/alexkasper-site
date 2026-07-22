@@ -6,7 +6,7 @@ date: "2003-01-13"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by The Register concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "The Register's publication of the first chapter of Kevin Mitnick's own account of his hacking career and prosecution, written shortly after his supervised release ended in January 2003."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Chapter One: Kevin Mitnick's story” by Thomas C. Greene was published in The Register on 2003-01-13. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+The Register published this first chapter of Kevin Mitnick's own account of his hacking career and prosecution, written shortly after his supervised release ended in January 2003 and often referred to as his "lost bio."
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+In it, Mitnick offers his version of events including the Pacific Bell voicemail intrusion that triggered his fugitive years, pushing back on aspects of the Shimomura/Markoff narrative and the broader mythology that had built up around him.

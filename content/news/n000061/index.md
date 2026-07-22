@@ -6,7 +6,7 @@ date: "2001-12-21"
 
 draft: false
 source_type: webpage
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "FCC order designating a hearing to determine whether Kevin Mitnick's criminal record disqualifies him from holding an amateur radio license."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“HEARING DESIGNATION ORDER (FCC 01-359)” was published in Federal Communications Commission on 2001-12-21. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This FCC order designates a hearing to determine whether Kevin Mitnick's criminal record disqualifies him from continuing to hold an amateur ("ham") radio license, which he had held for roughly 25 years.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The commission's order lays out its concern that Mitnick's history of fraud-related offenses raises a "substantial and material question" about his fitness to comply with FCC rules, opening a formal licensing dispute that would run for about a year.

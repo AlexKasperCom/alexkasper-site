@@ -6,7 +6,7 @@ date: "2023-07-21"
 
 draft: false
 source_type: article
-summary: "An obituary or death notice documenting Kevin Mitnick’s life, career, and death in July 2023."
+summary: "The Jewish Chronicle's obituary of Kevin Mitnick, once dubbed “America's most wanted” hacker, following his death at age 59."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Famed US hacker Kevin Mitnick, once dubbed 'America's most wanted', dies aged 59” by Richard Percival was published in The Jewish Chronicle on 2023-07-21. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Jewish Chronicle obituary marks the death of Kevin Mitnick, once dubbed "America's most wanted" hacker, at age 59.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece summarizes his hacking career and later work as a security consultant for a British Jewish readership, situating his story within broader coverage of his death in July 2023.

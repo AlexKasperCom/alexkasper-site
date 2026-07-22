@@ -6,7 +6,7 @@ date: "2005-01-01"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Reference encyclopedia entry situating Kevin Mitnick's hacking career within the broader history of the Internet and computer security."
 projects:
   - kevin-mitnick
 tags:
@@ -34,6 +34,6 @@ time:
 duration:
 language: en
 ---
-“The Internet : a historical encyclopedia” by Hilary W. Poole, Laura Lambert, Chris Woodford, Christos J. P. Moschovitis was published in ABC-Clio on 2005-01-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*The Internet: A Historical Encyclopedia*, published by ABC-CLIO, situates Kevin Mitnick's hacking career within the broader history of the internet and computer security, alongside other landmark events and figures in the field.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The reference work treats Mitnick's case as a significant episode in the early public understanding of computer crime and the legal system's response to it.

@@ -1,58 +1,33 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000027
 title: "Review: Return Fire"
 slug: games-world-review
-
 date: "1995-04-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "This Games World review describes Return Fire as an impressive Desert Strike–style action game that challenges players to complete multiple military objectives using a small set of clearly differentiated vehicles."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "review"
-  - "uk"
-
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
-
+  - review
+  - uk
+author:
 publisher: "Games World"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url: https://archive.org/details/games-world-10/page/n15/mode/2up
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: "https://archive.org/details/games-world-10/page/n15/mode/2up"
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-04__en__Games-World_Review_Return-Fire.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "17"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: en
 ---
 This Games World review describes Return Fire as an impressive Desert Strike–style action game that challenges players to complete multiple military objectives using a small set of clearly differentiated vehicles.

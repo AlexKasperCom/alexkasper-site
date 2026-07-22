@@ -6,7 +6,7 @@ date: "2013-12-20"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by TechCrunch concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "TechCrunch report on Zimperium's $8 million funding round for its mobile security tools, noting Kevin Mitnick's role on the company's board of advisors."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Zimperium Raises $8M For Mobile Security That Turns The Tables On Attackers” by Alex Williams was published in TechCrunch on 2013-12-20. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This TechCrunch report covers Zimperium's $8 million funding round from Sierra Ventures to build out its mobile security technology, including tools like the zAnti app for testing network vulnerabilities.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article notes that Kevin Mitnick sat on Zimperium's board of advisors, and that the company, led by former Israeli Defense Forces member Itzhak "Zuk" Avraham, was working on tools aimed at countering attacks like the Stuxnet worm.

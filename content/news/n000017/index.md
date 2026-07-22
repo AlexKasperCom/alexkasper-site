@@ -1,56 +1,34 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000017
 title: "Review: Return Fire"
 slug: player-one-review
-
 date: "1995-02-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "This Player One review presents Return Fire as a highly polished, accessible action game inspired by Desert Strike, emphasizing its clear objectives, varied vehicle control, and exceptional audiovisual presentation."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "review"
-  - "france"
-
+  - review
+  - france
 author:
   - "von Wolf, Ludwig"
-
 publisher: "Player One"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url:
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-02__fr__Player-One_Review_Return-Fire.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "80-81"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: fr
 ---
 This Player One review presents Return Fire as a highly polished, accessible action game inspired by Desert Strike, emphasizing its clear objectives, varied vehicle control, and exceptional audiovisual presentation.

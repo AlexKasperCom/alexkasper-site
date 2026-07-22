@@ -1,57 +1,32 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000028
 title: "The Hottest Action: Return Fire"
 slug: ultimate-future-games
-
 date: "1995-04-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "This Ultimate Future Games feature celebrates Return Fire as a blisteringly intense action game."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "feature"
-
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
-
+  - feature
+author:
 publisher: "Ultimate Future Games"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url: https://archive.org/details/ultimate-future-games-05/page/n71/mode/2up
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: "https://archive.org/details/ultimate-future-games-05/page/n71/mode/2up"
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-04__en__Ultimate-Future-Games_Feature_The-Hottest-Action_Return-Fire.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "72-73"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: en
 ---
 This Ultimate Future Games feature celebrates Return Fire as a blisteringly intense action game that channels pure destruction through a simple Capture the Flag framework and four sharply defined military vehicles.

@@ -6,7 +6,7 @@ date: "2016-10-11"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by mitnicksecurity.com concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Mitnick Security post previewing Werner Herzog's documentary Lo and Behold: Reveries of the Connected World, which features Kevin Mitnick alongside Elon Musk and other tech figures discussing the human element as the internet's weakest link."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Lo and Behold” by Mitnick Security was published in mitnicksecurity.com on 2016-10-11. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Mitnick Security post previews Werner Herzog's documentary *Lo and Behold: Reveries of the Connected World*, which features Kevin Mitnick alongside figures including Elon Musk, astronomer Lucianne Walkowicz, and physicist Lawrence Krauss discussing the internet's promise and vulnerabilities.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The post notes that Mitnick, interviewed as one of history's most notorious hackers, tells Herzog that people — not systems — are the internet's weakest link.

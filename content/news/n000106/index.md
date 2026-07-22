@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by AsiaOne Digital concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "AsiaOne interview in which Kevin Mitnick explains the social-engineering tricks he used as a hacker and how organizations can guard against them."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Ex-hacker reveals tricks of the trade” was published in AsiaOne Digital. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This AsiaOne interview has Kevin Mitnick explaining the social-engineering tricks he used as a hacker — impersonation, pretexting, and exploiting trust — and how organizations can train employees to resist them.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece presents Mitnick in his established post-prison role as a security educator, translating his own criminal-era techniques into defensive advice.

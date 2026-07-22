@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Turner Classic Movies concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Turner Classic Movies database entry for Takedown, the 2000 film dramatizing the pursuit and capture of Kevin Mitnick."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“Takedown” was published in Turner Classic Movies. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Turner Classic Movies database entry covers *Takedown*, the 2000 film dramatizing the pursuit and capture of Kevin Mitnick, based on the book by Tsutomu Shimomura and John Markoff.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The entry provides the film's production and cast details as part of TCM's broader database of film history.

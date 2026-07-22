@@ -6,7 +6,7 @@ date: "2012-06-12"
 
 draft: false
 source_type: press-release
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "Press release announcing Kevin Mitnick's partnership with security awareness training company KnowBe4, where he later served as Chief Hacking Officer."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick Partners With KnowBe4” was published in PR Newswire on 2012-06-12. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This press release announces Kevin Mitnick's partnership with security awareness training company KnowBe4, where he would go on to serve as Chief Hacking Officer for the remainder of his career.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The announcement frames Mitnick's role as lending his hacking expertise to KnowBe4's mission of training employees to recognize phishing and social-engineering attacks — the same category of attack he was once famous for using.

@@ -6,7 +6,7 @@ date: "2006-11-15"
 
 draft: false
 source_type: article
-summary: "A article published by [[Wired (magazine) concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Wired feature collecting Kevin Mitnick's practical security advice for consumers and businesses, drawing on his own hacking and social-engineering experience."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick's Security Advice” was published in [[Wired (magazine) on 2006-11-15. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Wired feature collects practical security advice from Kevin Mitnick, drawing on his own hacking and social-engineering background to explain common vulnerabilities facing consumers and businesses.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece reflects Mitnick's established post-prison role as a security commentator, offering readers guidance framed around the same manipulation tactics he once used against his targets.

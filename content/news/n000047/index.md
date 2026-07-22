@@ -6,7 +6,7 @@ date: "1997-06-27"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by fas.org concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "U.S. Attorney's press release announcing Kevin Mitnick's sentencing to 22 months in federal prison for possessing cloned cellular phone codes and for violating the supervised-release conditions of his 1989 computer fraud conviction."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Computer Hacker Kevin Mitnick Sentenced to Prison” was published in fas.org on 1997-06-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This U.S. Attorney's press release announces Kevin Mitnick's sentencing to 22 months in federal prison: eight months for pleading guilty to possessing cloned cellular phone codes, and 14 months, to run consecutively, for violating the supervised release imposed after his 1989 computer fraud conviction.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The release, issued by then–U.S. Attorney Nora Manella's office, details how Mitnick violated his release terms by breaking into Pacific Bell voicemail systems and associating with fellow hacker Lewis De Payne, and notes he still faced a separate 25-count indictment in Los Angeles at the time.

@@ -6,7 +6,7 @@ date: "1999-01-01"
 
 draft: false
 source_type: article
-summary: "A article published by Computer Fraud & Security concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Computer Fraud & Security trade journal report on Kevin Mitnick's 1999 guilty plea to seven federal charges, ending nearly five years of pretrial detention."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Super-hacker Kevin Mitnick takes a plea” by Barbara Gengler was published in Computer Fraud & Security on 1999-01-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Barbara Gengler's report in *Computer Fraud & Security* covers Kevin Mitnick's 1999 guilty plea to seven federal charges, which followed nearly five years of pretrial detention without bail.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The trade-journal piece situates the plea within the ongoing debate in the security industry over whether Mitnick's prosecution and treatment while awaiting trial had been proportionate to his crimes.

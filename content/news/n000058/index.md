@@ -6,7 +6,7 @@ date: "2000-05-04"
 
 draft: false
 source_type: article
-summary: "A article published by San Francisco Chronicle concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "San Francisco Chronicle report on the legal disputes surrounding Miramax's Takedown film, including objections from Kevin Mitnick and author Jonathan Littman over its portrayal of the case."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Movie About Notorious Hacker Inspires a Tangle of Suits and Subplots” by Dan Fost was published in San Francisco Chronicle on 2000-05-04. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This San Francisco Chronicle report covers the legal and creative disputes surrounding Miramax's film *Takedown*, based on the Shimomura/Markoff book, including objections from Kevin Mitnick and from journalist Jonathan Littman, author of the rival account *The Fugitive Game*.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article details allegations that the film misrepresented events and that its production drew on material without proper permission, part of a broader controversy over whose version of the Mitnick story would reach audiences first.

@@ -6,7 +6,7 @@ date: "2014-09-24"
 
 draft: false
 source_type: article
-summary: "A article published by Wired concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Wired report on Kevin Mitnick's Absolute Zero-Day Exploit Exchange, a brokerage selling undisclosed software vulnerabilities to vetted clients for $100,000 apiece."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick, Once the World's Most Wanted Hacker, Is Now Selling Zero-Day Exploits” by Andy Greenberg was published in Wired on 2014-09-24. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Wired report covers Kevin Mitnick's Absolute Zero-Day Exploit Exchange, a brokerage through which he began selling previously undisclosed software vulnerabilities to vetted clients for $100,000 apiece.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+In comments to Wired quoted in the piece, Mitnick describes the business as a pass-through: researchers find vulnerabilities and sell them to his firm, which resells them to clients without asking how they intend to use them.

@@ -6,7 +6,7 @@ date: "2023-07-20"
 
 draft: false
 source_type: webpage
-summary: "An obituary or death notice documenting Kevin Mitnick’s life, career, and death in July 2023."
+summary: "SecurityWeek's report confirming Kevin Mitnick's July 2023 death from pancreatic cancer at 59, noting he was serving as Chief Hacking Officer at KnowBe4 and was survived by his pregnant wife, Kimberley."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Famed Hacker Kevin Mitnick Dead at 59” was published in SecurityWeek News on 2023-07-20. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This SecurityWeek report confirms Kevin Mitnick's death on July 19, 2023, from pancreatic cancer, at age 59. At the time of his death he was serving as Chief Hacking Officer at KnowBe4, the security awareness training company.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The report notes his passing was first disclosed in an obituary posted by Dignity Memorial, and that Mitnick was survived by his wife, Kimberley Mitnick, who was pregnant with their first child.

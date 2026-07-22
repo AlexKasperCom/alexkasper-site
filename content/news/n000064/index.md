@@ -6,7 +6,7 @@ date: "2002-12-27"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by [[Wired (magazine) concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Wired report on the FCC's decision to grant Kevin Mitnick's amateur radio license renewal despite his criminal record, closing out a year-long licensing dispute."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Mitnick Granted Ham License” was published in [[Wired (magazine) on 2002-12-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Wired report covers the FCC's decision to grant Kevin Mitnick's amateur radio license renewal despite his criminal record, closing out the roughly year-long dispute triggered by the commission's 2001 hearing order.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The ruling came the same week as a separate decision permitting Mitnick to resume using the internet, capping a stretch of legal fights over what technology he could be trusted to access after his release.

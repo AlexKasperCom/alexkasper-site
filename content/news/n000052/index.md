@@ -6,7 +6,7 @@ date: "1999-03-27"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Los Angeles Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Los Angeles Times report on Judge Mariana Pfaelzer's acceptance of Kevin Mitnick's guilty plea to seven federal counts, clearing the way for his sentencing."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Judge Accepts Mitnick's Guilty Plea on 7 Counts” by Greg Miller was published in Los Angeles Times on 1999-03-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Los Angeles Times report covers Judge Mariana Pfaelzer's acceptance of Kevin Mitnick's guilty plea to seven federal counts in March 1999, a plea that resolved the bulk of the charges from his years as a fugitive.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article covers the terms and immediate aftermath of the plea, clearing the way for Mitnick's sentencing later that year.

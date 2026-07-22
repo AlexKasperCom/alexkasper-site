@@ -6,7 +6,7 @@ date: "1995-02-18"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Los Angeles Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Los Angeles Times feature by Ann W. O'Neill examining the conflicting mythology around Kevin Mitnick after his arrest, contrasting portrayals of him as a dangerous “electronic terrorist” with accounts from those who knew him as a compulsive prankster."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“'Condor' Myth Loop of Contradictions : Computers: To some, Kevin Mitnick is an electronic terrorist. Others say he's a prankster.” by ANN W. O'NEILL was published in Los Angeles Times on 1995-02-18. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Ann W. O'Neill's Los Angeles Times feature, published days after Mitnick's arrest, explores the competing narratives already forming around him — the "Condor" myth, borrowed from the Robert Redford film character Mitnick admired, versus more mundane accounts from people who knew him.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece weighs claims that Mitnick was a dangerous "electronic terrorist" capable of causing serious harm against the view of others that he was primarily a prankster whose exploits had been exaggerated by prosecutors and the press.

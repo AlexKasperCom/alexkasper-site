@@ -6,7 +6,7 @@ date: "2009-08-20"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by CosmoLearning concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Page for Freedom Downtime, the 2001 documentary by 2600's Emmanuel Goldstein arguing that Kevin Mitnick was unfairly demonized by the press and prosecutors, made partly in response to the Takedown film."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“Freedom Downtime - The Story of Kevin Mitnick (2001)” was published in CosmoLearning on 2009-08-20. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*Freedom Downtime* is a 2001 documentary directed by 2600's Emmanuel Goldstein arguing that Kevin Mitnick was unfairly demonized by prosecutors and the press, made partly in response to the Miramax film *Takedown*.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The film follows Goldstein and other hackers as they travel the country confronting Miramax representatives over the bootlegged *Takedown* script, and includes interviews with Mitnick's relatives, lawyers, and figures from the hacker community, including *Cyberpunk* co-authors Katie Hafner and John Markoff, who offer contrasting views of the case.

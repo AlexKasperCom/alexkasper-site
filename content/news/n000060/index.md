@@ -6,7 +6,7 @@ date: "2001-03-01"
 
 draft: false
 source_type: article
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "Justice Department USA Bulletin article by prosecutor Christopher Painter analyzing supervised-release and probation restrictions imposed in computer-hacking cases, drawing on the Kevin Mitnick prosecution as a key example."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Supervised Release and Probation Restrictions in Hacker Cases” by Christopher M. E. Painter was published in United States Attorneys' USA Bulletin on 2001-03-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This U.S. Attorneys' USA Bulletin article, written by prosecutor Christopher M.E. Painter, analyzes the supervised-release and probation restrictions federal courts have imposed in computer-hacking cases.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Painter, who prosecuted Kevin Mitnick, draws on that case to illustrate the kinds of conditions — bans on computer or phone use, restrictions on employment involving technology — that courts have used to try to prevent repeat offenses by convicted hackers.

@@ -6,7 +6,7 @@ date: "1996-01-01"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Tsutomu Shimomura and John Markoff's account of the technical pursuit that led to Kevin Mitnick's 1995 arrest, later adapted into the film Takedown and criticized by Mitnick's supporters as one-sided."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Takedown: The Pursuit and Capture of Kevin Mitnick, America's Most Wanted Computer Outlaw - By the Man Who Did It” by Tsutomo Shimomura, John Markoff was published in Hyperion on 1996-01-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*Takedown* is Tsutomu Shimomura and John Markoff's first-person account of the technical investigation that led to Kevin Mitnick's 1995 arrest, written by the security researcher whose systems Mitnick was accused of breaching and the journalist who covered the case for The New York Times.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The book became the basis for the 2000 film of the same name and was heavily criticized by Mitnick and his supporters as a one-sided, self-serving account that exaggerated both Mitnick's threat and Shimomura's role in catching him.

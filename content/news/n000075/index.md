@@ -6,7 +6,7 @@ date: "2007-06-01"
 
 draft: false
 source_type: article
-summary: "A article published by Playboy concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Playboy profile of Kevin Mitnick's life after prison, examining his transformation into a security consultant and public speaker."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“The Invisible Digital Man” by Jonathan Littman was published in Playboy on 2007-06-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Playboy profile examines Kevin Mitnick's life more than a decade after his release from prison, tracing his transformation from federal fugitive into a paid security consultant and public speaker.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece explores how Mitnick built a legitimate career around the same skills that once made him a wanted man, and how his public identity shifted from "world's most wanted hacker" to industry consultant.

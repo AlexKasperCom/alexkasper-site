@@ -6,7 +6,7 @@ date: "2015-12-01"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Chapter from Millionaire Within: Untold Stories from the Internet Underworld referencing Kevin Mitnick's hacking exploits, including allegations that he altered computer networks."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Millionaire Within: Untold Stories from the Internet Underworld” by E. Brian Rose was published in Morgan James Publishing on 2015-12-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This chapter from *Millionaire Within: Untold Stories from the Internet Underworld* references Kevin Mitnick's hacking exploits as part of a broader survey of figures who built notoriety or fortune from internet-era crime and technology.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The book situates Mitnick's alleged alteration of computer networks within a wider cast of underworld internet stories.

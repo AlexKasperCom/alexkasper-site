@@ -6,7 +6,7 @@ date: "2023-07-20"
 
 draft: false
 source_type: article
-summary: "An obituary or death notice documenting Kevin Mitnick’s life, career, and death in July 2023."
+summary: "New York Times obituary of Kevin Mitnick recounting his rise as the era's most notorious computer fugitive and his later career as a security consultant and author, following his death at 59."
 projects:
   - kevin-mitnick
 tags:
@@ -33,6 +33,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick, Hacker Who Once Eluded Authorities, Is Dead at 59” by Livia Albeck-Ripka, Orlando Mayorquin was published in The New York Times on 2023-07-20. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This New York Times obituary recounts Kevin Mitnick's rise as the era's most notorious computer fugitive and his later career as a security consultant and author, following his death at age 59.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece, appearing in the same paper whose reporter John Markoff had helped make Mitnick a household name in the 1990s, surveys his full arc from teenage phone phreak to industry consultant.

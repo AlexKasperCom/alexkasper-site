@@ -6,7 +6,7 @@ date: "2000-03-02"
 
 draft: false
 source_type: webpage
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "Transcript of Kevin Mitnick's March 2000 testimony before the Senate Committee on Governmental Affairs, describing social-engineering techniques used to breach government and corporate computer systems."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Testimony of Kevin Mitnick before the Senate Committee on Governmental Affairs” was published in United States Senate on 2000-03-02. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This is the transcript of Kevin Mitnick's March 2000 testimony before the U.S. Senate Committee on Governmental Affairs, delivered not long after his release from prison.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+In it, Mitnick described the social-engineering techniques he used to manipulate employees into revealing passwords and other sensitive information, offering lawmakers an insider's account of how such attacks succeed against government and corporate systems alike.

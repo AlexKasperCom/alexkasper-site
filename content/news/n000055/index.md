@@ -6,7 +6,7 @@ date: "1999-08-18"
 
 draft: false
 source_type: article
-summary: "A article published by Wired concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Wired report examining claims that imprisoned hacker Kevin Mitnick was denied kosher food, including comments from his prison rabbi that vegetarian meals were available but not certified kosher."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Life Not Kosher for Mitnick” by Douglas Thomas was published in Wired on 1999-08-18. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Wired report examines claims that imprisoned hacker Kevin Mitnick was being denied kosher food, a story that circulated among his supporters as an example of harsh treatment during his incarceration.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article includes comment from Mitnick's prison rabbi, who said Mitnick had access to vegetarian meals but that the facility did not offer food certified as kosher.

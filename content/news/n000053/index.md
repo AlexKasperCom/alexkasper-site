@@ -6,7 +6,7 @@ date: "1999-06-07"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Free Kevin Mitnick concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Defense motion filed on Kevin Mitnick's behalf seeking sanctions against prosecutors and renewed access to discovery materials and expert-witness funding, part of the pretrial disputes over his defense team's access to evidence."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“Defense consolidated motion for sanctions and for reconsideration of motion for discovery and application for expert fees based upon new facts” was published in Free Kevin Mitnick on 1999-06-07. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This defense filing, posted on the Free Kevin Mitnick support site, asks the court to sanction federal prosecutors and to reconsider earlier rulings on discovery access and funding for expert witnesses, citing newly available facts.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+It reflects the contentious pretrial phase of the case, during which Mitnick's defense team repeatedly argued that prosecutors were withholding evidence and starving the defense of resources needed to mount a case.

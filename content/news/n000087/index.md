@@ -6,7 +6,7 @@ date: "2014-08-15"
 
 draft: false
 source_type: article
-summary: "A article published by Forbes concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Forbes profile demonstrating Kevin Mitnick's identity-theft and social-engineering techniques as a security consultant."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Renowned security expert Kevin Mitnick can steal your identity in 3 minutes” by Thomas Ehrlich was published in Forbes on 2014-08-15. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Forbes profile shows Kevin Mitnick demonstrating, as a working security consultant, how quickly an attacker can steal someone's identity using social-engineering techniques.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece uses Mitnick's live demonstration to illustrate how little information a skilled social engineer needs to compromise a target, reinforcing his standing as a leading voice on the human side of security.

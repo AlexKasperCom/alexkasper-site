@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by The Register concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "The Register report on the FCC's move to strip Kevin Mitnick's ham radio license over his criminal record, including his response calling it continued harassment and prosecutor Christopher Painter's rebuttal that Mitnick never accepted responsibility."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“US to yank Kevin Mitnick's radio license” was published in The Register. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Register report covers the FCC's move to strip Kevin Mitnick of his ham radio license over his criminal record, based on a five-page order questioning his "moral fitness" to hold a license.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Mitnick called the action "another example of them trying to harass me," while prosecutor Christopher Painter, who had put him behind bars, said in the piece that Mitnick had "never really accepted responsibility for his conduct." The dispute would be resolved roughly a year later when the FCC ultimately let him keep the license.

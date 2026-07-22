@@ -6,7 +6,7 @@ date: "1995-08-01"
 
 draft: false
 source_type: article
-summary: "A article published by Esquire concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Esquire profile by Katie Hafner (co-author of Cyberpunk) examining Kevin Mitnick's life and psychology in the aftermath of his arrest and the media frenzy surrounding his case."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick, Unplugged” by Katie Hafner was published in Esquire on 1995-08-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Katie Hafner's Esquire profile, published a few months after Mitnick's arrest, examines his psychology and personal history, drawing on Hafner's earlier reporting for her book *Cyberpunk: Outlaws and Hackers on the Computer Frontier*.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece looks past the "most wanted hacker" headlines to Mitnick's childhood, his fixation on telephone systems, and the pattern of intrusions and probation violations that led to his fugitive years.

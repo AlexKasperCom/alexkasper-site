@@ -6,7 +6,7 @@ date: "1989-01-08"
 
 draft: false
 source_type: article
-summary: "A article published by Los Angeles Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Los Angeles Times profile by John Johnson that helped cement Kevin Mitnick's early public image as a dangerous “electronic terrorist,” describing his intense psychological attachment to computers following his first hacking-related arrests."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Computer an 'Umbilical Cord to His Soul': 'Dark Side' Hacker Seen as 'Electronic Terrorist'” by John Johnson was published in Los Angeles Times on 1989-01-08. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+John Johnson's Los Angeles Times profile examines Kevin Mitnick shortly after his early hacking-related arrests, portraying him as consumed by an "umbilical" psychological attachment to computers.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece is one of the first mainstream press accounts to cast Mitnick in the "electronic terrorist" framing that would follow him for years, drawing on comments from law enforcement and acquaintances about his behavior and motivations.

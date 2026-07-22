@@ -1,58 +1,33 @@
 ---
-# News & Media entry
-# Full documentation: docs/schema-news.md
-# Optional representative image: cover.jpg in this leaf bundle.
-
 id: n000030
 title: "Review: Return Fire — A Video Classic"
 slug: video-games-germany-review
-
 date: "1995-04-01"
 
-draft: false          # Set to false when ready to publish.
-
-source_type: article          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
-
+draft: false
+source_type: article
 summary: "This Video Games (Germany) review characterizes Return Fire as a deliberately simple yet highly compelling action–strategy game built around relentless destruction and a Capture the Flag objective."
-
 projects:
-  - "return-fire"
-
+  - return-fire
 tags:
-  - "review"
-  - "germany"
-
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
-
+  - review
+  - germany
+author:
 publisher: "Video Games (Germany)"
-
-source_url:
-access_date:          # YYYY-MM-DD
-
-archive_url:
-archive_date:         # YYYY-MM-DD
-
-archive_url_2:
-archive_date_2:       # YYYY-MM-DD
-
+source_url: 
+access_date: 
+source_dead: false
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
 local_file: "1995-04__de__Video-Games-Germany_Review_Return-Fire.pdf"
-
-# ─────────── PRINT-SPECIFIC FIELDS ───────────
-
 pages: "82"
-isbn:
-
-# ─────────── AUDIOVISUAL FIELDS ───────────
-
-time:                 # Timestamp of cited material, e.g. "14:32"
-duration:             # Total runtime, e.g. "1:24:03"
-
-# ─────────── LANGUAGE ───────────
-
+isbn: 
+time: 
+duration: 
 language: de
 ---
 This Video Games (Germany) review characterizes Return Fire as a deliberately simple yet highly compelling action–strategy game built around relentless destruction and a Capture the Flag objective.

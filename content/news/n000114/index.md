@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by X.com (formerly Twitter) concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Post by Kevin Mitnick's widow, Kimberley Mitnick, on X (formerly Twitter)."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“Post - Kimberley Mitnick” was published in X.com (formerly Twitter). It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This is a post by Kevin Mitnick's widow, Kimberley Mitnick, on X (formerly Twitter).
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+It is part of her public presence on the platform following Mitnick's death, where she has periodically shared reflections related to him.

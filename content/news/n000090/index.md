@@ -6,7 +6,7 @@ date: "2015-03-26"
 
 draft: false
 source_type: article
-summary: "A article published by Vox.com concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Vox profile explaining how Kevin Mitnick now uses his hacking skills legally as a paid penetration tester, breaking into client systems to expose security flaws."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Why Kevin Mitnick, the World's Most Notorious Hacker, Is Still Breaking Into Computers” by Arik Hesseldahl was published in Vox.com on 2015-03-26. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Vox profile explains how Kevin Mitnick now uses his hacking skills legally as a paid penetration tester, breaking into client systems under contract to expose their security flaws before real attackers can exploit them.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece traces the throughline from his years as history's most notorious hacking fugitive to his current work testing the defenses of major corporations.

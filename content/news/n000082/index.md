@@ -6,7 +6,7 @@ date: "2011-09-12"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by ZDNET concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "ZDNet interview with Kevin Mitnick timed to the release of his memoir Ghost in the Wires, discussing his hacking career and life since prison."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Ghost in the Wires: The Kevin Mitnick Interview” by Ken Hess was published in ZDNET on 2011-09-12. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This ZDNet interview with Kevin Mitnick, timed to the release of his memoir *Ghost in the Wires*, covers his hacking career and the life he built afterward as a security consultant and author.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Mitnick discusses the writing of the book and reflects on how his public image has evolved since his years as a fugitive.

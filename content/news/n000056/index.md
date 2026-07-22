@@ -6,7 +6,7 @@ date: "2000-01-21"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Linux Journal concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Linux Journal opinion piece by Jason Kroll marking Kevin Mitnick's January 2000 release from prison after nearly five years without bail, recounting the Free Kevin movement and arguing the open-source and hacker communities should recognize common cause against prosecutorial overreach."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Free Kevin, Kevin Freed” by Jason Kroll was published in Linux Journal on 2000-01-21. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Jason Kroll's *Linux Journal* piece marks Kevin Mitnick's January 21, 2000 release from prison after nearly five years held without bail or trial, on restrictive terms that barred him from using computers, cell phones, or the internet.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Kroll recounts the Free Kevin movement led by 2600's Emmanuel Goldstein, disputes over damage estimates claimed by companies like Sun Microsystems, and controversy over John Markoff's role covering the case for The New York Times while also co-authoring a book about it — arguing the open-source and hacker communities should see Mitnick's prosecution as a shared civil-liberties concern.

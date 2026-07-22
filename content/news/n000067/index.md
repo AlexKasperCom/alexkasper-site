@@ -6,7 +6,7 @@ date: "2003-04-03"
 
 draft: false
 source_type: webpage
-summary: "An official record concerning Kevin Mitnick’s arrest, prosecution, testimony, licensing, or related proceedings."
+summary: "Transcript of Kevin Mitnick's April 2003 testimony before the U.S. House Financial Services Committee on cybersecurity and social-engineering threats facing the financial sector."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Kevin Mitnick Testimony Before the House Financial Services Committee” was published in United States House Committee on Financial Services on 2003-04-03. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This is the transcript of Kevin Mitnick's April 2003 testimony before the U.S. House Financial Services Committee, in which he addressed cybersecurity and social-engineering threats facing banks and other financial institutions.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Testifying as a security consultant rather than a defendant, Mitnick described how attackers exploit human trust rather than purely technical flaws to breach systems handling sensitive financial data.

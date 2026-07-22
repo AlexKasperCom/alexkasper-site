@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by ulm.edu concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "University of Louisiana Monroe news release announcing Kevin Mitnick as a featured speaker at the university's Business Symposium."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“World's most famous hacker Kevin Mitnick to speak at ULM Business Symposium” was published in ulm.edu. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This University of Louisiana Monroe news release announces Kevin Mitnick as a featured speaker at the university's Business Symposium.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+It presents Mitnick in his established public role as "the world's most famous hacker" turned security consultant and speaker, addressing a university business audience.

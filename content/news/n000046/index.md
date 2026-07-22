@@ -6,7 +6,7 @@ date: "1996-10-01"
 
 draft: false
 source_type: article
-summary: "A article published by Los Angeles Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Los Angeles Times report on Kevin Mitnick's arraignment on the federal computer and wire fraud charges brought in the 1996 Los Angeles indictment."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Hacker Arraigned in Computer Fraud Case” was published in Los Angeles Times on 1996-10-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Los Angeles Times report covers Kevin Mitnick's arraignment on the federal computer and wire fraud charges from the 1996 Los Angeles indictment, at which he entered his plea before the presiding judge.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The short report is one of several contemporaneous Times pieces tracking the procedural stages of the case between Mitnick's 1995 arrest and his eventual 1999 guilty plea.

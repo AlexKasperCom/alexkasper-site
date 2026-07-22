@@ -6,7 +6,7 @@ date: "2017-02-01"
 
 draft: false
 source_type: book
-summary: "A book concerning Kevin Mitnick, computer security, or the history of the computer underground."
+summary: "Kevin Mitnick's third book, a practical privacy guide teaching readers how to protect themselves from surveillance and data collection in an always-connected world."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“The Art of Invisibility” by Kevin Mitnick, Robert Vamosi was published in Little, Brown and Company on 2017-02-01. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+*The Art of Invisibility*, Kevin Mitnick's third book, is a practical privacy guide teaching readers how to protect themselves from surveillance and data collection in an always-connected world.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Unlike his earlier books' focus on social engineering and hacking case studies, this volume is aimed directly at general readers seeking concrete steps to limit their digital exposure.

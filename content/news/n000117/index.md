@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: webpage
-summary: "A webpage published by CourtListener concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "CourtListener docket page for United States v. Mitnick (2:96-cr-00506), the federal criminal case against Kevin Mitnick in the Central District of California."
 projects:
   - kevin-mitnick
 tags:
@@ -29,6 +29,6 @@ time:
 duration:
 language: en
 ---
-“United States v. Mitnick, 2:96-cr-00506” was published in CourtListener. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This CourtListener docket page tracks *United States v. Mitnick*, case number 2:96-cr-00506, the federal criminal case against Kevin Mitnick in the U.S. District Court for the Central District of California.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The docket provides the official court record of filings and proceedings in the case that followed Mitnick's 1996 Los Angeles indictment.

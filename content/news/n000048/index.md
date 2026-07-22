@@ -6,7 +6,7 @@ date: "1998-09-04"
 
 draft: false
 source_type: article
-summary: "A article published by [[Wired (magazine) concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Wired report by Arik Hesseldahl on Kevin Mitnick's pretrial fight for access to a computer to review the government's discovery evidence against him, part of the broader controversy over his conditions of confinement."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“Hacker Can't Get Access” by Arik Hesseldahl was published in [[Wired (magazine) on 1998-09-04. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Arik Hesseldahl's Wired report covers a dispute over Kevin Mitnick's access to a computer while awaiting trial, part of a broader pattern in which prosecutors and prison officials restricted his access to technology even to review the government's own discovery evidence against him.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The piece is one of several contemporaneous accounts questioning whether the restrictions placed on Mitnick's pretrial confinement went beyond what was necessary for public safety.

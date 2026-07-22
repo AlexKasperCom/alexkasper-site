@@ -6,7 +6,7 @@ date: "2012-07-24"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Arutz Sheva concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Israel National News radio interview with Kevin Mitnick discussing his Jewish upbringing, his most memorable teenage prank hacks, and his advice on personal cybersecurity."
 projects:
   - kevin-mitnick
 tags:
@@ -31,6 +31,6 @@ time:
 duration:
 language: en
 ---
-“"Hacker" Kevin Mitnick's Dramatic Turnaround” by Ben Bresky was published in Arutz Sheva on 2012-07-24. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This Israel National News radio interview with Kevin Mitnick, conducted for the *Goldstein on Gelt* show, covers his secular Jewish upbringing and bar mitzvah as described in *Ghost in the Wires*, along with his personal cybersecurity advice.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Mitnick recounts one of his favorite teenage pranks — hijacking a McDonald's drive-through speaker using a ham radio — and describes spending a year in solitary confinement after prosecutors argued he could pose a security risk even from a prison payphone.

@@ -6,7 +6,7 @@ date: "1996-09-27"
 
 draft: false
 source_type: webpage
-summary: "A webpage published by Los Angeles Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "Los Angeles Times report on the 25-count federal grand jury indictment of Kevin Mitnick on charges including computer fraud, wire fraud, and illegal interception of communications."
 projects:
   - kevin-mitnick
 tags:
@@ -32,6 +32,6 @@ time:
 duration:
 language: en
 ---
-“Famed Hacker Is Indicted by U.S. Grand Jury” by Julie Tamaki was published in Los Angeles Times on 1996-09-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+Julie Tamaki's Los Angeles Times report covers the 25-count federal grand jury indictment returned against Kevin Mitnick in Los Angeles, alleging computer fraud, wire fraud, and illegal interception of wire communications tied to his years as a fugitive.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The article outlines the scope of the charges, which stemmed from the multi-year investigation into software and data thefts from cellular telephone and computer companies during Mitnick's time on the run.

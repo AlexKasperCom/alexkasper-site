@@ -6,7 +6,7 @@ date:
 
 draft: false
 source_type: article
-summary: "A article published by CNN concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "CNN video interview in which Kevin Mitnick warns NSA leaker Edward Snowden about the risks facing a high-profile fugitive, drawing on his own experience evading the FBI."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“Famed hacker to Snowden: Watch out” was published in CNN. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+In this CNN video interview, Kevin Mitnick offers a warning to NSA leaker Edward Snowden about the risks facing a high-profile fugitive, drawing on his own experience evading the FBI for two and a half years.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+Mitnick reflects on the practical and psychological toll of life on the run, based on his own history before his 1995 arrest.

@@ -6,7 +6,7 @@ date: "2002-12-27"
 
 draft: false
 source_type: article
-summary: "A article published by The New York Times concerning Kevin Mitnick’s hacking history, prosecution, or later security career."
+summary: "New York Times report on the FCC ruling that allowed Kevin Mitnick, then still on supervised release, to use the Internet again."
 projects:
   - kevin-mitnick
 tags:
@@ -30,6 +30,6 @@ time:
 duration:
 language: en
 ---
-“F.C.C. Lets Convicted Hacker Go Back on Net” was published in The New York Times on 2002-12-27. It is a source concerning Kevin Mitnick and the history of hacking, computer security, law enforcement, or his later work as a consultant and author.
+This New York Times report covers the FCC's decision allowing Kevin Mitnick, still on supervised release at the time, to use the internet again — a restriction that had been among the most contested conditions of his post-prison supervision.
 
-This bundle preserves the citation metadata and available original and archived links from the Wikipedia source. The description can be expanded during a later editorial pass after the complete source collection has been assembled.
+The ruling closed out a dispute that had made Mitnick something of a test case for how the government treats convicted hackers' access to computers and networks after release.

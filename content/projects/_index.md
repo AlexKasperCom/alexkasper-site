@@ -1,5 +1,5 @@
 ---
-title: "Files"
+title: "Projects"
 description: "People, organizations, companies, technologies, and ideas that have shaped Alex Kasper's work and career."
 layout: "list"
 ---
