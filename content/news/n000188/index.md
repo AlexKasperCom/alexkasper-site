@@ -1,0 +1,64 @@
+---
+id: n000188
+title: "TAP #068"
+slug: tap-068
+date: "1981-07-01"
+
+draft: false
+source_type: article
+summary: "Secret Service Counterfeit Currency Report, Reader Questions on Black Box Detection, etc."
+projects:
+  - tap
+tags:
+  - counterfeit-currency
+  - black-box
+  - reader-letters
+author:
+publisher: "Technical Assistance Program"
+source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
+access_date: 
+source_dead: true
+archive1_url: 
+archive1_date: 
+archive1_dead: false
+archive2_url: 
+archive2_date: 
+archive2_dead: false
+local_file: "tap-068.pdf"
+pages: "4"
+isbn: 
+time: 
+duration: 
+language: en
+
+# --- TAP/YIPL source metadata (not part of the standard news schema) ---
+issue: 68
+weight: 68
+
+series: "TAP"
+masthead: "TAP"
+publication_title: "Technical Assistance Program"
+
+people: ["James E. Brown"]
+topics: ["counterfeit currency statistics", "black box (toll fraud) detection methods"]
+
+scan_quality: poor
+ocr: true
+ocr_date: "2026-07-22"
+page_count: 4
+
+source: "Internet Archive"
+disclaimer: "/disclaimer/"  # see note on politics/fundraising content, not an endorsement
+
+images: ["cover.jpg"]
+
+resources:
+  - src: "cover.jpg"
+    name: "cover"
+  - src: "tap-068.pdf"
+    name: "pdf"
+
+aliases: []
+---
+
+Reprints a Secret Service data release on 1979-1980 counterfeit currency seizures, including a task force targeting a Colombia-based counterfeiting ring producing tens of millions of dollars in fake U.S. currency later intercepted before circulation. A detailed reader letter asks technical questions about how phone companies detect 'black box' toll fraud (used to receive long-distance calls without billing the caller), speculating about DC current-sensing relays and challenging whether voice identification alone could support a warrant, with the editor's answer discussing the practical cost and legal constraints on network-wide detector deployment.
