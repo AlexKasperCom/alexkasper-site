@@ -5,7 +5,7 @@ slug: tap-024
 date: "1973-12-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "1974 Credit Card Code, Advice on Turning Back ConEd Meters, Report on Toll Fraud Detectors, etc."
 projects:
   - tap

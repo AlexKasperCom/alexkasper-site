@@ -5,7 +5,7 @@ slug: tap-060
 date: "1979-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Lock-Pick Larceny by Alexander Mundy, tools, cylinder types, and step-by-step picking technique."
 projects:
   - tap

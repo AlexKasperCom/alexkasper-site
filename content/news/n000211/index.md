@@ -5,7 +5,7 @@ slug: tap-091
 date: "1984-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Dun and Bradstreet: Do They Know Something We Don't, and Yet More Phun with UNIX, two computer-culture pieces on corporate dial-up systems and UNIX internals, from TAP's final period."
 projects:
   - tap

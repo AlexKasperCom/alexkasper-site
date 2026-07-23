@@ -5,7 +5,7 @@ slug: tap-076
 date: "1982-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Life & Death & Dope by Dr. Atomic, a defense of TAP's chemistry coverage sparked by reader criticism, covering an antioxidant supplement and declining to detail lethal chemistry."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-052
 date: "1978-08-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Jim Phelps Tribute Issue, UK Phone Exchange Fraud Tips, Radar Jammer Request, THC-79 Conference, etc."
 projects:
   - tap

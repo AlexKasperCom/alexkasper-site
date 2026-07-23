@@ -5,7 +5,7 @@ slug: tap-007
 date: "1971-12-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Free-love masthead, 1972 Credit Card Code, Letters, Baboon takes over South African Phone System, Tuning your Organ (for Phone Tones), etc."
 projects:
   - tap

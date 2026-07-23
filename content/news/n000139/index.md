@@ -5,7 +5,7 @@ slug: tap-019
 date: "1973-06-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Ammo, Meat!, A Red Box in Every Pot, Build a Snoop Light, Head Crash, Light and Sound Weapon Tested, etc."
 projects:
   - tap

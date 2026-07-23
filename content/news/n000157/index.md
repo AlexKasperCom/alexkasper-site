@@ -5,7 +5,7 @@ slug: tap-037
 date: "1976-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Report from the End of the Earth, Odds & Ends, Tapping/Recording Methods, Bell's Boxin' Us In!, Pen Pals Wanted, etc."
 projects:
   - tap

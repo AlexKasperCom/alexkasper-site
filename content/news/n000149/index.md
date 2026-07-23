@@ -5,7 +5,7 @@ slug: tap-029
 date: "1975-10-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Advanced Blue Box, Corrected Snoop Lite, Phone Gadgets, Foreign Codes, etc."
 projects:
   - tap

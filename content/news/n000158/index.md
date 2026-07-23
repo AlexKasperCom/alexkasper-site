@@ -5,7 +5,7 @@ slug: tap-038
 date: "1976-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Give The Water Company a Blow Job, Classified Information, Black Box Blues, Last Odds & Ends, etc."
 projects:
   - tap

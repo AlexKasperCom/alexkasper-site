@@ -5,7 +5,7 @@ slug: tap-011
 date: "1972-06-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Special Convention Issue, Letters, Receive Free Long Distance Calls, Boycott War Products, Support Captain Crunch, etc."
 projects:
   - tap

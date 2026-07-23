@@ -5,7 +5,7 @@ slug: tap-012
 date: "1972-08-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "New Readers, Ramparts Info, Construction & Operation of the Blue Box, etc."
 projects:
   - tap

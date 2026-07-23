@@ -5,7 +5,7 @@ slug: tap-048
 date: "1978-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Review of Poor Man's James Bond, 312A Test Set (a legal Blue Box), etc."
 projects:
   - tap

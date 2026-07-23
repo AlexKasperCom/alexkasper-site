@@ -5,7 +5,7 @@ slug: tap-026
 date: "1974-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "New Blue Box, Make A Key For Your Rollersmith Lock, etc."
 projects:
   - tap

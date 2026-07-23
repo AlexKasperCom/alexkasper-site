@@ -5,7 +5,7 @@ slug: tap-009
 date: "1972-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Bugs, Super Duper Project! (the black box), Letters, Where to put the stamp to avoid cancellation, etc."
 projects:
   - tap

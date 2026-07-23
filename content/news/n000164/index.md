@@ -5,7 +5,7 @@ slug: tap-044
 date: "1977-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Tap Rap, Get Down!, Counter Control, etc."
 projects:
   - tap

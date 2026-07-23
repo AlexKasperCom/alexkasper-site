@@ -5,7 +5,7 @@ slug: tap-025
 date: "1974-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Ammo, The Methane Game, New Red Box, etc."
 projects:
   - tap

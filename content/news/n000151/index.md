@@ -5,7 +5,7 @@ slug: tap-031
 date: "1975-12-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Little Orphan Abbie, Black Box Beats Bell in the Fourth!, Ask Mr. Phelps, RAO Credit Card Codes, etc."
 projects:
   - tap

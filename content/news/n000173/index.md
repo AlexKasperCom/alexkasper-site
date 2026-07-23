@@ -5,7 +5,7 @@ slug: tap-053
 date: "1978-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Meeting Phone Phreaks at Trade Shows, THC-79 Conference Details, Microcomputer Blue Box Tones, etc."
 projects:
   - tap

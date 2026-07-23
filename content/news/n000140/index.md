@@ -5,7 +5,7 @@ slug: tap-020
 date: "1973-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Cheese Box, 3 & 4 Line Conference Bridges, Phone Phreaks Convention, Ma Bell's Watergate, Stuck Stacks, etc."
 projects:
   - tap

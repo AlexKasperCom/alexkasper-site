@@ -5,7 +5,7 @@ slug: tap-061
 date: "1980-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "1979 Year in Review, Subscriber Losses, Better Living Through Chemistry drug-synthesis literature guide, etc."
 projects:
   - tap

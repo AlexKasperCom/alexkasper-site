@@ -5,7 +5,7 @@ slug: tap-084
 date: "1983-04-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Bell System Rate Steps as Forbidden Knowledge by Cheshire Catalyst, phone billing-distance trivia and a BASIC mileage program, plus a Touch-Tone hardware modification note."
 projects:
   - tap

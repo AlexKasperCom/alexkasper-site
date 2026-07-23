@@ -5,7 +5,7 @@ slug: tap-003
 date: "1971-08-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "YIPL Price Change, Bell Employees!!!, Statement of Purpose, Fuck The Mail, The Private Ear, Steal This Book, etc."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-021
 date: "1973-08-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Name Change Explanation, Abbie Hoffman Defense Fund, Convention News, Letters, Automatic Phone Tap, Phone Firm President Indicted, etc. YIPL changes its name to Technological American Party, TAP, with this issue."
 projects:
   - tap

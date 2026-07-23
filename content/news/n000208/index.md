@@ -5,7 +5,7 @@ slug: tap-088
 date: "1983-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Telecom '83 - Techno Toyland by Cheshire Catalyst, a trade-show report from the ITU's massive international telecommunications exposition in Geneva."
 projects:
   - tap

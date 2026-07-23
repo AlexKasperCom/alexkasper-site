@@ -5,7 +5,7 @@ slug: tap-086
 date: "1983-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "The Burglar's Tool Box by The Stainless Steal Rat, the start of a series on fabricating lock-picking tools from hardware-store materials."
 projects:
   - tap

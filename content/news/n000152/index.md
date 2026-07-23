@@ -5,7 +5,7 @@ slug: tap-032
 date: "1976-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "1976 Credit Card Code, Odds & Ends, Ask Mr. Phelps, Memorize and Burn, etc."
 projects:
   - tap

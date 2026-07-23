@@ -5,7 +5,7 @@ slug: tap-030
 date: "1975-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "The Party's Over, Install an Extension Phone, Fortress Fun, Telephone Locks, Letters, etc."
 projects:
   - tap

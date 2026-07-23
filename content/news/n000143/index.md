@@ -5,7 +5,7 @@ slug: tap-023
 date: "1973-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Special Energy Crisis Issue — Live Better With Free Electricity, Picking the Meter Lock, Rumor Dept., Abbie Hoffman Defense Fund, etc."
 projects:
   - tap

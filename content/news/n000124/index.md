@@ -5,7 +5,7 @@ slug: tap-004
 date: "1971-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Special Pay Phone Issue, Abbie Hoffman on Pay Phone Justice, Monkey Warfare, etc."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-054
 date: "1978-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Review of Exotic Weapons: An Access Book, Lockpicking Supplies, MF Tone Generator Module, Loompanics Controversy, etc."
 projects:
   - tap

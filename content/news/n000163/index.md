@@ -5,7 +5,7 @@ slug: tap-043
 date: "1977-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Report from Merrie Olde England, The Silver Box, etc."
 projects:
   - tap

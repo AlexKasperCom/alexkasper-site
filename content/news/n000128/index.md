@@ -5,7 +5,7 @@ slug: tap-008
 date: "1972-02-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Letters, 1972 Credit Card Code cracked, etc."
 projects:
   - tap

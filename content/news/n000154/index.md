@@ -5,7 +5,7 @@ slug: tap-034
 date: "1976-04-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Open Sesame!, End the Misuse of the SS Number, TAP Patent Office, Odds & Ends, etc."
 projects:
   - tap

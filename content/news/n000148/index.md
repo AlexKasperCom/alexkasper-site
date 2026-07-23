@@ -5,7 +5,7 @@ slug: tap-028
 date: "1975-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "1975 Credit Card Code, Newspaper Machine Discovery, How To Read Computer Bills, Some Interesting Ideas for Pay Phone Boxers, Letters, etc."
 projects:
   - tap

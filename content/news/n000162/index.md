@@ -5,7 +5,7 @@ slug: tap-042
 date: "1977-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Interview With A Grand Guy, Keyboard Krazies, Stick 'Em Up!"
 projects:
   - tap

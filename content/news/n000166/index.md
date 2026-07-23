@@ -5,7 +5,7 @@ slug: tap-046
 date: "1977-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "TAP Update, Counter Control, The Voice, Con-Ned Again, etc."
 projects:
   - tap

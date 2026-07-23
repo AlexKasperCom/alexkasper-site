@@ -5,7 +5,7 @@ slug: tap-001
 date: "1971-06-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "1971 Credit card Code, Technical Information, Letters, Eavesdropping by our Friendly Phone Company, War Tax Resistance, etc."
 projects:
   - tap

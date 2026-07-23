@@ -5,7 +5,7 @@ slug: tap-050
 date: "1978-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Pick Your Way to Fame & Fortune, Electronics for the Dope Dealer, The Drop, The Birth Certificate, Tandem Scanning, Getting Hooked on Cable TV, 1978 CC Code, etc. Special Double Issue!"
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-022
 date: "1973-10-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Build The Answeroo, Spiro Agnew is an anagram for Grow a Penis, TAP D.A., Abbie Hoffman Defense Fund, Letters, How We Catch Red Boxers, Ma Bell's Ripoff Warning, Red Box Diagram Correction, etc."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-070
 date: "1981-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Freebasing Cocaine, a chemistry-focused feature by Dr. Atomic on the (then-emerging) practice of converting cocaine hydrochloride to smokable freebase."
 projects:
   - tap

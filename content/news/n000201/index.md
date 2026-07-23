@@ -5,7 +5,7 @@ slug: tap-081
 date: "1983-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "TAP RAP administrative policy update by Tom A. Edison, plus a Security Alert column on toll-record subpoenas and chemical-shipment surveillance."
 projects:
   - tap

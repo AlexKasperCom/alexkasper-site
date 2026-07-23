@@ -5,7 +5,7 @@ slug: tap-047
 date: "1977-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Beating the Cops On Speeding, etc."
 projects:
   - tap

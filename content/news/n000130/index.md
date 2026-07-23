@@ -5,7 +5,7 @@ slug: tap-010
 date: "1972-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "The Boston Peoples Yellow Pages, Start Your Own Chapter of YIP, Critique of \"Steal This Book\", etc."
 projects:
   - tap

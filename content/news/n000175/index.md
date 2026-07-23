@@ -5,7 +5,7 @@ slug: tap-055
 date: "1979-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Test Your Stash Drug-ID Column Debuts, Marquis Reagent Test Chart, Phone Billing News, etc."
 projects:
   - tap

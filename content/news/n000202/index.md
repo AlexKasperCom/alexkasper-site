@@ -5,7 +5,7 @@ slug: tap-082
 date: "1983-02-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Still in Saigon by Oz Y. Mandias, a dated and controversial column touching on remote paging-triggered devices, chemical-weapons documentation, and nuclear-history publications, alongside mail-order novelty/security-supply listings."
 projects:
   - tap

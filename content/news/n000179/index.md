@@ -5,7 +5,7 @@ slug: tap-059
 date: "1979-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "TAP Changes Name to Technological Assistance Program, New Address, THC-79 Convention Recap, Special Government Phone Procedures, etc."
 projects:
   - tap

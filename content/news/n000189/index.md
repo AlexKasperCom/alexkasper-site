@@ -5,7 +5,7 @@ slug: tap-069
 date: "1981-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Viva La Muerte! drug-scene news column by Oz Y. Mandias, plus a preview of a microprocessor-controlled 'brown box' project."
 projects:
   - tap

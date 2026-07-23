@@ -5,7 +5,7 @@ slug: tap-065
 date: "1981-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Notes on Getting Started in Pirate Radio, categories of pirate broadcasting, transmitters, and antennas."
 projects:
   - tap

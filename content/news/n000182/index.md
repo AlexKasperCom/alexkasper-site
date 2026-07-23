@@ -5,7 +5,7 @@ slug: tap-062
 date: "1980-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Milo Fonebill's Automatic Blue Box Explained by Lavoisier, detailed 10-digit memory circuit walkthrough."
 projects:
   - tap

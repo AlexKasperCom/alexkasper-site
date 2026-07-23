@@ -5,7 +5,7 @@ slug: tap-033
 date: "1976-02-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Pay and Die?, Odds & Ends, Oops!, TAP's Black Box Long Distance Rates, Ask Mr. Phelps, Pay Attention!, etc."
 projects:
   - tap

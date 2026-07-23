@@ -5,7 +5,7 @@ slug: tap-027
 date: "1974-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Unannounced 6 month vacation, New Blue Box Info, More Free Electricity, etc."
 projects:
   - tap

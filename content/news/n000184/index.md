@@ -5,7 +5,7 @@ slug: tap-064
 date: "1980-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Channel 68 Decoder circuit and block diagram for subscription/pay-TV signal descrambling."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-066
 date: "1981-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Fortress Fun-ding: technical breakdown of modern electronic coin telephone signaling and totalizing circuits."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-090
 date: "1984-01-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Your Rights as a Phone Phreak by Fred Steinbeck, a plain-language legal explainer on federal wiretap law and how phone companies legally track toll fraud without a warrant."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-057
 date: "1979-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Tom Edison Rattles Plot!, TAP's Internal History and Al Bell Falling Out, New Computer System, Underground Office Move, etc."
 projects:
   - tap

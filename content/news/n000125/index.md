@@ -5,7 +5,7 @@ slug: tap-005
 date: "1971-10-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Do Not Read This!, Remember the Blue Box?, Letters & Answers, Carolina Plain Dealer Ripoff, etc."
 projects:
   - tap

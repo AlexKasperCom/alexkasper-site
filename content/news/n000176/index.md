@@ -5,7 +5,7 @@ slug: tap-056
 date: "1979-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "The Programmable Blue Box, digital logic schematic for keypad-driven tone dialer, etc."
 projects:
   - tap

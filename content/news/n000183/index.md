@@ -5,7 +5,7 @@ slug: tap-063
 date: "1980-06-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "How to Modify Your Bell Touch Tone Fone to Have 1633 Cycle Tones, by The Sagician."
 projects:
   - tap

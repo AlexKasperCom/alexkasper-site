@@ -5,7 +5,7 @@ slug: tap-077
 date: "1982-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "An FBI View of Computer Crime, a recap of an FBI agent's talk on computer fraud categories and notable cases, plus a chemistry-column update."
 projects:
   - tap

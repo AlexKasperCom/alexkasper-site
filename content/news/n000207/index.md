@@ -5,7 +5,7 @@ slug: tap-087
 date: "1983-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "The Great Fire of '83 by Cheshire Catalyst, recounting a real burglary and attempted arson at editor Tom Edison's apartment/TAP office, plus a shift to plain-envelope mailing and an ISBN for the newsletter."
 projects:
   - tap

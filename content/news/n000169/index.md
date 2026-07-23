@@ -5,7 +5,7 @@ slug: tap-049
 date: "1978-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "More Fortress Fun!, The Principles of TWX Phreaking, etc."
 projects:
   - tap

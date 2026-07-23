@@ -5,7 +5,7 @@ slug: tap-041
 date: "1976-12-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "A Visit from the Mebco Man, CB Bull, The Big Bust, Un-Due'ing Postage, etc."
 projects:
   - tap

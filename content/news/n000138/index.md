@@ -5,7 +5,7 @@ slug: tap-018
 date: "1973-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "A Special Sex Change Issue - Ma Bell is Really Pa Bell In Drag!, Ammo, No More Long Distance Calls!, We Try Harder, Holy Shit, Where Your Slug Goes, etc."
 projects:
   - tap

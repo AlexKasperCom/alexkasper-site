@@ -5,7 +5,7 @@ slug: tap-058
 date: "1979-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Pro-Gun Rights Postage Stamp Campaign, Mr. Phelps Strikes Again column returns, etc."
 projects:
   - tap

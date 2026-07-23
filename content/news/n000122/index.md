@@ -5,7 +5,7 @@ slug: tap-002
 date: "1971-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "\"Blue Box\" Is Linked to Phone Call Fraud, The Dumbest Rip-off, etc."
 projects:
   - tap

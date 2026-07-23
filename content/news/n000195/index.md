@@ -5,7 +5,7 @@ slug: tap-075
 date: "1982-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "11th Anniversary Issue: WATS Extenders by The Magician, explaining the legitimate business origin of WATS-line coupling and its exploitation by phreaks, with detection/legal-risk warnings."
 projects:
   - tap

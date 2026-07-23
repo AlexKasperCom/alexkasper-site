@@ -5,7 +5,7 @@ slug: tap-036
 date: "1976-06-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Ultimate Red Box, Odds & Ends, S-1 Update, Ask Mr. Phelps, etc."
 projects:
   - tap

@@ -5,7 +5,7 @@ slug: tap-078
 date: "1982-10-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Free Pay TV 'Legally!' by The Magician, an overview of satellite, MDS, and multipoint distribution pay-television technology as an alternative to illegal decoder boxes."
 projects:
   - tap

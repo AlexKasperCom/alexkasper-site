@@ -5,7 +5,7 @@ slug: tap-013
 date: "1972-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Readers, More Box Plans, Dialing Overseas Calls, etc."
 projects:
   - tap

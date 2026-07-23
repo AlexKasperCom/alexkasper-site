@@ -5,7 +5,7 @@ slug: tap-017
 date: "1973-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Ammo, Don't Get Busted!, Red Box Phreaks!, Build a Line Relay, Holy Shit!, Letters, etc."
 projects:
   - tap

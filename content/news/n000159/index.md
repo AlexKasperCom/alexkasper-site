@@ -5,7 +5,7 @@ slug: tap-039
 date: "1976-09-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Fighting the Biggest Monopoly of All, The Way It Sposed To Be, Ask Mr. Phelps about Free Postage, Let's Make a Deal, Xerox Copiers et al: Access, etc."
 projects:
   - tap

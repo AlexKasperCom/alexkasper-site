@@ -5,7 +5,7 @@ slug: tap-074
 date: "1982-04-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "TELENET by Paul Montgomery, a guide to accessing the GTE Telenet packet-switched computer network, plus a CENTAPP group newsletter excerpt."
 projects:
   - tap

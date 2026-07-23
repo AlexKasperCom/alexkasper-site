@@ -5,7 +5,7 @@ slug: tap-083
 date: "1983-03-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Video Voodoo by Fred Steinbeck on classic arcade-game coin-mechanism quirks, plus drug-culture news notes and police vehicle surveillance tactics."
 projects:
   - tap

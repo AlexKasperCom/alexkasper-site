@@ -5,7 +5,7 @@ slug: tap-067
 date: "1981-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "TAP's 10th Anniversary: A History of YIPL/TAP and Its Editors, plus Picking Mushroom-Pin Locks."
 projects:
   - tap

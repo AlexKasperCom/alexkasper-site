@@ -5,7 +5,7 @@ slug: tap-035
 date: "1976-05-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Odds & Ends, Ask Mr. Phelps, Mission: Impossible!, etc."
 projects:
   - tap

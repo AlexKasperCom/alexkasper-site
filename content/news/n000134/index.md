@@ -5,7 +5,7 @@ slug: tap-014
 date: "1972-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Credit Cards of the Month, Free Speech, The AT&T Papers, Support Captain Crunch, etc."
 projects:
   - tap

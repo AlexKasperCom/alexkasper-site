@@ -5,7 +5,7 @@ slug: tap-045
 date: "1977-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "CB Bull, AT&T Report, Get Down! etc."
 projects:
   - tap

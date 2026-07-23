@@ -5,7 +5,7 @@ slug: tap-080
 date: "1982-12-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Getting In, a lock-picking and forced-entry guide framed as being for readers locked out of their own homes."
 projects:
   - tap

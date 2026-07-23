@@ -5,7 +5,7 @@ slug: tap-051
 date: "1978-07-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Auto-Combo Red-Blue Box notes, TAP's Financial Crisis and Near-Folding, THC-79 Announcement, etc."
 projects:
   - tap

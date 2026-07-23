@@ -5,7 +5,7 @@ slug: tap-016
 date: "1973-02-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "All New Red Box, 1973 Credit Card Code, Letters, etc."
 projects:
   - tap

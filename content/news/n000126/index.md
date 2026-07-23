@@ -5,7 +5,7 @@ slug: tap-006
 date: "1971-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Statement of Purpose, Credit Card Codes by Area, Mixer & Amplifier for \"Toy Organ\" Blue Box, Scotch Taping Stamps for free postage, etc."
 projects:
   - tap

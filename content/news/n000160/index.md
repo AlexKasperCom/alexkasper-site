@@ -5,7 +5,7 @@ slug: tap-040
 date: "1976-11-01"
 
 draft: false
-source_type: article
+source_type: newsletter
 summary: "Book of the Year, Up Yours!, Black Box Update, News Clips, Voice Supervision Detector, Tuning your Organ"
 projects:
   - tap
