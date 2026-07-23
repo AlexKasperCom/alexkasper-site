@@ -1,5 +1,5 @@
 ---
-id: t000001
+id: p000001
 
 title: "Kevin Mitnick"
 slug: "kevin-mitnick"

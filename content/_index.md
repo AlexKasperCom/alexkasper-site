@@ -13,7 +13,7 @@ heroLinks:
 
 heroCards:
   - id: virtualSchool
-    url: "/projects/"
+    url: "/projects/p000002/manufactured-urgency/"
     title: Manufactured Urgency
     subtitle: Be the first to see it!
 
