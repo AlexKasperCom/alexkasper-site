@@ -70,6 +70,12 @@
 <div data-pagefind-ignore>
 {{ partial "share.html" . }}
 </div>
+
+{{ with .Resources.GetMatch "transcript.txt" }}
+<div class="visually-hidden" aria-hidden="true" data-pagefind-weight="0.5">
+{{ .Content }}
+</div>
+{{ end }}
         </article>
       </section>
     </section>
