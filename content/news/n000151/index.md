@@ -1,6 +1,6 @@
 ---
 id: n000151
-title: "TAP #031"
+title: "TAP No. 31 - December 1975"
 slug: tap-031
 date: "1975-12-01"
 
@@ -14,7 +14,7 @@ tags:
   - black-box-variants
   - captain-crunch
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

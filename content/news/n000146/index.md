@@ -1,6 +1,6 @@
 ---
 id: n000146
-title: "TAP #026"
+title: "TAP No. 26 - March 1974"
 slug: tap-026
 date: "1974-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - movement-security
   - phone-booth-changes
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

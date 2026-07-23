@@ -1,6 +1,6 @@
 ---
 id: n000206
-title: "TAP #086"
+title: "TAP No. 86 - July 1983"
 slug: tap-086
 date: "1983-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - lock-picking
   - tool-fabrication
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

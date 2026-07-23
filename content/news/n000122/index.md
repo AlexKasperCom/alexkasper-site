@@ -1,6 +1,6 @@
 ---
 id: n000122
-title: "YIPL #002"
+title: "TAP No. 2 - July 1971"
 slug: tap-002
 date: "1971-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - tone-frequencies
   - phreaking-debate
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000195
-title: "TAP #075"
+title: "TAP No. 75 - May 1982"
 slug: tap-075
 date: "1982-05-01"
 
@@ -14,7 +14,7 @@ tags:
   - toll-fraud
   - 11th-anniversary
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

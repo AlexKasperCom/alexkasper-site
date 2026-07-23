@@ -1,6 +1,6 @@
 ---
 id: n000191
-title: "TAP #071"
+title: "TAP No. 71 - January 1982"
 slug: tap-071
 date: "1982-01-01"
 
@@ -14,7 +14,7 @@ tags:
   - password-harvesting
   - hp-2000
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

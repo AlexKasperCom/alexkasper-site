@@ -1,6 +1,6 @@
 ---
 id: n000123
-title: "YIPL #003"
+title: "TAP No. 3 - August 1971"
 slug: tap-003
 date: "1971-08-01"
 
@@ -14,7 +14,7 @@ tags:
   - telecommand-wiretap
   - fbi-surveillance
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

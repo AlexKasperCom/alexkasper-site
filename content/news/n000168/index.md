@@ -1,6 +1,6 @@
 ---
 id: n000168
-title: "TAP #048"
+title: "TAP No. 48 - January 1978"
 slug: tap-048
 date: "1978-01-01"
 
@@ -13,7 +13,7 @@ tags:
   - editorial-conflict
   - automatic-bill-pay
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

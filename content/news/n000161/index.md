@@ -1,6 +1,6 @@
 ---
 id: n000161
-title: "TAP #041"
+title: "TAP No. 41 - December 1976"
 slug: tap-041
 date: "1976-12-01"
 
@@ -14,7 +14,7 @@ tags:
   - technofreaks-network
   - bell-lawsuit
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

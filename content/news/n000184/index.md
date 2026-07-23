@@ -1,6 +1,6 @@
 ---
 id: n000184
-title: "TAP #064"
+title: "TAP No. 64 - September 1980"
 slug: tap-064
 date: "1980-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - pay-tv
   - signal-decoding
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

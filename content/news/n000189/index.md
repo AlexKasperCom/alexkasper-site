@@ -1,6 +1,6 @@
 ---
 id: n000189
-title: "TAP #069"
+title: "TAP No. 69 - September 1981"
 slug: tap-069
 date: "1981-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - drug-scene-news
   - microprocessor-box
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

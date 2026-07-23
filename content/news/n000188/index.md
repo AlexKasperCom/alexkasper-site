@@ -1,6 +1,6 @@
 ---
 id: n000188
-title: "TAP #068"
+title: "TAP No. 68 - July 1981"
 slug: tap-068
 date: "1981-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - black-box
   - reader-letters
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

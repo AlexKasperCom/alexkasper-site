@@ -1,6 +1,6 @@
 ---
 id: n000166
-title: "TAP #046"
+title: "TAP No. 46 - September 1977"
 slug: tap-046
 date: "1977-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - blue-box-detection-tech
   - subscription-update
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

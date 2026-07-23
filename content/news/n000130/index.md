@@ -1,6 +1,6 @@
 ---
 id: n000130
-title: "YIPL #010"
+title: "TAP No. 10 - May 1972"
 slug: tap-010
 date: "1972-05-01"
 
@@ -14,7 +14,7 @@ tags:
   - community-organizing
   - black-box-comparison
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

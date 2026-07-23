@@ -1,6 +1,6 @@
 ---
 id: n000176
-title: "TAP #056"
+title: "TAP No. 56 - March 1979"
 slug: tap-056
 date: "1979-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - programmable-box
   - digital-logic
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

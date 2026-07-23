@@ -1,6 +1,6 @@
 ---
 id: n000200
-title: "TAP #080"
+title: "TAP No. 80 - December 1982"
 slug: tap-080
 date: "1982-12-01"
 
@@ -14,7 +14,7 @@ tags:
   - getting-in
   - forced-entry
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

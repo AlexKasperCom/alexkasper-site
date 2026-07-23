@@ -1,6 +1,6 @@
 ---
 id: n000158
-title: "TAP #038"
+title: "TAP No. 38 - September 1976"
 slug: tap-038
 date: "1976-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - energy-conservation
   - solar-heating-skepticism
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

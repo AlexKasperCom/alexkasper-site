@@ -1,6 +1,6 @@
 ---
 id: n000135
-title: "YIPL #015"
+title: "TAP No. 15 - December 1972"
 slug: tap-015
 date: "1972-12-01"
 
@@ -15,7 +15,7 @@ tags:
   - blue-box-detectors
   - destructory-assistance
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000209
-title: "TAP #089"
+title: "TAP No. 89 - December 1983"
 slug: tap-089
 date: "1983-12-01"
 
@@ -14,7 +14,7 @@ tags:
   - exchange-scanning
   - 1984
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

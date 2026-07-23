@@ -1,6 +1,6 @@
 ---
 id: n000148
-title: "TAP #028"
+title: "TAP No. 28 - March 1975"
 slug: tap-028
 date: "1975-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - telident-skepticism
   - loop-numbers
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

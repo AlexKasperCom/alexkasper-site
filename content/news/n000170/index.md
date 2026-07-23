@@ -1,6 +1,6 @@
 ---
 id: n000170
-title: "TAP #050"
+title: "TAP No. 50 - May 1978"
 slug: tap-050
 date: "1978-05-01"
 
@@ -16,7 +16,7 @@ tags:
   - anniversary-issue
   - double-issue
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

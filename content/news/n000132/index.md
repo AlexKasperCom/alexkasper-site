@@ -1,6 +1,6 @@
 ---
 id: n000132
-title: "YIPL #012"
+title: "TAP No. 12 - August 1972"
 slug: tap-012
 date: "1972-08-01"
 
@@ -14,7 +14,7 @@ tags:
   - red-box
   - legal-defense-fund
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

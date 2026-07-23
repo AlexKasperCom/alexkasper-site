@@ -1,6 +1,6 @@
 ---
 id: n000153
-title: "TAP #033"
+title: "TAP No. 33 - February 1976"
 slug: tap-033
 date: "1976-02-01"
 
@@ -14,7 +14,7 @@ tags:
   - odds-and-ends-column
   - extension-phone-detection
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

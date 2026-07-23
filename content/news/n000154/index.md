@@ -1,6 +1,6 @@
 ---
 id: n000154
-title: "TAP #034"
+title: "TAP No. 34 - April 1976"
 slug: tap-034
 date: "1976-04-01"
 
@@ -14,7 +14,7 @@ tags:
   - multiple-id-advocacy
   - fortress-payphone
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

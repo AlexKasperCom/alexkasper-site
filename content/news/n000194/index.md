@@ -1,6 +1,6 @@
 ---
 id: n000194
-title: "TAP #074"
+title: "TAP No. 74 - April 1982"
 slug: tap-074
 date: "1982-04-01"
 
@@ -14,7 +14,7 @@ tags:
   - packet-switched-network
   - centapp
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

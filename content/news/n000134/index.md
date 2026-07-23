@@ -1,6 +1,6 @@
 ---
 id: n000134
-title: "YIPL #014"
+title: "TAP No. 14 - November 1972"
 slug: tap-014
 date: "1972-11-01"
 
@@ -15,7 +15,7 @@ tags:
   - red-box-tuning
   - bell-internal-culture
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

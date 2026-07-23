@@ -1,6 +1,6 @@
 ---
 id: n000197
-title: "TAP #077"
+title: "TAP No. 77 - September 1982"
 slug: tap-077
 date: "1982-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - computer-fraud-cases
   - wiretapping
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

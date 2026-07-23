@@ -1,6 +1,6 @@
 ---
 id: n000180
-title: "TAP #060"
+title: "TAP No. 60 - November 1979"
 slug: tap-060
 date: "1979-11-01"
 
@@ -13,7 +13,7 @@ tags:
   - lock-picking
   - lock-pick-larceny
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

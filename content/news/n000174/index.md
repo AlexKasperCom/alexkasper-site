@@ -1,6 +1,6 @@
 ---
 id: n000174
-title: "TAP #054"
+title: "TAP No. 54 - November 1978"
 slug: tap-054
 date: "1978-11-01"
 
@@ -15,7 +15,7 @@ tags:
   - lock-picking
   - editorial
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

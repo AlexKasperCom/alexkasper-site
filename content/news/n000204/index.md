@@ -1,6 +1,6 @@
 ---
 id: n000204
-title: "TAP #084"
+title: "TAP No. 84 - April 1983"
 slug: tap-084
 date: "1983-04-01"
 
@@ -14,7 +14,7 @@ tags:
   - cheshire-catalyst
   - touch-tone-mod
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000138
-title: "YIPL #018"
+title: "TAP No. 18 - May 1973"
 slug: tap-018
 date: "1973-05-01"
 
@@ -15,7 +15,7 @@ tags:
   - computer-crime
   - prisoner-rights
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

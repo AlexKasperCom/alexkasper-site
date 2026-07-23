@@ -1,6 +1,6 @@
 ---
 id: n000143
-title: "TAP #023"
+title: "TAP No. 23 - November 1973"
 slug: tap-023
 date: "1973-11-01"
 
@@ -16,7 +16,7 @@ tags:
   - lock-picking
   - abbie-hoffman-defense-fund
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

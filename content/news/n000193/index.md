@@ -1,6 +1,6 @@
 ---
 id: n000193
-title: "TAP #073"
+title: "TAP No. 73 - March 1982"
 slug: tap-073
 date: "1982-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - pbx-fraud
   - paul-montgomery
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

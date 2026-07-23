@@ -1,6 +1,6 @@
 ---
 id: n000162
-title: "TAP #042"
+title: "TAP No. 42 - January 1977"
 slug: tap-042
 date: "1977-01-01"
 
@@ -14,7 +14,7 @@ tags:
   - prankster-culture
   - institutional-hoaxes
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

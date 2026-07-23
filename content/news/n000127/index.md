@@ -1,6 +1,6 @@
 ---
 id: n000127
-title: "YIPL #007"
+title: "TAP No. 7 - December 1971"
 slug: tap-007
 date: "1971-12-01"
 
@@ -14,7 +14,7 @@ tags:
   - black-box
   - itt-boycott
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

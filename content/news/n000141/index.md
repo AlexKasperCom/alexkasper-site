@@ -1,6 +1,6 @@
 ---
 id: n000141
-title: "YIPL #021"
+title: "TAP No. 21 - August 1973"
 slug: tap-021
 date: "1973-08-01"
 
@@ -14,7 +14,7 @@ tags:
   - abbie-hoffman-defense-fund
   - convention-recap
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

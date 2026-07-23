@@ -1,6 +1,6 @@
 ---
 id: n000208
-title: "TAP #088"
+title: "TAP No. 88 - November 1983"
 slug: tap-088
 date: "1983-11-01"
 
@@ -14,7 +14,7 @@ tags:
   - trade-show
   - itu
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

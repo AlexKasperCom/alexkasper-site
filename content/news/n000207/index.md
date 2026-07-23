@@ -1,6 +1,6 @@
 ---
 id: n000207
-title: "TAP #087"
+title: "TAP No. 87 - September 1983"
 slug: tap-087
 date: "1983-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - tap-history
   - burglary
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

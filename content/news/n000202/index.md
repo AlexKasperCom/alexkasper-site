@@ -1,6 +1,6 @@
 ---
 id: n000202
-title: "TAP #082"
+title: "TAP No. 82 - February 1983"
 slug: tap-082
 date: "1983-02-01"
 
@@ -14,7 +14,7 @@ tags:
   - cold-war-era
   - mail-order-listings
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

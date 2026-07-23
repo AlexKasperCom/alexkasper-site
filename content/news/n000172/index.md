@@ -1,6 +1,6 @@
 ---
 id: n000172
-title: "TAP #052"
+title: "TAP No. 52 - August 1978"
 slug: tap-052
 date: "1978-08-01"
 
@@ -15,7 +15,7 @@ tags:
   - radar-jammer
   - thc-79
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

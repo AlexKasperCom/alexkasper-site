@@ -1,6 +1,6 @@
 ---
 id: n000131
-title: "YIPL #011"
+title: "TAP No. 11 - June 1972"
 slug: tap-011
 date: "1972-06-01"
 
@@ -14,7 +14,7 @@ tags:
   - black-box
   - ramparts-suppression
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

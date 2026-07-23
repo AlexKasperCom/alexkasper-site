@@ -1,6 +1,6 @@
 ---
 id: n000160
-title: "TAP #040"
+title: "TAP No. 40 - November 1976"
 slug: tap-040
 date: "1976-11-01"
 
@@ -14,7 +14,7 @@ tags:
   - alternative-technology
   - infrasonics
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

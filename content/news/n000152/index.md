@@ -1,6 +1,6 @@
 ---
 id: n000152
-title: "TAP #032"
+title: "TAP No. 32 - January 1976"
 slug: tap-032
 date: "1976-01-01"
 
@@ -14,7 +14,7 @@ tags:
   - telident-fraud-exposed
   - destructory-assistance
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

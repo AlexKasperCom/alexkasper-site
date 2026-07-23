@@ -1,6 +1,6 @@
 ---
 id: n000129
-title: "YIPL #009"
+title: "TAP No. 9 - March 1972"
 slug: tap-009
 date: "1972-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - itt-boycott
   - super-duper-project
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

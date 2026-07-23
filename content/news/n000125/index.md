@@ -1,6 +1,6 @@
 ---
 id: n000125
-title: "YIPL #005"
+title: "TAP No. 5 - October 1971"
 slug: tap-005
 date: "1971-10-01"
 
@@ -15,7 +15,7 @@ tags:
   - carolina-plain-dealer
   - war-tax-resistance
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

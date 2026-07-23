@@ -1,6 +1,6 @@
 ---
 id: n000142
-title: "TAP #022"
+title: "TAP No. 22 - October 1973"
 slug: tap-022
 date: "1973-10-01"
 
@@ -14,7 +14,7 @@ tags:
   - destructory-assistance
   - nixon-era-satire
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

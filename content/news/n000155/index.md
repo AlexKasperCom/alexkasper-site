@@ -1,6 +1,6 @@
 ---
 id: n000155
-title: "TAP #035"
+title: "TAP No. 35 - May 1976"
 slug: tap-035
 date: "1976-05-01"
 
@@ -14,7 +14,7 @@ tags:
   - tap-anniversary
   - red-box-troubleshooting
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

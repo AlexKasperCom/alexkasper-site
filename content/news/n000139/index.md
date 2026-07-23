@@ -1,6 +1,6 @@
 ---
 id: n000139
-title: "YIPL #019"
+title: "TAP No. 19 - June 1973"
 slug: tap-019
 date: "1973-06-01"
 
@@ -15,7 +15,7 @@ tags:
   - snoop-light
   - watergate-at-and-t
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

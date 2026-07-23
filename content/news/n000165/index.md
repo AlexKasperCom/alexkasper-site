@@ -1,6 +1,6 @@
 ---
 id: n000165
-title: "TAP #045"
+title: "TAP No. 45 - July 1977"
 slug: tap-045
 date: "1977-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - tap-near-folding
   - subscription-fees
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

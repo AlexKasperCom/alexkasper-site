@@ -1,6 +1,6 @@
 ---
 id: n000156
-title: "TAP #036"
+title: "TAP No. 36 - June 1976"
 slug: tap-036
 date: "1976-06-01"
 
@@ -13,7 +13,7 @@ tags:
   - ultimate-red-box
   - precision-timer-circuit
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

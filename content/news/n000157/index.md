@@ -1,6 +1,6 @@
 ---
 id: n000157
-title: "TAP #037"
+title: "TAP No. 37 - July 1976"
 slug: tap-037
 date: "1976-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - military-phone-system
   - condenser-check-detection
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

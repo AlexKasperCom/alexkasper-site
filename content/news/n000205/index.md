@@ -1,6 +1,6 @@
 ---
 id: n000205
-title: "TAP #085"
+title: "TAP No. 85 - May 1983"
 slug: tap-085
 date: "1983-05-01"
 
@@ -15,7 +15,7 @@ tags:
   - 12th-anniversary
   - atm-fraud
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

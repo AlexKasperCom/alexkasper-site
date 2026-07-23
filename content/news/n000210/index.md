@@ -1,6 +1,6 @@
 ---
 id: n000210
-title: "TAP #090"
+title: "TAP No. 90 - January 1984"
 slug: tap-090
 date: "1984-01-01"
 
@@ -14,7 +14,7 @@ tags:
   - wiretap-law
   - dnr
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

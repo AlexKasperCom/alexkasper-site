@@ -1,6 +1,6 @@
 ---
 id: n000126
-title: "YIPL #006"
+title: "TAP No. 6 - November 1971"
 slug: tap-006
 date: "1971-11-01"
 
@@ -14,7 +14,7 @@ tags:
   - credit-card-codes-by-area
   - blue-box
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

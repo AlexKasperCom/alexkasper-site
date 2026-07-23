@@ -1,6 +1,6 @@
 ---
 id: n000199
-title: "TAP #079"
+title: "TAP No. 79 - November 1982"
 slug: tap-079
 date: "1982-11-01"
 
@@ -14,7 +14,7 @@ tags:
   - parts-sourcing
   - fred-steinbeck
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

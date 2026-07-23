@@ -1,6 +1,6 @@
 ---
 id: n000133
-title: "YIPL #013"
+title: "TAP No. 13 - September 1972"
 slug: tap-013
 date: "1972-09-01"
 
@@ -15,7 +15,7 @@ tags:
   - subway-fare-fraud
   - overseas-dialing
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

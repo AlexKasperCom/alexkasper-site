@@ -1,6 +1,6 @@
 ---
 id: n000173
-title: "TAP #053"
+title: "TAP No. 53 - September 1978"
 slug: tap-053
 date: "1978-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - microcomputer-blue-box
   - networking
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

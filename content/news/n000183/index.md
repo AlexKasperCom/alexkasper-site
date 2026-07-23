@@ -1,6 +1,6 @@
 ---
 id: n000183
-title: "TAP #063"
+title: "TAP No. 63 - June 1980"
 slug: tap-063
 date: "1980-06-01"
 
@@ -14,7 +14,7 @@ tags:
   - 1633-hz
   - hardware-hack
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

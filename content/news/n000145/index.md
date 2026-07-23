@@ -1,6 +1,6 @@
 ---
 id: n000145
-title: "TAP #025"
+title: "TAP No. 25 - January 1974"
 slug: tap-025
 date: "1974-01-01"
 
@@ -15,7 +15,7 @@ tags:
   - at-and-t-critique
   - mail-security
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

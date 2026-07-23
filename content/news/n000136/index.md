@@ -1,6 +1,6 @@
 ---
 id: n000136
-title: "YIPL #016"
+title: "TAP No. 16 - February 1973"
 slug: tap-016
 date: "1973-02-01"
 
@@ -14,7 +14,7 @@ tags:
   - destructory-assistance
   - subscriber-growth
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

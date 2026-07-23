@@ -1,6 +1,6 @@
 ---
 id: n000190
-title: "TAP #070"
+title: "TAP No. 70 - November 1981"
 slug: tap-070
 date: "1981-11-01"
 
@@ -13,7 +13,7 @@ tags:
   - freebasing
   - drug-chemistry
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

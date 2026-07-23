@@ -1,6 +1,6 @@
 ---
 id: n000175
-title: "TAP #055"
+title: "TAP No. 55 - January 1979"
 slug: tap-055
 date: "1979-01-01"
 
@@ -14,7 +14,7 @@ tags:
   - drug-testing
   - reagent-chart
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000179
-title: "TAP #059"
+title: "TAP No. 59 - September 1979"
 slug: tap-059
 date: "1979-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - thc-79-recap
   - government-phone-systems
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

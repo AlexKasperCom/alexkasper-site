@@ -1,6 +1,6 @@
 ---
 id: n000171
-title: "TAP #051"
+title: "TAP No. 51 - July 1978"
 slug: tap-051
 date: "1978-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - editorial-crisis
   - milo-fonebill
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

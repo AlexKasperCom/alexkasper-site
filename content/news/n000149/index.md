@@ -1,6 +1,6 @@
 ---
 id: n000149
-title: "TAP #029"
+title: "TAP No. 29 - October 1975"
 slug: tap-029
 date: "1975-10-01"
 
@@ -14,7 +14,7 @@ tags:
   - ny-office
   - snoop-light-correction
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000147
-title: "TAP #027"
+title: "TAP No. 27 - November 1974"
 slug: tap-027
 date: "1974-11-01"
 
@@ -15,7 +15,7 @@ tags:
   - caller-id-precursor
   - free-electricity
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

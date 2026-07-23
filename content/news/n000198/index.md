@@ -1,6 +1,6 @@
 ---
 id: n000198
-title: "TAP #078"
+title: "TAP No. 78 - October 1982"
 slug: tap-078
 date: "1982-10-01"
 
@@ -14,7 +14,7 @@ tags:
   - satellite-tv
   - mds
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

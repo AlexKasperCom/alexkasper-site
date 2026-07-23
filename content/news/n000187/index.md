@@ -1,6 +1,6 @@
 ---
 id: n000187
-title: "TAP #067"
+title: "TAP No. 67 - May 1981"
 slug: tap-067
 date: "1981-05-01"
 
@@ -15,7 +15,7 @@ tags:
   - lock-picking
   - mushroom-pins
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

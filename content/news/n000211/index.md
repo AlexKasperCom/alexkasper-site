@@ -1,6 +1,6 @@
 ---
 id: n000211
-title: "TAP #091"
+title: "TAP No. 91 - March 1984"
 slug: tap-091
 date: "1984-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - unix
   - final-issues
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

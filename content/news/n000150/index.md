@@ -1,6 +1,6 @@
 ---
 id: n000150
-title: "TAP #030"
+title: "TAP No. 30 - November 1975"
 slug: tap-030
 date: "1975-11-01"
 
@@ -14,7 +14,7 @@ tags:
   - fortress-fun
   - party-line-discontinued
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000169
-title: "TAP #049"
+title: "TAP No. 49 - March 1978"
 slug: tap-049
 date: "1978-03-01"
 
@@ -13,7 +13,7 @@ tags:
   - fortress-fun
   - red-box-technical-analysis
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

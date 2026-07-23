@@ -1,6 +1,6 @@
 ---
 id: n000203
-title: "TAP #083"
+title: "TAP No. 83 - March 1983"
 slug: tap-083
 date: "1983-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - arcade-games
   - surveillance-tactics
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

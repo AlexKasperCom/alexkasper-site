@@ -1,6 +1,6 @@
 ---
 id: n000186
-title: "TAP #066"
+title: "TAP No. 66 - March 1981"
 slug: tap-066
 date: "1981-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - coin-signaling
   - fortress-phones
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

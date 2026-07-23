@@ -1,6 +1,6 @@
 ---
 id: n000185
-title: "TAP #065"
+title: "TAP No. 65 - January 1981"
 slug: tap-065
 date: "1981-01-01"
 
@@ -14,7 +14,7 @@ tags:
   - fcc
   - broadcasting
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

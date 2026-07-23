@@ -1,6 +1,6 @@
 ---
 id: n000124
-title: "YIPL #004"
+title: "TAP No. 4 - September 1971"
 slug: tap-004
 date: "1971-09-01"
 
@@ -14,7 +14,7 @@ tags:
   - coin-fraud
   - abbie-hoffman
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

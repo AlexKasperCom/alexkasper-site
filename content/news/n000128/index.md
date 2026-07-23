@@ -1,6 +1,6 @@
 ---
 id: n000128
-title: "YIPL #008"
+title: "TAP No. 8 - February 1972"
 slug: tap-008
 date: "1972-02-01"
 
@@ -14,7 +14,7 @@ tags:
   - induction-coupler
   - phone-tap-myths
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

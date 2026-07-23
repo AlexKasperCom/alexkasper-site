@@ -1,6 +1,6 @@
 ---
 id: n000192
-title: "TAP #072"
+title: "TAP No. 72 - February 1982"
 slug: tap-072
 date: "1982-02-01"
 
@@ -13,7 +13,7 @@ tags:
   - homemade-fireworks
   - pyrotechnics
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

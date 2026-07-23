@@ -1,6 +1,6 @@
 ---
 id: n000182
-title: "TAP #062"
+title: "TAP No. 62 - March 1980"
 slug: tap-062
 date: "1980-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - milo-fonebill
   - circuit-explanation
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000178
-title: "TAP #058"
+title: "TAP No. 58 - July 1979"
 slug: tap-058
 date: "1979-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - jim-phelps
   - ccrkba
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

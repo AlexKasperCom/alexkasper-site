@@ -1,6 +1,6 @@
 ---
 id: n000196
-title: "TAP #076"
+title: "TAP No. 76 - July 1982"
 slug: tap-076
 date: "1982-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - editorial-defense
   - bht
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

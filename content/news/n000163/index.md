@@ -1,6 +1,6 @@
 ---
 id: n000163
-title: "TAP #043"
+title: "TAP No. 43 - March 1977"
 slug: tap-043
 date: "1977-03-01"
 
@@ -14,7 +14,7 @@ tags:
   - credit-card-fraud-comparison
   - civil-liberties-commentary
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

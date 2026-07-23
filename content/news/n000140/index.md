@@ -1,6 +1,6 @@
 ---
 id: n000140
-title: "YIPL #020"
+title: "TAP No. 20 - July 1973"
 slug: tap-020
 date: "1973-07-01"
 
@@ -14,7 +14,7 @@ tags:
   - ani
   - bug-detection-rumor
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

@@ -1,6 +1,6 @@
 ---
 id: n000167
-title: "TAP #047"
+title: "TAP No. 47 - November 1977"
 slug: tap-047
 date: "1977-11-01"
 
@@ -14,7 +14,7 @@ tags:
   - fuzzbuster
   - speed-enforcement
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

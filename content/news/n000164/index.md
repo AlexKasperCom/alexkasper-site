@@ -1,6 +1,6 @@
 ---
 id: n000164
-title: "TAP #044"
+title: "TAP No. 44 - May 1977"
 slug: tap-044
 date: "1977-05-01"
 
@@ -14,7 +14,7 @@ tags:
   - tap-anniversary
   - subscription-policy
 author:
-publisher: "Technical Assistance Program"
+publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

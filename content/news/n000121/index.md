@@ -1,6 +1,6 @@
 ---
 id: n000121
-title: "YIPL #001"
+title: "TAP No. 1 - June 1971"
 slug: tap-001
 date: "1971-06-01"
 
@@ -15,7 +15,7 @@ tags:
   - war-tax-resistance
   - founding-issue
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true

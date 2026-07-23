@@ -1,6 +1,6 @@
 ---
 id: n000137
-title: "YIPL #017"
+title: "TAP No. 17 - March 1973"
 slug: tap-017
 date: "1973-03-01"
 
@@ -15,7 +15,7 @@ tags:
   - line-relay
   - at-and-t-rate-increase
 author:
-publisher: "Youth International Party Line"
+publisher: "TAP (YIPL)"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
 source_dead: true
