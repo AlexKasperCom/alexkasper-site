@@ -1,0 +1,17 @@
+{{- /*
+  Usage: {{< ref-id "n000003" >}}
+         {{< ref-id "n000003" "custom link text" >}}
+
+  Looks up a page anywhere on the site by its front-matter `id` field
+  (news, projects, events all use this: n000178, p000002, e000001, etc.)
+  and renders a hyperlink to it. Link text defaults to the page's title.
+*/ -}}
+{{- $id := .Get 0 -}}
+{{- $label := .Get 1 -}}
+{{- $matches := where site.RegularPages "Params.id" $id -}}
+{{- with $matches -}}
+  {{- $page := index . 0 -}}
+  <a href="{{ $page.RelPermalink }}">{{ or $label $page.Title }}</a>
+{{- else -}}
+  {{- errorf "ref-id shortcode: no page found with id %q (used in %q)" $id .Page.File.Path -}}
+{{- end -}}
