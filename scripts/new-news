@@ -53,7 +53,33 @@ while true; do
   echo
 done
 
-# ─────────── SLUG ───────────
+# ─────────── ID (stable, immutable, drives the folder name) ───────────
+
+NEWS_DIR="$SITE_DIR/content/news"
+MAX_NUM=0
+
+for d in "$NEWS_DIR"/n[0-9][0-9][0-9][0-9][0-9][0-9]; do
+  [[ -d "$d" ]] || continue
+  base="$(basename "$d")"
+  num="${base#n}"
+  num=$((10#$num))
+  if (( num > MAX_NUM )); then
+    MAX_NUM=$num
+  fi
+done
+
+ID=$(printf "n%06d" "$((MAX_NUM + 1))")
+FOLDER="$ID"
+TARGET="news/${FOLDER}/index.md"
+FULL_PATH="$SITE_DIR/content/$TARGET"
+
+if [[ -e "$FULL_PATH" ]]; then
+  echo "Computed next id $ID but $FULL_PATH already exists."
+  echo "Check content/news for a gap or collision before continuing."
+  exit 1
+fi
+
+# ─────────── SLUG (human-readable, used only in the URL, not the folder) ───────────
 
 SUGGESTED_SLUG=$(
   printf "%s" "$TITLE" |
@@ -84,20 +110,22 @@ while true; do
     continue
   fi
 
-  FOLDER="$SLUG"
-  TARGET="news/${FOLDER}/index.md"
-  FULL_PATH="$SITE_DIR/content/$TARGET"
-
-  if [[ ! -e "$FULL_PATH" ]]; then
-    break
+  # Slugs don't need to be globally unique (the id in the URL already
+  # guarantees that), but warn if one collides so it's not confusing later.
+  if grep -rlq "^slug: \"\?${SLUG}\"\?\$" "$NEWS_DIR"/*/index.md 2>/dev/null; then
+    echo
+    echo "Note: another entry already uses the slug \"$SLUG\"."
+    echo "That's fine (the id keeps URLs unique), but you can pick a different one."
+    echo
+    read -r -p "Use \"$SLUG\" anyway? [Y/n]: " USE_ANYWAY
+    USE_ANYWAY="${USE_ANYWAY:-y}"
+    case "$USE_ANYWAY" in
+      y|Y|yes|YES) break ;;
+      *) continue ;;
+    esac
   fi
 
-  echo
-  echo "That folder already exists:"
-  echo "$FULL_PATH"
-  echo
-
-  SLUG="${SLUG}-2"
+  break
 done
 
 # ─────────── CONFIRMATION ───────────
@@ -105,6 +133,7 @@ done
 echo
 echo "Summary"
 echo "-------"
+echo "ID:     $ID"
 echo "Title:  $TITLE"
 echo "Date:   $PUBDATE"
 echo "Slug:   $SLUG"
@@ -138,20 +167,26 @@ if [[ ! -f "$FULL_PATH" ]]; then
   exit 1
 fi
 
-# Populate title and publication date.
-python3 - "$FULL_PATH" "$TITLE" "$PUBDATE" <<'PY'
+# Populate id, slug, title, and publication date.
+python3 - "$FULL_PATH" "$ID" "$SLUG" "$TITLE" "$PUBDATE" <<'PY'
 import json
 import pathlib
 import sys
 
 path = pathlib.Path(sys.argv[1])
-title = sys.argv[2]
-pubdate = sys.argv[3]
+entry_id = sys.argv[2]
+slug = sys.argv[3]
+title = sys.argv[4]
+pubdate = sys.argv[5]
 
 lines = path.read_text().splitlines()
 
 for index, line in enumerate(lines):
-    if line.startswith("title:"):
+    if line.startswith("id:"):
+        lines[index] = f"id: {entry_id}"
+    elif line.startswith("slug:"):
+        lines[index] = f"slug: {slug}"
+    elif line.startswith("title:"):
         lines[index] = f"title: {json.dumps(title, ensure_ascii=False)}"
     elif line.startswith("date:"):
         lines[index] = f'date: "{pubdate}"'
@@ -162,6 +197,9 @@ PY
 echo
 echo "Created:"
 echo "content/$TARGET"
+echo
+echo "URL will be:"
+echo "/news/${ID}/${SLUG}/"
 
 if command -v code >/dev/null 2>&1; then
   code "$FULL_PATH"
