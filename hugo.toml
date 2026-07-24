@@ -44,3 +44,16 @@ weight = 80
     news = '/news/:contentbasename/:slug/'
     events = '/events/:contentbasename/:slug/'
     projects = '/projects/:contentbasename/:slug/'
+
+# Emits /id-map.json at build time: a flat list of every content item's
+# stable `id` (front matter) paired with its current canonical URL.
+# Used by layouts/404.html to redirect stale/incorrect slugs
+# (e.g. /news/n000104/wrong-slug/) to the item's current URL.
+[outputFormats.IDMap]
+  mediaType = "application/json"
+  baseName = "id-map"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "IDMap"]

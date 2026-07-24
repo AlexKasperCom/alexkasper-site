@@ -1,0 +1,9 @@
+{{- $items := slice -}}
+{{- range site.RegularPages -}}
+  {{- $p := . -}}
+  {{- $id := .Params.id -}}
+  {{- if $id -}}
+    {{- $items = $items | append (dict "id" $id "url" $p.RelPermalink) -}}
+  {{- end -}}
+{{- end -}}
+{{- $items | jsonify -}}

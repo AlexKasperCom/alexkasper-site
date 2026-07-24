@@ -40,4 +40,28 @@
   </section>
 </main>
 
+<script>
+(function () {
+  // If the URL contains a stable content id (e.g. /news/n000104/wrong-slug/
+  // or /news/n000104/), look it up in /id-map.json and redirect to its
+  // current canonical URL. Handles renamed/changed slugs gracefully.
+  var m = location.pathname.match(/\/([a-z]\d{6})(?:\/|$)/);
+  if (!m) return;
+  var id = m[1];
+
+  fetch('/id-map.json')
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (data) {
+      if (!data) return;
+      var match = data.find(function (item) { return item.id === id; });
+      if (match && match.url) {
+        location.replace(match.url);
+      }
+    })
+    .catch(function () {
+      // id-map.json unavailable; fall back to the static 404 message above.
+    });
+})();
+</script>
+
 {{ end }}
