@@ -41,7 +41,7 @@
 <div class="fullPost clearfix">
 
   {{ with .Resources.GetMatch "cover.*" }}
-    <figure class="news-cover">
+    <figure class="article-cover">
       {{ if $destinationURL }}
         <a href="{{ $destinationURL }}" target="_blank" rel="noopener noreferrer">
           <img
@@ -67,7 +67,7 @@
   {{ end }}
 
 </div>
-<div data-pagefind-ignore>
+<div class="article-actions" data-pagefind-ignore>
 {{ partial "share.html" . }}
 </div>
 

@@ -4,7 +4,7 @@ id: p000007
 title: "Kevin Mitnick"
 slug: "kevin-mitnick"
 
-type: person
+category: person
 status: historical
 
 summary: "Computer security consultant, author, and longtime friend and business partner of Alex Kasper."

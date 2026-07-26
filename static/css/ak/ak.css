@@ -582,22 +582,22 @@ header#hero .caption h2 {
 #totw:active {
      background-color: var(--color-muted-darker);
 }
-/* News article cover */
-.news-cover {
+/* Article cover (floated thumbnail) */
+.article-cover {
      float: left;
      margin: 0.25rem 1.75rem 1rem 0;
 }
-.news-cover img {
+.article-cover img {
      display: block;
      width: 180px;
      height: auto;
 }
 @media screen and (max-width: 600px) {
-     .news-cover {
+     .article-cover {
          float: none;
          margin: 0 0 1rem;
     }
-     .news-cover img {
+     .article-cover img {
          width: 100%;
          max-width: 220px;
     }
@@ -712,23 +712,23 @@ header#hero .caption h2 {
   }
 }
 
-/* News list cover images */
-.news-tile-cover {
+/* List tile cover images */
+.tile-cover {
      display: block;
      float: left;
      margin: 0.25rem 1.25rem 0.75rem 0;
 }
-.news-tile-cover img {
+.tile-cover img {
      display: block;
      width: 120px;
      height: auto;
 }
 @media screen and (max-width: 600px) {
-     .news-tile-cover {
+     .tile-cover {
          float: none;
          margin: 0 0 1rem;
     }
-     .news-tile-cover img {
+     .tile-cover img {
          width: 100%;
          max-width: 160px;
     }
@@ -753,12 +753,32 @@ header#hero .caption h2 {
 .post header h2 {
      margin: 0 0 1.25rem;
 }
+/* Article actions row (CTA links + share, side by side, divider above) */
+.article-actions {
+     display: flex;
+     flex-wrap: wrap;
+     align-items: center;
+     gap: 1rem;
+     margin-top: 1.5rem;
+     padding-top: 1.5rem;
+     border-top: 1px solid var(--color-border);
+}
+.article-actions #share.share-menu {
+     margin-top: 0;
+}
+
 /* Share Customization */
 /* Share dropdown */
+/* Reset the legacy #share divider (global.css) so this widget owns its
+   own spacing instead of inheriting a stray border/margin/font-size. */
 #share.share-menu {
      position: relative;
      display: inline-block;
      margin-top: 1.5rem;
+     padding-top: 0;
+     border-top: none;
+     font-size: inherit;
+     line-height: inherit;
 }
 #share .share-options[hidden] {
      display: none !important;
@@ -778,28 +798,10 @@ header#hero .caption h2 {
      border: 1px solid var(--color-border-light);
      box-shadow: 0 3px 10px rgba(0, 0, 0, 0.18);
 }
-/* Keep the main Share button styled like the site buttons */
+/* Share toggle inherits sizing/color from the shared .button class
+   (already on the markup) so it matches other action buttons exactly. */
 #share #share-toggle {
-     display: inline-block;
-     width: auto;
-     height: auto;
      margin: 0;
-     padding: 10px 20px;
-     border: 0;
-     border-radius: var(--radius);
-     background: var(--color-button);
-     color: var(--color-panel);
-     font-family: var(--font-display);
-     font-weight: var(--weight-semibold);
-     font-size: var(--text-xs);
-     line-height: 1.4rem;
-     letter-spacing: 0.1rem;
-     text-transform: uppercase;
-     appearance: none;
-     cursor: pointer;
-}
-#share #share-toggle:hover, #share #share-toggle:focus {
-     background: var(--color-button-hover);
 }
 /* Reset inherited social-button styling inside the dropdown */
 #share .share-options a, #share .share-options a:link, #share .share-options a:visited, #share .share-options button {

@@ -472,6 +472,18 @@ document.addEventListener("DOMContentLoaded", function () {
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
+    const interest = new URLSearchParams(window.location.search).get("interest");
+    if (!interest) return;
+
+    const boxes = document.querySelectorAll('input[name="00NPY00000WBxaD"]');
+    boxes.forEach(function (box) {
+        box.checked = box.value === interest;
+    });
+});
+</script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
     const select = document.getElementById("country_code");
 
     if (select.value) return;   // don't override if already selected

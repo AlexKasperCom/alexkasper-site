@@ -1,0 +1,92 @@
+{{ define "main" }}
+
+<main id="primary">
+  <section class="content columns clearfix">
+
+    <!-- Main article column -->
+    <section>
+      <section class="block">
+        <article class="post" data-pagefind-body>
+
+<header>
+
+  {{ if not .Params.hideDate }}
+    {{ with .Date }}
+      <p class="meta">
+        {{ .Format "January 2, 2006" }}
+      </p>
+    {{ end }}
+  {{ end }}
+
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+</header>
+
+<div class="fullPost clearfix">
+
+  {{ with .Resources.GetMatch "cover.*" }}
+    <figure class="article-cover">
+      <img
+        src="{{ .RelPermalink }}"
+        alt="{{ $.Title }}"
+        loading="eager">
+    </figure>
+  {{ end }}
+
+  {{ .Content }}
+
+</div>
+
+<div class="article-actions" data-pagefind-ignore>
+  {{ with .Params.mailingListInterest }}
+    {{ $source := printf "%s/%s" $.Params.id $.Slug }}
+    <a
+      href="/mailing-list/?source={{ $source | urlquery }}&interest={{ . | urlquery }}"
+      class="button">
+      Join the Mailing List
+    </a>
+  {{ end }}
+
+  {{ partial "share.html" . }}
+</div>
+
+        </article>
+      </section>
+    </section>
+
+    <!-- Right-hand sidebar -->
+    <section>
+      <section id="relatedProjects" class="block simple">
+        <h2>Related Projects</h2>
+
+        <ul>
+          {{ $currentPage := . }}
+
+          {{ range first 10
+            (where
+              (where
+                .Site.RegularPages.ByDate.Reverse
+                "Section"
+                "projects"
+              )
+              "RelPermalink"
+              "ne"
+              $currentPage.RelPermalink
+            )
+          }}
+            <li>
+              <a
+                href="{{ .RelPermalink }}"
+                title="Permanent Link to {{ .Title }}">
+                {{ .Title }}
+              </a>
+            </li>
+          {{ end }}
+        </ul>
+      </section>
+    </section>
+
+  </section>
+</main>
+
+{{ end }}

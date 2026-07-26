@@ -3,9 +3,9 @@
 <main id="primary">
   <section class="content columns clearfix">
 
-    <!-- Main news column -->
+    <!-- Main projects column -->
     <section>
-      {{ $pages := .RegularPages.ByDate.Reverse }}
+      {{ $pages := .RegularPages.ByTitle }}
       {{ $paginator := .Paginate $pages }}
 
       <div class="tilesWrapper two">
@@ -14,21 +14,22 @@
 
         {{ range $paginator.Pages }}
           {{ $page := . }}
-          {{ $destinationURL := partial "news-destination.html" . }}
 
           <article class="tile">
             <header>
-              <p class="meta">
-                <span>{{ .Date.Format "January 2, 2006" }}</span>
-
-                {{ with .Params.publisher }}
-                  <span> · {{ . }}</span>
-                {{ end }}
-
-                {{ with .Params.source_type }}
-                  <span> · {{ . | title }}</span>
-                {{ end }}
-              </p>
+              {{ $metaParts := slice }}
+              {{ if not .Date.IsZero }}
+                {{ $metaParts = $metaParts | append (.Date.Format "January 2, 2006") }}
+              {{ end }}
+              {{ with .Params.category }}
+                {{ $metaParts = $metaParts | append (. | title) }}
+              {{ end }}
+              {{ with .Params.status }}
+                {{ $metaParts = $metaParts | append (. | title) }}
+              {{ end }}
+              {{ with $metaParts }}
+                <p class="meta">{{ delimit . " · " }}</p>
+              {{ end }}
 
               <h3>
                 <a
@@ -53,21 +54,21 @@
                 </a>
               {{ end }}
 
-{{ with .Params.summary }}
-  <p class="news-summary">
-    {{ . | markdownify }}
+              {{ with .Params.summary }}
+                <p class="tile-summary">
+                  {{ . | markdownify }}
 
-    <a
-      class="read-more"
-      href="{{ $page.RelPermalink }}">
-      Read more &rarr;
-    </a>
-  </p>
-{{ end }}
+                  <a
+                    class="read-more"
+                    href="{{ $page.RelPermalink }}">
+                    Read more &rarr;
+                  </a>
+                </p>
+              {{ end }}
             </div>
           </article>
         {{ else }}
-          <p>No news items have been published yet.</p>
+          <p>No projects have been published yet.</p>
         {{ end }}
       </div>
 
@@ -119,12 +120,16 @@
     <!-- Right-hand column -->
     <section>
       <section class="block simple">
-        <h2>About the News</h2>
+        <h2>About Projects</h2>
 
-        <p>
-          Updates, announcements, appearances, publications,
-          and other news from Alex Kasper.
-        </p>
+        {{ with .Params.description }}
+          <p>{{ . | markdownify }}</p>
+        {{ else }}
+          <p>
+            People, organizations, technologies, and ideas that have
+            shaped Alex Kasper's work and career.
+          </p>
+        {{ end }}
       </section>
     </section>
 
