@@ -1,0 +1,332 @@
+#!/bin/bash
+set -u
+
+TODAY=$(date +%F)
+LOCAL_TZ_RAW=$(date +%z)
+LOCAL_TZ="${LOCAL_TZ_RAW:0:3}:${LOCAL_TZ_RAW:3:2}"
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+cd "$SITE_DIR" || {
+  echo "Could not open Hugo project root:"
+  echo "$SITE_DIR"
+  exit 1
+}
+
+echo
+echo "Create a new Event entry"
+echo
+echo "Press Enter to accept the value shown in [brackets], or to skip an"
+echo "optional field. Press Ctrl+C at any time to cancel."
+echo
+
+# ─────────── TITLE ───────────
+
+while true; do
+  read -r -p "Title: " TITLE
+
+  if [[ -n "${TITLE// }" ]]; then
+    break
+  fi
+
+  echo "A title is required."
+  echo
+done
+
+# ─────────── ID (stable, immutable, drives the folder name) ───────────
+
+EVENTS_DIR="$SITE_DIR/content/events"
+MAX_NUM=0
+
+for d in "$EVENTS_DIR"/e[0-9][0-9][0-9][0-9][0-9][0-9]; do
+  [[ -d "$d" ]] || continue
+  base="$(basename "$d")"
+  num="${base#e}"
+  num=$((10#$num))
+  if (( num > MAX_NUM )); then
+    MAX_NUM=$num
+  fi
+done
+
+ID=$(printf "e%06d" "$((MAX_NUM + 1))")
+FOLDER="$ID"
+TARGET="events/${FOLDER}/index.md"
+FULL_PATH="$SITE_DIR/content/$TARGET"
+
+if [[ -e "$FULL_PATH" ]]; then
+  echo "Computed next id $ID but $FULL_PATH already exists."
+  echo "Check content/events for a gap or collision before continuing."
+  exit 1
+fi
+
+# ─────────── SLUG (human-readable, used only in the URL, not the folder) ───────────
+
+SUGGESTED_SLUG=$(
+  printf "%s" "$TITLE" |
+    tr '[:upper:]' '[:lower:]' |
+    sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//'
+)
+
+if [[ -z "$SUGGESTED_SLUG" ]]; then
+  echo "The title did not produce a usable slug."
+  exit 1
+fi
+
+SLUG="$SUGGESTED_SLUG"
+
+while true; do
+  read -r -p "Slug [$SLUG]: " ENTERED_SLUG
+  ENTERED_SLUG="${ENTERED_SLUG:-$SLUG}"
+
+  SLUG=$(
+    printf "%s" "$ENTERED_SLUG" |
+      tr '[:upper:]' '[:lower:]' |
+      sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//'
+  )
+
+  if [[ -z "$SLUG" ]]; then
+    echo "Slug cannot be blank."
+    echo
+    continue
+  fi
+
+  # Slugs don't need to be globally unique (the id in the URL already
+  # guarantees that), but warn if one collides so it's not confusing later.
+  if grep -rlq "^slug: \"\?${SLUG}\"\?\$" "$EVENTS_DIR"/e[0-9][0-9][0-9][0-9][0-9][0-9]/index.md 2>/dev/null; then
+    echo
+    echo "Note: another entry already uses the slug \"$SLUG\"."
+    echo "That's fine (the id keeps URLs unique), but you can pick a different one."
+    echo
+    read -r -p "Use \"$SLUG\" anyway? [Y/n]: " USE_ANYWAY
+    USE_ANYWAY="${USE_ANYWAY:-y}"
+    case "$USE_ANYWAY" in
+      y|Y|yes|YES) break ;;
+      *) continue ;;
+    esac
+  fi
+
+  break
+done
+
+# ─────────── START DATE / TIME / TIMEZONE ───────────
+
+echo
+
+while true; do
+  read -r -p "Start date (YYYY-MM-DD) [$TODAY]: " START_DATE
+  START_DATE="${START_DATE:-$TODAY}"
+
+  if [[ ! "$START_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+    echo "Please enter the date as YYYY-MM-DD."
+    echo
+    continue
+  fi
+
+  if ! date -j -f "%Y-%m-%d" "$START_DATE" "+%Y-%m-%d" >/dev/null 2>&1; then
+    echo "That isn't a valid calendar date."
+    echo
+    continue
+  fi
+
+  break
+done
+
+while true; do
+  read -r -p "Start time, 24h (HH:MM) [09:00]: " START_TIME
+  START_TIME="${START_TIME:-09:00}"
+
+  if [[ "$START_TIME" =~ ^([01][0-9]|2[0-3]):[0-5][0-9]$ ]]; then
+    break
+  fi
+
+  echo "Please enter the time as HH:MM in 24-hour format."
+  echo
+done
+
+while true; do
+  read -r -p "Timezone UTC offset (+HH:MM or -HH:MM) [$LOCAL_TZ]: " TZ_OFFSET
+  TZ_OFFSET="${TZ_OFFSET:-$LOCAL_TZ}"
+
+  if [[ "$TZ_OFFSET" =~ ^[+-][0-1][0-9]:[0-5][0-9]$ ]]; then
+    break
+  fi
+
+  echo "Please enter the offset as +HH:MM or -HH:MM, e.g. -07:00."
+  echo
+done
+
+START_DATE_TIME="${START_DATE}T${START_TIME}:00${TZ_OFFSET}"
+
+# ─────────── END DATE / TIME (optional) ───────────
+
+echo
+read -r -p "Does this event have a different end date/time? [y/N]: " HAS_END
+HAS_END="${HAS_END:-n}"
+
+END_DATE_TIME=""
+
+case "$HAS_END" in
+  y|Y|yes|YES)
+    while true; do
+      read -r -p "End date (YYYY-MM-DD) [$START_DATE]: " END_DATE
+      END_DATE="${END_DATE:-$START_DATE}"
+
+      if [[ ! "$END_DATE" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]]; then
+        echo "Please enter the date as YYYY-MM-DD."
+        echo
+        continue
+      fi
+
+      if ! date -j -f "%Y-%m-%d" "$END_DATE" "+%Y-%m-%d" >/dev/null 2>&1; then
+        echo "That isn't a valid calendar date."
+        echo
+        continue
+      fi
+
+      break
+    done
+
+    while true; do
+      read -r -p "End time, 24h (HH:MM) [$START_TIME]: " END_TIME
+      END_TIME="${END_TIME:-$START_TIME}"
+
+      if [[ "$END_TIME" =~ ^([01][0-9]|2[0-3]):[0-5][0-9]$ ]]; then
+        break
+      fi
+
+      echo "Please enter the time as HH:MM in 24-hour format."
+      echo
+    done
+
+    END_DATE_TIME="${END_DATE}T${END_TIME}:00${TZ_OFFSET}"
+    ;;
+  *)
+    ;;
+esac
+
+# ─────────── LOCATION ───────────
+
+echo
+read -r -p "Venue / location name (optional): " LOCATION
+read -r -p "City (optional): " CITY
+read -r -p "Region / state (optional): " REGION
+read -r -p "Country (optional): " COUNTRY
+
+# ─────────── URL & SUMMARY ───────────
+
+read -r -p "Event website / registration URL (optional): " EXTERNAL_URL
+read -r -p "Summary (one sentence, optional): " SUMMARY
+
+# ─────────── CONFIRMATION ───────────
+
+echo
+echo "Summary"
+echo "-------"
+echo "ID:       $ID"
+echo "Title:    $TITLE"
+echo "Slug:     $SLUG"
+echo "Starts:   $START_DATE_TIME"
+echo "Ends:     ${END_DATE_TIME:-(same as start)}"
+echo "Location: ${LOCATION:-(none)}"
+echo "City:     ${CITY:-(none)}"
+echo "Region:   ${REGION:-(none)}"
+echo "Country:  ${COUNTRY:-(none)}"
+echo "URL:      ${EXTERNAL_URL:-(none)}"
+echo "Summary:  ${SUMMARY:-(none)}"
+echo
+
+read -r -p "Create entry? [Y/n]: " CONFIRM
+CONFIRM="${CONFIRM:-y}"
+
+case "$CONFIRM" in
+  y|Y|yes|YES)
+    ;;
+  *)
+    echo "Cancelled."
+    exit 0
+    ;;
+esac
+
+# ─────────── CREATE ENTRY ───────────
+
+echo
+echo "Creating content/$TARGET"
+
+if ! hugo new "$TARGET"; then
+  echo
+  echo "Hugo could not create the entry."
+  exit 1
+fi
+
+if [[ ! -f "$FULL_PATH" ]]; then
+  echo "The expected index.md file was not created."
+  exit 1
+fi
+
+# Populate id, slug, title, startDate, and any optional fields that were entered.
+NE_ID="$ID" \
+NE_SLUG="$SLUG" \
+NE_TITLE="$TITLE" \
+NE_START="$START_DATE_TIME" \
+NE_END="$END_DATE_TIME" \
+NE_LOCATION="$LOCATION" \
+NE_CITY="$CITY" \
+NE_REGION="$REGION" \
+NE_COUNTRY="$COUNTRY" \
+NE_URL="$EXTERNAL_URL" \
+NE_SUMMARY="$SUMMARY" \
+python3 - "$FULL_PATH" <<'PY'
+import json
+import os
+import pathlib
+import sys
+
+path = pathlib.Path(sys.argv[1])
+
+quoted_fields = {"title", "summary", "location", "city", "region", "country", "externalUrl"}
+
+fields = {
+    "id": os.environ.get("NE_ID", ""),
+    "slug": os.environ.get("NE_SLUG", ""),
+    "title": os.environ.get("NE_TITLE", ""),
+    "startDate": os.environ.get("NE_START", ""),
+    "endDate": os.environ.get("NE_END", ""),
+    "location": os.environ.get("NE_LOCATION", ""),
+    "city": os.environ.get("NE_CITY", ""),
+    "region": os.environ.get("NE_REGION", ""),
+    "country": os.environ.get("NE_COUNTRY", ""),
+    "externalUrl": os.environ.get("NE_URL", ""),
+    "summary": os.environ.get("NE_SUMMARY", ""),
+}
+
+lines = path.read_text().splitlines()
+
+for index, line in enumerate(lines):
+    for key, value in fields.items():
+        if not value:
+            continue
+        if line.startswith(f"{key}:"):
+            if key in quoted_fields:
+                lines[index] = f"{key}: {json.dumps(value, ensure_ascii=False)}"
+            else:
+                lines[index] = f"{key}: {value}"
+            break
+
+path.write_text("\n".join(lines) + "\n")
+PY
+
+echo
+echo "Created:"
+echo "content/$TARGET"
+echo
+echo "URL will be:"
+echo "/events/${ID}/${SLUG}/"
+
+if command -v code >/dev/null 2>&1; then
+  code "$FULL_PATH"
+else
+  open "$FULL_PATH"
+fi
+
+open "$(dirname "$FULL_PATH")"

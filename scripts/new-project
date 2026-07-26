@@ -1,0 +1,246 @@
+#!/bin/bash
+set -u
+
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SITE_DIR="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+cd "$SITE_DIR" || {
+  echo "Could not open Hugo project root:"
+  echo "$SITE_DIR"
+  exit 1
+}
+
+echo
+echo "Create a new Project entry"
+echo
+echo "Press Enter to accept the value shown in [brackets], or to skip an"
+echo "optional field. Press Ctrl+C at any time to cancel."
+echo
+
+# ─────────── TITLE ───────────
+
+while true; do
+  read -r -p "Title: " TITLE
+
+  if [[ -n "${TITLE// }" ]]; then
+    break
+  fi
+
+  echo "A title is required."
+  echo
+done
+
+# ─────────── ID (stable, immutable, drives the folder name) ───────────
+
+PROJECTS_DIR="$SITE_DIR/content/projects"
+MAX_NUM=0
+
+for d in "$PROJECTS_DIR"/p[0-9][0-9][0-9][0-9][0-9][0-9]; do
+  [[ -d "$d" ]] || continue
+  base="$(basename "$d")"
+  num="${base#p}"
+  num=$((10#$num))
+  if (( num > MAX_NUM )); then
+    MAX_NUM=$num
+  fi
+done
+
+ID=$(printf "p%06d" "$((MAX_NUM + 1))")
+FOLDER="$ID"
+TARGET="projects/${FOLDER}/index.md"
+FULL_PATH="$SITE_DIR/content/$TARGET"
+
+if [[ -e "$FULL_PATH" ]]; then
+  echo "Computed next id $ID but $FULL_PATH already exists."
+  echo "Check content/projects for a gap or collision before continuing."
+  exit 1
+fi
+
+# ─────────── SLUG (human-readable, used only in the URL, not the folder) ───────────
+
+SUGGESTED_SLUG=$(
+  printf "%s" "$TITLE" |
+    tr '[:upper:]' '[:lower:]' |
+    sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//'
+)
+
+if [[ -z "$SUGGESTED_SLUG" ]]; then
+  echo "The title did not produce a usable slug."
+  exit 1
+fi
+
+SLUG="$SUGGESTED_SLUG"
+
+while true; do
+  read -r -p "Slug [$SLUG]: " ENTERED_SLUG
+  ENTERED_SLUG="${ENTERED_SLUG:-$SLUG}"
+
+  SLUG=$(
+    printf "%s" "$ENTERED_SLUG" |
+      tr '[:upper:]' '[:lower:]' |
+      sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//'
+  )
+
+  if [[ -z "$SLUG" ]]; then
+    echo "Slug cannot be blank."
+    echo
+    continue
+  fi
+
+  # Slugs don't need to be globally unique (the id in the URL already
+  # guarantees that), but warn if one collides so it's not confusing later.
+  if grep -rlq "^slug: \"\?${SLUG}\"\?\$" "$PROJECTS_DIR"/p[0-9][0-9][0-9][0-9][0-9][0-9]/index.md 2>/dev/null; then
+    echo
+    echo "Note: another entry already uses the slug \"$SLUG\"."
+    echo "That's fine (the id keeps URLs unique), but you can pick a different one."
+    echo
+    read -r -p "Use \"$SLUG\" anyway? [Y/n]: " USE_ANYWAY
+    USE_ANYWAY="${USE_ANYWAY:-y}"
+    case "$USE_ANYWAY" in
+      y|Y|yes|YES) break ;;
+      *) continue ;;
+    esac
+  fi
+
+  break
+done
+
+# ─────────── CATEGORY & STATUS ───────────
+
+read -r -p "Category (e.g. book, person): " CATEGORY
+read -r -p "Status (e.g. in progress, historical, active): " STATUS
+
+# ─────────── SUMMARY ───────────
+
+read -r -p "Summary (one sentence, optional): " SUMMARY
+
+# ─────────── MAILING LIST INTEREST ───────────
+
+echo
+echo "Add a \"Join the Mailing List\" button to this page? Choose the"
+echo "interest it should pre-select, or leave blank to skip:"
+echo "  1) Social Engineering"
+echo "  2) Cybersecurity"
+echo "  3) Speaking & Events"
+echo "  4) Books"
+echo "  5) Training"
+echo
+
+INTEREST=""
+while true; do
+  read -r -p "Interest [blank to skip]: " INTEREST_CHOICE
+
+  case "$INTEREST_CHOICE" in
+    "") INTEREST=""; break ;;
+    1) INTEREST="Social Engineering"; break ;;
+    2) INTEREST="Cybersecurity"; break ;;
+    3) INTEREST="Speaking & Events"; break ;;
+    4) INTEREST="Books"; break ;;
+    5) INTEREST="Training"; break ;;
+    *)
+      echo "Enter 1-5, or leave blank to skip."
+      echo
+      ;;
+  esac
+done
+
+# ─────────── CONFIRMATION ───────────
+
+echo
+echo "Summary"
+echo "-------"
+echo "ID:       $ID"
+echo "Title:    $TITLE"
+echo "Slug:     $SLUG"
+echo "Category: ${CATEGORY:-(none)}"
+echo "Status:   ${STATUS:-(none)}"
+echo "Summary:  ${SUMMARY:-(none)}"
+echo "Interest: ${INTEREST:-(none)}"
+echo
+
+read -r -p "Create entry? [Y/n]: " CONFIRM
+CONFIRM="${CONFIRM:-y}"
+
+case "$CONFIRM" in
+  y|Y|yes|YES)
+    ;;
+  *)
+    echo "Cancelled."
+    exit 0
+    ;;
+esac
+
+# ─────────── CREATE ENTRY ───────────
+
+echo
+echo "Creating content/$TARGET"
+
+if ! hugo new "$TARGET"; then
+  echo
+  echo "Hugo could not create the entry."
+  exit 1
+fi
+
+if [[ ! -f "$FULL_PATH" ]]; then
+  echo "The expected index.md file was not created."
+  exit 1
+fi
+
+# Populate id, slug, title, and any optional fields that were entered.
+NP_ID="$ID" \
+NP_SLUG="$SLUG" \
+NP_TITLE="$TITLE" \
+NP_CATEGORY="$CATEGORY" \
+NP_STATUS="$STATUS" \
+NP_SUMMARY="$SUMMARY" \
+NP_INTEREST="$INTEREST" \
+python3 - "$FULL_PATH" <<'PY'
+import json
+import os
+import pathlib
+import sys
+
+path = pathlib.Path(sys.argv[1])
+
+quoted_fields = {"title", "summary"}
+
+fields = {
+    "id": os.environ.get("NP_ID", ""),
+    "slug": os.environ.get("NP_SLUG", ""),
+    "title": os.environ.get("NP_TITLE", ""),
+    "category": os.environ.get("NP_CATEGORY", ""),
+    "status": os.environ.get("NP_STATUS", ""),
+    "summary": os.environ.get("NP_SUMMARY", ""),
+    "mailingListInterest": os.environ.get("NP_INTEREST", ""),
+}
+
+lines = path.read_text().splitlines()
+
+for index, line in enumerate(lines):
+    for key, value in fields.items():
+        if not value:
+            continue
+        if line.startswith(f"{key}:"):
+            if key in quoted_fields:
+                lines[index] = f"{key}: {json.dumps(value, ensure_ascii=False)}"
+            else:
+                lines[index] = f"{key}: {value}"
+            break
+
+path.write_text("\n".join(lines) + "\n")
+PY
+
+echo
+echo "Created:"
+echo "content/$TARGET"
+echo
+echo "URL will be:"
+echo "/projects/${ID}/${SLUG}/"
+
+if command -v code >/dev/null 2>&1; then
+  code "$FULL_PATH"
+else
+  open "$FULL_PATH"
+fi
+
+open "$(dirname "$FULL_PATH")"
