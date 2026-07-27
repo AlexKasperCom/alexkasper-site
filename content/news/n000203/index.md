@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Video Voodoo by Fred Steinbeck on classic arcade-game coin-mechanism quirks, plus drug-culture news notes and police vehicle surveillance tactics."
 projects:
-  - tap
+  - tap-archive
 tags:
   - video-voodoo
   - arcade-games

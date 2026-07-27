@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Meeting Phone Phreaks at Trade Shows, THC-79 Conference Details, Microcomputer Blue Box Tones, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - thc-79
   - microcomputer-blue-box

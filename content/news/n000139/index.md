@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Ammo, Meat!, A Red Box in Every Pot, Build a Snoop Light, Head Crash, Light and Sound Weapon Tested, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - monkey-warfare
   - red-box-tape-method

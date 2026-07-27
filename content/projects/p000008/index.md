@@ -24,16 +24,8 @@ related:              # Related content ids:
 draft: false           # Set to false when ready to publish.
 ---
 
-<!--
+TAP began in June 1971 as the *Youth International Party Line* (YIPL), a mimeographed newsletter launched by Al Bell and Abbie Hoffman to fuse phone phreaking with New Left politics. Starting with issue 22 the newsletter was rebranded TAP, the Technical Assistance Program, and went on to cover blue boxes, red boxes, black boxes, credit card codes, lock picking, pirate radio, and a wide range of other "destructory assistance" over the course of 91 issues, before publication ended with issue 91 in March 1984.
 
-Notes:
+Below is the complete back-issue index, in the spirit of the "Back Issues - Listed by Feature Articles" catalog TAP itself printed to sell reprints of earlier issues. Each entry links to the full scan, transcript, and citation record for that issue.
 
-This is a Project entry.
-
-Write your own commentary, background, or reference notes here.
-
-This content is not part of the project metadata.
-
-Place optional representative image: cover.jpg in this leaf bundle folder.
-
--->
+{{< back-issues "tap-archive" >}}

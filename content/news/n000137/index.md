@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Ammo, Don't Get Busted!, Red Box Phreaks!, Build a Line Relay, Holy Shit!, Letters, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - dont-get-busted
   - red-box

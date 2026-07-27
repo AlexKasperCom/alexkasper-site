@@ -1,0 +1,19 @@
+{{- /*
+  Returns the display title for a page. For numbered periodical issues
+  (front matter `issue` and `feature_article` both set) this is
+  "TAP No. 23 - Free Electricity" rather than the dated front-matter
+  title ("TAP No. 23 - November 1973") — the date is already shown
+  alongside the title wherever this is used, so restating it in the
+  title itself is redundant.
+
+  Falls back to the page's own .Title for every other page, since only
+  TAP-style entries carry both `issue` and `feature_article`.
+
+  Usage: {{ partial "display-title.html" . }}
+         {{ partial "display-title.html" $page }}
+*/ -}}
+{{- $title := .Title -}}
+{{- if and .Params.issue .Params.feature_article -}}
+  {{- $title = printf "%s No. %v - %s" .Params.series .Params.issue .Params.feature_article -}}
+{{- end -}}
+{{- $title -}}

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Fortress Fun-ding: technical breakdown of modern electronic coin telephone signaling and totalizing circuits."
 projects:
-  - tap
+  - tap-archive
 tags:
   - payphone-electronics
   - coin-signaling

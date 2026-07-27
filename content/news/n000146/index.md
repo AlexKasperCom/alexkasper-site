@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "New Blue Box, Make A Key For Your Rollersmith Lock, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - vending-machine-fraud
   - movement-security

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "High \"E\" is 2637 Hz, Sure Cure for Message Units, Build a \"T\" network for Fun & Profit, Destructory Assistance, 1973 Credit Card Code, British System Rigged for Free Calls, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - yipl-origin-story
   - black-box

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Secret Service Counterfeit Currency Report, Reader Questions on Black Box Detection, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - counterfeit-currency
   - black-box

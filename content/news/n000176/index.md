@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "The Programmable Blue Box, digital logic schematic for keypad-driven tone dialer, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box
   - programmable-box

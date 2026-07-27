@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "TAP Changes Name to Technological Assistance Program, New Address, THC-79 Convention Recap, Special Government Phone Procedures, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - name-change
   - thc-79-recap

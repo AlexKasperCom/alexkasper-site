@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Letters, 1972 Credit Card Code cracked, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - 1972-credit-card-code
   - induction-coupler

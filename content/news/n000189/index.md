@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Viva La Muerte! drug-scene news column by Oz Y. Mandias, plus a preview of a microprocessor-controlled 'brown box' project."
 projects:
-  - tap
+  - tap-archive
 tags:
   - viva-la-muerte
   - drug-scene-news

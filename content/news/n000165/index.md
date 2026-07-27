@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "CB Bull, AT&T Report, Get Down! etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - financial-crisis
   - tap-near-folding

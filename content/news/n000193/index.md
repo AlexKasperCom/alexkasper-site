@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Random Ramblings No. 2 by Paul Montgomery on accessing Bell System COSMOS phone-company databases, plus a PBX auto-attendant toll-fraud trick."
 projects:
-  - tap
+  - tap-archive
 tags:
   - cosmos-database
   - pbx-fraud

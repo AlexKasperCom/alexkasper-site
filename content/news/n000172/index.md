@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Jim Phelps Tribute Issue, UK Phone Exchange Fraud Tips, Radar Jammer Request, THC-79 Conference, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - jim-phelps
   - tribute-issue

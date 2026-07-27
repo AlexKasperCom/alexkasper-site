@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Blue Box Equipment and Usage (the Fred Steinbeck Issue), a parts and sourcing guide for hobbyist blue-box builders."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box
   - parts-sourcing

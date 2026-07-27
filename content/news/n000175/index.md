@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Test Your Stash Drug-ID Column Debuts, Marquis Reagent Test Chart, Phone Billing News, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - test-your-stash
   - drug-testing

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Free Pay TV 'Legally!' by The Magician, an overview of satellite, MDS, and multipoint distribution pay-television technology as an alternative to illegal decoder boxes."
 projects:
-  - tap
+  - tap-archive
 tags:
   - pay-tv
   - satellite-tv

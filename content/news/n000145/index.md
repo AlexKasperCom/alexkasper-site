@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Ammo, The Methane Game, New Red Box, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - editorial-policy
   - lockpicking-preview

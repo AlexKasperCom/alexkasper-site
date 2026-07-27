@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Book of the Year, Up Yours!, Black Box Update, News Clips, Voice Supervision Detector, Tuning your Organ"
 projects:
-  - tap
+  - tap-archive
 tags:
   - book-of-the-year
   - alternative-technology

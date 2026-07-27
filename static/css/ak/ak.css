@@ -767,6 +767,73 @@ header#hero .caption h2 {
      margin-top: 0;
 }
 
+/* Series prev/next nav (inside .article-actions, below the share button —
+   previous left-justified, next right-justified, side by side on wide
+   screens; stacks to full-width rows on small screens). */
+.series-nav {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  gap: 1rem;
+  margin-top: 0.75rem;
+}
+.series-nav-link {
+  display: flex;
+  flex-direction: column;
+  flex: 1 1 0;
+  min-width: 0;
+  gap: 0.1rem;
+}
+.series-nav-next {
+  margin-left: auto;
+  align-items: flex-end;
+  text-align: right;
+}
+.series-nav-link:link,
+.series-nav-link:visited {
+  color: var(--color-text);
+  text-decoration: none;
+}
+.series-nav-link:hover {
+  color: var(--color-accent);
+}
+.series-nav-link:hover .series-nav-title,
+.series-nav-link:hover .series-nav-date {
+  color: var(--color-accent);
+}
+.series-nav-dir {
+  font-family: var(--font-display);
+  font-weight: var(--weight-semibold);
+  font-size: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+  color: var(--color-muted);
+}
+.series-nav-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 1.2rem;
+  line-height: 1.3;
+  color: var(--color-text);
+}
+.series-nav-date {
+  font-size: 1rem;
+  color: var(--color-body-light);
+}
+@media screen and (max-width: 560px) {
+  .series-nav {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .series-nav-next {
+    margin-left: 0;
+    align-items: flex-start;
+    text-align: left;
+  }
+}
+
 /* Share Customization */
 /* Share dropdown */
 /* Reset the legacy #share divider (global.css) so this widget owns its

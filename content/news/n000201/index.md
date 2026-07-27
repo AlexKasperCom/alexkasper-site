@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "TAP RAP administrative policy update by Tom A. Edison, plus a Security Alert column on toll-record subpoenas and chemical-shipment surveillance."
 projects:
-  - tap
+  - tap-archive
 tags:
   - tap-rap
   - security-alert

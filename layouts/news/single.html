@@ -17,7 +17,8 @@
     {{ end }}
   </p>
 
-  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+  {{- $headline := partial "display-title.html" . -}}
+  <h1 data-pagefind-meta="title">{{ $headline }}</h1>
 
 </header>
 
@@ -46,7 +47,7 @@
         <a href="{{ $destinationURL }}" target="_blank" rel="noopener noreferrer">
           <img
             src="{{ .RelPermalink }}"
-            alt="{{ $.Title }}"
+            alt="{{ $headline }}"
             loading="eager">
         </a>
       {{ else }}
@@ -68,7 +69,9 @@
 
 </div>
 <div class="article-actions" data-pagefind-ignore>
+{{ partial "visit-project.html" . }}
 {{ partial "share.html" . }}
+{{ partial "series-nav.html" . }}
 </div>
 
 {{ with .Resources.GetMatch "transcript.txt" }}
@@ -103,8 +106,8 @@
             <li>
               <a
                 href="{{ .RelPermalink }}"
-                title="Permanent Link to {{ .Title }}">
-                {{ .Title }}
+                title="Permanent Link to {{ partial "display-title.html" . }}">
+                {{ partial "display-title.html" . }}
               </a>
             </li>
           {{ end }}

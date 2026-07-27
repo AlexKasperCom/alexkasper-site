@@ -33,9 +33,9 @@
               <h3>
                 <a
                   href="{{ .RelPermalink }}"
-                  title="Permanent Link to '{{ .Title }}'"
+                  title="Permanent Link to '{{ partial "display-title.html" . }}'"
                   rel="bookmark">
-                  {{ .Title }}
+                  {{ partial "display-title.html" . }}
                 </a>
               </h3>
             </header>
@@ -45,10 +45,10 @@
                 <a
                   class="tile-cover"
                   href="{{ $page.RelPermalink }}"
-                  aria-label="Read {{ $page.Title }}">
+                  aria-label="Read {{ partial "display-title.html" $page }}">
                   <img
                     src="{{ .RelPermalink }}"
-                    alt="{{ $page.Title }}"
+                    alt="{{ partial "display-title.html" $page }}"
                     loading="lazy">
                 </a>
               {{ end }}

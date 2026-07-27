@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "YIPL Price Change, Bell Employees!!!, Statement of Purpose, Fuck The Mail, The Private Ear, Steal This Book, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - statement-of-purpose
   - telecommand-wiretap

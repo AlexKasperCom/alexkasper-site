@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "All New Red Box, 1973 Credit Card Code, Letters, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - red-box
   - destructory-assistance

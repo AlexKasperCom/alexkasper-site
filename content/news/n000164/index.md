@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Tap Rap, Get Down!, Counter Control, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - editorial-transition
   - tap-anniversary

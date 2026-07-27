@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "The Boston Peoples Yellow Pages, Start Your Own Chapter of YIP, Critique of \"Steal This Book\", etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - peoples-yellow-pages
   - community-organizing

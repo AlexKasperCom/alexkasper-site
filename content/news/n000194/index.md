@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "TELENET by Paul Montgomery, a guide to accessing the GTE Telenet packet-switched computer network, plus a CENTAPP group newsletter excerpt."
 projects:
-  - tap
+  - tap-archive
 tags:
   - telenet
   - packet-switched-network

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "How to Modify Your Bell Touch Tone Fone to Have 1633 Cycle Tones, by The Sagician."
 projects:
-  - tap
+  - tap-archive
 tags:
   - touch-tone-mod
   - 1633-hz

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Pay and Die?, Odds & Ends, Oops!, TAP's Black Box Long Distance Rates, Ask Mr. Phelps, Pay Attention!, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - tax-resistance
   - odds-and-ends-column

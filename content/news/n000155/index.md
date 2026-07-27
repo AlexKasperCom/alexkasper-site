@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Odds & Ends, Ask Mr. Phelps, Mission: Impossible!, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - captain-crunch-second-arrest
   - tap-anniversary

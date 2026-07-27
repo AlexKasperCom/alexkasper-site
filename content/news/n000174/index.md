@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Review of Exotic Weapons: An Access Book, Lockpicking Supplies, MF Tone Generator Module, Loompanics Controversy, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - book-review
   - loompanics

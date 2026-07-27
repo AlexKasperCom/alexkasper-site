@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Cheese Box, 3 & 4 Line Conference Bridges, Phone Phreaks Convention, Ma Bell's Watergate, Stuck Stacks, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - foreign-signal-numbers
   - ani

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Report from Merrie Olde England, The Silver Box, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - uk-report
   - credit-card-fraud-comparison

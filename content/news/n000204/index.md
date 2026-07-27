@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Bell System Rate Steps as Forbidden Knowledge by Cheshire Catalyst, phone billing-distance trivia and a BASIC mileage program, plus a Touch-Tone hardware modification note."
 projects:
-  - tap
+  - tap-archive
 tags:
   - rate-steps
   - cheshire-catalyst

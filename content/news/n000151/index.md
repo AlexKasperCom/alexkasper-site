@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Little Orphan Abbie, Black Box Beats Bell in the Fourth!, Ask Mr. Phelps, RAO Credit Card Codes, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - year-in-review-1975
   - black-box-variants

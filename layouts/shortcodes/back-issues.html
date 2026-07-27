@@ -1,0 +1,83 @@
+{{- /*
+  Usage: {{< back-issues "tap-archive" >}}
+
+  Renders a table of every page whose front-matter `projects` list
+  includes the given slug, sorted by front-matter `issue` ascending.
+  The slug should match the parent project page's own `slug` (see
+  `layouts/partials/visit-project.html`, which links news entries back
+  to their project page the same way).
+
+  Intended for numbered periodical archives (e.g. TAP) where each
+  issue's leaf bundle carries `issue` and `feature_article` fields.
+  Falls back to the page title if `feature_article` is empty.
+*/ -}}
+{{- $slug := .Get 0 -}}
+{{- $pages := where site.RegularPages "Params.projects" "intersect" (slice $slug) -}}
+{{- $pages = sort $pages "Params.issue" "asc" -}}
+<div class="back-issues">
+  <table class="back-issues-table">
+    <thead>
+      <tr>
+        <th class="issue-no">No.</th>
+        <th class="issue-date">Date</th>
+        <th class="issue-feature">Feature Article</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $pages }}
+      <tr>
+        <td class="issue-no">{{ .Params.issue }}</td>
+        <td class="issue-date">{{ with .Date }}{{ .Format "Jan 2006" }}{{ end }}</td>
+        <td class="issue-feature">
+          <a href="{{ .RelPermalink }}">{{ or .Params.feature_article .Title }}</a>
+        </td>
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .back-issues-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.4rem;
+    line-height: 1.9rem;
+  }
+  .back-issues-table th {
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    font-family: "futura-pt", "Segoe UI", Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: #323232;
+    border-bottom: 2px solid #323232;
+    padding: 6px 10px;
+  }
+  .back-issues-table td {
+    padding: 6px 10px;
+    border-bottom: 1px solid #e0dbd6;
+    vertical-align: top;
+  }
+  .back-issues-table .issue-no {
+    width: 3em;
+    color: #999;
+    font-variant-numeric: tabular-nums;
+  }
+  .back-issues-table .issue-date {
+    width: 8em;
+    white-space: nowrap;
+    color: #999;
+  }
+  .back-issues-table tbody tr:hover {
+    background: #f3ece6;
+  }
+  .back-issues-table a {
+    color: #323232;
+    text-decoration: none;
+  }
+  .back-issues-table a:hover {
+    color: #ff5f24;
+  }
+</style>

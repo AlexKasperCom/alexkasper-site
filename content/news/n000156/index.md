@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Ultimate Red Box, Odds & Ends, S-1 Update, Ask Mr. Phelps, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - ultimate-red-box
   - precision-timer-circuit

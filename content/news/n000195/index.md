@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "11th Anniversary Issue: WATS Extenders by The Magician, explaining the legitimate business origin of WATS-line coupling and its exploitation by phreaks, with detection/legal-risk warnings."
 projects:
-  - tap
+  - tap-archive
 tags:
   - wats-extenders
   - toll-fraud

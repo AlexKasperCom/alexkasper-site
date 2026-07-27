@@ -146,6 +146,18 @@ summary: >-
 
 The lines are folded into a single paragraph.
 
+### `feature_article`
+
+Optional short one-line description of the piece — its headline or lead feature, in a few words rather than a full sentence.
+
+```yaml
+feature_article: "Red Box Plans"
+```
+
+Distinct from `summary`: `summary` is a fuller SEO/list-page description (a sentence or more), while `feature_article` is a compact label used anywhere space is tight — the {{< back-issues >}} shortcode table and the series prev/next nav (see `docs/shortcodes.md` and `layouts/partials/series-nav.html`) both display this field, falling back to `title` when it's unset.
+
+Originally introduced for the TAP archive but not TAP-specific — any news entry may set it.
+
 ### `projects`
 
 List of related project slugs.

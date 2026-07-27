@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Advanced Blue Box, Corrected Snoop Lite, Phone Gadgets, Foreign Codes, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - advanced-blue-box
   - ny-office

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Tom Edison Rattles Plot!, TAP's Internal History and Al Bell Falling Out, New Computer System, Underground Office Move, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - tap-history
   - al-bell

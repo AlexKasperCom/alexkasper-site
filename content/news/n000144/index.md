@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "1974 Credit Card Code, Advice on Turning Back ConEd Meters, Report on Toll Fraud Detectors, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - 1974-credit-card-code
   - meter-tampering

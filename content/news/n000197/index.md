@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "An FBI View of Computer Crime, a recap of an FBI agent's talk on computer fraud categories and notable cases, plus a chemistry-column update."
 projects:
-  - tap
+  - tap-archive
 tags:
   - fbi-computer-crime
   - computer-fraud-cases

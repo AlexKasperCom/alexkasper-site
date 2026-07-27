@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Review of Poor Man's James Bond, 312A Test Set (a legal Blue Box), etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - editorial-conflict
   - automatic-bill-pay

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Dun and Bradstreet: Do They Know Something We Don't, and Yet More Phun with UNIX, two computer-culture pieces on corporate dial-up systems and UNIX internals, from TAP's final period."
 projects:
-  - tap
+  - tap-archive
 tags:
   - dun-and-bradstreet
   - unix

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "TAP's 10th Anniversary: A History of YIPL/TAP and Its Editors, plus Picking Mushroom-Pin Locks."
 projects:
-  - tap
+  - tap-archive
 tags:
   - 10th-anniversary
   - tap-history

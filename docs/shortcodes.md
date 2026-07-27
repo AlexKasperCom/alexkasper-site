@@ -69,3 +69,73 @@ This scans every regular page on the site (all sections) for one whose `Params.i
 ### Adding new ID'd content types
 
 Any new section works automatically as long as its front matter includes an `id` field — no changes needed to the shortcode itself.
+
+---
+
+## `back-issues`
+
+Renders a table listing every page tagged with a given project slug, sorted by issue number, each row linking to its page.
+
+Template: `layouts/shortcodes/back-issues.html`
+
+### Why it exists
+
+Numbered periodical archives (e.g. TAP) carry `issue` and `feature_article` fields in front matter. This shortcode turns that data into a browsable index on the parent project page, in the spirit of the "Back Issues - Listed by Feature Articles" catalog the source publication itself used to print.
+
+### Usage
+
+Inline in any markdown body:
+
+```text
+{{< back-issues "tap-archive" >}}
+```
+
+The argument is a project slug — it matches pages whose front-matter `projects` list includes that slug:
+
+```yaml
+projects:
+  - tap-archive
+```
+
+The slug must match the parent project page's own `slug` field exactly (e.g. `content/projects/p000008/index.md` has `slug: tap-archive`) — `visit-project.html` (see below) relies on that same match to link an entry back to its project page, so a mismatch silently breaks both.
+
+### Required / used front matter fields
+
+* `projects` — must include the slug passed to the shortcode, and must match a project page's `slug` for `visit-project.html` to find it. Used to select which pages appear.
+* `issue` — numeric issue number. Used to sort the table ascending.
+* `feature_article` — short name of the issue's lead feature. Used as the link text.
+* `date` — used to render the "Date" column (formatted `Jan 2006`); omitted from the row if not set.
+
+If `feature_article` is empty, the shortcode falls back to the page's `title`.
+
+### Output
+
+Renders an HTML table with columns No. / Date / Feature Article:
+
+```html
+<table class="back-issues-table">
+  <tbody>
+    <tr>
+      <td class="issue-no">1</td>
+      <td class="issue-date">Jun 1971</td>
+      <td class="issue-feature"><a href="/news/n000121/tap-001/">Extensions, Conference Switches</a></td>
+    </tr>
+    ...
+  </tbody>
+</table>
+```
+
+A small `<style>` block scoped to `.back-issues-table` is emitted alongside the table (the site's global stylesheet has no table styling of its own).
+
+### How the lookup works
+
+```go-html-template
+{{- $pages := where site.RegularPages "Params.projects" "intersect" (slice $slug) -}}
+{{- $pages = sort $pages "Params.issue" "asc" -}}
+```
+
+Same `where site.RegularPages` pattern as `ref-id` above, filtered by the `projects` list and sorted numerically by `issue`.
+
+### Adding new periodical archives
+
+Any project can use this shortcode as long as its issues carry `projects` (matching the slug passed to the shortcode) and `issue` in front matter — no changes needed to the shortcode itself. `feature_article` is optional but recommended for readable link text.

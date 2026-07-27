@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Free-love masthead, 1972 Credit Card Code, Letters, Baboon takes over South African Phone System, Tuning your Organ (for Phone Tones), etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - 1972-credit-card-code
   - black-box

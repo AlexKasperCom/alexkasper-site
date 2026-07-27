@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Interview With A Grand Guy, Keyboard Krazies, Stick 'Em Up!"
 projects:
-  - tap
+  - tap-archive
 tags:
   - grand-guy-interview
   - prankster-culture

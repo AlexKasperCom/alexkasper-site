@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Special Convention Issue, Letters, Receive Free Long Distance Calls, Boycott War Products, Support Captain Crunch, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - phone-phreak-convention
   - black-box

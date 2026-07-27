@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Open Sesame!, End the Misuse of the SS Number, TAP Patent Office, Odds & Ends, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - ss-number-critique
   - multiple-id-advocacy

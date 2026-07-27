@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "The Burglar's Tool Box by The Stainless Steal Rat, the start of a series on fabricating lock-picking tools from hardware-store materials."
 projects:
-  - tap
+  - tap-archive
 tags:
   - burglars-tool-box
   - lock-picking

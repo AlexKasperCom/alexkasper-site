@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "A Visit from the Mebco Man, CB Bull, The Big Bust, Un-Due'ing Postage, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - mebco-man-parody
   - technofreaks-network

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Special Energy Crisis Issue — Live Better With Free Electricity, Picking the Meter Lock, Rumor Dept., Abbie Hoffman Defense Fund, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - energy-crisis
   - free-electricity

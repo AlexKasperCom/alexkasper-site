@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Report from the End of the Earth, Odds & Ends, Tapping/Recording Methods, Bell's Boxin' Us In!, Pen Pals Wanted, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - rural-canada-report
   - military-phone-system

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Lock-Pick Larceny by Alexander Mundy, tools, cylinder types, and step-by-step picking technique."
 projects:
-  - tap
+  - tap-archive
 tags:
   - lock-picking
   - lock-pick-larceny

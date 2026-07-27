@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Freebasing Cocaine, a chemistry-focused feature by Dr. Atomic on the (then-emerging) practice of converting cocaine hydrochloride to smokable freebase."
 projects:
-  - tap
+  - tap-archive
 tags:
   - freebasing
   - drug-chemistry

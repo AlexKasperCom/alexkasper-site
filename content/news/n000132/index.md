@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "New Readers, Ramparts Info, Construction & Operation of the Blue Box, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - captain-crunch
   - red-box

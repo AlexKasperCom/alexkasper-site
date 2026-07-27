@@ -1,0 +1,23 @@
+{{- /*
+  Renders a "Visit Project" button linking back to the parent project
+  page, when the current page's front-matter `projects` list includes
+  a slug that matches an actual project page's `slug` (e.g. a TAP
+  issue tagged `projects: [tap-archive]` links to the project page at
+  content/projects/p000008, whose slug is `tap-archive`).
+
+  Renders nothing if the page has no `projects`, or none of its
+  entries match a real project page's slug.
+*/ -}}
+{{- $page := . -}}
+{{- $projects := $page.Params.projects -}}
+{{- $projectPage := "" -}}
+{{- if $projects -}}
+  {{- range where site.RegularPages "Section" "projects" -}}
+    {{- if in $projects .Slug -}}
+      {{- $projectPage = . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- with $projectPage -}}
+<a class="button" href="{{ .RelPermalink }}">Visit Project</a>
+{{- end -}}

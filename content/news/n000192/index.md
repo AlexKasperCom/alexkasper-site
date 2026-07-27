@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Homemade Fireworks Pt. 1 by The Magician, covering the regulatory history of consumer fireworks and general construction concepts, with extensive safety warnings."
 projects:
-  - tap
+  - tap-archive
 tags:
   - homemade-fireworks
   - pyrotechnics

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "The Party's Over, Install an Extension Phone, Fortress Fun, Telephone Locks, Letters, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - extension-phone-install
   - fortress-fun

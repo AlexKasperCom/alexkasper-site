@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Name Change Explanation, Abbie Hoffman Defense Fund, Convention News, Letters, Automatic Phone Tap, Phone Firm President Indicted, etc. YIPL changes its name to Technological American Party, TAP, with this issue."
 projects:
-  - tap
+  - tap-archive
 tags:
   - name-change-tap
   - abbie-hoffman-defense-fund

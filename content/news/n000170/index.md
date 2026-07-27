@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Pick Your Way to Fame & Fortune, Electronics for the Dope Dealer, The Drop, The Birth Certificate, Tandem Scanning, Getting Hooked on Cable TV, 1978 CC Code, etc. Special Double Issue!"
 projects:
-  - tap
+  - tap-archive
 tags:
   - lock-picking
   - wiretapping

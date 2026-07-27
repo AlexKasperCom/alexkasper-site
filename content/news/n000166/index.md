@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "TAP Update, Counter Control, The Voice, Con-Ned Again, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - alias-id-privacy
   - blue-box-detection-tech

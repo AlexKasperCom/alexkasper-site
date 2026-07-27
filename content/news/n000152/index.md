@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "1976 Credit Card Code, Odds & Ends, Ask Mr. Phelps, Memorize and Burn, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - 1976-credit-card-code
   - telident-fraud-exposed

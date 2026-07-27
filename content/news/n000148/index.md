@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "1975 Credit Card Code, Newspaper Machine Discovery, How To Read Computer Bills, Some Interesting Ideas for Pay Phone Boxers, Letters, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - credit-card-code-1975
   - telident-skepticism

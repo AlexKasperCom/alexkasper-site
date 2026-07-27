@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Channel 68 Decoder circuit and block diagram for subscription/pay-TV signal descrambling."
 projects:
-  - tap
+  - tap-archive
 tags:
   - channel-68-decoder
   - pay-tv

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "1984, Join the Party of Your Choice! by Cheshire Catalyst, announcing an upcoming sci-fi convention, a computer-game exhibit, and a tip on scanning local phone exchanges for interesting lines."
 projects:
-  - tap
+  - tap-archive
 tags:
   - brave-new-con
   - exchange-scanning

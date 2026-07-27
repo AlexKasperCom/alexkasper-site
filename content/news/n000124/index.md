@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Special Pay Phone Issue, Abbie Hoffman on Pay Phone Justice, Monkey Warfare, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - pay-phone-issue
   - coin-fraud

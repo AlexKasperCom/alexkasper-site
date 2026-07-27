@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Telecom '83 - Techno Toyland by Cheshire Catalyst, a trade-show report from the ITU's massive international telecommunications exposition in Geneva."
 projects:
-  - tap
+  - tap-archive
 tags:
   - telecom-83
   - trade-show

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "A Special Sex Change Issue - Ma Bell is Really Pa Bell In Drag!, Ammo, No More Long Distance Calls!, We Try Harder, Holy Shit, Where Your Slug Goes, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - pa-bell-feminist-critique
   - abbie-hoffman

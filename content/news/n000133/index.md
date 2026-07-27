@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Readers, More Box Plans, Dialing Overseas Calls, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - nsa-surveillance
   - red-box

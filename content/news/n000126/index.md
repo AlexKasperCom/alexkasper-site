@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Statement of Purpose, Credit Card Codes by Area, Mixer & Amplifier for \"Toy Organ\" Blue Box, Scotch Taping Stamps for free postage, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - esquire-article
   - credit-card-codes-by-area

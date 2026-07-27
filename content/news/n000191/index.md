@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Simon Jester Issue: an early social-engineering trick for harvesting mainframe terminal passwords, plus notes on HP-2000 systems and a lineman's handset tip."
 projects:
-  - tap
+  - tap-archive
 tags:
   - computer-phreaking
   - password-harvesting

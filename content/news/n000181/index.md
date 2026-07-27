@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "1979 Year in Review, Subscriber Losses, Better Living Through Chemistry drug-synthesis literature guide, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - tap-rap
   - better-living-through-chemistry

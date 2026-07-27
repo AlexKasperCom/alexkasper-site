@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Pro-Gun Rights Postage Stamp Campaign, Mr. Phelps Strikes Again column returns, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - gun-rights
   - jim-phelps

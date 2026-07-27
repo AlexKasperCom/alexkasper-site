@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "12th Anniversary Issue: The Credit Card Code - 1983 by Cheshire Catalyst, tracking Bell's shift to 'Calling Card' terminology and numbering, plus reader debate over an ATM-fraud publication."
 projects:
-  - tap
+  - tap-archive
 tags:
   - credit-card-code
   - calling-card

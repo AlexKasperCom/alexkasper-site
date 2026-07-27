@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "\"Blue Box\" Is Linked to Phone Call Fraud, The Dumbest Rip-off, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box
   - tone-frequencies

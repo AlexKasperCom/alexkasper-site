@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "1971 Credit card Code, Technical Information, Letters, Eavesdropping by our Friendly Phone Company, War Tax Resistance, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - credit-card-codes
   - wiretapping

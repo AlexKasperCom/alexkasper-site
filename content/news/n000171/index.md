@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Auto-Combo Red-Blue Box notes, TAP's Financial Crisis and Near-Folding, THC-79 Announcement, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box
   - editorial-crisis

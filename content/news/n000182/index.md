@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Milo Fonebill's Automatic Blue Box Explained by Lavoisier, detailed 10-digit memory circuit walkthrough."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box
   - milo-fonebill

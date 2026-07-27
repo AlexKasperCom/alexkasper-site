@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Do Not Read This!, Remember the Blue Box?, Letters & Answers, Carolina Plain Dealer Ripoff, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box-schematic
   - credit-card-fraud

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Fighting the Biggest Monopoly of All, The Way It Sposed To Be, Ask Mr. Phelps about Free Postage, Let's Make a Deal, Xerox Copiers et al: Access, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - captain-crunch-imprisoned
   - libertarian-politics

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Unannounced 6 month vacation, New Blue Box Info, More Free Electricity, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - blue-box-improvements
   - lock-picking

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Beating the Cops On Speeding, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - radar-detectors
   - fuzzbuster

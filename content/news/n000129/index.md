@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Bugs, Super Duper Project! (the black box), Letters, Where to put the stamp to avoid cancellation, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - black-box
   - itt-boycott

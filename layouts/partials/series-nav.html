@@ -1,0 +1,65 @@
+{{- /*
+  Renders Previous/Next links to sibling pages that share at least one
+  `projects` tag with the current page, ordered by publication date.
+
+  Works for any numbered periodical (TAP) as well as freeform
+  chronologies (e.g. a run of articles about one person) — no `issue`
+  field is required, only a shared `projects` entry and a `date`.
+  Because the chain is recomputed from front matter on every build,
+  inserting a new article anywhere in the sequence automatically
+  updates its neighbors' links without editing any other file.
+
+  Renders nothing if the page has no `projects`, has no sibling pages
+  sharing one, or has no `date` set (a page with no date can't be
+  reliably placed in a date-ordered chain, and Hugo's zero-value date
+  of 0001-01-01 would otherwise sort it — wrongly — before everything
+  else; pages missing `date` are excluded from the chain entirely, on
+  both sides of the comparison).
+*/ -}}
+{{- $page := . -}}
+{{- $projects := $page.Params.projects -}}
+{{- if and $projects (not $page.Date.IsZero) -}}
+  {{- $candidates := where site.RegularPages "Section" $page.Section -}}
+  {{- $candidates = where $candidates "Params.projects" "intersect" $projects -}}
+
+  {{- $siblings := slice -}}
+  {{- range $candidates -}}
+    {{- if not .Date.IsZero -}}
+      {{- $siblings = $siblings | append . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $siblings = sort $siblings "Date" "asc" -}}
+
+  {{- $prev := "" -}}
+  {{- $next := "" -}}
+  {{- $count := len $siblings -}}
+  {{- range $i, $p := $siblings -}}
+    {{- if eq $p.RelPermalink $page.RelPermalink -}}
+      {{- if gt $i 0 -}}
+        {{- $prev = index $siblings (sub $i 1) -}}
+      {{- end -}}
+      {{- if lt $i (sub $count 1) -}}
+        {{- $next = index $siblings (add $i 1) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if or $prev $next -}}
+  <nav class="series-nav" aria-label="Series navigation">
+    {{- with $prev -}}
+    <a class="series-nav-link series-nav-prev" href="{{ .RelPermalink }}">
+      <span class="series-nav-dir">&larr; Previous</span>
+      <span class="series-nav-title">{{ with .Params.issue }}No. {{ . }} &mdash; {{ end }}{{ or .Params.feature_article .Title }}</span>
+      <span class="series-nav-date">{{ .Date.Format "Jan 2006" }}</span>
+    </a>
+    {{- end -}}
+    {{- with $next -}}
+    <a class="series-nav-link series-nav-next" href="{{ .RelPermalink }}">
+      <span class="series-nav-dir">Next &rarr;</span>
+      <span class="series-nav-title">{{ with .Params.issue }}No. {{ . }} &mdash; {{ end }}{{ or .Params.feature_article .Title }}</span>
+      <span class="series-nav-date">{{ .Date.Format "Jan 2006" }}</span>
+    </a>
+    {{- end -}}
+  </nav>
+  {{- end -}}
+{{- end -}}

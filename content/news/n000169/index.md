@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "More Fortress Fun!, The Principles of TWX Phreaking, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - fortress-fun
   - red-box-technical-analysis

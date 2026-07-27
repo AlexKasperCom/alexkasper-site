@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Getting In, a lock-picking and forced-entry guide framed as being for readers locked out of their own homes."
 projects:
-  - tap
+  - tap-archive
 tags:
   - lock-picking
   - getting-in

@@ -8,7 +8,7 @@ draft: false
 source_type: newsletter
 summary: "Credit Cards of the Month, Free Speech, The AT&T Papers, Support Captain Crunch, etc."
 projects:
-  - tap
+  - tap-archive
 tags:
   - credit-card-codes
   - overseas-dialing
