@@ -37,6 +37,4 @@ I firmly believe this rhetoric helped cast hackers as saboteurs, a label that tr
 
 All of that aside, what is left is a delightfully weird journey into how this stuff got started.
 
---
-
 {{< back-issues "tap-archive" >}}
