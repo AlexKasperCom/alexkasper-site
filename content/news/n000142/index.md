@@ -38,6 +38,7 @@ weight: 22
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Answeroo, \"How We Catch Red Boxers\""
 
 people: []
 topics: ["Answeroo call-announcer device", "Destructory Assistance information exchange", "Nixon-era political satire"]

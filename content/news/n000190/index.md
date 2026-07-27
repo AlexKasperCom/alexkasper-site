@@ -37,6 +37,7 @@ weight: 70
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Freebasing Cocaine"
 
 people: ["Dr. Atomic"]
 topics: ["recreational drug chemistry", "cocaine freebase preparation"]

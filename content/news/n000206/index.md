@@ -38,6 +38,7 @@ weight: 86
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "The Burglar's Tool Box"
 
 people: ["The Stainless Steal Rat"]
 topics: ["lock-pick tool fabrication", "tension wrench heat treatment", "warded padlock mechanisms"]

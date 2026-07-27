@@ -39,6 +39,7 @@ weight: 25
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "New Red Box, Free Gas"
 
 people: ["John deButts"]
 topics: ["editorial policy statement", "lockpicking preview", "AT&T financial critique", "mail security practices"]

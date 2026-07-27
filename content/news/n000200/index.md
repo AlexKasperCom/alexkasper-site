@@ -38,6 +38,7 @@ weight: 80
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Getting In"
 
 people: []
 topics: ["lock picking and door security bypass", "forced entry techniques", "padlock and window vulnerabilities"]

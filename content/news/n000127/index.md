@@ -38,6 +38,7 @@ weight: 7
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Tuning Your Organ, 3-Slot Ripoffs"
 
 people: ["Gerald E. McDaniels"]
 topics: ["1972 credit card code", "code billing system exploit", "ITT boycott call", "free long-distance call device"]

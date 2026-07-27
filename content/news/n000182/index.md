@@ -38,6 +38,7 @@ weight: 62
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Milo Fonebill's Automatic Blue Box Explained"
 
 people: ["Milo Fonebill", "Lavoisier", "Peter Piper"]
 topics: ["blue box circuit analysis", "digital logic explanation"]

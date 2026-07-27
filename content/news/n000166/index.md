@@ -38,6 +38,7 @@ weight: 46
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Bell's Blue Box Buster, Autovon Info"
 
 people: ["Tom Edison", "E. J. Dionne Jr."]
 topics: ["subscription crisis update", "alias identification privacy tactics", "computerized blue-box detection technology"]

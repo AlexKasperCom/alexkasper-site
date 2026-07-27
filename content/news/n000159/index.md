@@ -38,6 +38,7 @@ weight: 39
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Fighting the Biggest Monopoly, Free Postage, Free Xerox"
 
 people: ["Jim Phelps", "John Draper"]
 topics: ["Libertarian Party politics", "Captain Crunch's imprisonment", "obscenity standards satire"]

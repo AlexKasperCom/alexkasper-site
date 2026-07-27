@@ -38,6 +38,7 @@ weight: 4
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Pay Phone Issue"
 
 people: ["Abbie Hoffman"]
 topics: ["pay phone fraud techniques", "coin mechanism exploitation"]

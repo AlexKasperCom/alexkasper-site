@@ -38,6 +38,7 @@ weight: 69
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Viva La Muerte!, Microprocessor-Controlled Brown Box"
 
 people: ["Oz Y. Mandias", "The Wizard"]
 topics: ["drug enforcement news commentary", "underground chemistry book reviews", "microprocessor-based phreaking box concept"]

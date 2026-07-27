@@ -38,6 +38,7 @@ weight: 11
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Black Box"
 
 people: []
 topics: ["phone phreak convention", "black box construction", "Ramparts magazine suppression"]

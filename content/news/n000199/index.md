@@ -38,6 +38,7 @@ weight: 79
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Blue Box Equipment and Usage"
 
 people: ["Fred Steinbeck", "Nick Haflinger", "Ted Vail"]
 topics: ["blue box hardware sourcing", "hobbyist electronics parts suppliers", "circuit component selection"]

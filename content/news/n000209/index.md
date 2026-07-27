@@ -38,6 +38,7 @@ weight: 89
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "1984, Join the Party of Your Choice!"
 
 people: ["Cheshire Catalyst", "Dragon Lady"]
 topics: ["fan convention announcement", "vintage computer gaming meetup", "phone exchange line scanning"]

@@ -38,6 +38,7 @@ weight: 71
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Simon Jester Issue"
 
 people: []
 topics: ["computer terminal password harvesting technique", "mainframe/timesharing systems (HP-2000)", "phone lineman's test set"]

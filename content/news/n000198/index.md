@@ -38,6 +38,7 @@ weight: 78
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Free Pay TV \"Legally!\""
 
 people: ["The Magician"]
 topics: ["satellite television reception", "multipoint distribution system (MDS/subscription TV)", "pay-TV technology overview"]

@@ -38,6 +38,7 @@ weight: 59
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "TAP Changes Name to Technological Assistance Program, THC-79 Convention Recap"
 
 people: []
 topics: ["organization rename", "address change", "convention recap", "government/military phone system access"]

@@ -38,6 +38,7 @@ weight: 58
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Pro-Gun Rights Postage Stamp Campaign, Mr. Phelps Strikes Again!"
 
 people: ["Jim Phelps", "William Goiger"]
 topics: ["gun rights advocacy", "returning humor column"]

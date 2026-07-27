@@ -37,6 +37,7 @@ weight: 48
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Legal Blue Box, Info Rain Data Service, Edison's Interview"
 
 people: ["Tom Edison"]
 topics: ["editor-reader conflict over TAP's tone", "automatic telephone bill payment technology"]

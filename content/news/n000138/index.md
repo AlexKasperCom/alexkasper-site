@@ -39,6 +39,7 @@ weight: 18
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Outgoing Long Distance Call Stopper"
 
 people: ["Abbie Hoffman", "Donn Parker", "Clarence M. Kelley", "Golda Meir", "Yitzhak Rabin"]
 topics: ["Pa Bell feminist reframing", "computer crime commentary", "prisoner rights activism", "international eavesdropping"]

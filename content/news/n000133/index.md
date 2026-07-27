@@ -39,6 +39,7 @@ weight: 13
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Int'l Calls & Codes, Bluebox Plans"
 
 people: []
 topics: ["NSA wiretapping revelations", "red box technical details", "subway token fraud", "overseas dialing codes"]

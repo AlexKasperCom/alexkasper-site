@@ -39,6 +39,7 @@ weight: 52
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Jim Phelps Issue"
 
 people: ["Jim Phelps"]
 topics: ["editor tribute/farewell", "UK exchange fraud", "credit card voice validation", "radar detection/jamming"]

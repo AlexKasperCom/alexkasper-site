@@ -38,6 +38,7 @@ weight: 88
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Telecom '83 - Techno Toyland"
 
 people: ["Cheshire Catalyst"]
 topics: ["international telecom trade show recap", "satellite ground stations and shortwave radio hobbyism", "telecom development in poorer nations"]

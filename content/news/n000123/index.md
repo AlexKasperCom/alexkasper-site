@@ -38,6 +38,7 @@ weight: 3
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Telecommand Story"
 
 people: ["Arthur S. Brewster", "Edward V. Long"]
 topics: ["wiretap devices", "FBI surveillance of subscribers", "YIPL mission statement", "Bell employee tips"]

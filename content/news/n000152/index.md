@@ -38,6 +38,7 @@ weight: 32
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "'76 CC Code, Improved Red Box"
 
 people: []
 topics: ["1976 credit card code", "Telident fraud exposed", "destructory assistance categories"]

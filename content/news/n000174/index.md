@@ -39,6 +39,7 @@ weight: 54
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Review of Exotic Weapons: An Access Book"
 
 people: ["Michael Hoy"]
 topics: ["weapons reference book review", "lock picking supplies", "commercial tone-generator hardware", "editorial on violence", "publisher controversy"]

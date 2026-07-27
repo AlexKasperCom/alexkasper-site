@@ -38,6 +38,7 @@ weight: 6
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Blue Box 2 (Early Model)"
 
 people: ["Al Gilbertson"]
 topics: ["Esquire blue box article response", "credit card codes by area", "reader-contributed information network"]

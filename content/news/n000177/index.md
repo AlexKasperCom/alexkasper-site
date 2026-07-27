@@ -39,6 +39,7 @@ weight: 57
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Tom Edison Battles Plot!"
 
 people: ["Tom Edison", "Al Bell", "Jim Phelps", "Cheshire", "Wizard"]
 topics: ["TAP internal history", "publisher/editor dispute", "mailing list computerization", "office relocation"]

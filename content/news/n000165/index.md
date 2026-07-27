@@ -38,6 +38,7 @@ weight: 45
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Beginning of the End, CB Frequencies"
 
 people: ["Tom Edison", "Mr. Phelps"]
 topics: ["TAP financial crisis", "subscription and fee policy changes", "reader support appeal"]

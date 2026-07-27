@@ -38,6 +38,7 @@ weight: 2
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Blue Box Story and Abbie on Ripoffs"
 
 people: ["Al Bell", "Russell Baker", "Abbie Hoffman"]
 topics: ["blue box construction", "phone fraud debate", "tone frequencies"]

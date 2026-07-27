@@ -37,6 +37,7 @@ weight: 72
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Homemade Fireworks Pt. 1"
 
 people: ["The Magician"]
 topics: ["fireworks regulation history", "pyrotechnics construction overview", "safety warnings/disclaimers"]

@@ -38,6 +38,7 @@ weight: 73
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Random Ramblings No. 2"
 
 people: ["Paul Montgomery"]
 topics: ["Bell System internal computer systems (COSMOS)", "PBX/Dimension system exploitation", "lineman's wiretap technique"]

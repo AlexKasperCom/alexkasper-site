@@ -38,6 +38,7 @@ weight: 64
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Channel 68 Decoder"
 
 people: []
 topics: ["pay-TV decoder circuitry", "subscription television signal processing"]

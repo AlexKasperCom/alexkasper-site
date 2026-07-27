@@ -39,6 +39,7 @@ weight: 67
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "TAP's 10th Anniversary, Picking Mushroom-Pin Locks"
 
 people: ["Tom Edison", "Al Bell", "Abbie Hoffman", "Jim Phelps", "R. Systat", "Al Mundy"]
 topics: ["organizational history/anniversary retrospective", "list of past editors and contributors", "mushroom-pin lock picking"]

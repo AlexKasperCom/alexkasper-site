@@ -38,6 +38,7 @@ weight: 61
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "1979 Year in Review, Better Living Through Chemistry"
 
 people: ["Tom Edison", "Oz Y. Mandias", "Agent MDA"]
 topics: ["annual financial recap", "underground chemistry literature", "patent research for drug synthesis"]

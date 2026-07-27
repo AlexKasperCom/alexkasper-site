@@ -38,6 +38,7 @@ weight: 44
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Ringing Generator Circuits"
 
 people: ["Tom Edison"]
 topics: ["editorial leadership transition", "subscription and renewal policy", "TAP's sixth anniversary"]

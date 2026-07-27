@@ -38,6 +38,7 @@ weight: 66
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Fortress Fun-Ding"
 
 people: []
 topics: ["payphone electronics", "coin signaling circuits", "Variable Initial Rate totalizing"]

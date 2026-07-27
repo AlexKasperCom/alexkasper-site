@@ -39,6 +39,7 @@ weight: 19
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Snoop Light, Taping Fortress Tones"
 
 people: ["Robert McCrie", "John D. deButts", "Clarence M. Kelley"]
 topics: ["parking meter defeat methods", "tape-recorded red box tones", "line-tap/extension detector circuit", "Watergate-AT&T connections"]

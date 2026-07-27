@@ -38,6 +38,7 @@ weight: 91
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Dun and Bradstreet: Do They Know Something We Don't, Yet More Phun with UNIX"
 
 people: ["BIOC Agent 003", "TUC", "Fred Steinbeck"]
 topics: ["corporate dial-up database systems (dated/historical)", "UNIX system internals discussion", "computer-culture reporting"]

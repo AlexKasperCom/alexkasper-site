@@ -38,6 +38,7 @@ weight: 47
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Radar Detectors, CB Info"
 
 people: ["Dale Smith"]
 topics: ["radar detector legality and technology", "police speed-enforcement countermeasures"]

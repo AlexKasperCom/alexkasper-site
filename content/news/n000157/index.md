@@ -38,6 +38,7 @@ weight: 37
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Report from NW Canada, CCIS Report"
 
 people: []
 topics: ["exotic and rural phone systems", "military phone system priority overrides", "automated illegal-extension detection"]

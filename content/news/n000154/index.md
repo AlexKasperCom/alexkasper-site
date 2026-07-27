@@ -38,6 +38,7 @@ weight: 34
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "SS#, Inside the Fortress, Fone Fucker"
 
 people: ["Tom Edison", "Mr. Phelps"]
 topics: ["Social Security Number as surveillance risk", "advocacy for multiple ID numbers", "Fortress payphone coin box access"]

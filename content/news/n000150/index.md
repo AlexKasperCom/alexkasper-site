@@ -38,6 +38,7 @@ weight: 30
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Party Lines, Fortress Extension & Locks"
 
 people: ["Tom Edison"]
 topics: ["party line discontinuation", "extension phone installation", "Fortress payphone modification", "telephone lock realism"]

@@ -38,6 +38,7 @@ weight: 83
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Video Voodoo"
 
 people: ["Fred Steinbeck"]
 topics: ["arcade game coin-mechanism exploits", "police vehicle surveillance techniques", "drug culture news briefs"]

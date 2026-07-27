@@ -38,6 +38,7 @@ weight: 40
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Black Box Update, Tuning Your Organ"
 
 people: []
 topics: ["espionage and weapons book review", "alternative technology projects", "infrasonics research request"]

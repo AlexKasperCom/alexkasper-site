@@ -38,6 +38,7 @@ weight: 82
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Still in Saigon"
 
 people: ["Oz Y. Mandias"]
 topics: ["editorial commentary on radical/paramilitary themes", "government chemical/nuclear weapons documentation references", "mail-order novelty and security-supply listings"]

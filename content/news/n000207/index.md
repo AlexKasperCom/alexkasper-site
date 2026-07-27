@@ -38,6 +38,7 @@ weight: 87
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "The Great Fire of '83"
 
 people: ["Cheshire Catalyst", "Tom Edison"]
 topics: ["TAP organizational history", "burglary and arson incident", "mailing/distribution policy change", "ISSN registration"]

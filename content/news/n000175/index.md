@@ -38,6 +38,7 @@ weight: 55
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Test Your Stash: Drug-ID Column Debuts"
 
 people: ["Oz Y. Mandias"]
 topics: ["drug adulterant testing", "reagent test chemistry", "phone company billing errors"]

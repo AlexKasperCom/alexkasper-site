@@ -38,6 +38,7 @@ weight: 77
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "An FBI View of Computer Crime"
 
 people: ["Stanley Rifkin", "Willie Sutton", "Oz Y. Mandias"]
 topics: ["FBI computer crime classification", "notable computer fraud cases", "wiretapping techniques", "drug analogue scheduling updates"]

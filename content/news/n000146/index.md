@@ -38,6 +38,7 @@ weight: 26
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "New Bluebox, Con Ed Key (also 23, 29)"
 
 people: []
 topics: ["vending machine fraud tricks", "movement security resources", "phone booth material changes"]

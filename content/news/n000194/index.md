@@ -38,6 +38,7 @@ weight: 74
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "TELENET"
 
 people: ["Paul Montgomery", "Tom Edison"]
 topics: ["Telenet packet-switched network access", "regional phone phreak group communications"]

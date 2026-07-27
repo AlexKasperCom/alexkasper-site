@@ -38,6 +38,7 @@ weight: 35
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Bulletproof Vests, Parking Meter Locks"
 
 people: ["Tom Edison", "John Draper", "Mr. Phelps", "Jim"]
 topics: ["TAP 5th anniversary", "Captain Crunch's second arrest", "red box operator-verification workaround", "TAP's editorial stance defended"]

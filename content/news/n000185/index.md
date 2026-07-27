@@ -38,6 +38,7 @@ weight: 65
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Getting Started in Pirate Radio"
 
 people: []
 topics: ["pirate radio broadcasting", "FCC enforcement risk", "carrier-current and FM transmitters"]

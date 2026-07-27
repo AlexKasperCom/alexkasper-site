@@ -38,6 +38,7 @@ weight: 24
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Fraud Detectors, Index of TAP Issues, 1974 CC Code"
 
 people: []
 topics: ["1974 credit card code", "Con Ed meter tampering", "mail surveillance evidence"]

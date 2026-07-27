@@ -38,6 +38,7 @@ weight: 56
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "The Programmable Blue Box"
 
 people: ["Peter Piper"]
 topics: ["digital blue box design", "keypad/shift-register logic", "tone calibration"]

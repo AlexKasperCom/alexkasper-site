@@ -38,6 +38,7 @@ weight: 42
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Interview With A Grand Guy, Blue Box Keyboard"
 
 people: ["Jim Phelps", "Guy Grand (interview subject, pseudonym)"]
 topics: ["countercultural prankster interview", "media-covered institutional hoaxes"]

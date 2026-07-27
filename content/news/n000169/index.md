@@ -37,6 +37,7 @@ weight: 49
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "More Fortress Fun, TWX Phreaking, Marisat Codes"
 
 people: ["CJ", "The Professor"]
 topics: ["Fortress payphone coin mechanism analysis", "red box temperature drift", "coin-drop click experiments"]

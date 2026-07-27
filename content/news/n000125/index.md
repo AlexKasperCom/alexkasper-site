@@ -39,6 +39,7 @@ weight: 5
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Blue Box 1 (Early Model)"
 
 people: ["F. Allen Wells Jr."]
 topics: ["blue box schematic", "credit card fraud evasion tactics", "underground press prosecution", "war tax resistance"]

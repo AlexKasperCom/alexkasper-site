@@ -38,6 +38,7 @@ weight: 28
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Reading Computer Bills, Loop Suffixes"
 
 people: []
 topics: ["1975 credit card code", "portable pay phone simulator concept", "Telident device skepticism", "loop and test number lists"]

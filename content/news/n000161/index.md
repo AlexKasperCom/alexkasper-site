@@ -38,6 +38,7 @@ weight: 41
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Getting Busted, New CB Channels, 1977 CC Code"
 
 people: ["Jim Phelps", "Alexander Mundy"]
 topics: ["parody holiday poem about utility maintenance", "reader skill-networking directory", "Bell lawsuit anecdote"]

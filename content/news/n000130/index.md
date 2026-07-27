@@ -38,6 +38,7 @@ weight: 10
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Black Box"
 
 people: []
 topics: ["community organizing", "Peoples Yellow Pages directories", "black box circuit comparison"]

@@ -39,6 +39,7 @@ weight: 15
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "1973 Credit Card Code, T Network"
 
 people: ["Al Bell"]
 topics: ["YIPL origin story", "black box", "blue-box-detector countermeasures", "destructory assistance service"]

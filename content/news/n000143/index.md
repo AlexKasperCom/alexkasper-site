@@ -40,6 +40,7 @@ weight: 23
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Free Electricity"
 
 people: ["Abbie Hoffman", "George Metesky"]
 topics: ["energy crisis", "electric meter tampering", "free electricity", "lock picking", "Abbie Hoffman legal defense"]

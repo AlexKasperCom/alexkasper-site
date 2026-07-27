@@ -38,6 +38,7 @@ weight: 12
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Blue Box Plans"
 
 people: ["John Draper", "Jim McMillan"]
 topics: ["Captain Crunch prosecution", "red box construction", "phone company detection rumors"]

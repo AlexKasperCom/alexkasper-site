@@ -38,6 +38,7 @@ weight: 33
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Supermarket Codes and Ripoffs, Tax Refusal"
 
 people: ["Mr. Phelps", "Tom Edison", "Rene Baxter"]
 topics: ["tax resistance philosophy", "life-extension advocacy", "illegal extension and answering-device detection"]

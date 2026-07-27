@@ -39,6 +39,7 @@ weight: 1
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Extensions, Conference Switches"
 
 people: ["Al Bell", "Abbie Hoffman", "Edward V. Long", "Wilbur Mills", "Joseph Beirne"]
 topics: ["credit card fraud", "wiretapping", "war tax resistance", "conference call devices", "YIPL founding"]

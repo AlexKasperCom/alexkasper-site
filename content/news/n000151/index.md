@@ -38,6 +38,7 @@ weight: 31
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Black Box, RAO Credit Card Codes"
 
 people: ["Tom Edison", "Al Bell", "John Draper"]
 topics: ["1975 year-in-review editorial", "black box circuit variants", "Captain Crunch reappearance"]

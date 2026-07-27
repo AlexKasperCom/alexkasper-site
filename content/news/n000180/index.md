@@ -37,6 +37,7 @@ weight: 60
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Lock-Pick Larceny"
 
 people: ["Alexander Mundy"]
 topics: ["lock picking technique", "pin tumbler cylinders", "tool fabrication"]

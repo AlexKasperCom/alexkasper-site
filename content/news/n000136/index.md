@@ -38,6 +38,7 @@ weight: 16
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Red Box Plans"
 
 people: []
 topics: ["red box circuit build", "destructory assistance service", "subscriber growth appeal"]

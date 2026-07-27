@@ -38,6 +38,7 @@ weight: 75
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "11th Anniversary Issue: WATS Extenders"
 
 people: ["The Magician"]
 topics: ["WATS line toll fraud", "phone company fraud detection", "legal risk warnings"]

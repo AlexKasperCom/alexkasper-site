@@ -38,6 +38,7 @@ weight: 81
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Security Alert"
 
 people: ["Tom A. Edison", "Oz Y. Mandias"]
 topics: ["subscription/administrative policy", "toll record privacy and law enforcement access", "chemical shipment surveillance risk"]

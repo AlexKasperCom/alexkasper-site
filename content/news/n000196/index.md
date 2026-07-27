@@ -38,6 +38,7 @@ weight: 76
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Life & Death & Dope"
 
 people: ["Dr. Atomic", "Frank T.G. Schuster"]
 topics: ["editorial defense of drug/chemistry content", "antioxidant supplement (BHT) discussion", "underground chemistry scope debate"]

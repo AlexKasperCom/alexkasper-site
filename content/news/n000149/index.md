@@ -38,6 +38,7 @@ weight: 29
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Improved Bluebox & Snooplite, Int'l Codes"
 
 people: []
 topics: ["advanced blue box circuit", "new office opening", "corrected snoop light values", "mail-order parts suppliers"]

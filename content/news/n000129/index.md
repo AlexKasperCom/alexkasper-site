@@ -38,6 +38,7 @@ weight: 9
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Black Box (Super Duper Project)"
 
 people: ["Gerald E. McDaniels"]
 topics: ["black box construction", "ITT boycott", "war profiteering critique", "postage-stamp cancellation avoidance"]

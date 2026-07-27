@@ -37,6 +37,7 @@ weight: 36
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Ultimate (hah!) Red Box, TEL Update, Discovering Unlisted Numbers"
 
 people: ["Al Bell", "Tom Edison"]
 topics: ["precision red box circuit design"]

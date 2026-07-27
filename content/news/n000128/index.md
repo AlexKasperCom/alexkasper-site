@@ -38,6 +38,7 @@ weight: 8
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Credit Card Calls / 1972 Code"
 
 people: []
 topics: ["1972 credit card code cracked", "induction coupler equipment", "phone tap detection folklore"]

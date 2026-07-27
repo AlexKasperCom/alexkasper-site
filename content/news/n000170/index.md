@@ -40,6 +40,7 @@ weight: 50
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Special 7th Anniversary Issue: Lock Picks, Electronics for the Dope Dealer, Tandem Scanning"
 
 people: ["Alexander Mundy", "Don Victor Harbolt", "Clarence Kelley"]
 topics: ["lock picking", "drug dealer countermeasures", "wiretap detection", "cable TV piracy", "anniversary retrospective"]

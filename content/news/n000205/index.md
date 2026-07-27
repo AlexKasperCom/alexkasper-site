@@ -39,6 +39,7 @@ weight: 85
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "12th Anniversary Issue: The Credit Card Code - 1983"
 
 people: ["Cheshire Catalyst", "John Williams"]
 topics: ["Calling Card numbering/checksum research", "billing terminology change", "ATM fraud publication controversy"]

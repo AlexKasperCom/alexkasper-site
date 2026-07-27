@@ -38,6 +38,7 @@ weight: 51
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Milo Fonebill Issue: Auto-Combo Red-Blue Boxes"
 
 people: ["Milo Fonebill", "Wizard", "Tom"]
 topics: ["blue box circuit corrections", "TAP financial crisis", "mailing/subscription troubles", "conference announcement"]

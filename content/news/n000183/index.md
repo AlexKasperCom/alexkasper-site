@@ -38,6 +38,7 @@ weight: 63
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "How to Modify Your Bell Touch Tone Fone to Have 1633 Cycle Tones"
 
 people: ["The Sagician"]
 topics: ["touch-tone phone hardware modification", "1633 Hz signaling tones"]

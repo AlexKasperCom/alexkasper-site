@@ -38,6 +38,7 @@ weight: 21
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Automatic Phone Tap, Convention Report"
 
 people: ["Abbie Hoffman"]
 topics: ["TAP name change and broadened scope", "Abbie Hoffman legal defense", "phone phreak convention recap"]

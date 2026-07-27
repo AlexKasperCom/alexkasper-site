@@ -38,6 +38,7 @@ weight: 38
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Jumping Water and Electric Meters and Alternatives, Black Box Info"
 
 people: ["Jim Phelps"]
 topics: ["water and electric meter tampering and detection", "energy conservation commentary", "solar heating skepticism"]

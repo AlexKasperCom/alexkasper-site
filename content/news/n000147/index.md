@@ -39,6 +39,7 @@ weight: 27
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Free Electricity, Blue Box Correction"
 
 people: ["Stainless Steel Rat (reader pseudonym)"]
 topics: ["blue box diode improvements", "lock-picking clarification", "credit-card-code legal threats", "caller-ID precursor device", "free electricity meter details"]

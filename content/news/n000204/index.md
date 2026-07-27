@@ -38,6 +38,7 @@ weight: 84
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Rate Steps as Forbidden Knowledge"
 
 people: ["Cheshire Catalyst", "Fred Steinbeck", "The Magician"]
 topics: ["phone company billing/rate-step tables", "BASIC programming for distance calculation", "touch-tone hardware modification"]

@@ -38,6 +38,7 @@ weight: 53
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
+feature_article: "Meeting Phone Phreaks at Trade Shows, THC-79 Conference, Microcomputer Blue Box Tones"
 
 people: []
 topics: ["phreak social networking", "conference logistics", "microprocessor-generated MF tones"]

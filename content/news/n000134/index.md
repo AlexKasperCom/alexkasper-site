@@ -39,6 +39,7 @@ weight: 14
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "More Codes, AT&T Papers, Ca. Test Numbers"
 
 people: []
 topics: ["credit card codes", "overseas dialing codes", "red box tuning", "Bell company internal culture"]

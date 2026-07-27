@@ -39,6 +39,7 @@ weight: 17
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
+feature_article: "Red Box, Line Relay, Don't Get Busted"
 
 people: []
 topics: ["AT&T rate increase critique", "phreak security practices", "red box variants", "line relay project"]
