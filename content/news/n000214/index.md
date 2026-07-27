@@ -23,7 +23,7 @@ tags:                 # Descriptive tags:
 
 author:        'Pratt,Timothy'
 
-publisher:            techcrunch.com
+publisher:            The Guardian
 
 source_url: https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone
 
