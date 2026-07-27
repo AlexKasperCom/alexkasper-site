@@ -21,14 +21,12 @@ tags:                 # Descriptive tags:
                       #   - review
                       #   - behind-the-scenes
 
-author:               # People: "Last, First"
-                      # Organizations: literal name
-                      #   - "Kasper, Alex"
-                      #   - Associated Press
+author:        'Pratt,Timothy'
 
-publisher:            SC Media 
+publisher:            techcrunch.com
 
-source_url: https://www.scworld.com/brief/man-charged-for-using-phones-duress-password-to-wipe-data
+source_url: https://www.theguardian.com/us-news/2026/jul/23/cop-city-protester-phone
+
 access_date: 2026-07-27
 source_dead: false
 
@@ -57,4 +55,4 @@ duration:             # Total runtime, e.g. "1:24:03"
 language:             # en | fr | de | es | ja
 
 ---
-The U.S. Justice Department is prosecuting an American man for allegedly providing U.S. border authorities with a passcode that wiped the contents of his phone, a case believed to be the first of its kind in the United States where federal prosecutors have charged someone for the alleged destruction of data using a "duress" password, as first reported by TechCrunch.
+The defendant, Sam Tunick, was stopped for interrogation at Atlanta’s Hartsfield-Jackson airport on 24 January last year, after vacationing in the Dominican Republic. Unbeknown to him, federal authorities had put him on a terrorism watchlist because of his alleged association with the movement against Cop City.
