@@ -23,18 +23,25 @@ related:              # Related content ids:
 
 draft: false           # Set to false when ready to publish.
 ---
-TAP was the original phone phreaking and hacking newsletter. It launched in June 1971 as the *Youth International Party Line* (YIPL), a mimeographed sheet from Al Bell and Abbie Hoffman that fused phone phreaking with New Left politics. At issue 22 it became *TAP*. Over its run it documented blue boxes, red boxes, black boxes, credit card codes, lock picking, pirate radio, and a long catalog of other "destructory assistance." The first 91 issues ran from June 1971 to March 1984. More followed, and they go up here as they surface.
 
-The index below is arranged like the back catalog TAP printed to sell reprints of its own old issues. Each entry links to the full scan, transcript, and citation record. Some scans are pretty rough. If you have cleaner copies, please get in touch.
+*TAP* is the original phone-phreaking and hacking newsletter. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and others, starting way back in June 1971 as the *Youth International Party Line* (YIPL), a mimeographed sheet from Al Bell and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. At issue 22 it became *TAP*.
 
-**Before you dig in**
+Over its run it covered how to build [blue boxes](https://en.wikipedia.org/wiki/Blue_box), [red boxes](https://en.wikipedia.org/wiki/Red_box_(phreaking)), black boxes, credit-card codes, lock picking, pirate radio, and a long catalog of other “destructory assistance.” The first 91 issues ran from June 1971 to March 1984.
 
-This is a historical archive, not a manual. TAP is a primary source for where phreaking and hacking actually began, reproduced as published. The technology it describes is basically dead: the analog network, the tone tricks, and the codes all belong to a phone system that now exists only in museums and hobbyist collections.
+In 1983 someone broke into editor *Tom Edison’s* apartment (which also served as the TAP office) and set it on fire, destroying the mailing list and financial records. TAP published a few more issues, but Tom eventually left the project and the magic was gone. A few people tried to keep it going and it limped along for a while, but it eventually fizzled out.
 
-The politics are another matter. Some issues run editor screeds pushing theft, violence, and worse. I want to be clear that **these are not my views, and I do not endorse any of it**. It was contentious in its own time, and you will find TAP's own editors and readers wrestling with it in these pages. Frankly, as a kid waiting for one of these to land in the mail so I could read every word, I was more than annoyed they wasted precious space on it, and I thought they were a bit nuts. But this was the only source for this information.
+The index below links to the full scan, transcript, and citation record for the first 91 issues. Some of the scans are rough. (If you have cleaner copies, please [get in touch](/contact) and I’ll replace them. Want to be notified of updates? [Join the mailing list.](/mailing-list))
 
-I firmly believe this rhetoric helped cast hackers as saboteurs, a label that trailed people into courtrooms for years. Kevin Mitnick spent eight months in solitary confinement because a judge believed he could whistle launch codes into a payphone. That is how far it went.
+**A quick note**
 
-All of that aside, what is left is a delightfully weird journey into how this stuff got started.
+This is no longer a how-to. The analog phone network and the other systems these techniques targeted are long gone, now found only in museums and private collections.
+
+I read these as a kid because the technical material was fascinating and, at the time, the only place you could find it. But some issues also pushed theft and violence “against the system” (never against people, they claimed), and at least one wandered into explosives.
+
+That was never my interest or practice. I kept reading purely for the phone and tech stuff and ignored the rest, and frankly I think that’s how most of the hackers I knew felt.
+
+Even so, being the first widely circulated newsletter of its kind, TAP helped shape the early public image of the “evil hacker,” of which {{< ref-id "n000007" "Kevin Mitnick" >}} got more than his share.
+
+Still, it’s cool to see how this kind of information was discussed and passed around long before the Internet. Enjoy!
 
 {{< back-issues "tap-archive" >}}
