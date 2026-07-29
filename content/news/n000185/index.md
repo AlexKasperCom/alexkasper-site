@@ -15,16 +15,17 @@ tags:
   - broadcasting
 author:
 publisher: "TAP"
-source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
+source_url: "https://www.computerhistory.org/collections/catalog/600000568/record/102734878/?media=262808"
 access_date: 
-source_dead: true
-archive1_url: 
+source_dead: false
+archive1_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 archive1_date: 
-archive1_dead: false
+archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
 local_file: "tap-065.pdf"
+prefer_local: true
 pages: "4"
 isbn: 
 time: 
@@ -43,9 +44,9 @@ feature_article: "Getting Started in Pirate Radio"
 people: []
 topics: ["pirate radio broadcasting", "FCC enforcement risk", "carrier-current and FM transmitters"]
 
-scan_quality: poor
+scan_quality: good
 ocr: true
-ocr_date: "2026-07-22"
+ocr_date: "2026-07-28"
 page_count: 4
 
 source: "Internet Archive"

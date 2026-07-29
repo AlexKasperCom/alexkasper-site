@@ -1,28 +1,481 @@
-feb, 1973 mo.Mit ALL MewRED BOX
-* e
-' Cee REatMeeee eeeore ee
-CO Terr on "
-ae at-home learning program — foh in home co a ) fe ! ye=|= P
-leetttothegs.
-aA[a]
-“{ STHE YOUTH INTERNATIONAL PARTY LINEDear YIPL, YIPL has determined, after exhaustive testing, that theIn issue no, 15 the "T" network does not work economy has taken a turn toward heaven, thus temptingfor the Southern New England Bell Co. system us to raise our prices. Of course, we wouldn't think ofbecause coin return etc. still works with only red doing that to you, our money-drained devotees. So weand green wires, even when_yellow is cut. (there ' decided that the only way to keep YIPL's price down isis no blackfor 8, N. E, T.) to increase circulation immediately. That means eitherCollect calls are accepted always at a certain pay every YIPL has to sign up one friend, or a few YIPLsphone ina dorm. Could this mean that it is being have to sign up several friends. You people are takingtapped? Ifso, how canI tell? Is there any part in the greatest man vs. machine drama ever toway that ¥ still can work the "IT" network? unfold in the history of civilization, and you can help-DESTROY- CONNECTICUT. to make it a lot of fun, so help out, O.K.? Don't for-get that the more people we have, the more we haveIn certain places the pay phone uses a ground to intimidate Bell with, the more information we getwire seperate from the phone line cable, Look to use and people to use it, and the more people whofor a wire to a nearby pipe, or to an electric will save money on expensive calls talking to lovedfixture plate. Otherwise, try reversing the po- ones(Aw, shucks!).larity of the red and green wires, this should , Be Ppreverse all collect and return signals. Qo ade ]Pay phones that don't start with 99 or 98 in & x eothe last four digits are good targets for collect . ? — o>calls. Operators usual don't accept calls to hot to print!? = Saya o,most pay phones because they recognize the #. |Sirs, We've only gotten a few responses to our Destructory As-_ In writing to recieve your publications my | sistance department that we introduced last month, whichsole interest was in gaining knowledge about is a shame because we've already got a wealth of greatelectrical systems. Yet, upon recieving some information ready to trade for other phone info. Also weback issues (ordered 11/72) I have found the have a special interest in city codes for foreign countriespolitical motivation of your organization totally which we're compiling into a master list, along with goodcontrary to my own. My interests certainly do telephone numbers to call overseas, whica we will be pub-not lie in "ripping off" the Bell system. Eventua]) --~ —» ishing regularly. We've got schematics for various ver-reform in society must come from more’ concrete sions of blue and red boxes, and general info on same. Soand benefical works (this being the primary-idea send us info, a stamped self-addressed envelope, and ifbehind my involvement with UNICEF). you want some specific info we'll try to get it for you, asBecause of the misunderstanding initiating our much as you send us. Write "Destructory Assistance" atcontact, I must demmna_ that all further commun-~ | the head of the letter so we know what its for. Do it today’ications cease immediately. -D,C. <N. Y.
-
-OAS~ THE RED BOX”) JK aCONSTRUCTION |The largest units in the red box are the telephone earpiece and battery. Sincethe unit works on 9V and has no coils, 10V parts can be used. The push buttonsare high quality units that won't bounce on you and fire the box twice. Grayhillmakes some good ones. Snap action are the best, but they make noise when youhold thebox up to the phone. oe | onDifferent earpieces or speakers will produce different volumes. If a low im-pedance (8-320hms) speaker is used, less volume and more battery drain will|result. Increase the value of the 10 mfd. output capacitor with low impedancespeakers, and increase 22K gain resistor if necessary. .Remember, with a red box you are going to play it for an operator who will ~ -easily recognise a faulty tone pulse. So make your solder connections tight &use good switches. Cover the speaker holes with a small patch of thin foamto prevent gook from flying into the magnet. © | a ,OPERATING PRINCIPLES |The red box consists of four sections, the oscillator, the flip-flop, thetimer and the amplifier. To understand how these produce the necessary toneswe'll take for example a dime sound, A dime is two pulses of 2200 cycles, eachbeing 60 milleseconds long, with a 60 ms. space between than. When you pressthe 10¢ button, the flip-fbp starts turning on and off, on for 60 ms, and off for60 ms., continuously, This in turn shorts out the oscillator, producing on andoff pulses to be fed to the amplifier and speaker. How do we get only 2 beeps?Well, when you press the button, the timer starts. After 180 ms. it turns offthe flip-flop, thus stopping the tones. Other sounds are produced by changingthe speed of the flip-flop and the delay of the timer. Also, the two RC pairs of1M and , 047 pulse the timer and the shorting transistor, to start the timer andflip-flop at the same time. Current drain is approx. 7 ma, so don't worryabout the battery. You will hear some leakage after the tone sounds if you keepholding the button down, but this is alright if it's faint or if you let go.TUNING .First, adjust the 30K oscillator trimmer to produceabeep when a buttonis pushed. Then, simply call a friend at a pay phone and have him deposit money.Tune the oscillator to the same pitch as the beeps you hear. If the oscillator istoohigh, raise the .0033 cap to .0047. If the rangeofthe trimmer is too small,add a 380K series resistor.Now, you should get one, two, and 5 beeps for 5,10, and 25, Ifnot, you'llneed to adjust a bit. If you get only 4 beeps for 25, raise the 620K resistor.This may, however, change the 5 and 10 beeps. The 680K resistor is the numbeof beeps for the dime, and the 120K is for the 5 button. .The 150K resistor controls the speed of the flip-flop for 25. If you get 5 beeps,but they're too slow compared to the phone your friend is at, you can speedthem up by lowering it. This will give you more beeps, however, in the sameperiod of time that used to give you 5 beeps. So then you should lower the 620Kuntil you get 5 beeps again, and then check for proper beeps ‘on the other buttons,Alvays adjust 25 first, then do 5 and 10,5¢ = 60 on10¢= 60 on, 60 off, 60 on25¢= 35 on, 85 off(5 times)CALLING |Go to a pay phone, dial your number direct(after depositing a dime){or 20¢)and when the operator comes on she'll ask for more money, and possibly evenreturn your dime. Now, very Slowly and quietly put the red box up to the mouth-piece and press one button per coin, and be sure to pause several seconds inbetween each coin, just as if you were reaching for the money in your pocketand fumbling to put in the coins.If the operator gets suspicious it could be fortwo reasons; first, you may be off tune or off speed. In that case tune it. Sec-.ond, the operator may be suspicious because in Some areas a visual indicat-ion of insertion of coins is provided for the operator.. So the operator may saysomething like "I'm sorry, sir, but that didn't register”. Just mosey along toanother phone booth. You'll find the red box is the safest box to use and easyandfun to use,too. Even the operatorwillthankyou! a "
-
-47K22kNZ WV _¥} J 22>
-Hi~) oer |1M
-lOK680K
-All resistors are in ohms, 1/4 Watt, 5%. Capacitors above or equal to 1 Mfd. are.electrolytic. Smaller capacitors should be epoxy or mylar hi-quality capacitors.ce is a standard phone earpiece, and diodes are small signal, silicon, sim-far to IN@14-or anything else.Transistors are all , or SK3020, or Hep 55.
-TEL-COM is a computer designed by two San Franciscoengineers. It is essentially a telephone caller with a re-~corded message. It can be programmedto callupto |50,000 homes before being reprogrammed. Oh yes, if- yourline is busy it waits and calls you back, A lotoflaughs when your taking a bath, or just sleeping around |the house. (sic!)... Then there's the "fone freak foiler foiler"which is merely asking phone-phreaks everywhere tospend a few mimtes everyday dialing long distance infoand whistling (or blue boxing) 2600 Hz and after gettingan openline hanging up. This willactivate the telephone—company's foller with a false alarm. If enough people dothis, well you know the answer to this one...A recentBell Telephone campaign and PR sheet claimed that 90%of all coin phones, in New York, were in working order atany given time. However, a recent YIPL survey of coinphones in the Manhattan area showed 83% out of order...Thename of a Midtown restaurant, MaBells...We decided |to go in and try the specialty of the house, fried onion rings.Although there were many empty tables they told us wewouldhave to wait becausethey were toobusy. We finallygot a seatbut hadto explain so many umes to thewaitresswhat we wanted that we blew another 15 minutes. Finallythewaitress came back with thewrong order. Thebillforjust one orderof onionringswas unbelieveahlyhigh, due theySaid to hiddencosts. (it was niceof them to let us knowtheycouldn't tell us what the hidden costs were) Since we nevergot the onionringswerefused to pay. A big burly lookingbouncer stepped upnextto us and told us we'd havetopay, butthat next time we came hereand orderedonion rings we'd havecredit, They couldn't understand that next time we'd make ourown‘onion rings,
-a
-personts using yourcard, the tete-phone opératora who handle credit |cardcaits mayask you a question ortwowheneveryou place such acal,They're the type of question thatcan be answered easily and quicklyby @ person having acredit card, butshould discourage an unauthorized:user from trying to complete the call.We hope you'll understand that ouroperators will be doing this for yourprotection and ours.As an added precaistion we urgeyou totreat this card as youdo yourother credit cards:@ Notify your Business Officerepresentative at once if it Is lost orstolen. a,® Do not give the card or numberto anyone etsato use.Thank you for your cooperation.©) NewYork Telephone
-IMPORTANT NOTICE.., about the enclosed 1973telephone credit card..To make certain no unauthorized:\/ ‘ .” -@ a= Yy .
-. .
-*
-Since credit card owners are receivingthese notices with their new credit cardswe can expect to pay some games withthe operators this year. Don't sweat, thequestions are only designed to scare youand make you hang up, thus giving it away.Though you might get a few questions likethe name of the company, city or areacode of the credit card number, you'llhave no problem if you keep cool. Theoperator knows at most the name of thecity and area code , not the company's.name. So have your number memorized, ~and if you need the code numbers forcertain cities, get YIPL #8, and be sure .to read our reprint on making credit cardcalls, Also write in and tell us what kindof questions operators are asking in yourpart of the country.
-
-—
-Dear Friends,Just finished reading "Happiness is a Blue Box"in the Yipgter Times and allicansayisbereis my 2 dollars for the YIPL,Off the subject of phones, tape recorderscan be a powerful tool in challenging yourconstruct of the world and to understandhow words manipulate (which can be used to youradvantage), Tape recorders can be used forsocial change. For fairly extensive experimentswith the tape recorder, read "THE JOB" byWilliam Burroughs (Naked Lunch) published byGrove. Press. Only in hardcover to the best of my.knowledge, but some libraries have it. Read"THE JOB" if at all possible-most exciting bookI have come across in many a year,-YOURS TRULY C. K, -MICHIGAN,Dear YIPL SOYou might tell your readers that it's illegal to:cheat some of the old =type change machines»by slitting a dollar bill So the little levergoes thru instead of pushing it into the hopper;bend the tail off one type of pop-topanduse it foranickel in a parking meter; use any of the standardsize pennies turned out by the British mint forsometime colonies (New Zealand, Fiji, Bahamas,West Indies, etc.) as dimes in one=-slot phones and- other places. You might also stock some other good-ies along with the reprints, such as an updated versionof E. Blotnick's expose of credit card fraud (the non-~telephone type) from Scanlan's, nnDon Britton's newsletter says DB Ent. was theoutfit that offered bluebox plans in POPULARELECTRONIC's way back when, and thatMF Bell must have gotten addresses of people whoordered them by intercepting first class mail.Bell has been after him ever since, maybe it'swhy he movedto Hawaii. A local source, who‘Should know, says that mail from overseas is-opened (and translated at need) on a regularbasis in Oakland. Foreign correspondents shouldnot go unwarned. ~FUCK THE PHONE COMPANYR,S.- BERKELEY, CA. _| Sirs; .Cancel my sons subscription to your paperimmediately, please. He is 14 years of age andhas no interest in it. He only subscribed to yourpaper just to see if it actually existed. Anymorepapers mailed to our address will be returned tosender. Thank you, -KH, N, Y.-Dear YIPL,For practice dialing overseas: Londonweather: KP 044 1 246 8091 ST, Australiaweather (Sidney): KP 061 3 6064 ST, Australiatime: KP 061 2 2074 ST, Free Telephone Co. NewsWire Service any where in the U.S. and Canada(direct dialed): 212 394-1212. Listen to Helen Banks(sounds like Shirley Booth) and Marian Warshaw givetop secret (ha) telephone company news twice a day.-L. A. ~BKLYN, N. Y.
-
-M: peopleask YIPL questions thatwe don |nero pectsSag pat eee Allende Accuses ITTin UNand don't know, how phone traces are done, and general se By JERRY CLAPS0policies of the Bell's cracksecurity gang led by the fear- Tne News UN Boreasless Joe Doherty and his turtle Flash. We need Chile’ « Marxixt President SalvadorAllende. addressing a pecked United Nationsanswer questions like whether ESS will allow apron to General Assembly, accused the International Telephone & Telegraph Co. yesterday ofat ting to brin about acivil war" in his coun to retaliate inst his natBlack Boxes in the areas where they live. We need oper- “attempens s ty ate against his nattonali-tation policies.ators to tell us how they know when enough money is “We are net only enduring &put into the phone to fill it up and it has to be dumped. roti Roce .aeaiesieeealsesaid.Tell us anything and everything, -don't sign your name, - He baid United Stated comand tell us if you don't want us to print the letter, And ecting ageinal his_ if you have friends who work for the Kompany, have them several industries, | tacled-Com-write us. Although he did not attack theUs. directly, he charred thatimperialiam” was re-aenaibde for his country's ailmeyand backward economHe charged that tried toprevent him from taking offleeafter his 197@ ‘electiona “sinister plan” that“terrorist attacks planned outsideChile” and which culminatedin the asxaasination of the armycommander jn chief, Gen. BeneSchwaeider.
-tYIPL, itis said, has its better days. And although we'redoing better in mailing now, the Post Office isn't. YIPLis mailed third class, Now first class goes slow, and evensecond class doesn't go muchfaster than osmosis, but wego at the very end of everything else, when we go at all.Amd there's no sense trying to make it any better becausepostmen. steal your mail, our mail, and everyone else for ! fthat matter. So be patient. Allow 2 months for delivery ofa newsletter, 1 month for back issues. And do not sendcash or stamps through the mail, BECAUSE THE POSTOFFICE STEALS IT. OUR MAIL IS CENSORED, RIPPEDUP AND STOLEN, AND WE DO NOT RIP ANY OF YOUPEOPLE OFF, But if you send your $2 and we don't getit, we figure you might have forgotten to stick it in theenvelcpe or it might have been stolen. So we ask you to -sendit in check, or to checkif your previous check was : Aimedatthe overthrowefhis Se-cashed, If you don't receive an issue, wait awhile and if _CRie's Preetdent Allende addresses UN et em iy. Neette sald his, cocatey wes .the following issue comes, let us know and we'll send you oe , Oo Resist VargremtoaTM by"Kaewhat you missed. Oo a ‘be a | | | icemest a oght court) | ar | [Sateen Sthetsrer eae]‘The ringback numbers for LA vay like mad; however copper Allende taid this canoes" most of LA City uses 6105+6 (a few still use 115-6) Thee bane and erred nation. but Hollywood (46) has it's own: 810-6, . | and drawing power with juterne-Jean-Luc Godard telis it like it is! .. You.can get a high frequency tone by dialing 666-. bare bee serioaty naoO : 0002. What it's for I don't know. ‘denied any CSinnolvensamtinMy question is, how does one reach the verifying : tre passle Detween Ouile, ITT. operator in LA from 663 (step) or 686 (tone) prefixes? ‘he took exceptten to Allende’sBACK ISSUES-50¢ Or better yet, how does one get into the special tunability for alleged eeowounieciroitry (without being detected by Central Control) strangulation of Chik. ;1- Extensions, conference switches that Verifying uses? -M. P, = LA, CA. .2- Blue Box Story and Abbie on ripofts3- Telecommand Story4- Pay Phone Issue5- Blue Box 1 Now obsolete6- Blue Box 2 |7- Tuning your organ |8- Credit card calls and 1972 code © SULK RATE9- Super duper project(See issue 11) U. S. POSTAGE10- PAID11-Receive long distance calls Free | Peer 20912-Blue Box Plans |18-International Calls : ,14-International Calls & AT&T Papers - ‘15-1973 Credit Code, T NetworkFACT SHEETS-25¢How not to get caught makingcredit callsReceiving long distance calls Free(Issue 11)ANTI-BELL BUTTON- 50¢ 10/$3, 00DESTRUCTORY ASSISTANCE- Free-Justsend as muchinfo as you wantback inastamped, self-addressed envelope.Renew if your address has a_7or less on it.YIPL, Room 604, 152 W. 42St,, N.Y.,N, ¥. 10038Mailing address only, don'tsend cash, ‘PLEASE!
+VIPL 
+“at-home learnin 
+| in home entertainment 
+_os 
+§ electronics! 
+: 
+a 
+feb, 1978 
+20.16 
+ALL MEW 
+THE YOUTH INTERNATIONAL PARTY LINE 
+Dear YIPL, 
+In issue no. 15 the "T" network does not work 
+for the Southern New England Bell Co. system 
+because coin return etc. still works with only red 
+and green wires, even when yellow is cut. (there 
+is no black for 8. N. E. T.) 
+Collect calls are accepted always at a certain pay 
+phone ina dorm. Could this mean that it is being 
+tapped? If so, how canI tell? Is there any 
+way that f still can work the "T" network? 
+-DESTROY- CONNECTICUT, 
+In certain places the pay phone uses a ground 
+wire seperate from the phone line cable. Look 
+for 
+a wire to a nearby pipe, or to an electric 
+fixture plate. Otherwise, try reversing the po- 
+larity of the red and green wires, this should 
+reverse all collect and return signals, 
+Pay phones that don't start with 99 or 98 in 
+the last four digits are good targets for collect 
+calls, Operators usually don't accept calls to 
+most pay phones because they recognize the #, 
+Sirs, 
+In writing to recieve your publications my 
+Sole interest was in gaining knowledge about 
+electrical systems. Yet, upon recieving some 
+back issues (ordered 11/72) I have found the 
+Political motivation of your organization totally 
+contrary to my own. My interests certainly do 
+not lie in "ripping off" the Bell system. Eventual 
+reform in society must come from more concrete 
+and benefical works (this being the primary idea 
+behind my involvement with UNICEF). 
+Because of the misunderstanding initiating our 
+contact, I must demuna_ that all further commun- 
+ications cease immediately. -D, C, -N. Y. 
+YIPL has determined, after exhaustive testing, that the 
+economy has taken a turn toward heaven, thus tempting 
+us to raise our prices. Of course, we wouldn't think of 
+doing that to you, our money-drained devotees. So we 
+decided that the only way to keep YIPL's price down is 
+to increase circulation immediately. That means either 
+every YIPL has to sign up one friend, or 
+a few YIPLs 
+have to sign up several friends. You people are taking 
+part in the greatest man vs. machine drama ever to 
+unfold in the history of civilization, and you can help 
+to make it a lot of fun, so help out, O.K.? Don't for- 
+get that the more people we have, the more we have 
+to intimidate Bell with, the more information we get 
+to use and people to use it, and the more people who 
+will save money on expensive calls talking to loved 
+ones(Aw, shucks!), o tee] 
+hot to printlg = 
+=% a 
+We've only gotten a few responses to our Destructory As- 
+sistance department that we introduced last month, which 
+is a shame because we've already got a wealth of great 
+information ready to trade for other phone info. Also we 
+have a special interest in city codes for foreign countries 
+which we're compiling into a master list, along with good 
+telephone numbers to call overseas, which we will be pub- 
+lishing regularly. We've got schematics for various ver- 
+‘sions of blue and red boxes, and general info on same. So 
+‘Send us info, a stamped self-addressed envelope, and if 
+you want Some Specific info we'll try to get it for you, as 
+much as you send us, Write "Destructory Assistance" at 
+the head of the letter so we know what its for. Do it today!
+AD 
+1 
+ow THE RED BOX 
+7 a 
+wl 
+we dea HE 
+SY 
+CONSTRUCTION 
+The largest units in the red box are the telephone earpiece and battery. Since 
+the unit works on 9V and has no coils, 10V parts can be used. The push buttons 
+are high quality units that won't bounce on you and fire the box twice. Grayhill 
+makes some good ones. Snap action are the best, but they make noise when you 
+hold the box up to the phone. 
+Different earpieces or speakers will produce different volumes. Ifa low im- 
+pedance (8-320hms) speaker is used, less volume and more battery drain will 
+result, Increase the value of the 10 mfd. output capacitor with low impedance 
+speakers, and increase 22K gain resistor if necessary. 
+Remember, with a red box you are going to play it for an operator who will 
+easily recognise a faulty tone pulse. So make your solder connections tight & 
+use good switches. 
+Cover the speaker holes with a small patch of thin foam 
+to prevent gook from flying into the magnet. 
+OPERATING PRINCIPLES 
+The red box consists of four sections, the oscillator, the flip-flop, the 
+timer and the amplifier. To understand how these produce the necessary tones 
+we'll take for example a dime sound. A dime is two pulses of 2200 cycles, each 
+being 60 milleseconds long; with a 60 ms. space between them. When you press 
+the 10¢ button, the flip-flop starts turning on and off, on for 60 ms, and off for 
+60 ms., continuously, This in turn shorts out the oscillator, producing on and 
+off pulses to be fed to the amplifier and speaker. How do we get only 2 beeps? 
+Well, when you press the button, the timer starts, After 180 ms. it turns off 
+the flip-flop, thus stopping the tones, Other sounds are produced by cl 
+the speed 
+of the flip-flop and the delay of the timer. Also, the two RC pairs of 
+1M and .047 pulse the timer and the shorting transistor, to start the timer and 
+flip-flop at the same time . Current drain is approx, 7 ma, So don't worry 
+about 
+the battery. You will hear some leakage after the tone sounds 
+if you keep 
+holding the button down, but this is alright if it's faint or if you let go. 
+TUNING 
+First, adjust the 30K oscillator trimmer to produce a beep when a button 
+is pushed. Then, simply call a friend at a pay phone and have him deposit money. 
+Tune the oscillator to the same pitch as the beeps you hear. If the oscillator 
+is 
+too high, raise the .0033 cap to .0047. Ifthe range of the trimmer is too small, 
+add a 30K series resistor. 
+Now, you should get one, two, and 5 beeps for 5,10, and 25. If not, you'll 
+need to adjust a bit, If you get only 4 beeps for 25, raise the 620K resistor, 
+‘This may, however, change the 5 and 10 beeps. The 680K resistor is the number 
+of beeps for the dime, and the 120K is for the 5 button. 
+‘o) 
++ 
+The 150K resistor controls the speed of the flip-flop for 25. If you get 5 beeps, 
+‘but they're too slow compared to the phone your friend is at, you can speed 
+them up by lowering it. This will give you more beeps, however, in the same 
+Period 
+of time that used to give you 5 beeps. So then you should lower the 620K 
+until you get 5 beeps again, and then check for proper beeps‘on the other buttons. 
+Always adjust 25 first, then do 5 and 10, 
+5¢ = 600n 
+10¢= 60 on, 60 off, 60 on 
+25¢= 35 on, 35 off(5 times) 
+CALLING 
+Go to a pay phone, dial your number direct(after depositing a dime)(or 20¢) 
+and when the operator comes on she'll ask for more money, and possibly even 
+return your dime. Now, very slowly and quietly put the red box up to the mouth- 
+Piece and press one button per coin, and be sure to pause several seconds in 
+between each coin, just as if you were reaching for the money in your pocket 
+and fumbling to put in the coins. 
+If the operator gets suspicious it could be for 
+two reasons; first, you may be off tune or off speed. In that case tune it. Sec- 
+ond, the operator may be suspicious because in some areas a visual indicat- 
+ion of insertion of coins is provided for the operator., So the operator may say 
+something like "I'm sorry, sir; but that didn't register", Just mosey along to 
+another phone booth. You'll find the red box is the safest box to use and easy 
+and fun to use, too. Even the operator will thank you! 
+All resistors are in ohms, 1/4 Watt, 
+electrolytic. Smaller capacitors shou
+Earpiece is a standard phone earpiect
+ilar to 1N914 or any’ 
+else. 
+Transistors are all 2N2222, or SK302!
+Biot .NEWS PHO
+‘TEL-COM is a computer designed b
+engineers. It is essentially a telephor
+corded message. It can be programm 
+50,000 homes before being reprogram 
+your line is busy it waits and calls you
+Jaughs when your taking a bath, or jus 
+the house. (sic!)... Then there's the *
+which is merely asking phone-phreaks 
+‘spend a few minutes everyday dialing1
+and whistling (or blue boxing) 2600.Hz 
+an open line hanging up, This will acti
+company's foiler with a false alarm. |
+this, well you know the answer to this 
+Bell Telephone campaign and PR sheet
+of all coin phones, in New York, were 
+any given time. However, a recent YI 
+phones in the Manhattan area showed 8
+The name of 
+a Midtown restaurant, Mz
+to go in and try the specialty of the hou 
+Although there were many empty table:
+would have to wait because they were t
+got a seat but had to explain so many t 
+what we wanted that we blew another 1f
+the waitress camé back with the wrong 
+just one order of onion rings was unbel
+Said to hidden costs. (it was nice of the
+couldn't tell us what the hidden costs w
+got the onion rings we refused to pay. 
+bouncer stepped up next to us and told t
+that next time we came here
+and order
+credit, They couldn't understand that 1
+own onion rings.
+5%. Capacitors above or equal to 1 Mfd. are 
+ld be epoxy or mylar hi-quality capacitors. 
+2, and diodes are small signal, silicon, sim- 
+), or Hep 55. 
+NE ada%o 
+y two San Francisco 
+e caller with a re- 
+ed to call up to 
+med. Oh yes, if 
+back, A lot of 
+t Sleeping around 
+fone freak foiler foiler" 
+everywhere to 
+ong distance info 
+and after getting 
+vate the telephone 
+f enough people do 
+one,..A recent 
+claimed that 90% 
+in working order at 
+PL survey of coin 
+3% out of order... 
+Bells, We decided 
+Se, fried onion rings, 
+s they told us we 
+90 busy. We finally 
+mes to the waitress 
+} minutes. Finally 
+order, The bill for 
+leveably high, due they 
+m to let us know they 
+ere) Since we never 
+A big burly looking 
+is we'd have to pay, but 
+d onion rings we'd have 
+ext time we'd make our 
+To make certain no unauthorized 
+iv 
+is 
+usi 
+person is using your card, the tele- 
+bl ~ 
+2 
+phone operators who handle credit 
+They're the tye of question that 
+can be answered easily and quickly 
+by @ person having a credit card, but 
+Should discourage an unauthorized 
+user from trying to complete the call. 
+‘We hope you'll understand that our 
+operators will be doing this for your 
+Protection and ours. 
+As an added precaution we urge 
+you to treat this card as you do your 
+other credit cards; 
+© Notify your Bu: 
+represeniative at once 
+stolen. 
+© Do not give the card or number 
+to anyone else to use. 
+‘Thank you for your cooperation. 
+@ 
+new vork Tetephone 
+Since credit card owners are receiving 
+these notices with their new credit cards 
+we can expect to play some games with 
+the operators this year. Don't sweat, the 
+questions are only designed to scare you 
+and make you hang up, thus giving it away. 
+Though you might get a few questions like 
+the name of the company, city or area 
+code of the credit card number, you'll 
+have no problem if you keep cool. The 
+operator knows at most the name of the 
+city and area code , not the company's 
+name. So have your number memorized, 
+and if you need the code numbers for 
+certain cities, get YIPL #8, and be sure 
+to read our reprint on making credit card 
+calls. Also write in and tell us what kind 
+of questions operators are asking in your 
+part of the country. 
+‘Y, 
+card caits may ask you a question or 
+= 
+two whenever 
+you place such a call, 
+ess Office 
+is tost or 
+IMPORTANT NOTICE 
+--- about the enclosed 1973 
+telephone credit card. 
+* 
+Dear Friends, 
+yee 
+Just finished reading "Happiness is a Blue Box 
+in the Yipster Times and all I can say ishere 
+©. 
+; 
+is my 2 dollars for the YIPL, 
+on 
+Off the subject of phones, tape recorders 
+ot 
+can be a powerful tool in challenging your 
+construct of the world and to understand 
+“ft 
+how words manipulate (which can be used to your 
+advantage). Tape recorders can be used for 
+. 
+social change. For fairly extensive experiments . 
+with the tape recorder, read "THE JOB" by 
+William Burroughs (Naked Lunch) published by 
+Grove Press. Only in hardcover to the best of my 
+knowledge, but some libraries have it. Read 
+~- 
+"THE JOB" if at all possible-most exciting book 
+I have come across in many a year, 
+~-YOURS TRULY C. K, -MICHIGAN, 
+Dear YIPL 
+You might tell your readers that it's illegal .to: 
+cheat some of the old tray-type change machines 
+by slitting a doar bill 
+So the little lever 
+goes thru instead of pushing it into the hopper; 
+. 
+bend the tail off one type of Pop-top and use it for a 
+nickel in a parking meter; use any of the standard 
+size pennies turned out by the British mint for 
+Sometime colonies (New Zealand, Fiji, Bahamas, 
+West Indies, etc.) as dimes in one-slot Phones ant 
+other places. You might also stock some other good- 
+jes along with the reprints, such as an updated version 
+of E, Blotnick's expose of credit card fraud (the non- 
+telephone type) from Scanlan's, 
+Don Britton's newsletter says DB Ent. was the 
+outfit that offered bluebox plans in 
+. 
+ELECTRONIC's way back when, and that 
+MF Bell must have gotten addresses of people who 
+ordered them by intercepting first class mail. 
+Bell bas been after him ever since, maybe it's 
+why he moved to Hawaii. A local source, who 
+Should know, says that mail from overseas is 
+opened (and translated at need) on a regular 
+basis in Oakland. Foreign correspondents should 
+not go unwarned, -FUCK THE PHONE COMPANY 
+R.S.- BERKELEY, CA, 
+Sirs; 
+Cancel my sons subscription to your paper 
+immediately, please. He is 14 years of age and 
+has no interest in it. He only subscribed to your 
+Paper just to see if it actually existed. Anymore 
+Papers mailed to our address will be returned to 
+sender. Thank you. -KH, N, Y.- 
+Dear YIPL, 
+For practice dialing overseas: London 
+weather: KP 044 1 246 8091 ST, Australia 
+weather (Sidney): KP 061 3 6064 ST, Australia 
+time: KP 061 2 2074 ST, Free Telephone Co. News 
+Wire Service any where in the U.S, and Canada 
+(direct dialed): 212 394-1212, Listen to Helen Banks 
+(sounds Hke Shirley Booth) and Marian Warshaw give 
+top secret (ha) telephone company news twice a day. 
+-L, A, -BKLYN, N.Y.
+Many times people ask YIPL questions that we don't have 
+the answer to. Questions dealing with what operators know 
+and don't know, how phone traces are done, and general 
+policies of the Bell's crack security gang led by the fear- 
+1e®s Joe Doherty and his turtle Flash. We need people to 
+answer questions like whether ESS will allow Blue & 
+Black Boxes in the areas where they live, We need oper- 
+ators to tell us how they know when enough money is 
+put into the phone to fill it up and it has to be dumped. 
+Tell us anything and everything, don't sign your name, 
+and tell'us if you don't want us to print the letter, And 
+if you have friends who work for the kompany, have them 
+write us. 
+YIPL, it is said, has its better days. And although we're 
+doing better in mailing now, the Post Office isn't. YIPL 
+is mailed third class. Now first class goes slow, and even 
+second class doesn't go much faster than osmosis, but we 
+go at the very end of everything else, when we go at all. 
+And there's no sense trying to make it any better because 
+postmen steal your mail, our mail, and everyone else for 
+that matter. So be patient. Allow 2 months for delivery of 
+@ newsletter, 1 month for back issues. And do not send 
+cash or stamps through the mail, BECAUSE THE POST 
+OFFICE STEALS IT, OUR MAIL IS CENSORED, RIPPED 
+UP AND STOLEN, AND WE DO NOT RIP ANY OF YOU 
+PEOPLE OFF, But if you send your $2 and we don't get 
+it, we figure you might have forgotten to stick it in the 
+envelcpe or it might have been stolen. So we ask you to 
+send it in check, or to check if your previous check was 
+cashed. If you don't receive an issue, wait awhile and if 
+the following issue comes, let us know and we'll send you 
+what-you missed. 
+Dear YIPL, 
+Allende Accuses ITT in UN 
+‘By JERRY CLAPSO 
+wn UN Bare 
+Chile's President Allende addreuses UN General Assembly. 
+Jean-Luc Godard telis it like it is! 
+BACK ISSUES-50¢ 
+1- Extensions, conference switches 
+‘The ringback numbers for LA vary like mad; however 
+most of LA City uses 6105-6 (a few still use 115-6) 
+but Hollywood (46) has it's own: 810-6, 
+You can get a high frequency tone by dialing 666- 
+0002, What it's for I don't know. 
+‘My question is, how does one reach the verifying 
+operator in LA from 663 (step) or 666 (tone) prefixes? 
+Or better yet, how does one get into the special 
+ciroitry (without being detected by Central Control) 
+that Verifying uses? -M. P,- LA, CA, 
+2- Blue Eox Story and Abbie on ripoffs 
+3- Telecommand Story 
+4- Pay Phone Issue 
+5- Blue Box 1 Now obsolete 
+@- Blue Box 2 
+7- Tuning your organ 
+8- Credit card calls and 1972 code 
+9- Super duper project(See issue 11) 
+10- 
+11-Receive long distance calls Free 
+12-Blue Box Plans 
+13-International Calis 
+14-International Calls & AT&T Papers 
+15-1975 Credit Code, 
+T Network 
+FACT SHEETS-~25¢ 
+How not to get caught making credit calls 
+Receiving long distance calls Free(Issue 11) 
+ANTI-BELL BUTTON- 50¢ 10/$3.00 
+DESTRUCTORY ASSISTANCE- Free-Just 
+send as much info as you want back 
+in a 
+stamped, self-addressed envelope. 
+Renew if your address has a.7 
+or less on it. 
+YIPL, Room 504, 152 W. 42St., N.Y.,N,¥. 10036 
+Mailing address only, don't send cash, PLEASE! 
+16 
+fovernment 
+fred aevera) 
+Although he did not attack the 
+al 
+he charged that 
+v. 
+le for his country's 
+and backward economy. 
+He charged that 
+clear that the purpose 
+to drag us into 
+civil war, 
+the utmost degree of 
+disinterra: 
+tion for our country.” Allene 
+Er 
+1 
+Dorements 
+Last March, he said, docomente 
+had been unearthed in which ITT 
+ted 
+that the U.S. 
+eiallst government i 
++ 
+Allende said his 
+Salto “inyolved 
+in 8 struy 
+on” by Kenne- 
+; 
+|e Bare Eee ee cr 
+sults in several Western nations 
+Vio prevent delivery of Chitean 
+‘rawing power with fulerna 
+onal, Evrepenn sed US, banks 
+hee, been seriously 
+icafaired. 
+Land Kennecott, and told reporters 
+he took exception to Allende's 
+Snsiouation ef Indirect US. re. 
+sponsibility for alleged economic: 
+Mrangulation of Chile 
+TAP, 152 W. 42 ST, ROOM 418, NY 10036

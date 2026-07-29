@@ -1,32 +1,859 @@
-TELENET|BY Paul MontgomeryIn. TAP >ssue #61) A. Ben Dine set fortn theDagsics® of aCCeSEING timennarina com@ruterfacrisities. in tnis issue I want to GO IntoGPLALILS? @XPI@aLNING Mow to 10min to Variostyres Of SyYStems» ano exPlaining wnat you canoo one you ar@ inere. nis ano tne otnerComuter articles in tnis Series are writtenIN |@ BtYLEe SBSUMILNG YOU Nave rean issue Fi»)or mave 8 OaSic computer Kknuwiecce, af youoon’t nave issue #619 BUY IT}Tne vest commuter metwork to Pnreak around oiis GTE TeleMet. ihey nave local dial-ups' inover 2530 cities+ ano @ Mmi1110M Commutersonline. To obtain your iocai oraic-upr cailtelenet Crstomer Assistance on treir In-wWATSati (BOO) 336-0437) and asx then, They arenaPrPy tO tell you,When you cet on Telenet, a8 witrh any otnercomeurer network, YOu must GiVe it theacaress of tne computer you wW1EN tO AaCCeSS,Ths peauty of TeleNct 19 tre fact tnat theyavrande ail tne computers by Bell System AreaCode! A gamele addiess iocoks iike this (tne@ is tne [eleNet Prompt)i® C 212)64Tne C telis teienet tnat tne connection 18Collect (tne commuter company rays for yourcommection!?. Tne 212 18 tne New York CityArea Coager @na 164 18 the actus] loentifyinammper of tri® commuter Systom,lf you were two ao tnroucn ana attempt a C21701 tnroum CZ21Z2300 (they never GO apoveh)) you coulg map out ali of tre commutersOonNniine 1m tne New York City area, whenTeleNet cormmects you tO a SYS tem, ano YOU LetSick of Ats ard want to Gump jit ark) cet Darkto tne TeleNet prompt, tyme @ C/R tunere C/R16 Carriage return or Enter xey) ano you willpe back at tne familiar Teiehet @ Promet.Now type D C/K. Dis for Disconecr,1? «yott Get error messages while scanning:sucn a8 ILLEGHL ADDRESS: HOST NO] KESFONDING>REJECTING: etc, T1868 means tmat there 15 NOCOMmPUTEer aszoc lated witin that retworka(toress, or or some reason or anotner, tnesystem coes not want to ACCePL anycommections from TeleNet. Just 21Gn0re tresed0cregses, 2N0 KeeP SCANNING. if Telenretsnovlo nanar mit BREAK ano you snould be- arcPred Datk to tne @ prompt. If all elsefatis, nang uP anc call DacksSome of the Comeanies snicn nave comeuters onTejeNet are:Dun & Bradstreet,» Tw Credit» Wells FaraoBari» GC) taBanks Source jielecomputing:Diarcom irwe RkerpubLican National Farty?Democratic Farty Computers ano tnousanas ofolner Larce ano small ousiness and rnoustrialfires, coileces ano unsversitiesr commercialCOMPUT 1NG services, Gata Danke? andBOVeArNReENt aAGeNC 1e8,For you tecnno freaks, TeleNert accepts anyaymost any Parity/Dpit confiGcuation you careto send. TeleNet oraiums are for 140/800DAUG, GIE Teitenet Customer Service can €186Give you a 1200 pauo aialup 1f you neeaq one.because TelevNer. utes tne CCITT X.235 racketnetwork Protocol stan uara,r all users arreartre same to rH) Bt COMPUTES) 20 rrINC OMPALADLIIVIEBR xX SVS. Telenet orcratesas a multi-level nrerarcnial networkCONSISTING of a Nnian sPpeeo 36 Kbes pacKkbonenetworks ard 10cal arstrioution networks,Evcrytning 18 reoguncant: anc eacn intelliaentnooe 1S eM11PreG with standoy Processor.commonents reaay to take over immeciately ifactive comeonents faire @tC» evce @tCs I'mPaule your GTE representativeseis If younave ary srpecific suestions, write me c/oTAF!
-,aNTAPRoom 603147 W. 42 St.New York 10036
-5 wearsBe ipees copescontomers kesGens ber'e = ape 1982 No. 74CENTAPPCentral Texas Area Phone Phreaks* Post OfficeBox 755 + Austin, Texas 78767 -23 January 1982Tom Edigon, EditorTAPRoom 603, 147 West 42nd St.New York City, MY 10036Howdy TomsPlease announce to your group, and to whoever you can sendthe word to, that Centapp, the recently created associationof Texas [Phone Phreaks, is sponsoring a Spring conference.The name of the conference is TexComm 1982, with a theme todwell on our latest research into penetration of telco andother corporate communications and computer systems, The datcof the conference is Saturday March 20, and will be held herein Austin. If you aren't familiar with the Austin area, thenhang on; more information on this conference will be reaching,you shortly.Austin is quite enviable in mid-March. The weather is warn,the sun is bright, the city is green, and the chicks arehornier than a Texas longhorm. We have guite a few hot nightepots that will introduce you to the real Texas, It's goingto be an interesting day, but morcover, It will be a memorablenight!Admission is $3. Advance payment is encouraged. Addreasinquiries to Centapp, and info on hotcls, ete. will be sent.It would de great for the whole TAP crew to make it down toAustin for the best time they'll have this year.Austintaciously;“ME. Bey ANOTHER WAY TO “GET LOST”Mountain Bill -Director, Centapp Go to a post office, preferably one out of yourMA DELLOfvES BONBESTE regular habitat, and rent a box. WD, etc. willBLUES:Americon Telephone end =e required. Pay the box rent for a full year,thot hen developed « tocol or for the longest period they will let: you.ort conningna these otKe Mow, have all your bills and other undesirablenieuws electronic gadgets for de- mail addressed to you at this box number. Letthe mail stay in the box. (It might be wise toempty the box now and then for the first week
-|idbeen ormund for 16 yoor or 80 so the postmaster will have no cause toond coutthe Ball System se suspect your plan), Mail that accumulates innew of mer de the post office box will stay there until thebiasbox cots imemedictelyend OX Tent next becomes due and until the graceinvtesthe phenenumbers a beth period has ended; could be up to or more thansnot od atbohos” «8 year. The postmaster will then mark all thebeandecwvered end willbo see “box closed, unable to forward” andthem back to the senders. By now you canpePade atilintor era colter be long gone and almost forgotten sbout.wanton - (Except by those poor suckers with red facesSORTUTEE PRODUCED‘eur who just got all their bills back!)q@reo oe000 coe Because mail addressed to PO boxes is handled
-:in this sanner it ia wise to make officialinquiry about any firm using a box and to whomyou have agent money and heard nothing after a.reasonable length of time. Most firms sho usePO box addresses are lagit. More and sore firmsare using boxes because mail is delivered alittle quicker and it 1s more secure. However,
-HiHHHtHitiifsitrotornwhite noe eee i Gon't feel a bit bad about making inquiry ifAcctherwomen veld pf wey PO box users tend to ianore you. Postal ruleste laarn the barteraerry ae ons now permityou to get the and home addressof box holders upon verbal vest. Bo specialLorms or written request ia required any mre.
-:iiiti4rut~ Mickola Testicle
-
-aaqneemnge, noch os “| phnadthe Pte Amantunens.” pays Idspuameemn Larry Botdert. Most ergumants ate net agglteghia, bdIn error nots. The Fitth Amamdenent, fey inptnmes, ovysne ame chal beWASMENGTON cummpuiled te testily agquimet hinesetf — but antybs urtaninalcased.padi onitrametan retgen tp not 5 crémined sether whens yun ChOGE.
-!JAnotieet pepeiat Cinisa ip hat tho th Amandenenddyes tot
-ni3tijmumterpads devices Ro spec ically antherinean iecousste. Trus, bet ft doengiveCungretsmentahenty sold of serph =~thepewerte ley undcotiertlmseninsoum,.~The courtsb600about {4 mamutie repestedly held Int leagunys memes an noose tonjs Magel
-iiybathe,man, whe beeghtthe derwesler aicel (288 whem marele ona Ea waa The naked trutbeck onihe awry, PaRk. Coll. — PeleeThe mevy said 2 weald be they cought accused Daath robber Dessed Slane wh bbsven . é When \uum ailegedly rebbedtals whale ieyers Ser the aa bene Tunntay afnavy and Steven Seotengiam a. worse aya pactet weaibes ————ewe “nageneteg terme of “renee Seow pam out of tae Pecvicthe potareaf Denanps~ in. Beak, the rapinded nad bas pants were corwedévegians owta 2 parpim oma Ted éye, wrestagetersmudbounces mm Sun Yuiley Poteceseed Sms san mts 8 beerby seareCou. and. begen puleag otf he pants, commag 6wou 60 ras ent B04 wave Gown effararn.Accessing PRIME¥; PAUL MONICOMERYComeputerg manufacturego Oy PRIME Comeuter Corr,nave ratne ingsucure oreraling Systems, Butficets Ow GQ you KNOW when You Ma's2 Come across aPRIME on TeieNet? “1mmia, Lele tane an @xamPle,Connect to adoresas 21465, Tris 13 rone-BakerEnoineerk inf ‘texas. wees TeleNe. maken trecommection;n their comeuter resrunos (tne way ai)PRIME commuters ao) lire tris:PRIMENMET 18,1.009 HBAKERPRIMENEYT tella vou ine system if a PRIME cunningthe PRIMOS oPeratina system, revision 18,1.002.HBAXER 1.8 Wwe aysteq naa. in tris CaseHove-Barer Enaineers,OPCRALING SYSIFN; For those uno don't Know snatan oreratina tyetem (0/5) 18, let me olive you tneaefinitian: AN O/S 18 a coilection of computerPeoareee nat erovides for tine Preeration anderecution of the user's soo1 The O/S rung tieBrow: CMOING 10 vaFlOUs HID Frogr ams,c= 5; fo aet on the system ySu MUSTLOCIN. To oo tmhia you tyme LOGIN XXXXXX, wnereXXXXXX te a user name (caiiea a /'-D for User FilsDirectory on «@ PRIME) from i to & aiPna*nusericcharacters. Many UFD’s nave no Fassworos. ansthis 18 the @asor security evakmess af the PRIME.Tne ayitea acoministrator for a rparticuiar syiteeJust doesn’ ootner to aseian fassworcm to ali ofthe UFD's. %&[t is vour s0oD 38 @ (Crack +‘omeutercruncner to fiaure our a UFD with no Passuora. Toas4i8U vour Mere is 2 list of system “JD's wnichnave 80 De on al] PRIBES: SYSTEM, SYSTOM, SYSOUL,PRIRUN.» PRIME, CeOeCO, CMHDNC1,LOGIN; mt commect to tre system, and tyre LOCINS¥SCOM. A <C/R> or <ENTER> aust follow ai)ccCamance on ALL commuters, If SYSCOM is a2 valid\FD with & PagBeworo, the s'stem will regeonsc!INSUFFICENY ACCESS RIGHTS. (LOGIN), lf s¥SCOmCos not exist on the system, the computer willregpond: NOT FOUND, (LOGIN). If SYSCOM 18 valid:ano Nest no rasavora, you will be lotcea onto thesyatea! ! If tne Sytem Sits trere ana asks foraaditinel rassucras, or provect ID’a, the svateomNae acditionai security instalies oy the ouners:and you enoulad try nittina ‘BREAK? or <CONTROL-P>atl aFrroeriate moments 1f nowe Of encarina freethe security FrourameOther that attemering to logInto tine ayetem accounts, you snould try Names,@ucn an ORVE., DAVID, MARK, JOHN. JEFF) orsnitiais, CUR» JAN POM, RSS, FLY or wnatever., Ifyou Rit of @n enlisting @eccount: But 1t Ras aenaeucrd (eyitem reseonds: INSUFFICENT ACCESSRICHTS. {LOCIN)) try the name or intials a6 thePasuuerdc, rots of People use their Aamess OFagirifrieng’s nemee: or wnatever..For instance,UFD: JOHN paesuord: JOWN, Inere are some realiystureid rFecwlie# ot there. riere 16 Noe to leainwehen you think you know tne rPassuordi |LOGIN DAVE FARRAHwnere OWE if tre UFD, und FARRAL 18 thePeasuwetOe
-Blank IRS forms'submittedTheLatarnadRevususServiceexperts 206 tm 288 Amertemms a your teffl be Mealy ananes and pdGrews on inresesion: terete ated gue thtemmpatationiteue bimuk.lease pretectary willsandihe [RG 4Ali YHEPASSWORDS; The fiees thing vou want to aoOnce YOU MaNaGEG tO LOGIN 14 FIAt our a iat ofALL the UFD accounts ana rPattworas on the system.Trvge are stored in a UFO called mFD. MFD (‘MesterFile Directory) nas a stocx wassuora of XXXKKX.,Rarny 7e0Rr1@ never ovutner ta chance at. and trerQay Programmers are smaft' HA’ tiere isp wnat tatyre to o#t it to Print tre 118t;FUTILA MFD EXIT O (Inen ao MPD 1 and MPD 2 etc.)LTre Commuter wlli BErriLy Primt 1% ala out. If atkeers-sayine tnines like ACCESS VIOLATION - NORICHT ana net rrinting any pPrasseora, the MFDPaagaguorag i8 mot LXXUXX. If you can queas thecorrec. aner you're in business!COMMENDS: Some onic commance and tnreir usaceare@:LISTF - prints a2 list of all tre files om tratUFOSLIST FILE - Brints out tne contents af tnat fileRESUME FILE - if file 18 @ Prooram, tis ‘runs it&@ CMDONCOLISTF =~ these two commanog will cause the systemTO FTINt out meny of the avel:2018 Commands,& UFD - emere UFD 1s anv VED on svatem, attacnonyou treres and if vou tyes LISTE you can find 1a0Kat all the eroarams aon Wat UFD.Untill mext ¢ieesr cocoa lucx, and take Care, Ifyou have any furtner Westlons acout Commands:etc. for the PRIME, please oroe me a line C/dTARP!QRECURGOR PRECAUTIVNS= by «Dr. Atomic: <A newORA ploy worth mentioning isGlow powder” trick. The DEA will coat theprecursor Containers with a substance that ia notvieible until sxposed to ultra-violet light. Evenif ome isn’t caught with the precursors or other“contraband”, glowing hands can result in convic-tions for po@session end conspiracy.MATCHED FRECVESORLI9T! All precursors are watched.Anvry order t at all suspicious to a chemicalcompany "Customer Service Manager" or other salesetaleeseiimn.eebaie ser piinteinal ? pun.eaenindn uieir te inomthe report (and your licensee plate number) tothe DORA. Rumor has it that the DEA pays them upto $2,000 per lab busted, Some things which arousesuspicion sre new accounts, over-the-counter cashpurchases, out of town customers, and large pur-ghases, even large purchases of solvents suchasether, acetone, of alcohol.t Buckeye Scientific Company, a well knowDEA ating oOpexcation that sella "watched precur-eaors*, was atvertising in Mother Karth News Clas-sified recently-~setill stinging the unwary, I pre-mme. The former omer of Buckeye, the late DickHall, wesalso, in my opinion, a knowing memberof the DEA sting team: Hall was furnishing chemists, who were really undercover DRA agents, tounsuspecting technologists who needed technicalhelp: one would not have to ask for the assistancebecauseHall was only too glad to provids « OBAagent: he'd make the offer. For more datrails seeVv « wol 509 Federal Supplement at page3 * : Thia ia a situation where annfiormant is sent by the police to make aof precurrpors, droga, or other contraband, The in-formant is searched by the police before he goes tomake the purchase: he goes and turns over theevidence upon his return. believe-it-or-not, theuncorroborated testimony of the informant isfor conviction (Dah,VsHODAADS. 354 FP. Supp 634).The case cited isn’t recent, t the practice ofinformer purchas is continuing, This is a situ-ation anyone can find himself in because informantahard pressed to provide ah arrest for police mayresort to providing the contraband themeelves: theywill leavea "package" with you only to coms backlater for it (with a cop outside).And take it as gospel from Oc. Atomicthat the gov-ernment is selling piperidine, p-2-p, and other pre-cursors on the Black (free) Market to uncover clan~-desting labs. ‘Take care, and watch out for “rediohbeepere* hidden in your precuracor purchases.
-
--_——J - -Th. oe oe
-Le oe ee i ad
-/ Sethe wi rTTY LIAR We
-Dean TAY the picture of Vienhingten, pettcetaid.dere'n a feu tips from a fellow reeder and sstiviat: sS$MOKs BULBS: 4 porta of augar te 6 parte potassius nitrate Bogus $20 bills(ealtpater). Meat over low flame until it melta,eatir well. Four into ite future eontainer (empty .milk aartons do very well). Betore it solidifies,sane een sean Larenay an forte tate tas passed at tavernmixture. Ome peund fills a bleak siewiy withSOUTH PLAINVELLD - Ber- défihovebem taped be ihe andsthick white smoke.CiamICALS: A garanteed coool scurce to order any chesicale is oO rtacuns wi’cuameeinChek?sk, Hox $7}, Haskeabury, vmtario, Canada, Kéa-1 2 pass the take baitby evvuring theThey will fish around for emytting and gurastes of Washiagies os beenonysous replies to any Order. overthebill.esPLOS[Y¥<23. Fatroleum jelly and potassium ahlerate ' te 1 by ersare munaiby dmbyYa we idweight, 10 tetally safe whem wet but 18 highlyexplosive and shook sensitive when dry.atir } gm potassium iodides and 5 gm iodine im bpeaxer with §0 mi water. afd 20 ml aamoaiveahydroxide (ammonia water 10m). Filter and thereaulting Piltered solid ia called Aitrogestriijodids.-dhen wet ia very safe but upon dryingbecomes vary explosive and shack sensitive, te thepeiat of « feather sevting it off.COONTERITING:s Meaxamethylensdiamine camplately tJNlesaches any phagwhetbe 00d weabd be “Yhe betinstpartyis were” — any leetwould base-imxk to a perfeet white without harming the paper i youngpeople trying to tick Gumim amy way.- The tesh wellba boldMenesy wahtVANDALISM: kthyl mercaptan and Watyleelene sercaptan are the ene eaaciedaruy arvews andmost evil seulling substasces om sarth,. Mixed with vestignitcus— irem §p.m.to ute. farthe bua of Voriées, 5 Commentkarcaese for long-lssting uffeaet they cam be seannoying us to render a building imbabitabile.ALARM3, The alarm compasieat use the phone lines te link thepremiaes under protastion with its proteetar, tetherit be the police station or im bigger tewnes o securityoffice. Sometimes the owner in imaluded im the warninglist. The machine worka like this: when the slars istripped, a dialing, cirauit dials the police, a securityoffice and the oumer im most cases. Ome can cut theoutgoing phens lines from the building, and incapesitatethe outside pelle and horns, and upon emtry the bellaand borne will sound the alara silently while theeleoctronisa dialer will try masuccesfully to disl thepeliae, oemer and security office te warm them of theillegal aniry.CUM: Canadiana Tire selle o handy atarting pistol], revalvar type,the barrel ana revolving magasine of which can be easily
-the bop ints Grtve te ramsbeef 2 oobembuchs be meve aresentarbestity aptewsnan 106mh BrestMaey of tha Veritas residsats waco 00hGarebythe courts be be rebetiiatet,ned Reding,¢ queer ot th foal7wee ts we 8wortreteenewageshbhmoedlfer eunapérery te eveainenénsyoossage. Trestmestot Vout
-Siadieg edging ths cumsway. mare Ove yaaes 5b age Yee eeAlnt;Refine wet Gown eb pewety 20 Gags weep — beg coal. Fou put Gemdrilled to 22 amliber pise using @ simple drill, bit andm table vise to hold the piece. Thie asakes a cheap sad ae eeieaaadphahaon becueeanad we Quveataug im” soa@asy to gat saturday might epecial,Back Ia are $.75 each. Issue 650 is $1.59.Zubscript{ons - 10 issues - US Bulk Rate $7.TAP TMs MAD SCIGNTIST ulk Envelope Rate $6.Thous little “weather” radios offered at 99.95 to about $19.95 Ceede Clase in Plata sealed envelope $10.ver eee alle to cover ioe DEA and FBI radio channels Foreign Surface $8. - Foreign Airc Mail $12.Onl, weoblea t cover these frequencies without ad justaent. jaronrant! Please include your mailing label of ~ly problea is they nave no squelch control aad the hiss could @rox copy whenever you write to TAP about yourdrive you bananas. If you are in a fringe srea you might have subdecr iption.to improvise an outside or attio antenaa to pull in the aobiles peectronig Coursem - $.75 each. A - DC Basics,when they are not workiag througha repeater. - sics, ¢ - Phone Basics, D - Amplifiers.DEA is into CB pretty hamvily along the coast. They sonitor this TAP “Mp Bell® Patch - $1.50.@ervice continually and on ccoaaion awitdh to CB for 2-way work, TAP thAaniversary” Pen - $.50.A Little listening on YHP (on your weather radio!) will teach TRY Cassgtte Tape —- $4. Hear Capt Crunch, ¥1 Bell,you their linge and pretty soon you'll be amurter than they are Joe Engresale = Beit Security Chief Joana Dokerty,.Sand CAg@, check, of money order tolvous et Textlele Par,Boos 603,147 went And street, Bey Fork,
-
-ClassifiedThe TAP Classified Ad Sheet is published as aservice to our readers. All ads MUST be typed andcamera ready. Ads will appear in the next ad sheetuniess they arrive afterprinting deadline inwhich case they will appear in the following adwish to preserve your anonymity, TAP Box numbersare available at the cost of $5 per ad per issue.This extra cost is for the postage to mail you thereplies to your ad. Fullpage ads cost §12 and
-%sheet. The cost per ad per issue is $4, If you 2
-t GAS FO’ ALLFED-UP WITM THE HIGH COST OF GASOLINE AND De€ SEL FUEL)?SICK AND TMED OF DEM ROSBED ATTHE PUMP!THE LA TIMATE ENERGY SUAVIVAL PUBLICATION I§ FINALLYMEARE! WE HAVE PENETRATED YORE TOP BECREY FILES OFAS BALION O41 COMPANY TO PRY LOOSE TS EFFECTIVE, EASY.SOM PLE. QUIET AND OLACK METHODE OF RipPIeg OFF GASO- .-Le AO OOESEL FUEL AT THE PUtAPlt BO BPECIAL SKELE -STREMOTH, APTITUDEE LUCK. OTELLIGENCE OF PRIORTRAEG 1% REQUIREDGAS FO ALL’! COMPLETELY OCSCRIDES AND HLUGTRATES(INCLUDING MANY PHOTOS) THESE WEYE-POPANG METHODS.APPLICABLE TO aut MECHAICAL a ome One ANDCIESZL PUMPER AND DIPERSERD ETHOD aeREGISTRATION (BUT mo putt FLOWN simply oy CNOABTRONG MAGNET On Y OUTS OF THE PUMPII MOSTMETHODS REQUIREONLY A FEWERLE HANDTOOLS ONLY Ste.AUTOMATIC TELLER MACHINES
-onene coodition:“Theyhave promised get te use theus to exxcapa,”
-half-page ads cost $6. Payment must accompany all 2 j Tree BIZZLE PUBLICATION THAT COsGUMENTROINTEOF)theade. Send cash and get a 10 @ discount on all ads. yt Mery ORRMAGNONS TeCL rr cere nam one Boren mem aeAddress all ad requests to + TAP, Room 603, 147 i Sree Se ee re pamcamon Onicnban RewATAWork BCWest 42nd Street, New York, W.F.- 16038. Nene oF tian Domain and very hic’sieve ced op offe The metnods .— ee very ete.beeOnecomenent “Alitaare Ihe momaheMadebyihe. ATi mse Gon! temeeeToone os OF NestbenePoy meth by an———_ L iS ’ ABUSTIED ARGMOT MUARANTEEONONLY S13 oo wenpon SATER ASCIENCE FOR THE PEOPLE (een THE YOKE DISGUESERswe bimonthly and 2 %, Tr toro te ahded we Voice BesseProgres viewson science technology ‘ampletoby deverannd whe demand ,addressing elt m,texigmn, tackhm— = > nae tha wre deol 1 Jo ee, ee eedefining a people’s science a Far eetcred Sar 3) be vapors Tertote cee dele,Coyfa$W0/year from Scienceforthe Peopic ee MENTAL EQUIPMENT!perngte! towweisheel, visto ondmovi eftuc va mathess— eee Bee Gat ATG hes Ber aetans baoBEAY THE GAS PUMP im GonPostal mortem OW GONADSend verthe back o BIG OiL!18 weys of getting fuelFREE ov etgreettyreducedcast.23 phetes,6 Hne drawings.Be. 0A 2 11 pages.Writtenbyfarmer ig Ovormpleyee$23.08 eachDEALERS WANTED!List $1.00 (refundable)TECH-GROUPBex 3125Pasedene. CA 91183
-PICK LOCKSTHE SCIENTWICWRY WITH COMPUTERDEROQNED TOOLSOMGQINALLYDEVELOPEDFORIRAEL | TEL L IQENCESeredaas
-TO tat Do bchELECTROMIC SURVEILLANCEFreassembled/Project hits compictewith all ageded compgonen! ecces-sorles.dutostarts, VOE, Ultra-sed-wlni-tramemliters, ilnemens Mondsets,TPG Systeme - MUCH MORE:Send $1.00 (refundable) for themost fascinating catalog of ''Con-fidenttat Electronic devices evel l-able anyohere.*Alse@ mew atocking a complete lireof MPC prefessional laochemith pirk-sets and other trade tools and berks.Please indicate if interested.TOMT) SYSTEMS 537 Jones St., HOBI6fan Franciace CA 94102.
-— Ever wenderhewmerchWikistonmode & sew year'sresolwtionlast Jarwary tofind out,andimstrectedher“T've beenwanting to dethis foryears andyeartbeisomeone would get te themail before me and throw8out,”shesaid. * figured Jwas a betlehooky bettheyletmego ahaad.TMAfter themail arrivedeach dayJ WetheewteHenkmai! beto sacksonherback pore. Bythe endof 198 shehedcollected 26¢pounds enoughte [il]four 34guiton. eavy-dutyplasticbogsYou CANSURVIVE?WITH BOOKS FROM.TECHNOLOGY GROUP!COVERING URBAN, RURAL& RETREAT SURVIVAL, ANDMANY OTHER SUBJECTS ASWELLI1 Discounts to 60% onsorne titles.DEALERS WANTED !TECH-GROUP, Box 3125,Pasadena, Calif. 91103 USAList $2 (refundable with order).!
-74
-COMPLETELY DESCRIBES & MLUSTRAYES SIMPLE MAGNETICDOW’ - EVEN WRECKING - WATTHOURWITHOUT OA BREAKDOG GLASE COVER .wet relent eee one y MIE TERS Methods.De MetUse aaSURVIVAL ouNs « AMROEveryrning YOU sual knew | MecNine Guns, Assauttne, merevivedGens, Hendeune.SHencer: and Survive!Caliberswe the LitetyUscemongTotal Catagpee VeryCamereroneveincludes Owtsiled Canvermeng Selecttre Fire of AR-18, Mimet. 14.nat, Ex | bactvdwe C omnietw at whe MemmemedeC80 of theAsmerieen Underground ONLY .BHOPLIFTI! 1 bratty Pere The wnapeskahte sybertt rs addesied 7 hot ManyPEMOSS BO Cee VEEP Metad nc luchag Ihe Modder abhor of Cet ela ProguctCodes Laan re hyth attoyt hoping Row 43 ONE and Ihe Deterrent (Om nntyhes and Coreum (PE arrg SoOge tad ONLY 86THE TOILET TRAINERTHE ULTIMATE WEAPON USEO AGAINST BIG-SHOT OPPRESSORS 15 FINALLY REVEALED IN THIS SMALL BUTCOMPREHENSIVE PUBLICATION. THE TOILET TRAINERIS A DEVICE THAT IS INSERTED INTO THE TOILET,THE TOILET 18 FLUSHED AND THE DEVICE EXPLODESWITHIN THE PLUMBING. WE ARE THE FIRST TO HAVETHE NERVE TO DESCRIBE HOW TERRORISTS ANDPISSED OFF CONSUMERS SEEK AND OBTAIN A DEGREEOF REVENGE MOST OF US ONLY DREAM ABOUTI ONLYSOLD FOR EDUCATIONAL PURPOSES ONLY **:WE PAY ALL POSTAGE/HANOLING.Consumertronics Co.P.O. Drawer 537, ALAMOGORDO, NM 88310OUR MARLING LISTS ARE ABSOLUTELY COMFIBENTIAL.BY JON 1 WHUAMS AS SEEN ON CBS “60 MBRUTES”.WE ARE IN BUSINESS FOR OVER 18 YEARSCatalog Free With Perchase. Otherwise $f.DEALERS WANTEDIIGntinental ZpectatorIN OUR 17th SWINGINGYEAR
-EVERYBODY SWINGS WITH "CONTINENTAL SPECTATOR"ese 132 full-size pages blooded with persono! odsand wild nude photoseeoe Natlonwide listings - many with addresses &phone numberseeve S@Xy couples, pretty girls, gay & bi moles- who want to meet YOUoeee PLUS swinging articles, stories, readers com-ments, ploces tomeet swingersand MOREFor o copyof the lotest Issue mailed Ist clos, send$4.00 to: CONTINENTAL SPECTATOR, Room 603,Dept. T, 147 West 42nd Street, Mew York,NY 10036. Please state your age.
+TELENET 
+BY Paul Montgomery 
+' 
+issue "61, A. Ben Dump set fortn the 
+@CCeSSING timesnaring 
+computer 
+fav iiities. 
+in tnis issue I want to Go into 
+gevaiiss exeiaining now to iocin vo various 
+tyres of systems: ana explaininG wnat you can 
+@o one you arg tnere. 
+Tris ana tne otner 
+computer articles in tnis series are written 
+an @ Style 
+assuminc you mave rea issue 1+ 
+or nave a oasic computer knowieace. 
+if you 
+gon’t nave issue #61» BUY IT! 
+In. TAP 
+Dasics of 
+The vest computer network to pnreak arouna on 
+1s GTE TeleNet. They nave locai diai-urs* in 
+over 250 cities» ano a miiiion computers 
+oniine. 
+To optain your iocai o1ai-ury caii 
+feleNet Customer Assistance on tneir in-WATS 
+ati (B00) 336-0437, ang ask tnem. 
+They are 
+nappy to teli you. 
+linen you cet on TeleNet, as witn any otner 
+computer 
+networks you must Give 1% tne 
+agcress of tne computer you wisn to atcess. 
+Tre peauty of TeleNet is tne fact that they 
+arrange ali tne computers oy Beli System Area 
+Coue! 
+A sampie aadress iooks iike tnis (tne 
+@ 15 tne Ielenet prompt): 
+@ ¢ 212164 
+Tne C tells teienet tnat tne connection 15 
+Cohlect (tne computer company pays for your 
+connection). Tne 212 1s tne New York City 
+Area 
+Coder ana 164 16 tne actual iaentafying 
+numper 
+of the computer system, 
+{f 
+you were to Go tnroucn ana attempt a C 
+21201 throusn €212300 (they never co apove 
+300) you coula map out ail of tre computers 
+oniine in tne New York City area, 
+When 
+TeleNet connects you to 4 System: ana you Get 
+Sick Of ity anc 
+want to Gump 1% ana Get oack 
+to sne TeleNet Prompt, type @ C/R tunere C/K 
+1s Carrice Return or Enter key) ano you «111 
+be back at tne famiisar Telenet ¢ Prompt. 
+Now type DC/R. Dis for Disconect, 
+It, 
+you Get error messaces wniie scanning: 
+such as ILLEGAL ADDRESS: HOST NOI RESPONDING, 
+REJECTING: etc, 
+Tras means tnat tere 16 mo 
+computer 
+associated 
+with 
+that 
+network 
+avaress; or for some reason or anotnery the 
+system goes 
+not 
+want 
+to 
+accept 
+any 
+connections from Te1eNet. ust, iGnore tnese 
+acdresses ano keep scannina. 
+if Teienet 
+shoula nana,» nit BREAK ana you snould oe 
+droprea pack to tne @ prompt. 
+If all else 
+fails: mans up ana call pack. 
+ome of the Companies wnicn nave computers on 
+Tejenet aret 
+Dun & Braostreet: TRW Creaits 
+Barsky * 
+Cy taBank 
+Source 
+ecomputings 
+Diaicom ance 
+Republican Natsonal Farvyr 
+Democratic Party Computers ano thousanos of 
+other Larce ana small ousiness ana inoustrial 
+wWelis Farco 
+firms, coileses ano universities» commercial 
+ComputinG 
+services, 
+data 
+oanks, 
+ang 
+Government acencies. 
+For you tecnno freaks» 
+TeieNe. accepts any 
+any parity/oit configuation you care 
+to seno. 
+TeleNet o1aiurs are for 120/300 
+oaud. 
+GTE Te:enet Customer Service can aiso 
+Give you a 1200 baua diaiur 1f you neea one. 
+Because TeieNer uses tne CCITS X 
+Packet 
+almost 
+network protocoi stariaray 
+ail 
+users aprear 
+tne 
+same 
+to 
+nust 
+computers, 
+s0 
+no 
+incompataniiities exssts. 
+TeleNet operates 
+as 
+a 
+multi-ievel 
+nmrerarcmai 
+network 
+consisting of a nian speea Sé Kbps packbone 
+networks ang i10cal aiStrioution netuorks. 
+Everything 1s reauncant, ano eacn intellicent 
+noge 
+15 eauiPPea witn standoy processor 
+components rea@oy to take over immeciateiy if 
+active components fai» evcr 
+evcs etc. 
+I'm 
+“Pauls your GTE representative. 
+«++ 
+If you 
+age any specific questions» urite me c/o 
+1 
+TAP 
+Room 603 
+147 W. 42 St. 
+New York 10036 TAP 
+wT” 
+apni 1982 No. 74 
+CENTAPP 
+Central Texas Area Phone Phreaks 
++ Post Office 
+Box 755 + Austin. Texas 78767 + 
+23 January 1982 
+ihe, 
+¥ 
+22002 
+Yom Edison, Editor 
+PY 
+‘4 
+The 
+ze 
+TLY)E Denes 
+Room 603, 147 West 42nd St. 
+eu 
+juste moetime 
+New York City, NY 10036 
+Orne 
+= Thee Fates 
+Howdy Tom: 
+Please announce to your group, and to whoever you can send 
+.the word to, that Centapp, the recently created association 
+‘of Texas Phone Phreaks, is sponsoring a Spring conference. 
+The name of the conference is TexComm 1982, with a theme to 
+dwell on our latest research into penetration of telco and 
+other corporate communications and computer systems. The date 
+of the conference is Saturday March 20, and will be held here 
+in Austin. If you aren't familiar with the Austin area, then 
+hang on; more information on this conference will be reaching. 
+you shortly. 
+Austin is quite enviable in mid-March. The weather is warm, 
+the sun is bright, the city is green, and the chicks are 
+hornier than a Texas longhorn. We have quite a few hot night 
+spots that will introduce you to the real Texas. It's going 
+to be an intoresting day, but moreover, 
+it will be a memorable 
+night! 
+Admission is $3. Advance payment is encouraged. Address 
+inquiries to Centapp, and info on hotels, etc. will be sent. 
+It would be great for the whole TAP crew to make it down to 
+Austin for the best time they'll have this year. 
+Austintaciously; 
+Mountain Bill 
+Director, Centapp 
+ANOTHER WAY 70 "CET LOST" 
+Go to a post office, preferably one out of your 
+ma ort OfVES BOXIES 
+TH regular habitat, and rent a box. ID, etc. will 
+(URE american Telephone ond be required. Fay the box rent for a full year, 
+tart 
+ies Gecslosad ntocereot OF for the longest period they will let. you. 
+Sri 
+tics nen eile” Now, have all your bills and other undesirable 
+frou electronic 
+gadgets forde- mail addressed to you at this box nusber. Let 
+tho mail stay in the box. (It might be wise to 
+empty the box now and then for the first week 
+Hy 
+Et 
+fave ten onsuriitorioscon 
+OF 80 80 the postaaster will have no cause to 
+Seal cea the Bel System Saul 
+suspect your plan). Mail that accumulates in 
+pew slecvonle 
+ovdiaanen 
+* the post office box will stay there until the 
+tive box calls tmmadiataly 
+end BOX Tent next becomes due and until the grace 
+sfotee the phone number Gtbeth period has ended: 
+could be up to or nore than 
+necolley 
+wim a year. The postmaster will then mark all the 
+letters “box closed, unable to forward" and 
+send them back to the senders. By now you can 
+‘vice will work when bath caller be Jo; 
+‘and alnos 
+ond receiver 
+phones- 
+ing gone 
+it forgotten about. 
+us nor exploines, 
+(Except by those poor suckers with red faces 
+eDATERPROOUGID Ut. who just got all their bills back!) 
+Zesteident 
+te oyinettke Bocause mail addressed to PO boxes 1s haudled 
+Steed howe ovroged Pune in this manner it is wise to make official 
+Si recipients. 
+They never toyed inquiry ebout any fira using a box and to whom 
+manded that ele 
+spouses 
+be 
+—-YOU 
+have sent money and heard nothing after 
+a . 
+Por ionePea nae. 
+reasonable length of tine, Host fires who use 
+Toe Jamar resulted from g entzup PO box addresses are legit. More and more firas 
+oer sary Belonper 
+sald Soma 8 E using boxes because mail is delivered a 
+tren coled ond demersled.ore: 
+Little quicker and it is more secure. However, 
+wept 
+ae eneimetess don't feel a bit bad about making inquiry if 
+rather woeran sat ve aan. 
+PO box users tend to ignore you. Postal rules 
+sao oan te are 
+now permit you to get the nage and home address 
+eo, 
+a apes of box holders upon verbal request. Wo special 
+forms or written request is required any more. 
+- Nickola Testicle
+‘computation lines blank. Gorne protesters will ound the IFS @ 
+‘message, such as “I plead the Fifth Amendment,” says IRS 
+adds. 
+The Fifth Amendment, 
+for instance, says no one shall be 
+compelled 
+to tetity 
+to get back three ctaesi- Another popular claims that the t6th Amendment doss not 
+ing 
+Ged antitorpedo devices it 
+specitically authorize an income tax. Troe, bat it does give Congress 
+mistakenly sold es surplus Ria pore to lay and cnc ines gatas" Foe erate 
+boat onthe Oe te ‘Tepeatedly beld the language meazs an tocome tax is legal 
+ae 
+A 
+The naked truth 
+‘back to the navy. 
+HUNTINGTON PARK, Calit, 
+Potice 
+aed tal would bo 
+they caught accused bank robber Daniel Sima with Bs 
+nay 
+discuss 
+dom 
+ae will Inwyers forte 
+When Sims allegedly robbed a bank Tuestay 
+of 
+‘avy and Steven Seidenglanz 
+$1400 
+a tele inetd parket of i that contaoed 
+are * 
+ting 
+ot 
+Rd 
+er Sn ran on ot 
+jlanz owns a 
+surplus 
+Pacific 
+‘Bank, the 
+exploded and his pants were covered 
+with: 
+red dye, ins 
+3 
+business in Sun Valley 
+iar vote seat 
+store 
+by, 
+wt. eran poling off his pans, eating & started 
+Accessing PRIME 
+BY: 
+PAUL MONTGOMERY 
+. 
+Computers manufacturea by PRIME Computer Core. 
+nave ratner insucure operating systems, 
+But 
+first» how ao you Know unen you nave come across a 
+PRIME on TeleNet? Simpie, Lets taxe an example. 
+Connect to acdress 21445. 
+This 18 Howe~Baker 
+Engineers in Texas. 
+Wnen TeleNet makes tne 
+connections their computer responas (tne way ail 
+PRIME computers do) like this! 
+PRIMENET 18. 1.003 HBAIER 
+. 
+PRIMENET tells you tne system 1s a PRIME runnins 
+the PRIMOS operatina system» revision 181.003, 
+HBAKER 16 ‘ne system namc, 
+in 
+this 
+cases 
+Howe-Baker Encineers. 
+QPERATING SYSTEM; For those wno don’t know wnat 
+an operating system .(0/S) 15+ 
+lev me Give you the 
+Gefinition: An 0/S is a coilection of computer 
+Procrams that provides for tne Preveration ana 
+execution of the user’s sons. ‘The O/S runs the 
+Snow» chaine to various suo -Frocrams. 
+To Get on tne system you must 
+LOGIN. 
+To do this you tyre 
+LOGIN XXXXXX» unere 
+XXXXXX 18 a user name (called a 
+UFD for User File 
+Directory on a PRIME) from 1 to 6 aipna-numeric 
+characters. Many UFD's nave no passworas, ana 
+this 1s the masor security weakness of the. PRIME. 
+The system aoministrator for a particular system 
+Just doesn't bother to asticn passworas to all of 
+the UFD's, ‘It 1s your yoo as a crack computer 
+cruncner to ficure out a UFD with no passwora. To 
+86515t you, nere 1s a list of system UFD's wnich 
+Mave .to be on all PRIMES! SYSTEM, SYSCOM, SYSOUL, 
+PRIRUN, PRIME, CMDNCO, CMDNC.. 
+LOGIN; 
+Just connect to tne system 
+Wd type LOGIN 
+SYSCOM. 
+A <C/R> or <ENTER> mu! 
+follow all 
+commands on Alt computers. 
+If SYSCOM 1s a valid 
+UFD with a passswora, the system will respona? 
+INSUFFICENT ACCESS RIGHTS. 
+(LOGIN). 
+If SYSCON 
+does not exist on the system, 
+the computer will 
+NOT FOUND. (LOGIN). If SYSCOM 1s valiar 
+issuorar you will be loncea onto the 
+If 
+tne system sits tnere and asks for 
+iditinal passwords, or project ID's» the system 
+S additional security instalied by the owners: 
+id you Snould try nittina <BREAK> or <CONTROL-P> 
+at aprrorpriate moments in nore of escaping from 
+the security procram. 
+AMES 
+2 INITIALS: 
+Other that attempting to los 
+.Into the system accounts: you snould try nemesy 
+such 
+aS 
+DAVE» 
+DAVID, MARK, 
+JOHN» 
+JEFF» or 
+initiais, CUR+ JHN, PGM, RSS» FLT or wnatever. 
+If 
+you nit on an existing account, but it has a 
+Password (system responds: 
+INSUFFICENT 
+ACCESS 
+RIGHTS. 
+(LOGIN)? try the mame or intials as the 
+Password, Lots of pPeopie use tneir names) 
+or 
+or wnatever,,.For instance, 
+UFD! JOHN password! JOHN. 
+some really 
+stupid People out there. 
+s how to loain 
+wnen you think you know.tne password! 
+LOGIN DAVE FARRAH 
+finere DAVE is tne UFD) 
+riena’'s names» 
+and FARRAH 
+is 
+the 
+Blank IRS forms’submitted 
+‘The Internal Revenoe Service expects 200 to 300 Amaricans a year to 
+‘(0 fe thelr names and addresses on income tax forms and lave the 
+‘spckeamsn Larry Batdor!. Most arguments are aot applicable, be 
+against bimsel! — but only in criminal cases. 
+‘The U.S. Navy said 
+it Is try. Andan income tax return is oct a criminal matter unless you cheat. 
+ALL_IHE PASSWORDS; The firey thina you want to’ oo 
+once you manaced to 10Gin 18 Print out a list of 
+ALL the UFD accounts ano.passworas on the system. 
+Trese are stores in a UFD called MFD. 
+MFD (master 
+File Directory) nas a stock Passwora of XXXXXK. 
+Many peopie never ootner to cnance it. 
+And tney 
+Sav Procrammers are smart! HA! 
+Here 1s wnat to 
+type to Get it to print tne fist: 
+FUTIL 
+A MFD XXXXXX 9 
+(Then go MFD 1 and MFD 2 etc.) 
+\ PASSWD 
+Tne computer wili merriiy print it ali out. 
+If it 
+keeps-sayina tninas like ACCESS VIOLATION - NO 
+RICHT ana not Printins any password, 
+the MFD 
+Passwora 15 mot XXXXXX. 
+If 
+you can Guess tne 
+correct ones you're in pusiness! 
+COMMANDS; Some oasic commanas and tneir usace 
+aret 
+LISTF - prints a list of ali tne 
+UFD 
+SLIST FILE - prints out tne contents of that file 
+RESUME FILE - if file is a procram, this runs it 
+A CnDNCO 
+LISTF - these two commanos wiil cause 
+the system 
+to Print out many of tne avaiiaoie commanas. 
+A UFD - where UFD is any UFD on system, attacnes 
+you there and if vou type LISTF vou can find look 
+at all the prosrams on that UFD. 
+files on that 
+Untill next timer coog luck, and take care. 
+if 
+you have any furtner suestions apout commands, 
+etc. for the PRIME, Please drop me a line C/O 
+TAP! 
+PRECURSOR PRECAUTIONS 
+by Dr. Atomic 
+FLUORESCENT: A new DEA ploy worth mentioning is 
+the “glow powder" trick. The DEA will coat the 
+Precursor containers with a substance that is not 
+visible until exposed to ultra-violet light. Even 
+if one isn't caught with the precursors or other 
+"contraband", glowing hands can result in convic~ 
+tions for possession and conspiracy. 
+MATCHED PRECURSOR LIST: All precursors are watched. 
+Any order that ia at all suspicious to a chemical 
+company “Customer Service Manager" or other sales 
+person may send him scurrying to the phone to call 
+in the report (and your license plate number) to 
+the DEA. Rumor has it that the DEA pays them up 
+te $2,000 per lab busted. Some things which arouse 
+suspicion are new accounts, over-the-counter cash 
+purchases, out of town customers, and large pur- 
+chases, even large purchases of solvents such as 
+ether, acetone, or alcohol, 
+STING: Buckeye Scientific Company, a well know 
+DEA sting operation that sells “watched precur- 
+sore", wae advertising in Mother Barth News Clas- 
+sified recently--still stinging the unwary, I pre- 
+sume, ‘The former owner of Buckeye, the late Dick 
+Hall, was also, in my opinion, a knowing menber 
+of the DEA sting team: Hall was furnishing chem- 
+ists, who were really undercover DEA agents, to 
+unsuspecting technologists who needed 
+technical 
+7 One would not have to ask for the 
+assistance 
+because Hall was only too glad to provide a DEA 
+Agent; he'd make the offer. Por more details see 
+U.5.v, Katz, vol 509 Federal Supplement 
+at page 
+398 TiS81}- 
+THE CONTROLLED BUY: This is a situation where an 
+informant 
+is sent by the police to make a purchase 
+of precursors, drugs, or other contraband. ‘The in- 
+formant is searched by the police before he goes to 
+make the purchase; he goes aloge and turns aver the 
+evidence upon his return. Believe-it-or-not, the 
+uncorroborated testimony of the informant is enough 
+for conviction (U.S. v. 
+ns, 354 FP. Supp 634). 
+The case cited isn't recent, but the practice of 
+informer purchasing 
+is continuing. This is a situ- 
+ation anyone can find hinself in because informants 
+rd pressed to provide an arrest for police may 
+resort to providing the contraband themselves: they 
+will leave a “package" with you only to come back 
+later for it (with a cop outside). 
+And take it as gospel from Dr. Atomic that the gov- 
+ernment is selling piperidine, p-2-p, and other pre- 
+cursors on the Black Tere) Market to uncover clan- 
+destine labs. ‘Take care, and watch out for *radio 
+beepers" hidden in your precursor purchases.
+*Room 603 
+147 W, 42'St. 
+|, New York 10036 
+DEAR TAF 
+Here's « few tips from a fellow reader and activist: 
+SMOKE BOMBS: 4 parte of suger to 6 parte potassium nitrat 
+er). Heat over low Clase until it 
+celts, 
+11. Pour inte ite futu: 
+onteiner (empty 
+milk cartons do very well). Before it solidifies, 
+ed a few wooden matches 
+as fuses into the 
+mixture. One pound fills a block nicely with 
+thick white amoke. 
+CHEMICALS: A garanteed cool source to order any chemicals is 
+CHshTsk, Box 573, Hawkesbury, Untario, Can: 
+K6A-1 2 
+They will fieh around for anything and gerantes 
+anonymous 
+replies to any order. 
+BAPLOSIVsS: Petroleum jelly and potassium chlorate 1 to 1 by 
+weight, 
+ia totally safe when wet but is highly 
+explosive and shock sensitive when dry. 
+Stir 3 gm potassium iodide and 5 gm iodine in a 
+beaker with 50 nl 
+er. add 20 ol ammonium 
+tridodide.-When wet is very safe but upon drying 
+becomes very explosive and shock sensitive, to the 
+point of a feather setting it off. 
+COUNTZRYITINGs Hexamethylenedismine completely bleaches any 
+ink to a perfect white without harming the paper 
+in any way. 
+VANDALISM: Ethy] ne 
+en and butylseleno mercaptan are the 
+most evil selling substancea 
+on earth, Mixed with 
+kerosene -for long-lasting effect they can be so 
+annoying as to render a building inhebitable. 
+ALARMS: The alarm companies use the phone lines to link the 
+premises under protection with its protector, wether 
+it be the police station or in bigger towns 
+curity 
+office. Sometines the owner ie inoluded’ in the warning 
+like this: when the 
+alarm 
+ia 
+dialing circuit diale 
+the police 
+ourity 
+t cases. One can cut 
+the building, and incapacitate 
+the outside bells and horns, and upon entry the bells 
+and horns will sound the alarn silently while’ the 
+electronic dialer will try unsuccesfully to diel the 
+police, owner and security office to warn them of the 
+illegal entry. 
+GUNS: Canadian Pire sells a handy starting pistol, revolver type, 
+the barrel and revolving magazine 
+of which can be easily 
+drilled to 22 caliber size using o simple drill, bit and 
+@ table vise to hold the piece. This mekes @ cheap and 
+easy to gat saturday night apecial. 
+TAP 
+THs MAD SCIENTIST 
+Those little “weather” radios offered at $9.95 to about $19.95 
+can be “tweaked” a bit to cover the DEA and FBI radio channels 
+very well. Sone will cover these frequencies without adjustment. 
+Only problem 1s they have ro squelch control and the hiss could 
+drive 
+you bananas. If you are in a fringe area you might have 
+to improvise an outeida or attic antenna to pull in the mobiles 
+when they are not working through a repeater. 
+DEA is into CB pretty heavily along the coast. They aonitor this 
+service continually and on occasion switch to CB for 2-wy work. 
+A little listening on VHF (on your weather radio!) will teach 
+you their lingo and pretty soon you'll be saarter than they are! 
+Nickolai Testicle 
+Cie CSET 
+Ce ae 
+2 
+2 
+‘A pair of fake $20 bills, above, were discovered after being 
+passed at © South Plainfield tavern between Sunday night 
+‘and early Monday morning. The counterfeits, which are 
+‘actually 31 bills on which are taped the ends 
+of $20 bills, are 
+usually passed with the counterfellers hand placed over 
+the picture 
+of Washington, police sald. 
+Bogus $20 bills 
+passed at tavern 
+‘SOUTH PLAINFIELD 
+- Bor- bill bave been taped to the ends 
+‘ough police officials 
+are warning of a $1 bill. 
+10 Bullock, 
+local merchants, especially bar a counterfelter 
+will attempt to 
+‘owners, to be on the Lookout for pass the fake bill by: 
+he 
+‘Phony $20 bills. 
+picture of Washington as he 
+4 bartender 
+at Norman's Bar ants 
+over be bil 
+and 
+Gril 
+Bars are usually dimty lit 30 it 
+is diffieutt to spot the irregu- 
+larity, he said, 
+‘This 
+is the time 
+af year, he 
+sometime between 6 p.m, 
+Sunday 
+and 2 a.m, Monday, according 
+to 
+police. 
+At first 
+the bills took 
+reat, according 
+to Lt, Thomas 
+Boltoek. But eleser observation 
+reveals the two ends of the $20 
+lug what be said would be “tbe bottest 
+arty in town" — one that would bans 
+$8 young pele yng to Rck craps 
+ax will be belt Monday night 
+Stadio ot tho enon the pase 
+ay piles rug arr and to, 
+Go benet of Vertan fcomarmaty 
+‘treatment 
+house for young aduits 
+‘th Bureet, 
+‘ottoman said 1,300 tickets at $25 fer 
+bave already 
+boen sold for the party, 
+‘cd the ever should put Veritas over 
+{he top in ia drive reise half ari 
+ica bucks to move fat a ronenertacl- 
+{ty uptown cn 108th Street. 
+‘Many of the Voritas rexidents were sent 
+there by the courts to be rehabilitated, 
+Getosanswetrmes 
+pepen 
+on 8 
+Sonat 
+toed esa 
+sine yoars aga. 
+at Votan 
+takes 1 fo 15 monte. 
+‘He said prograzs wack as that at Veri- 
+(here five years ta a cage. You tae the 
+Grup awry ~ big deat. You pot orn 
+out ca the streets, and two weeks later 
+(heyrre 
+on drags again” 
+Back Issues 
+are $.75 each. Issue #50 is $1.50. 
+Subscriptions - 10 issues - US Bulk Rate $7. 
+US Bulk Envelope Rate $8. 
+US First Class in plain sealed envelope $10. 
+Canada & Mexico First Class $10. 
+Foreign Surface $8. - Foreign Air Mail $12. 
+IMPORTANT! Please 
+include your mailing label or a 
+Xerox copy whenever you write to TAP about your’ 
+subscription. 
+Blectronic Courses - $.75 each. A - DC Basics, 
+= AC Basi 
+= Phone Basics, D - Amplifiers. 
+TAP "Ma Bell" 
+Patch - $1.50. 
+TAP "10th Anniversary® Pen - $.50. 
+TAB Cassetee Pape 6. 
+Fape - $4. Hear Capt Crunch. Al Bell, 
+Joe Engressia & Bell Security Chief John Doherty.. 
+Send CASH, check, or money order to: 
+42nd Street, Hew York,
+Classified 
+The TAP Classified Ad Sheet is published as a 
+e 
+service to our readers. All ads MUST be typed and 
+'# 
+camera ready. Ads will 
+appear in the next ad sheet 
+thay arrive after 
+printing deadline in 
+E 
+e they will appear in the following ad 
+sheet. The cost per 
+per issue is $4. I£ you 
+i 
+wish to preserve your anonymity, TAP Box nuabere 
+£ 
+| 
+are available at the cost of 
+$5 per ad per issue. 
+a 
+a BY CLACNG 
+A 
+This extra cost is for the postage to mail 
+you the 3 | 3 
+Mevvobs ReGUINEGMYA FEWSIMRE HAND TOOLS, ONLY BIZ, 
+replies to your ad. Pull page ads cost 
+an 
+LLER 
+half-page ads cost $6. Payment must accompany all 3 et 
+4 
+AUTOMATIC ve 
+MACHINES 
+ads. Send cash and get a 10 & discount on all a 
+oH 
+Address all ad requests to : TAP, Room 603, 
+f z 
+West 42nd Street, New York, N.f. 16036.— 
+F 
+1s 
+. 
+SCIENCE FOR THE PEOPLE 
+Geet 
++. 
+bimonthly 
+Cy 
+% 
+Progressive views on science and technology 
+¢ 
+fag 
+addressing elitism, sexism, raclim— 
+= 
+b4 
+defining 
+a people's science 
+v 
+S10/year trom Science 
+for the Peopie 
+_ 
+A 
+097 Main Si., Cambridge, MA 02139 
+OTnS 
+BEAT THE GAS PUMP 
+a 
+Postal mortem 
+exces sates npr ss wan 
+and strike beck ot BIG OIL! 
+State 
+ae sugwiwe DOWN “EVEN WAECEING 
+: WATTMOUR 
+ways af getting fuel 
+pokpeneee 
+ts 
+_~ Ever wonder how math 
+‘ 
+sc POWER METERS thee Ov Ns Use 
+REE or of greatly reduc 
+‘Grandmother Betty Willson made a ow jear's 
+2, 
+$line 
+draw 
+Big. % x 11 pages, 
+Gelivered 
+tothe house. 
+Written by former 
+8g Oi! 
+‘ve been waning o ths for year nd years 
+leat someone would get to the mail before 
+me 
+loyes. 
+* 
+r 
+DEALERS WANTED! 
+sil fata sacks on her back porch. B te end ot 184 she 
+Uist $1.00 (rofundable) 
+‘ad eolleeted 
+200 pounds of It — enough tof four 3- 
+TECH-GROUP 
+THE TOILET TRAINER 
+Box 3125 
+‘THE ULTIMATE WEAPON USED AGAINST BIG-SHOT OPP 
+Pasadena. CA 91103 
+RESSORS IS FINALLY REVEALED IN THIS SMALL BUT 
+YOu CAN 
+COMPREHENSIVE PUBLICATION. THE TOILET TRAINER 
+1S°A DEVICE THAT IS INSERTED INTO THE TOILET, 
+a 
+‘THE TOILET 1S FLUSHED AND THE DEVICE EXPLODES 
+2 
+WITHIN THE PLUMBING. WE ARE THE FIRST TO HAVE 
+WITH BOOKS FROM 
+TECHNOLOGY GROUP! 
+COVERING URBAN, RURAL 
+THE NERVE TO DESCRIBE HOW TERRORISTS ANO 
+PISSED OFF CONSUMERS SEEK AND OBTAIN A DEGREE 
+OF REVENGE MOST OF US ONLY DREAM ABOUT ONLY 
+SOLD FOR EDUCATIONAL PURPOSES ONLY 
+. 
+& RETREAT SURVIVAL, AND 
+MANY OTHER SUBJECTS AS 
+WELLI! Discounts to 60% on 
+some titles. 
+DEALERS WANTED !! 
+List $2 (refundable with order), 
+TECH-GROUP, Box 3125, 
+Pasadena, Calif. 91103 USA 
+WE PAY ALL POSTAGE/HANOLING. 
+Consumertronics Co. 
+P.O. Drower 537, ALAMOGORDO, NM 88310 
+QUR MAILING LISTS ARE ABSOLUTELY CONFIDENTIAL. 
+BY JOHN 2 WALUAMS AS SEEN ON CBS “6O MBIUTES”. 
+WE ARE IN 
+BUSINESS FOR OVER 10 YEARS. 
+Catalog Free 
+With 
+Purchase, Otherwise $1. 
+DEALERS WANTED!! 
+@ntinental Zpectator 
+IN OUR 17th SWINGING YEAR 
+EVERYBODY SWINGS WITH “CONTINENTAL SPECTATOR® 
+sees 132 full-size poges loaded with personal ods 
+ond wild nude photos 
+eee Nationwide 
+listings - many with addresses & 
+phone numbers 
+sees Sexy couples, pretty girls, goy & bi males 
+who wont to meat YOU 
+LUS swinging articles, stories, 
+readers com= 
+ments, ploces to meet swingers and MORE 
+For a copy of the latest issue mailed Ist class, send 
+$6.00 to: CONTINENTAL SPECTATOR, Room 603, 
+Dept. T, 147 West 42nd Street 
+NY 10036, 
+Please state 
+ONT? SYSTERS 53? Jon 
+San Francisca CA 94102,

@@ -1,25 +1,576 @@
-EDITORIALbyTOM EDISONAs 1975 comes to a close let us reflect uponsome of the major events of the nast vear: the bic“tre in N Y Bell's €C 9 touched off by Pa Bell'sown arsonists in @ feeble attemnt to nrove to theworld the necessity of absolute mononoly over thecommunications industry; the never-endinr ratehikes that Bell’s nunnet, the P.U.C., forces onus in the name of rivinep its Shareholders a fairreturn and rivine the rest of us a swift ktiek inthe ass: the charve for directory assistance; thedisclosure that Pa Bell monitored and recordedover 30 million calls usine millions of dollarsfor Box detection enuinnent and salaries foruntold overtime man-hours all naid for by increasedDhone rates with absolutely no imnrovement tn“service” to the nublic; and finally, the chanrein the Portress oscillator from a sinele tone to4 FP tone. Quite a vear for Pa Bell- one of arson,mreed, corruntion, and invasion of vrivacy!!! BipBrother Bell 1s watchine all of us! What can you do?YOU CAN JOIN TAP! Tan 1s more than just the
-No, 31DECEMBER 1975MERRY CHRISTMAS AND HAPPY NEY YEARPROM THE TAP STAFP
-phone phreaks underrround newsletter- it's a course AL BELL DAVEin basic survival! Every reader has some informationto share and we cana Jearn from each other, All TOM EDISON CHARLES1t takes 1s a little time, some paner, a stanpv, andan envelone. You don't have to be an exnert to have Mr. PHELPS R. SYSTAT8 rood tdea. You may not have noticed it but in thelast three months Tan has nut out three tssues-~ B. J.three damn rood issues made nossible by an increasein our staff. Heln us to continue to nut out themost informative newsletter since the Bell Journal.ANY’TIME, vou 7 AND EACH ADDITIONALBILL RUSSELL RAPS WITH MR.RUSSELL.T AGKED you|| WHEREVE OTeNO| |CANCALL ConsT- | MINUTE IS ALWaysANYTHING FORTHE SECRETFORMULA FOR CONTROLLINGMY LONG DISTANCE COSTS. /)
-1 ALWAYS BEEP DRECT, MR.RUSSELL,EVERSINCE IBAWYOU MAKE THAT SHOTON TV. 1 KNOW YOU HAVETO BOX INTERSTATE CALLSFROM A PAY TELE -PHONE TO - ANOABOUT THENEW TRANS-TLANTICATES.
-EVEN I CANT BE PERFECT.bY THE WAY WOULD YOUPLEASE HONOR US WITH ONEOF YOUR FAMOUS SHOTSF
-TO-COAST FORABSOLUTELYFREE FORTHE FIRST
-This cartoon was Sent to us by a New York reader; whereit was from, if anywhere, is unknown but we wanted toshare it with our readers.Youth Hot Line Reports, Inc. 19'75- Do not make checksout to Youth Hot Line Reports please. Movement groupsmay reprint without permission with TAP's address inclu-ded and all credit given, and please send us a copy of re-rinted work. Warning: We will prosecute violators.
-
-BLACK BOX BEATS BELL IN THE FOURTH!We have had several issues dealizy with Slacé 3oxes.—those wonderful lite tevices tat allow the user *) re 28.08long distance zalls at 0 charge 19 ine calling party. Thisarticle wiil.deal with the different designs nat ©an 3e used,The basic sections of mcSt crack Doxes are toe CC block-ing capaci:cr, the power Source, ard the ring stopper.The OC ticcking capacitor preverts tre central officeequipment “rom Starting the silling procedure. In Someareas as much as 10 misliamos can flow ‘srough the linewithout starting billing, bu: why have any current ficw ifa capacitor can easily biock it all? The answer is that byhaving a small ammount of current drawn 7rom the line, thepower Scurce can be eliminated, as we will See later. Thecapacitor should te .5 mid. :c pass the lowest woice freq-uencies. Raising this value only extends be low ‘requenqyresponse of the conversation, but does nct greatly increasethe volume. The capacitor should 5€ non-pclar, meaning itdoes not have a plus cr a mines Sign on it. If a polarizegcapacitor is used, the polarity o: the line voltage mustalways match the polarity of the capacitor or it would losecapacitance and leak current instead of blocking curren.The polarity of the line cannct always be guaranteed ‘> re~main constant, depending upcn the type of phone office "hatserves the phone. However, if a line sbows itself to be 7?constant polarity (required for Touch-tone phonesian elnct-rolytic capacitor can be used, parmitting a reductiny, -4capacitor size. [t should be rated at 150 volts or higher.at .5 microfarad, aon-polar (which means non-elect slytc),and if alectrolytic, it can d@ a5 high as 100 mfd., thoughonly .5 mfc. 13 necessary.To talk back to the calling party, We caner of the vlackbok must have a Smal) DC current to operate the ci>ponmouthpiece in the nandset. By bridging the capacitor witha 10K resistor, enough current flows to activate the mouth-plece without drawing enough current to start billin:. Somedesigns use low values Iike 5. 8K but this does not insurethat the equizment will not begin to bill for the call. To geta louder siqnal back to the calling party, a battery isdaresistor can Supply the talking current withou: drawing itoff the line. 25 milliamps 18 a good current. The resistorneeded can be calculated by Chm's Law:Battery VoltageResistor(in onms) = O251.5Example: 1 Vo volt bacbery uses a “(5 = GO ohm resistor.6 valts= 240 ohms, 9 volts = 360 ohms, 12 volts= i239 ohms.The ring stopper allows a large surge to flow Ubrsughthe line for only an instant. If it doesn’: flow long enough,the Line doesn't stop ringing, and Listening to the phonewith the Black Box switched on cne would Sear 2 loud .ing-ing sound. In between whese rings one can usually talk -the caller, Sut this only works 21 some elec:romechanicalexchanges, whereas in ESS systems (Elec:renic SwitchingSystems) the voice circuit 1s not connected until the .-alledparty answers the pucne. Talking between rings can 7edifficult but it is cheap and Trixon dic say we'd all :i:zve lomake sacrifices before na phlaecbed oul cf office. ‘T 1smethod is almost immune lo detection for the olacs soxdetectors available cniy teat tha iine gfter the rirjing oasstcpr =i,If tne ring Stopper allows current to Ica for 2 long,the phone equipment wil! thick toe phone cas '+en answered,and ther. of course hurd up, 8c the edciomen AU cisccne-nectanc send a new dial ione in 1) & 3. sec’. is. The ringstopper usually works best by leturd the Suri 145% justpen7 encugh to Stop “he cing, ena nm: .onier,The Basic Slack Srx is woevtravedi..n Fisure 1. When theswiton if opened, curreniana: unu tas cnk sass Unrcughthe resister ard tapmcicir. The; work as abread; Jescribecin the Serums under OD obocking capacitor and powersource, When ine Switch iS closed, une phone acts normal,
-~ wae, * . vt sos v. . -CA2ML TIS TIM Sealey lant, We Swell i. searis bh ~ . . { 4 : wee . teeani ce Dhtne 8 Veetaly migatt apoina nist co. Thee nea » » a& _ ’ ~ a . at to .tHiiln .S 2pened ara .ne tive rlal. A tan use tlsThe circuit im Figure « .u from adie Hiroria's viel
-og0 eee . ~— o
-“nie Bitk. Th.s circul: is basicaly ce same, cul he -ap-ac.tor it now ]?D mfd. “When 2 tau comes in, the Swittsis opened. and tne picone .s wsen p.ichec up. The aischargedCapacitor Soaks up &@ Cig Puce anc thus 221s as whe rorStopper. After we pulse, i: doesrc't sherge :tsel! up anymore and then performs the DC blocking function. Cbvicuslythe size in m‘d!s is critical in this ces.gn because it deter-mines ioe length of time that the pulse casts, When wheSwitch ‘5 clos@d to make ihe phon2 ac: normally again, thehuge capacitor is discharged oy the switch -hreugh a lo ohmresistor ‘hat limits the curren:. W.rbsuc tiis‘resisicr, thisbig capacitor will be darnaged by the discharge surge.Figure v snows a Simuar circuit that uses two 52 voi:zener Jiodes back to hack to stop the rings. To answer,the phone :s picked up after the Switch !s cpered, and therir.ging vcltage avalanches one of the zerers. The surgemakes the line vwoltase drop, thereby taking the zener outof avalanche. This ring stopper is ver, quick, anc is rec-~comendec by phone phreaks who are served by sensitiveequipmentFioure 4 uses a Simple push buczton far “he ring s:opper.This provides manual control of the Uimin; 3f the pulse. [tean be hit quickly, and if it doesn't sisp che ringing, itcanbe hit icr slightly longer and longer times tnual the ringing{9 stopped.’ The power source is a ¢ volt battary, whicacan o€ 4 D ce:ls or € cells struna together ‘r weries.The Simplest Black Dox circuit cublished to date hasbeen the one in Issue ll of TAP {(YIPL a: the time }. Thecapacitor is bul: into the phone, the rinc Stoppe: is hepick up and hang up procedure. and the ony parcy neededare a 1OK resistor anc a SPST switch. “Ye Lave clins ‘orthe same thing for Autcma:j- clectric phones for chosecustomers of General Telep:. ne, arc for Western Electricphones serviced by Sell Companies.Calls cr Black Boxes are usually ker shcrt for carety,and of cSurse no ower extéraions 2an be picked un turingthe call or the call will be =:.lea. Micst ohone thr: ins re-move Slack Boxes from Ubet:: phcnes at the first om ofsuspicious activites on tbefr phone line. For tne uitimateSimplicity in Black Box des:gn, See letter below.Dear TAP,Here is a description sap: man's mute. It requires noparts atall, fusta trimi.n: le rctary dial -elephone.Here's woat youdo, ‘When .ou want 10 mute 4 call cick upthe handse: from the cradle slow! and a: the same timkeep the hookswitch in the tig i eid down with your let:baad. Now wite the bana holu.c7 ihe receiver move the dialaS if you've dialed a "1" and tut i r@turn half-way. Therrevease the hang-up Switt!, -a ua case. f you nave done ji:richt you will hear the rirying t.::iny cut ofthe earpler ,SO to Stop he ringing mow: the, 1 slightly back and ar. -k-ly return ittc we middl ,usitioc.. Vou will now 5e able °5haar your friend bur tr i2ik to cum ycu will have to yell irtothe earpiece, secaus: ‘se tear. miner atesn'* work on thsecheapie mute aS there .3 moO r_ li! 2 > let Current tarougr,Cne shoule practice . .anipulaccy ine tial berlsre uying 12mute a long distance call.Tabs Mute of ver primituva, our he oeauty is the factthal no alteration .:-e phone is required, So a0 evidence incase ofa sust Av. Jig ype trimiine will work, Itcvon'tWeek with cther ch me anes becuuse the carpiste is shortwren the dialis ri oN, SSyecs . Ja have tt remove cheyou mysnias well >. ahead and putin a res:s’ir ans awiten.Si lec's S26 thise trimdine phones (ior which ora pay extra)put 22 Tord use.
-
-o- Dog jePhoneFIGURE 1} Green WireOoNormal $10 obmQ_ IL Red100! int.FIGURE 2 L 5 2Koun| PhoneGreenCc
-reeNormalReda | LoEmu,4 LOK onm PhoneFIGURE v Que PA —— 2 OF52 voltRf zerers~ Green9 mid Sed |oO— ! 240 chmFIGURE §| Prone# Normal ereePusn-® 7 6 volts =Button +o- GreerASK Mr. PHELPSDear Mr, Phelgs,I've veen hearing rumors {rim friends that the phonersare changing ibe tones 10 the “uirtress phores around NewYors acd that ty January 137: -he Red Bex will be obsolete.Is this true, and if itis, doer anyone want to buy anuquered boxes*-DISCTURASED-Dear DISC CURAGED,Bacney here. Jim pessed iu: Jetter on to me. It is cruethat the okone company is modiriag the pay phones, Dutdon't tive ap' ‘Je've aiscovere. that the reason for modi-fleaticn ist slow aulcmatic n.uchinery in 3e future toreplace all ‘ue humar cperator: voc presenuy listen forthe ones. j tell you bow much *> pul in.This will actuallymake ite-..er to use Fed Boxes fan itis niwl Ts preventthe mach, ucy from accjenialy obing sricKed into thinxingmoney .; posited by ibe caller “cice Trequencies, =ep's ar. being modified (9 gereim Myr tones instead5 s, co. tae iumindg ct the tums ... pio ne Same.The “Id t-ne was .2O> Hertz, The .ew tones are Joo and1." er >, goa. ned Boxes car ce easily modified byaad. the 1720 Hertz wscillavcr tnd mixing .* in at theane ccchume tthe oli veculater Plans ‘cr dting thiswee. C@ Pol. shed in the next .ssue -- TAP, in ime icr ‘nemo ditcat.. nS af the pay phones tc be rear sompletion .nNew York. _Advisatle '.ussions rorce
-Letters From ReadersSear TAP,This is Captn, Crunch, I would like to mertion a few things.First, ''m glad to see you boys back in operation & amcurious to why you stopped puslication fora while. I alsowant to State my willingness in contacting as many would-be freaks as possible, inperson only & not by mall. There-fore am offering co anyone who wants to come see me inMt. View all I know in electronics, computers & relatedtechnologies including treaidng of course. However I disliketalking on the phone, cor communication by mail. If youeven receive this letter, I would consider it a miracle, Mycurrent address is: J.T, Draper, 1905 Montecito Ave. Ap.#6, Mt. View, Ca. 9404C ‘or those who want to satupameeting by mail. Phone is 415)984-9041 and 965-4210. Ctcourse [amnot underground. Awhileback National Reviewpublished my phone number in the hopes thal people wouldbug me bycallingat3ametc. They didn't realize thatIrace hundredsofnew friends & taught hundreds the art ofweaking. Any people who want to visit me are welcome,They can stay with me up to a week (it usually takes chatlong to teach them). You might want to publish that fact.I am Starting a computer data-base of info for phonefreaks & comouter freaks. This data base will reside ithe computer company I work for. There are Jaccesslevels of security which are1, General- Everybody and Anyone.2. Protected- For sensitive numbers that would be changedif widespread.3. Seourg~Random scrambled data, accessable only over anon tapped direct connection I cannot discuss here.Cost 99¢/nour comect time charges, 12 midnight to 6 am,(PST), 3am. to9am. (EST). Time includes [C and usesStandard TYY terminal. No WATS Lines so people wil! haveto figure our bow to call it- Anyone interested, call 964-033% (415). This is a company called "Call Compu‘er"TM, Ituses an HP 210A with 100 Megabyte storage. A very tapSecure SyStem, this is not a cheap HP2000P system but amuch better STI system-"Basic Timesbaring System”. Sofar we have 20 or $o people, each with their own accesscode. TL ususily give a lot of information this way, more sothan by phone, but less than in person. It’s cheaper thanWestern Unios, more secure but of course calling the com-puter costs n.oney (or does i:?), Cne could use credit carasbecause if tbe operator tried to call backadata tone wouldbe reached. qood luck.- JCHN-Dear TAB,I just had a new phone put in upon which my previously per-fec: black box no longer worked. =t took some Ume outIfinally realizedthat the redwire (from the wall to the L2terminal) was backedupby the black wire (from thewalDwhich ig not normally used ir the phone hook-up (but whichon my new phone was also connected to LZ). Easy remedyto this of course is to remove both the redand black wiresfrom LZarmi connecting them both to the proper wire on theblack bax.Phone installer friend of mine told me be was told to hookup both wires from now on but he didn't know why.-CCNNECTICUT-Dear TAP,‘Want to advise your readers how to get additional phoneequipment fron; Pa Bell for free. I just got a long typeguretth cord cha: the business cifice bills $22.50 for. Theway ta do it is net to deal with the business office bul withrepair service inswead. Break any existing equipment youhave (Say you Saw a snip and take commercial and cut yourphone cord, then postponei moving) and call repair service.Wher. they come, the fuy will give .ou whatever alterationsyou ‘wish. Not only did he ive mea new cord but! goanew phone too. He said repair service would only ‘crwarda Dili when this becomes Gabituai with @ person.-NEW YCRK-
-
-RAO Credit Card CodesArea RAC Codes and Locations2)1 094 Newark, 091, 0932)2 032 Wash. DC, 033293 020 Hartford, 010206 163 Seattle, 167299 254 Stockton, 289 Fresno212 072,074 N. Y.C. ,017, 018, 021, 024, 022213 183,184 L. A. , 046, 182, 187, 332215 041,042,043 Philadelphia216 O50 Akron, 382 Cleveland218 126 Duluth301 01232 323393 153395 044 Miami397 137398 O87 Cmaha, 237312 097 Chicago, 98 Suburbs, 234313 083 Detroit, 913, 996314 177St. Louis, 143315 303401 O19R,1.404 035 Atlanta, 022,025, 063496 154 Montana498 993412 930 Pittsburgh414 O88Milwaukee415 158.8. F.,167 Berkeley, Cakland
-416901502003004005509213516O17601602604608612613615617702103704713716801813814901914
-478 Toronto147550131 Portland046105128 Spokane185127 Long Island2c4 Lansing059064, 065493 Vancouver201126 St. Paul473047 Nashville001 Boston, 923 Worcester,271 007, 098033318 Charlotte151 Houston534 Rochester155, 383152,027208187 Memphis0866, 141
-Destructory Assistance is an information exchange service.Send us info on one of our topics (send? for frec DA topicslist) and include a self-addressed envelope with enough post-age for us to return an equal amount of info of your choice.Subscriptions: Approx. 10 issues- U.S. Bulk $4.In envelope,First Class or to Canada $6.Foreign Surface $7.All info is free to those who explain to us why they can't afford it.IMPCRTANT:Include mailing label or xerox copy when writing to TAPabout your subscription.
-Back Isauea: Listed by feature articles@ach, 40¢ earch Sf complete set is ordered,1-Extensions, Conierence Switches2-Blue Box Story and Abbie on Ripofts3-Telecommand Story4-Pay Phone Issue5-Blue Bex7 Tuning your organ, 3-slot ripofts6-Credit Card Calls/1972 Codev10>Black HoxII12 Blue Box Plane13 Int'l calls & Codes, Bluebox plans14 More codes, AT&T Papers, Ca. Test numbers15 1973 Credit Card Code, T network16 Red Box plans17 Red Box, Line Relay, Don’t Get Busted18 Culgoing long distance call stopper19 Snoop light, Taping Fortress tones2O Cheese Box(Conference line, or loop-arouny)2) Automatic Phone Tap, Convention Report22 Answeroo, “How we catch Rad Boxers"2 Free Electricity24 Prewd Detectora, Hriex of TAP issues, 1974 CC Code35 New Red Box, Pree Sac2¢ New Biaebox, Con Ed key (also 23, 29)27 Free Electricity, Blue Box Correction28 Reading Computer bills, loop suffixes29 improved Bluebox & Snoonlite, Int'l codes30 Fortress Pay Phones, Party LinesFACT SHEETS -25¢ each1. Credit Card Calling Hints2. Receiving Long Distance Calls Free(Same as Issue ]) for General Telephone Co.Customers instead of Bell Telephone Co.)Displayed Red Box2600 Whistle PerfectorDual tone oscillatorAnti-Bell Button-S0¢ 10/$3SOF per set.Steal This Book-$,25Monopoly - $1.20& isses-S0¢ each: A- Basic Electricity, B-AlternatingCurrent, C-Basic Phone Cperation, D-Amplifiers,Send Check or Money order only to TAPAddress Room 504, 152 W. 42 St, New York 10036(This is a Mail Drop only)Office: 1201 Broadway, Rm. 608, Wed. 4-7 pm.NYC 10001We need info orVendingMacbines~- locks, techniques for getting yourmoney's worth.LACKS- code books, picking methods, safemanipulation,sources of supply.Radio- pirate stations, jammers, etc,Cable TV- tapping into the line.Utilities- infoon N. J, Public Services! roundceramicelectric meter seals.- Holmes & otber central station systems,Frinting~ methods, magnetic ink used in printing checks, etc.Computers- Timesharing- Access codes.Published for informational purposes only by Youth Hot Line Reports, Inc,
-This Does Not Computebirst, there were the phone phreaks. thosetechnological marvels who used bive boxes,black boxes and other colored boxes toNeece AT&T out ofao few dollars. Now, itmay he the dawn of a new space-age whiz,the keypunch crazies.New Scientist magazine reports that @ | 5-year-o%5 London schoolboy aamed Joewsed @ school compuler terminal to crackthe security system of one of the biggesttrme-sharing computers in England. Wh10 formal compwter Waming end just fourmanths of schoohng. Joc was ble to prinaccess to lop-secrel mfenmation fiomverrous big businesses. He evem went so farux change the date trored in the com-puterSpokespersons lor the computer involved(even » computer hes spokespersons thesedays) admitted that the boy wonder was in& pusition lo completely take over the entiresystem, shultheg off other users, changingpasswords aad altering biHs sent tocustomers And Joe could have gotten awayarth it had he only kept his young mouthshat. besicad, he scm a pote compietctyfowfessing what he had done. A new securi-ty systemforthe computerwasincmediatetymat alled.trom - Real Paper May 14, 1875
-Address all mail and checks to -TA P, ROOM S04, 152 W. 42 ST., N.Y,N.Y. 10036
-BULK RATEU. S. POSTAGEPAIDParmit te. 209Great Neck, N.Y.
+EDITORIAL 
+by 
+TOM EDISON 
+As 1975 comes to a close let us reflect upon 
+some of the major events of the past year: the big 
+fire in N Y Bell's C © touched off by Pa Bell's 
+own arsonists in a feeble attemnt to nrove to the 
+world the necessity of absolute mononoly over the 
+communications industry; the never-ending rate 
+hikes that Bell's punpet, the P.U.C., forces on 
+us in the name of piving its shareholders a fair 
+return and eiving the rest of us a swift kick in 
+the ass: the charee for directory assistance; the 
+disclosure that Pa Bell monitored and recorded 
+over 30 million calls usin millions of dollars 
+for Box detection equinment and salaries for 
+untold overtime man-hours all naid for by increased 
+phone rates with absolutely no imnrovement in 
+"service" to the vublic; and finally, the chance 
+in the Fortress oscillator from a sinzle tone to 
+MF tone. Quite a year for Pa Bell- one of arson, 
+greed, corruntion, and invasion of orivacy!!! Bir 
+Brother Bell is watchine all of us! What can you do? 
+YOU CAN JOIN TAP! Tap is more than just the 
+vhone phreaks underfround newsletter- it's a course 
+in basic survival! Every reader has some information 
+to share and we can a 
+earn from each other. All 
+it takes is a little time, some paper, a stamp, and 
+an envelone, You don't have to be an exnert to have 
+@ Rood idea. You may not have noticed it but in the 
+last three months Tap has nut out three issues~ 
+three damn food issues made nossible by an increase 
+in our staff. Help us to continue to put out the 
+most informative newsletter since the Bell Journal. 
+Hi 
+Iam 
+PREPARED TO OFFER 
+ANYTHING FOR THE SECRET 
+FORMULA FOR CONTROLLING 
+1 ALWeYS BEEP ORECT, MR. 
+RUSSELL, E' 
+SINCE T 
+“YOu Mai 
+AW 
+IKE THAT SHOT 
+erty KNOW YOU HAVE, 
+This cartoon was sent to us by a New York reader; where 
+itwas from, if anywhere, is unknown but we wanted to 
+share it with our readers. 
+No. 31 
+DECEMBER 1975 
+MERRY CHRIST’\AS AND HAPPY NEY YEAR 
+PROM THE TAP STAFP 
+AL BELL 
+DAVE 
+TOM EDISON 
+CHARLES 
+Hr. PHELPS 
+R. SYSTAT 
+BL J. 
+YE 
+YOU BEEN 
+¥ 
+“TIME, vou Y ANO EACH ADDITIONAL 
+wuereve vougeen | | ANY 
+TN const | MINUTE IS Arecioe 
+5| 
+coasT. 
+LESS THAN 
+THE FIRST. 
+eanuing 
+PERSON-16- 
+——sF 
+LIKE I SAID 
+WERBUCI 
+Youth Hot Line Reports, Inc. 1975- Do not make checks 
+out to Youth Hot Line Reports please. Movement groups 
+may reprint without permission with TAP's address inclu- 
+ded and all credit given, and please send us a copy of re- 
+rinted work. Warning: We will prosecute violators.
+BLACK BOX 
+We have had several issues dealing with Black Boxes, 
+those wonderful little devices that allow the user to receive 
+long distance calls at no charge to the calling party. This 
+article will.deal with the different designs that can be used. 
+The basic sections of most black boxes are the DC block- 
+ing capacitor, the power source, and the ring stopper. 
+‘The DC blocking capacitor prevents the central office 
+equipment from starting the billing procedure. In some 
+areas as much as 10 milliamps can flow through the line 
+without starting billing, but why have any current flow if 
+a capacitor can easily block it all? The answer is that by 
+baving a small amount of current drawn from the line, the 
+power source can be eliminated, as we will see later. The 
+capacitor should be .5 mfd. to pass the lowest voice freq- 
+uencies. Raising this value only extends the low frequency 
+response of the conversation, but does not greatly increase 
+the volume. The capacitor should be non-polar, meaning it 
+does not have a plus or a minus sign on it. If a polarized 
+capacitor is used, the polarity of the line voltage must 
+always match the polarity of the capacitor or it would lose 
+capacitance and leak current instead of blocking current. 
+The polarity of the line cannot always be guaranteed to re- 
+main constant, depending upon the type of phone office that 
+serves the phone, However, if a line shows itself to be of 
+constant polarity (required for Touch-tone phones)an elect- 
+rolytic capacitor can be used, permitting a reduction in 
+capacitor size. It should be rated at 150 volts or higher. 
+at .5 microfarad, non-polar (which means non-electrolytic), 
+and if electrolytic, it can be as high as 100 mfd., though 
+only .5 mfd. is necessary. 
+‘To talk back to the calling party, the owner of the black 
+box must have a small DC current to operate the carbon 
+mouthpiece in the handset. By bridging the capacitor with 
+a 10K resistor, enough current flows to activate the mouth- 
+piece without drawing enough current to start billing. Some 
+designs use low values like 6. 8K but this does not insure 
+that the equipment will not begin to bill for the call. To get 
+a louder signal back to the calling party, a battery anda 
+resistor can supply the talking current without drawing. it 
+off the line. 25 milliamps is a good current. The resistor 
+needed can be calculated by Okm's Law: 
+Battery Voltag 
+Resistor(in ohms) = 
+O25 
+1.5 
+Example: 1 1p volt battery uses a [025 = 60 ohm resistor. 
+6 volts= 240 chms, 9 volts = 360 ohms, 12 volts= 480 ohms. 
+‘The ring stopper allows a large surge to flow through 
+the line for only an instant. If it doesn't flow long enough, 
+the line doesn't stop ringing, and listening to the phone 
+with the Black Box switched on one would hear a loud ring- 
+ing sound. In between these rings one can usually talk to 
+the caller, but this only works on some electromechanical 
+exchanges, whereas in ESS systems (Electronic Switching 
+Systems) the voice circuit is not connected until the called 
+party answers the phone. Talking between rings can be 
+difficult but it is cheap and Trixon did say we'd all have to 
+make sacrifices before he phlebbed out of office. This 
+method is almost immune to detection for the black box 
+detectors available only test the line after the ringing has 
+stoprad, 
+. 
+~ 
+If tae ring stopper allows current to flow for too long, 
+the phone equipment will think the phone has been answered, 
+and then of course hung up, so the equipment will discon- 
+nect and send a new dial tone in 10 to 30 seconds. 
+The ring 
+stopper usually works best by letting the surge last just 
+long enough to stop the ring, and no longer. 
+‘The Basic Black Box is illustrated in Figure 1. When the 
+‘switch is opened, current and sound can only pass through 
+the resistor and capacitor. They work as already described 
+in the sections under DC blocking capacitor and power 
+source. When the switch is closed, the phone acts normal. 
+BEATS BELL IN THE FOURTH! 
+To perform the ring-stopping function, the switch is closed 
+and the phone is quickly picked up and hung up. Then the 
+Switch is opened and the conversation can take place, 
+‘The circuit iv Figure 2 is from Abbie Hoffman's Steal, 
+This Book. This circuit is basically the same, but the cap- 
+acitor is now 100 mfd. When a call comes in, the switch 
+is opened, and the phone is then picked up. The discharged 
+capacitor soaks up a big pulse and thus acts as the ring 
+stopper. After the pulse, it doesn't charge itself up any 
+more and then performs the DC’ blocking function. Obviously 
+the size in mid!s is critical in this design because it deter- 
+mines the length of time that the pulse lasts. When the 
+Switch is closed to make the phone act normally again, the 
+huge capacitor is discharged by the switch through a 10 ohm 
+resistor that limits the current. Without this resistor, this 
+big capacitor will be damaged 
+by the discharge surge. 
+Figure 3 shows a similar circuit that uses two 52 volt 
+zener diodes back to back to stop the rings. To answer, 
+the phone is picked up after the switch is opened, and the 
+ringing voltage avalanches one of the zeners. The surge 
+makes the line voltage drop, thereby taking the zener out 
+of avalanche. This ring stopper is very quick, and is rec- 
+comended by phone phreaks who are served by sensitive 
+equipment. 
+. 
+Figure 4 uses a simple push button for the ring stopper. 
+This provides manual control of the timing of the pulse. It 
+can be hit quickly, and if it doesn't stop the ringing, it can 
+be hit for slightly longer and longer times until the ringing 
+is stopped.’ The power source is a 6 volt battery, which 
+can be 4 D cells or C cells strung together in series. 
+The simplest Black box circuit published to date has 
+been the one in Issue 11 of TAP (YIPL 
+at the time ). The 
+capacitor is built into the phone, the ring stopper is the 
+pick up and hang up procedure, and the only parts needed 
+are a 10K resistor and a SPST switch. We have plans for 
+the same thing for Automatic Electric phones for those 
+customers of General Telephone, and for Western Electric 
+phones serviced by Bell Companies. 
+Calls on Black Boxes are usually kept short for safety, 
+and of course no other extensions can be picked up during 
+the call or the call will be billed. Most phone phreaks re- 
+move Black Boxes from their phones at 
+first sign of 
+suspicious activites on their phone line. For the ultimate 
+simplicity in Black Box design, see letter below. 
+Dear TAP, 
+: 
+Here is a description of a poor man's mute. It requires no 
+parts atall, just a trimline style rotary dial telephone. 
+Here's what you do, When you want to mute a call pick up 
+the handset from the cradle slowly and at the same time 
+keep the bookswitch in the base held down with your left 
+band. Now with the hand holding the receiver move the dial 
+as if you've dialed a "1" and let it return half-way. Then 
+release the hang-up switch on the base. If you have done it 
+right you will hear the ringing coming out of the earpiece, 
+So to stop the ringing move the dial slightly back and quick- 
+ly return it to the middle position. You will now be able to 
+hear your friend but to talk to him you will have to yell into 
+the earpiece, because the transmitter doesn't work on this 
+cheapie mute as there is no resistor to let current through. 
+One should practice manipulating the dial before trying to 
+mute a long distance call. 
+This mute is very primitive, but the beauty is the fact 
+that no alteration of the phone is required, so no evidence in 
+case of a bust. Any dial type trimline will work. It won't 
+work with other phone types because the earpiece is shorted 
+when the dial is moved, so you would have to remove the 
+shorting wire from the dial, and if you're going to do that 
+you might as well go ahead and put in a resistor and switch. 
+So let's see those trimline phones (for which you pay extra) 
+Put to good use. 
+-CALIFORNIA-
+Red 
+Phone 
+ASK Mr. PHELPS 
+Dear Mr. Phelps, 
+T've been bearing rumors from friends that the phoners 
+are changing 
+the tones in the Fortress phones around New 
+York and tet by January 1976 the Red Box will be obsolete. 
+Is this true, and if it is, does anyone want to buy antique 
+rod boxes? 
+-DISCOURAGED- 
+Dear 
+ED, 
+Barney here. fim passed this letter on to me. Tt is true 
+that the phone company is modifying the pay phones, but 
+don't give up! We've discovered that the reason for modi- 
+fication is to allow automatic machinery in ing future na 
+replace 
+all the human operators who presen! 
+the tones and tell you how muck to put in. This will actually 
+make it easier to use Red Boxes than it is now! To prevent 
+the machinery from accidentally being tricked into thinking 
+money is deposited by the caller's voice frequencies, the 
+phones are being modified to generate Two tones instead 
+of one, but the timing of the tones is exactly 
+the same. 
+‘The old tone was 2200 Hertz. The new tones 
+are 2200 and 
+1700 Hertz, so all Red Boxes can be easily modified by 
+adding the 1700 Hertz oscillator and mixing it in at the 
+same volume to the old oscillator Plans for doing this 
+will be published in the next issue of TAP, in time for the 
+modifications of the pay phones to be near completion in 
+k. 
+New Yor 
+Advisable Missions Force 
+Letters From Readers 
+Dear TAP, 
+This is Captn. Crunch, I would like to mention a few things.. 
+First, I'm glad to see you boys back in operation & am 
+curious to why you stopped publication. for a while. I also 
+want to state my willingness in contacting as many would- 
+be freaks as possible, in person only & not 
+by mail. There- 
+fore I am offering to anyone who wants to come see me in 
+Mt. View all I know in electronics, computers & related 
+technologies including freaking of course. However I dislike 
+talking on the phone, nor communication by mail. Ifyou 
+even receive this letter, I would consider it a miracle. My 
+current address is: J,T. Draper, 1905 Montecito Ave. Api. 
+#6, Mt. View, Ca. 94040 for those who want to set upa 
+meeting by mail. Phone is (415)964-9041 and 985-4210. Of 
+course I am not underground. A while back National Review 
+published my phone number in the hopes that people would 
+bug me by calling at 3 am etc. ‘They didn't realize that 
+I 
+made hundreds of new friends & taught hundreds the art of 
+freaking. Any people who want to visit me are welcome, 
+‘They can stay with me up to a week (it usually takes that 
+tong to teach them). You might want to publish that fact, 
+am Starting 
+a computer data~base of info for 
+freaks & computer freaks. This data base will reside in 
+the computer company I work for. There are 3 access 
+— 
+levels of security which are: 
+1.General- Everybody and Anyone, 
+2. Protected-For sensitive numbers that would be changed 
+if widespread, 
+3. Secure-Random scrambled data, accessable only over a 
+non-tapped direct connection I cannot discuss here. 
+Cost 99¢/hour connect time charges, 12 midnight to 6 am, 
+(PST), 3am. to 9 am. (EST). Time includes IO and uses 
+Standard TTY terminal, No WATS lines so People will have 
+to figure out how to call it- Anyone interested, call 964- 
+5331 (415). This is a company called "Call Computer". It 
+uses an HP 2100A with 100 Megabyte Storage. A very tap 
+Secure system, this is not a cheap HP2000F system but a 
+much better BTI system-"Basic Timesharing System", So 
+far we have 20 or so People, each with their own access 
+code. I usually give a lot of information this way, more so 
+than by phone, but less than in Person. It's cheaper than 
+Western Union, more secure but of course calling the com- 
+puter costs money (or does it?),|One could use credit cards 
+because if the operator tried to call back a data tone would 
+be reached. Good luck, 
+-JOEN- 
+Dear TAP, 
+I just had a new phone put in upon which my previously per- 
+fect black box no longer worked. It took some time but I 
+finally realized that the red wire (from the wall to the L2 
+terminal) was backed up by the black wire (from the wall) 
+which is not normally used in the phone hook-up (but which 
+on my new phone was also connected to L2). Easy remedy 
+to this of course is to remove both the red and black wires 
+from L2and connecting them both to the proper wire on the 
+black box. 
+Phone installer friend of mine told me he was told to hook 
+up both wires from now on but he didn't know why. 
+-CONNECTICUT- 
+Dear TAP, 
+Want to advise your readers how to get additional phone 
+equipment from Pa Bell for free. I just got a long type 
+Stretch cord that the business office bills $22.50 for. The 
+way to do it is not to deal with the business office but with 
+repair service instead. Break any existing equipment you 
+have (say you saw a snip and take commercial and cut your 
+phone cord, then postponed moving) and call repair service. 
+‘When they come, the guy will give you whatever alterations 
+you wish. Not only did he give me a new cord but I gota 
+new phone too, He said repair service would only forward 
+@ bill when this becomes habitual with a person. 
+-NEW YORK-
+RAO Credit Card Codes 
+Area RAO Codes and Locations 
+94 Newark, 091,093 
+222 032 Wash. DC, 033 
+203 020 Hartford, 010 
+208 163 Seattle, 167 
+299 254 Stockton, 289 Fresno 
+212 
+072,074 N.Y. C. ,017, 018, 021, 024, 022 
+213 183, 184 L.A. , 046, 184, 187, 332 
+215 041,042, 
+043 Philadelphia 
+216 050 Akron, 082 Cleveland 
+218 
+126 Duluth 
+301 
+011 
+302 
+723 
+303 
+153 
+305 044 Miami 
+397 
+137 
+398 097 Omaha, 237 
+312 097 Chicago, 998 Suburbs, 234 
+313 083 Detroit, 013, 098 
+314 177 St. Louis, 143 
+315 303 
+401 019 R.1. 
+404 035 Atlanta, 022, 025, 063 
+496 
+154 Montana 
+498 293 
+412 930 Pittsburgh 
+414 O88Milwaukee 
+415 
+158.8, F. , 167 Berkeley, Cakland 
+416 
+501 
+502 
+503 
+504 
+505 
+509 
+513 
+516 
+517 
+601 
+604 
+608 
+612 
+613 
+615 
+617 
+12 
+703 
+704 
+713 
+716 
+801 
+813 
+814 
+901 
+914 
+476 Toronto 
+147 
+550 
+131 Portland 
+046 
+105 
+128 Spokane 
+185 
+127 Long Island 
+224 Lan: 
+059 
+sing 
+064, 065 
+493 Vancouver 
+201 
+126 St. Paul 
+473 
+047 Nashville 
+001 Boston, 023 Worcester, 
+272 
+007, 098 
+033 
+319 Charlotte 
+151 Houston 
+534 Rochester 
+155, 383 
+152,027 
+208 
+187 Memphis 
+066, 141 
+Destructory Assistance is an information exchange service. 
+Send us info on one of our topics (send for free DA topics 
+list) and include a self-addressed envelope with enough post- 
+age for us to return an equal amount of info of your choice. 
+Subscriptions: Approx. 10 issues- U.S. Bulk $4. 
+Inenvelope, First Class or to Canada $6. 
+Foreign Surface $7. 
+All info is free to those who explain to us why they can't afford it. 
+IMPORTANT: 
+Include mailing label or xerox copy when writing to TAP 
+about your subscription. 
+Bk 
+Issues-Listed by feature articles 
+“SOG 
+each, 40¢ each if complete set is ordered. 
+1-Extensions, Conwrence Switches 
+2-Hlue Box Story and Abbie on Ripotts 
+4-Telecommand Story 
+fa beri 
+Blue 
+-Btue Box 2 Barly Made 
+7 Tuning your organ, 3-slot ripotis 
+S-Crredit Card Calls/1972 Cote 
+10> 
+Black bor 
+uv 
+12 Btue Box Plans 
+13 Int'l calls & Codes, Bluebox plans 
+14 More codes, AT&T Papers, Ca. Test mmbers 
+15 1973 Credit Card Code, T network 
+16 Red Box plans 
+17 Red Box, Line Relay, Don't 
+Get Busted 
+18 Outgoing long distance call stopper 
+10 Snoop light, Taping Fortress tones 
+20 Cheese Box(Conference line, or loop-aroun) 
+21 Automatic Phone Tap, Convention Report 
+22 Answerco, "How we catch Red Boxers" 
+23 Free Electricity 
+24 Fraud Detectors, Index of TAP issues, 1974 CC Code 
+25 New Red Box, Free Gas 
+26 New Bluebox, Con Ed key (also 
+23, 26) 
+27 Free Electricity, Blue Box Correction 
+28 Reading Computer bills, loop suffixes 
+29 Improved Bluebax & Snoorlite, Int'l codes 
+30 Fortress Pay Phones, Party Lines 
+FACT SHEETS -25¢ each 
+1. Credit Card Calling Hints 
+2, Receiving Long Distance Calls Free 
+(Same as Issue 11 for General 
+Co. 
+Customers instead of Bell Telephone Co.) 
+Displayed Red Box 
+2600 Whistle Periociar > s0¢ per set. 
+‘Dual tone osciliat 
+Anti-Bell Button-50¢ 10/83 
+BOOKS 
+‘Steal This Book-$2.25 
+Coaraes Ge eae 
+each: A basis Hee 
+- 
+=] 
+, BrAlte: 
+Current, C-Basic Phone Operation, DeAmaliders nd 
+Send Check or Money order only to TAP 
+Address: Room 504, 152 W, 42 St, New York 10036 
+. 
+@his ts a Mail Drop onty) 
+Office: 1201 Broadway, Rm. 608, Wed. 4-7 pm. 
+NYC 10001 
+We need info on: 
+Jocks, techniques for getting your 
+money's worth, 
+Lacks: code books, picking methods, safe mantpulation, 
+‘sources of supply. 
+Badio- pirate stations, jammers, etc. 
+[- tapping into the line. 
+i info 
+on N, J. Public Services' 
+roond ceramic 
+electric meter seals. 
+a 
+Holmes & other central station systems, 
+Brinting- methods, magnetic ink used in printing cbecks, etc. 
+Computers- Timesharing- Access codes, 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+This Does Not Compute 
+First, there were the phone phreaks, those 
+technological marvels who used blue boxes, 
+black boxes und other colored boxes to 
+fleece AT&T out of a few dollars, Now, it 
+‘may be the dawn 
+of » new space-age 
+whiz, 
+the keypunch crazies. 
+New Scientist magazine reports that a 15- 
+year-old London schoolboy named Joe 
+used u school computer terminal to crack 
+the security system of one of the biggest 
+‘time-sharing computers in England. With 
+40 formal computer training and just four 
+months of schooling, Joc was able to gain 
+uceess to top-secret information from 
+various big businesses. He even went so far 
+as 
+change the data stored in the com- 
+puter. 
+‘Spokespersons for the computer involved 
+{even 4 computer has spokespersons these 
+days) admitted that the boy wonder was in 
+4 pusition 
+to completely take over the entire 
+sysiem, shutting off other users, changing 
+passwords and altcring bills sent to 
+‘customers. And Joe could have gotten away 
+with it had be only kept his young mouth 
+shut, 
+Instead, he sent a note completely 
+onfessing what 
+he had done. 
+A new securi- 
+ty system for the computer 
+was immediately 
+installed. 
+from - Real Paper May 44, 1975 
+Address all mail and checks to - 
+TAP, ROOM S04, 152 W. 42 ST., N.Y,N.Y. 10036 
+BULK RATE 
+U. S. POSTAGE 
+PAID 
+Permit 
+No. 209. 
+Great Nock, N.Y.

@@ -18,7 +18,7 @@ author:
 publisher: "TAP"
 source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 access_date: 
-source_dead: true
+source_dead: false
 archive1_url: 
 archive1_date: 
 archive1_dead: false
@@ -26,6 +26,7 @@ archive2_url:
 archive2_date: 
 archive2_dead: false
 local_file: "tap-085.pdf"
+prefer_local: true
 pages: "4"
 isbn: 
 time: 

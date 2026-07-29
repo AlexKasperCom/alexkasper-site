@@ -1,17 +1,237 @@
-SFECIAL CONVENTION ISSUE?
-=,“aoe enees“= amy ——. £%
-YOUTH INTERNATIONAL, NT"PARTY LINENo. IIThe World’s First Phone Phreak Con-vention is being held on July 11-15, in Miami Beach! The Celebrationof Change will include, in addition,teach-ins on telephones, contests,meetings with nationally-known phonephreaks, Plus the unveiling of newdevices never yet revealed. Coursesare going to be held on Phone Pol-. itics,Phone ripoffs, establishment- ripoffs, and peoples technology.
-JUNE-JULY 1972LETTERSGentlemen:I am including the name of the Companythat can provide those interested withall types of telephone devices as wellas info. They also have two correspon-dence courses that I believe are thebest (only) of their kind.OQne is aIf you want to help or teach aclass, write us immediately and in-clude your phone no.At the same time there will be otherevents too, such as antiwar demos,women's rights, health care, anti-smack information and actions, andmany other happenings. Get in touchwith YIP in Miami for these if youwant to be involved.The Convention and the Celebration ofChange will be an incredible learningscene and you should start tellingeveryone you know to be there. If youare a budding phone phreak, you'lllearn how a phone works, and how tomake it work for you. Or come downfor the pot parade to legalize Mari-—juana, but COME DOWN, AND BRING YOURFRIENDS. Put signs in freak stores andpost notices in schools-MIAMI BEACH-JULY 11-15. There'll be food, sun andfun.\ARITE To:YIP, ROOM 201,
-telephone engineering course-how tomake your own clandestine devices.The second is a 'Spy’' course. You §&your readers will flip over theircatalog. Cost is $1 deductable fromany purchase-and well worth it.Don Britton Enterprise,P.O.Drawer G,Waikiki,Hawaii 96815. -G.B.Readers have written for info on thePeoples Yellow Pages. We're making alist of the PYP's all over the coun-try, so if you know one in your area,send us the address and whether ornot they're doing more of the same.New York PYP is at N.Y. Switchboard,134 w. 4 St.,NYc 10012.For more on telephone groups workingfor changing the Bell System, theSource Catalog #1 has many groupslisted, such'as Womens groups,U.S.Govt. inspecting phones, Grass Roots,etc. Write to Source at Box 21066,Washington,D.C. 20009.
-1674 MERIDIAN AVE, MIAN) BEACHPHONE 305-531-8945
-
-RECEIVE FREE LONG-DISTANCE CALLSNow you Can receive calls at no charge to the caller,and anyone, even achild, can convert their phone to do this in less than 30 minutes. Youonly need two parts: A "single pole,singlie throw toggle switch” and a"10,000 ohm, 1/2 watt, 10% resistor" .Hardware stores carry switches withtwo wires already on them, and these are convenient to use. The resistorcan be bought for 20¢ at a radio-tv supply or electronic hobbyist store,such as Lafayette Radio. If you can't find a switch with wires already onit, get one with screw terminals so you can easily attacn on wires.Cut two pieces of wire at least 6 inches long. Strip off the insulation1/2 inch from each end. Attach one wire to each of the two switch screws,and you now have a switch with two 6 inch wires connected.Turn your Rormal djal phone upside down and unscrew the two screws, andremove the case, You wi now see a small metal box with 16 screws on topand wires connected to them. Locate the screw marked "F" using our diagramand loosen it. Wrap one of the resistor wires around it and tighten thescrew. Loosen the "RR" screw and remove the green wire. Then wrap the otherresistor wire around the "RR" screw along with one of the switch wires.Tighten the "RR" screw and be sure the wires only touch the proper terminalsand no others. Finally,wrap the remaining switch wire around the green wireyou just removed and wrap the two up tightly in scotch or electrical tape.Close up the phone, running the switch wires out the side or rear of thecase. Hang up receiver and get a piece of tape and a pen. Pick up the phoneand flip switch to the position that gives you a dial tone. Using tape, markthis position of the switch "Normal". Now flip the switch to the other pos-ition and the dial tone should stop. Mark this position or the switch "Free".If you don’t get it to work right, check your wiring for a break or a wiretouching a nearby screw inside the phone.Leave the switch "Normal" for everyday use. When your frieuds call, quic ylift and drop receiver as fast as you can. This is very important that you
-i
-do it quickly. This should stop the rings. If not,do it again. Then switchto ''Free",pick up the phone and talk. Keep all calls as short as you can,always less than 15 minutes. At end of call, hang up, then switch to "Normal".If the call is local, switch to "Normal" immediately or you may be cut off.Your friend can call right back, so the shorter the call the better it is.TOWARDS REAR OF PHONE
-nn NBLUE_RESISTOR —————>SAIN _ goTHES (O\
-SNITCH
-
-HOW IT WORKSWhen you call someone long distance, you are billed from the moment they |answer. The phone company knows you answer when a certain amount of electriccurrent flows through the phone. However, the resistor cuts down the amountof current below the point of billing,yet lets enough go by to operate themouthpiece. Inside the phone, connected across the F and RR terminals, isa capacitor, a device which allows more volume for your voice without usingany more electric current.Answering the phone normally for a fraction of a second stops the rings,but does not let enough current flow to start the billing. If you answernormally for even one full second, however, billing will start. Therefore,hanging up and switching to free will cut you off.To render the device ineffective, the phone company would have to spendbDilliuns of dollars and nany years of changing the country's phone systems.Using this device is illegal in some places, and we strongly urge you toinspect all phones you see for the device. If you see it, rip it out andeat it immediately.By the way, you cannot use an extv...0n phone during a free call unlessit too is modified and the switch is in "Free".YIPL is $2 for a year's issues, if you TECHNICAL DATA aS BKCHcan afford it. If you can, send stamps ~Z.ue Sox INFO + TUNINGor bread to pay for those who can't,&turn someone on to YIPL today! — CREDIT CARD CALLSThis article is essentially the same as published in Ramparts, who hasbeen suppressed by the Phone Company. Ramparts has taken apart the StateDept.,the Defense Dept. and the whole fucking government and no hasslesbut the article about the phone company and POW! Which is why YIPL exists,to get the vital information to the people if there's no other way to getit to them. You supply the information, and you get more back. Send usideas, tell your friends to write to us, and get phone <o. people to getin touch with us. See ‘ya in Miami, phreaks!Stay tuned for the Rip-Off Institute?Dear YIPL,Here 18 a tip for people who aregoing across country. Take alongLE “T phone numbers on both coasts thatTT aml RL S won't answer. Whenever you stopnear a pay phone tell the operatorHigh- you want to call the further awayIf yoy come across a a hone minus of the numbers, and put the coinsthe cash box(large gaping hole in in the phone. After she returns thefront} put hand in hole find small money, insist that it didn't come. back. Give her the address thatsquare hale in top rear of large , ; : dq wh Ahole, Insert your good finger(you vhe re a atie ros an lot of vefendknow which one)in the hole and feel ere you ave a jot of refunds_— iting. T also think its a goodfor button(feels familiar,right- we <like Deja Vu). Push it and any idea to dial operator whenever, hone and saybread up in the machine will be you re near a pay Pliberated thru hole. There's more that you lost a dime and alreadyde the call, so would they sendthan one way to fuck the phone co. ma . ,It’s a great way to get some bread. you the dime. Then select a name: at random for them to send it toBye. B.L.,Pearl River,N.Y. from the phone book.-Bill
-
-BOYCOTT WAR PRODUCTSThe following products represent the consumer lines of companies nowmaking bombs,guns, or automated warfare systems for use in SoutheastAsia. These products, curiously enough, are in many cases a rip-off toAmerican consumers as well. kxefuse to buy them, and urge your frindsand relatives to do the same. Tell store managers why you're doing it,also.General Electric appliances,Hot Point Refrigerators,Stouffer foods andRestaurants,Royal Typewriters, Wilson sporting zgoods,meats and foodproducts, Four Seasons and Niagara carpet,Remington Rand machines andRemington shavers and appliances,Bostitch staplers,Talon zippers ,GorhamSilverware,Eaton paper and desk accesories,Spiedel jewelry and watchbands,Shaeffer pens,Skip writing fluid, Amana appliances,Caloric appliances,Paul Revere life insurance,Carte Blanche credit cards,Moffats appliances,Avco Embassy Pictures and records,Avis,Sheraton hotels,Wonder products,Hostess products,Morton frozen foods,Westinghouse appliances,Ford cars,Philco appliances,Autolite car parts,GM cars, Frigidaire appliances,ACspark plugs. (Thanks to National] action/research on the Military Indus-trial Complex).Published for informational purposes only byThe Youth International Party Line.SUPPORT CAPTAIN CRONCH |As some of you might know from arecent Rolling Stone article, the fees. Please contribute what you can,FBI and the phone co, has arrested It might be you next. If you learn ofthe supposed Cap'n Crunch of Blue people needing support of this kind,Box fame for allegedly making a write to YIPL at once with details.few Box calls. We are now setting Make checks to Cap'n Crunch Defenseup the Cap'n Crunch Defense Fund, Fund,c/o YIPL, This is needed tofor the benefit of such obviously Show our solidarity against facistpolitical telephone busts. The Ma Bell, so do it today. We will |money will go for support of those try to have a statement by Cap'n inharrased and busted for phone co, the next issue.specials, and for legal and bail
-Published for informational purposes only by Youth Hot Line Reports, Inc.Address ali mail and checks to:TAP, 152 W.42 ST, ROOM 418, NY 10036
+SPECIAL CONVENTION ISSUE? 
+YOUTH INTERNATIONAL 
+PARTY LINE 
+| | 
+The World's First Phone Phreak Con- 
+vention is being held on July 11- 
+15, in Miami Beach! The Celebration 
+of Change will include, in addition, 
+teach-ins on telephones, contests, 
+meetings with nationally-known phone 
+phreaks. Plus the unveiling of new 
+devices never yet revealed. Courses 
+are going to be held on Phone Pol- 
+itics,Phone ripoffs, establishment 
+ripoffs, and peoples technology. 
+If you want to help or teach a 
+class, write us immediately and in- 
+clude your phone no. 
+At the same time there will be other 
+events too, such as antiwar demos, 
+women's rights, health care, anti- 
+smack information and actions, and 
+many other happenings. Get in touch 
+with YIP in Miami for these if you 
+want to be involved. 
+The Convention and the Celebration of 
+Change will be an incredible learning 
+scene and you should start telling 
+everyone you know to be there. If you 
+are a budding phone phreak, you.'11 
+learn how a phone works, and how to 
+make it work for you. Or come down 
+for the pot parade to legalize Mari- 
+- 
+juana, but COME DOWN, AND BRING YOUR 
+FRIENDS. Put signs in freak stores and 
+post notices in schools-MIAMI BEACH- 
+JULY 11-15, There'll be food, sun and 
+fun. 
+WRITE To: 
+JUNE-JULY 1972 
+LETTERS 
+Gentlemen: 
+I am including the name of the Company 
+that can provide those interested with 
+all types of telephone devices as well 
+as info. They also have two correspon- 
+dence courses that I believe are the 
+best (only) of their kind.One is a 
+telephone engineering course-how to 
+make your own clandestine devices. 
+The second is a "spy" course. You §& 
+your readers will flip over their 
+catalog. Cost is $1 deductable from 
+any purchase-anhd well worth it. 
+Don Britton Enterprise,P.0O.Drawer G, 
+Waikiki,Hawaii 96815. -G.B. 
+Readers have written for info on the 
+Peoples Yellow Pages. We're making a 
+list of the PYP's all over the coun- 
+try, so if you know one in your area, 
+send us the address and whether or 
+not they're doing more of the same. 
+New York PYP is at N.Y. Switchboard, 
+134 w. 4 St.,NYC 10012. 
+For more on telephone groups working 
+for changing the Bell System, the 
+Source Catalog #1 has many groups 
+listed, such'as Womens groups,U.S. 
+Govt. inspecting phones, Grass Roots, 
+etc. Write to Source at Box 21066, 
+Washington,D.C. 20009. 
+YIP, R0om 2Ol 1674 MERIDIAN AVE MIAN) BEACH 
+PHONE 305-531-8845
+RECEIVE FREE LONG-DISTANCE CALLS! 
+Now you can receive calls at no charge to the caller,and anyone, even a 
+child, can convert their phone to do this in less than 30 minutes. You 
+only need two parts: A "single pole,single throw toggle switch" and a 
+"10,000 ohm, 1/2 watt, 10% resistor" .Hardware stores carry switches with 
+two wires already on them, and these are convenient to use. The resistor 
+can be bought for 20¢ at a radio-tv supply or electronic hobbyist store, 
+such as Lafayette Radio. If you can't find a switch with wires already on 
+it, get oné with screw terminals so you can easily attacn on wires. 
+Cut two pieces of wire at least 6 inches long. 
+Strip off the insulation 
+1/2 inch from each end. Attach one wire to each of the two switch screws, 
+and you now have a switch with two 6 inch wires connected. 
+Turn your normal _djal phone upside down and unscrew the two screws, and 
+remove the case. 
+You wi 
+now see a small metal box with 16 screws on top 
+and wires connected to them. Locate the screw marked "F" using our diagram 
+and loosen it. Wrap one of the resistor wires around it and tighten the 
+screw. Loosen the "RR" screw and remove the green wire. Then wrap the other 
+resistor wire around the "RR" screw along with one of the switch wires. 
+Tighten the "RR" screw and be sure the wires only touch the proper terminals 
+and no others. Finally,wrap the remaining switch wire around the green wire 
+you just removed and wrap the two up tightly in scotch or electrical tape. 
+Close up the phone, running the switch wires out the side or rear of ‘the 
+case. Hang up receiver and get a piece of tape and a pen. Pick up the phone 
+and flip switch to the position that gives you a dial tone. Using tape, mark 
+this position of the switch "Normal". Now flip the switch to the other pos- 
+ition and the dial tone should stop. Mark this position of the switch "Free". 
+If you don't get it to work right, check your wiring for a break or a wire 
+touching a nearby screw inside the phone. 
+Leave the switch "Normal" for everyday use. When your frieuds call, quickly 
+1ift and drop 
+receiver as fast as 
+you can. This is very important that you 
+do it quickly. This should stop the rings. If not,do it again. Then switch 
+to "Free’,pick up the phone and talk. Keep all calls as short as you can, 
+always less than 15 minutes. At end of call, hang up, then switch to "Normal". 
+If the call is local, switch to "Normal" immediately or you may be cut off. 
+Your friend can call right back, so the shorter the call the better it is. 
+TOWARDS REAR OF PHONE
+HOW IT WORKS 
+. 
+When you call someone long distance, you are billed from the moment they 
+_ 
+answer. The phone company knows you answer when a certain amount of electric 
+current flows through the phone. However, the resistor cuts down the amount 
+of current below the point of billing,yet lets enough go by to operate the 
+mouthpiece. Inside the phone, connected across the F and RR terminals, is 
+a capacitor, a device which allows more volume for your voice without using 
+any more electric current. 
+. 
+. 
+Answering the phone normally for a fraction of a_ second stops the rings, 
+but does not let enough current flow to start the billing. If you answer 
+normally for even one full second, however, billing will start. Therefore, 
+hanging up and switching to free will cut you off. 
+To render the device ineffective, the phone company would have to spend 
+billions of dollars and nany years of changing the country's phone systems. 
+Using this device is illegal in some places, and we strongly urge you to 
+inspect all phones you see for the device. If you see it, rip it out and 
+eat it immediately. 
+By the way, you cannot use an ext....10n phone during a free call unless 
+it too is modified and the switch is in "Free". 
+YIPL is $2 for a year's issues, if you 
+TECHNICAL DATA as¢exe 
+can afford it. If you can, send stamps ~3Lvue Sox INFO + TONING 
+or bread to pay for those who can't,§ —CREDIT CARD CALLS 
+turn someone on to YIPL today! 
+This article is essentially the same as published in Ramparts, who has 
+been suppressed by the Phone Company. Ramparts has taken apart the State 
+Dept.,the Defense Dept. and the whole fucking government and no hassles 
+but the article about the phone company and POW! Which is why YIPL exists, 
+to get the vital information to the people if there's no other way to get 
+it to them. You supply the information, and you get more back. Send us 
+ideas, tell your friends to write to us, and get phone <o. people to get 
+in touch with us. See 'ya in Miami, phreaks! 
+Stay tuned for the Rip-Off Institute! 
+LETTERS 
+High- 
+If you come across a pay phone minus 
+the cash box(large gaping hole in 
+front) put hand in hole find small 
+square hole in top rear of large 
+hole. Insert your good finger(you 
+know which one)in the hole and feel 
+for button(feels familiar,right- 
+like Deja Vu). Push it and any 
+bread up in the machine will be 
+liberated thru hole. There's more 
+than one way to fuck the phone co. 
+It's a great way to get some bread. 
+Bye. B.L.,Pearl River,N.Y. 
+Dear YIPL, 
+Here is a tip for people who are 
+going across country. Take along 
+phone numbers on both coasts that 
+won't. answer. Whenever you stop 
+near a pay phone tell the operator 
+you want to call the further away 
+of the numbers, and put the coins 
+in the phone. After she returns the 
+money, insist that it didn't come 
+back. Give her the address that 
+you're going to, and when you get 
+there you'll have a lot of refunds 
+waiting. I also think its a good 
+idea to dial operator whenever 
+you're near a pay phone and say 
+that you lost a dime and already 
+made the call, so would they send 
+you the dime. Then select a name 
+at random for them to send it to 
+from the phone book. -Bill
+BOYCOTT WAR PRODUCTS 
+The following products represent the consumer lines of companies now 
+making bombs,guns, or automated warfare systems for use in Southeast 
+Asia. These products, curiously enough, are in many cases a rip-off to 
+American consumers as well. kefuse to buy them, and urge your frinds 
+and relatives to do the same. Tell store managers why you're doing it, 
+also. 
+General Electric appliances,Hot Point Refrigerators,Stouffer foods and 
+Restaurants,Royal Typewriters, Wilson sporting goods,meats and food 
+products, Four Seasons and Niagara carpet,Remington Rand machines and 
+Remington shavers and appliances,Bostitch staplers,Talon zippers ,Gorham 
+silverware,Eaton paper and desk accesories,Spiedel jewelry and watchbands, 
+Shaeffer pens,Skip writing fluid, Amana appliances,Caloric appliances, 
+Paul Revere life insurance,Carte Blanche credit cards,Moffats appliances, 
+Avco Embassy Pictures and records,Avis,Sheraton hotels,Wonder products, 
+Hostess products,Morton frozen foods,Westinghouse appliances,Ford cars, 
+Philco appliances,Autolite car parts,GM cars, Frigidaire appliances 
+,AC 
+spark plugs. 
+(Thanks to National action/research on the Military Indus- 
+trial Complex). 
+Published for informational purposes only byThe Youth International Party Line. 
+SUPPORT CAPTAIN CRUNCH 
+| 
+As some of you might know from a 
+recent Rolling Stone article, the 
+fees, Please contribute what you can, 
+FBI and the phone co. has arrested 
+It might be you next. If you learn of 
+the supposed Cap'n Crunch of Blue 
+people needing support of this kind, 
+Box fame for allegedly making a 
+write to YIPL at once with details. 
+few Box calls. We are now setting 
+Make checks to Cap'n Crunch Defense 
+up the Cap'n Crunch Defense Fund, 
+Fund,c/o YIPL. This is needed to 
+for the benefit of such obviously 
+show our solidarity against facist 
+political telephone busts. The 
+Ma Bell, so do it today. We will 
+money will go for support of those 
+try to have a statement by Cap'n in 
+harrased and busted for phone co. 
+the next issue. 
+specials, and for legal and bail 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to : 
+TAP, 152 W. 42 ST, ROOM 418, NY 10036

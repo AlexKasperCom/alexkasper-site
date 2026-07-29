@@ -1,16 +1,451 @@
-NEW READERS!If you're a new reader, you might bewondering just what the hell this isall ahout. YIPL is an anti-profitorganization dedicated to people'stechnology, and we publish infor-ation that shows you how tc fight. ack at the computers that run ourlives. Every YIPL reader is urgedto be a contributing editor, and tosend us ideas for stories, informa-tion from the inside, and criticismof what we do or don't publish. We'retaking a big risk so help us make itworthwhile. Get as many people tojoin as possible, and help spread theideas you learn from YIPL.
-rent,
-If you got this as a sample issue,a subscription is $4/year. If you'repoor and can't afford it, it's free.So if you can afford it, perhaps youcan afford to help pay for some lessfortunate person's share. Send stampsor checks but no cash please. We'regetting ripped up mail all the time.There's been a lot of talk about theRed Box, and we promised to revealjust what it is. The Red Box is onlyan oscillator of 2.2KC, switched on“nd off electronically, jiist like a@ingle slot pay phone. Circuits willsoon be available.S- 60 ms. pulse.10-60 ms. on, 60 ms.off, 60 ms. on25-5 pulses, 35ms. on,35 ms. off
-THEYOUTH INTERNATIONA]PARTY LINENO.t2 AUGUST,1974The Phone Phreak Convention on July 29 in|New York was interesting indeed. Many news-men, phreaks, and even a few undercoveragents from the Phone Kompany attended, andwatched a film about ripping off the phonekompany, ate Bell cookies, discussed in ourworkshops about circuits, legal questions §general strategies of Ma Bell. We'll be look-ing forward to the next convention soon. Seeya there!By the way, the film is available for50 write to us.John Thomas, Draper, the allegedCaptain Crunch of Esquire fame, isabout to go on trial in California.The charge is fraud by wire, but themotive behind the indictment is tointimidate every phone phreak in thecountry and to silence John, who theySuspect knows enough to turn Ma Bel!into a pile of rubble. John and hislawyer, Jim McMillan are beautifuldudes but they need money to fightthis bullshit. If you can, please ,.send some bread to the Captain CrunchDefense Fund, Box 755, Camphbell,Ca.95008, or to the same c/o YIPL,Rm.§04,152 W. 42.St.,NY,NY 10050.RAMPARTS INFO.Last month we published a simplerversion of the suppressed Rampartsarticle,'Regulatinge the Phone Comp-any in your home's and we have heardthat a new, experimental system'widldetect the device being used over 4minutes in certain locations in NewYork. This is not confirmed but itreally isn't bad news because one.can use the device 10 times tn arow safely, though we don't thinkyou have to go overboard. Until therumor is checked out,though, keepa1] calls under 4 minutes to or [fromthe New York area. All Telco emplo-yees should write what they knowabout this to us soon,
-
-CONSTRUCTIONThe Sluc hig uses two renes per digit. Yeshow une oscrlbate: and «a common amplifier,hath berng Carol on when tiie pushbuttonwéinis 9 OV Thiw the diades. one vor cach ofthe tea Osseo blatacsgpbar that: hucroas digit)and ong for che amphitaver. st Jiades areassist, ar dm an-ott seaifeh wn che aap letsyou use ole Tlgiaats bed vtlisont. fhe bestspeeaer tS a belvphene varprece. Each Conemove EReee a FTA resister. sUhk sets eatin,Ilrntere Curie Rd abeoeaas nider fA mid dt .tmp x.Qa clhider Preqeency. 1/205.LxRxCywhen cheR/I sit is -wljusti to Che pount at oscil-Latcon, Thos pormt tag my distertion, andLhe Prequency can be raised, bk distort ionCis an. For 100 cyedes, unt C .u022, R=Jbout ASkuboas. Raisins R tu i/KX( the nexehighesc staumtant value) lowers che freq-v@thiv, gel you Cdl tans Cusic ub Co 1500 He.Distortion will be very low. ZC will be00-17, sail R/2 will be 22X,so0 use'a SOKpot. Wilt Sprague 1° 2] capecitors, thisTwin-f owiliatoce 1s ceally goal. Try it!To simplily the diode jungle, use a matrixby sandwiching Che diodes DSJet(ween ECwo piecesOf pecforated circuit dognd, one with 13Pbuss"lines CoO Che switches and the otherwith ¥ output lines, 7? for oscillators andone for che amplifier. Actually, since 2600is a single tone, you don't need a diode forit, so matrix can be 12 % 7. The diodes areupright inside the two bogrds, Warcch polarity.Readers trave reported that an integratedcircuit exists that used a resistor foreach tone, two variable oscillators beingrequired for a box, The Signecics 566 isalso reported to be unstable with Cempera-rare variations. For plans on building withit, write to Signmetics,81] E. Arques aAve.,Sunnywaie, Ca. %.05G and ask for informarionon the 566 VCO and applications notes. Signyour name Joe Smith,Enq.TUNINGNotes on af orgem will actuably work ifyou use them, but they're best used fortuning. Or,use a touch tone phone fortuning your box, or your signal gener-ator. Play your oscillator and your sourceof pitch and adjust trill "beats" just stop.Remenber there are two tones per digit.LE you tune with am organ, you must be ableto interpolate, that is to sat the pitch inbetween two different organ notes, To set the900 cacillator, it should be betweer the A andthe: Ag.OPERATIONFrom a pay phone,cial longrmation, Or an 800 number,can get. from your city. As call gosg taru,ress 2600 for one second, and when youear a click dial desired number, preceed-ed by KP and followed by ST. bxamsple-KP4156869945ST, Each pulse i« the same, a3if you were usimag a pushbutton phone. Allpurses must he sent within 10 seconds ofdisconnect, if mot, disconnect and tryagain. Do not stay on longer than necessary.
-distance jnfo-whichever you
-Oey OSCHL ATOR?FEEDSFe° 2w RC” ohrnscin Mohn dsFQ VB avaibeble ac PolyPaks,dox Tl Lynnfieldlass. 01940Order rahi, TA-§ case, 2 .or We, add 25¢ nostape and wait. ‘writefor cataloy Cirst as ther say require minisaum order.Ati resistors I/4 wate,,S 4, Capacitors recommended -Sprague 192),Stivercd mica, or mica(dipped).The values of R should be between 30K & 150K.Blue Box TonesHep 54, 2N2222,or RCA SK3020 transistors. Biere FrequenciesMModes-Matched small signal silicon( 1N914) ~t 706e 900= 700+ 11007+! OP AMP~ TOP VIEW 3 900+11004 7090°130n+ PIN To-§ @ Pin § 90N*13oP o1P 6 $1006).? 7nM+1S500. 9 L}00*1500+ 6 Lso0e¢71SN0KL 1}00+!1700ST :§90+1700Disconnect- 2600Organ NotesNoto Frequcacyae S80 A 16 bucton keyboard with no aavingume 409 parts, measuring 3X3X 1/2, ig avaj)~Es 1319 able from Environmental Productsye 480 Box 406, Lafayecte, In. 47903, ThecS «1661 price is $7.95 but write for cheirrd 2637 oP nd petore you order it. Also,-_ any readers Ow where to obtainTouch: Tone thinner keyboards, please write ua697. I 2 5 with details. By the way, 16 outtons770. =a s 6 is perfect for a combination bluebox/ red bax8$2 7 £ Q :941 a 6 f
-Line earpiece with foam, and press it tomouthpieces tightly,The smartest Phreaks we know seldomCarry their unit with them, but rather aCassette recorder, which they erase aftermaking their call.All rembers directly dialable are callablewith the box. Overseas inatrucrions wil) beforthcoming.
-
-HOW IT WORKSThere are two basic types of teiepnone offices theuwhich all Calls are switched, The first is the CO,or Central Office. The wires from your telephone go LOS ANGELESto your local CO. From there your call is switched AREA 213to another telepnone in che same CO, meaning a localcall, or ic is switched to a toll office. A toll of-fice, for our purposes, is an “inrer-office” office.The toll office connects dilferent CO's to eachother.When you dial a call from your phone, and suppose ifhappens to be long distance, tne digits you dial,whether they are touchtone or dial typ@ pulses, aresent directly to your cencral office. Most CO's haveCAMA, Cencralized automatic message accounting. TheCAMA macnine in the CO records your number, the dateand time, and the number you dialed. The record is@ punched paper Cape. The CO then relays the areacode and numper to che toll office. The toll officecontains a sender, which sends by whatever roure iseasiest a series of MF,cr multifrequency pulses toanother coll office in the area you called. Theseare picked up by an incoming sender, wnich translatesand comects you to the CO dialed. The CO then itselftranslates che remaining digits and Connects you tothe line you dialed. When chat line answers, 2 signalis returned all the way down Che line to your CO tosay that the call is completed. The punched papertape records this. When you or your friend hang up,a signal is returmed to end billing, and this goeson Cape too, along with the date and time and bothnumbers, yours and theirs. At this point the CAMAmachine sends the billing details of the call to"the real heart of the CAMA, in che Toll office.Now the way the phone company sends signals ontheir lines is with frequencies. When an inter-tollline, or teink, is idle, it has present on it a toneof 2€00 cycles. This tone tells senders who aresearching for idle trunks that this one is &K to use.When the line is seized and used, the tone is not NEW YORKpresent. Les ANGELESAREA 213 AREA 212Control of your telepnone line {is done byyou. When you hang up, the CO relays that to |Tou.|the senders and incoming senders on the trunk ~ ee Osand then they disconnect. * 06NW DERIk, however, you were to send a 2600 eycletome downyour line, yourCOwould not do 4thing because it isn't designed to react to a2600 cycle tone. But the intertoll trunks wouldthink you hung up, because 2600 cycles megns theline is “dle. Sa they would disconnect yau fromthe CO «<t che end of the chain. When you releasethe 2600 tone, the incaming sender would now be-lieve the line haa been seized, and will wit forthe MF digits.Meamenile, back at the CO({yours) the CAMA isbilling you for the initial call you made. I? itwas for information, the rate is zero ¢/mimte.However, information calls don't take too long sothe people who go over the paper Cape at the endof the month may spot something fishy. 900 numbersare a different story, but they'd betrer be valid.The MF digiCs arct 2600 cycles ape passing thr che
-SMOR )
-MoM iAMi precGed tn &CO unnoticed a1) this time. TOLLWhen you send MF digits, tha incasing sender it SENDER | |the far end translates thes and routes you to thecorrect CO, if its in that area code, If it is, anyou send the area code glory with the other digits,the machine will overload and the call won't gothru. If you had dialed informarion or a wats Line .. \based in a differwnt area from the desired number, Fa Fathe sender will reroute you fo that area and then:o that number. Most boxers call information in a ¢.0.different city from where chey want to call and then shsend ares code with digits tq reroute.Since ali calls are shown on the paper tape, &pay phone 13 the only safe way to go. And be sureto change phones too.
-
-An item of interest for readers: For $1.50 Dear YIPL,businesses and schools are equipping them- If any YIPL reader has access to infec »selves with "dial-lock", which fits into on a pig device called a curdiler pleasethe "1" position on a dial phone, which publish the description of the resona-eliminates calls except from dial-lock tor tubes, This device is developedkey holders.(For pushb:tton phones, a. in France for use on rioters. Basicallysteel plate covers the buttons-Ed.) it is a tone generator, amplifier, andFor every piggy action, there is an equal a hi-fi type exponential horn tweeterand opposite people reaction. Simply lift fitted with resonator tubes. Supposedlythe receiver and rapidly push the buttons even a hand-held model can cause earon the cradle equal to the numbers you damage and brain hemmoraging throughwould dial. For example, to dial 936-2323 a sort of "sound laser" effect. Comeyou would push the buttons down(or just the revolution Sympathetic stereos canone of them) 9 times, 3 times, 6 times, be turned against the pig. CCS. Yippie!etc.,about as fast as a watch ticks, with The Credit Card Computer we reporteda second or so between each digit. Keep © fo you about is not yet available toeount, cause its easy to lose count. Or, all operators. So in some areas, thepush the button 10 times, and you can old system of simply matching thegive the operator the number you want, 4th digit to the letter still works.whether its around the corner or across We've also heard that on the Westthe country. She is well-trained to as- Coast,the computor is off from 2-4Sist you most ably. The "dial-lock ads a.m. for checking, and credit cardare right, the phone bill is effectively Calls during that time are assumedreduced, but it doesn't say whose. L.W., to be valid. The same thing is trueHouston, Texas. 1n other areas, but we don't know thetimes. They may be the same.Published for informational purposes only by Youth Hot Line Reports, Inc.STRENGTH IN NUMBERS!Sign up all your friends for YIPL. $2 to -Credit card calls-How to safely.TAF Room 504, 152 W. 42 St.,NY,NY 10036 ~Receive long distance calls freeWhen our subscription breaks 1000, we'll -The Blue Box(this issue)have a super article! -Pay phone issueBack issue are back up to 50¢ each,B LU T TON OFFER . until we raise some more bread.Wwe have these cute littie Anti-Bell FROM TAP, ROOM 504, 1S2 W,Buttons to raise some bread, and atS0¢ each they probably will. We'd like U2 ST.) N.Y. NLY. 10036to see every person in the country (1 LYwearing these pretty soon. 10 for $3. MAIL ON )
-BACK ISSUES
+THE 
+YOUTH INTERNATIONA] 
+PARTY LINE 
+N0.12 
+AUGUST,1972 
+The Phone Phreak Convention on July 29 in 
+New York was interesting indeed. Many news- 
+men, phreaks, and even a few undercover 
+agents from the Phone Kompany attended, and 
+watched a film about ripping off the phone 
+kompany, ate Bell cookies, discussed in our 
+workshops about circuits, legal questions & 
+NE Ww READERS! 
+If you're a new reader, you might be 
+wondering just what the hell this is 
+all ahout. YIPL is an anti-profit 
+organization dedicated to people's 
+technology, and we publish infor- 
+mation that shows you how to fight 
+back at the computers that’ run our 
+lives. 
+Every YIPL reader is urged 
+to be a contributing editor, and to 
+send us ideas for stories, informa- 
+tion from the inside, and criticism 
+of what we do or don't publish. We're 
+taking a big risk so help us make it 
+worthwhile. Get as many people to 
+join as possible, and help spread the 
+ideas you learn from YIPL. 
+If you got this as a sample issue, 
+a subscription is $4/year. If you're 
+poor and can't afford it, it's free. 
+So if you can afford it, perhaps you 
+can afford to help pay for some less 
+fortunate person's share. Send stamps 
+or checks but no cash please. We're 
+getting ripped up mail all the time. 
+There's been a lot of talk about the 
+Red Box, and we promised to reveal 
+just what it is. The Red Box is only 
+an oscillator of 2.2KC, switched on 
+and off electronically, jiist like a 
+single slot pay phone. 
+Circuits will 
+soon be available. 
+S- 60 ms. pulse. 
+10-60 ms. on, 60 ms.off, 60 ms. on 
+25-5 pulses, 35ms. on,35 ms. off 
+general strategies of Ma Bell. We'll be look- 
+ing forward to the riext convention soon. See 
+ya there! 
+By the way, the film is available for 
+rent, so write to us. 
+John Thomas. Draper, the alleged 
+Captain Crunch of Esquire fame, is, 
+about to go on trial in California. 
+The charge is fraud by wire, but the 
+motive behind the indictment is to 
+intimidate every phone phreak in the 
+country and to silence John, who they 
+suspect knows enough to turn Ma Bell 
+into a pile of rubhle. John and his 
+lawyer, Jim McMillan are beautiful 
+dudes but they need money to fight 
+this bullshit. If you can, please 
+, 
+send some bread to the Captain Crunch 
+Defense Fund,’ Box 755, Campbell,Ca. 
+95008, or to the same c/o YIPL,Rm. 
+$04,152 W. 42.St.,NY,NY 100356. 
+RAMPARTS INFO. 
+Last month we published a> simpher 
+version of the suppressed Ramparts 
+article,'Regulating the Phone Comp- 
+any in your home" and we have heard 
+that a new, expcrimental-system‘will 
+detect the device being used over 4 
+minutes in certain locations in New 
+York. This is not confirmed but it 
+really isn't bad news hecause one 
+can use the device 10 times ina 
+row safely, though we don't think 
+you have to go overboard. Until the 
+rumor is checked out,though, keep 
+all calis under 4 minutes to or from 
+the New York area. All Telco emplo- 
+yees should write what they know 
+about this to us soon.
+CONSTRUCTION 
+The Blue Rox 
+two tones per digit. Ne 
+show one oscillater and a conmon amplifier, 
+both be 
+turned on when the pushbutton 
+sénds ‘+ 
+thru the diod 
+one Cor cuch of 
+he two os 
+F 
+t huttons 
+digit) 
+ad one 
+i) 
+iodes are 
+. 
+the amp 
+Icts 
+The bh 
+: 
+h tone 
+MK sets 
+yr 10 mild 
+nt alr: 
+1 
+Oscillator trequency-1/2x3.14xRxC,when the 
+R/2 por is wbjusted to the point of oscil- 
+davion, This point has no distortion, and 
+the frequency can 
+be raised, 
+but distort ion 
+7 
+For 1500 
+e3,aml C .0022, Re 
+Raising 
+Rito 1/K(the next 
+WI-value) lowers the freq-- 
+vency, ant you can now tune up to 1500 Hz. 
+Distortion will be very low.~2¢ will be 
+«00-17, and R/2.will be 22K,s0 use'a SOK 
+pot. With Sprague 1421 capacitors, this 
+Twin-T oscillator is really good. Try it! 
+To simplify the diode jungle, use a matrix 
+by.sandwiching the diodes between two pieces 
+of perforated circuit board, one with 13 
+"buss"lines to the switches and the other. 
+with 8 output lines, 7 for oscillators .and 
+one for the amplifier. Actually, since 2600 
+is a single tone, you don't need: 
+a diode for 
+it, so matrix can be 12 X 7. The diodes are 
+upright inside the two boards. watch polarity. 
+Readers have reported that an integrated 
+circuit exists that used a resistor for 
+‘each tone, two variable oscillators being 
+required for a box. The Signetics S66 is 
+also reported to be unstable with tempera- 
+ture variations. For plans on building with 
+it, write to Signetics,@1l E. Arques Ave:, 
+Sunnyvale, Ca. 9.086 and ask for information 
+on the 566 VCO and applications notes. Sign 
+your name Joe Smith,Enq. 
+“TUNING 
+Notes on an‘ organ will actually work if 
+you use them, but they're best used for 
+tuning. Or,use a touch tone phone for 
+tuning your box, or your signal gener- 
+ator, Play your oscillator and your source 
+of pitch and adjust till "beats" just stop. 
+Remember there are two tones per digit. 
+If you tune with an organ,, you must be able 
+to interpolate, that is to set the pitch in 
+between two different organ notes. To set the 
+900,oscillator, it should be between the A and 
+the: Ag. 
+OPERATION 
+From a pay phone,dial long distance info- 
+rmation, or an 800 number, whichever you 
+can get from your city. 4s call? goes thru, 
+press 2600 for one second, and when you 
+hear a click dial desired number, preceed- 
+ed by KP anu followed by ST. Example- 
+KP415686994SST. Each pulse is the same, as 
+if you were using a pushbutton phone. All 
+puises must be sent within 10 seconds of 
+disconnéct, if not, disconnect and try 
+again. Do not stay on longer than necessary. 
+"See ogeitvavond” 
+ry ns 
+2w Re 
+Ri 
+¢ 
+Megoh: 
+in Mob farads 
+74L or 
+ble at PolyPaks,Box 942h,Lynfield,Mass. 01940 
+Order 741C, TO-§ 
+case, 2 for 9N¢, add 25¢'postage and wait. Write
+for catalog first as they may require minimum order. 
+All resistors 1/4 watt,S 
+%. Capacitors recommended-Sprague 1921, 
+vered mica, or mica(dipped). 
+The values of R should be between 30K E 150K. 
+Blue Box Tones 
+Hep 54,2N2222,or RCA SK3020 transistors. 
+Digit 
+Frequencies 
+Siodes-Matched small signal silicon(1N9i4) 
+2 
++1100 
+741 OP AMP - TOP VIEW 
+3 
+900+1100 
+PIN 
+0-5 
+9 pine 
+3 
+gonedsne 
+" 
+900+2300 
+pie 
+ow 
+6 
+1100+1300 
+" 
+7 
+700+1500 
+" 
+ve 
+3 
+900+1500 
+- 
+°. 
+Ma 
+9 
+11001500 
+; 
+A 
+0 
+1300+1500 
+xp 
+1100+1700 
+ST 
+1500+1700 
+Disconnect -2600 
+Organ Notes 
+Note 
+‘equency 
+re ge 
+A 1G button keyboard with no moving 
+che 
+1109 
+parts, measuring 3x3x 1/2, is avail- 
+cre 
+1109 
+able from Environmental Products, 
+16 
+lage 
+Box 406, Lafayette, In. 47902. The 
+CS 
+1661 
+price is $7.95 but write for their 
+E7 
+2637 
+catalog before you order it. Also, 
+ouch-Tone 
+_if.any readers know where to obtain 
+1200 Set6 Tet 
+thinner keyboards, please write us 
+607 eae 
+with 
+details. By the way, 16 buttons 
+770 
+«4 
+5 
+r7 
+is perfect for a combination blue 
+852.07 
+ry 
+9 
+box/red box. 
+941 
+. 
+0 
+‘ 
+Line earpiece with foam, and press it to 
+mouthpiece tightly. 
+The smartest phone phreaks we know seldom 
+carry their unit with them, but rather a 
+cassette recorder, which they erase after 
+making their call. 
+All numbers directly dialable are.callable 
+with the box. Overseas instructions will be 
+forthcoming.
+HOW IT- WORKS © 
+There are two basic types of telephone offices thru 
+which all calls are switched. The first is the CO, 
+or Central Office. The wires fron your telephone go 
+«LOS ANGELES 
+NEw YORK 
+to your local CO, From there your call is switched 
+AREA 21 
+AREA 212 
+to another telephone in the same CO, meaning a local 
+call, or it is switched to a toll office. A toll of- 
+fice, for our purposes, is an "inter-office" office. 
+The, toll office connects different CO's to each 
+other. 
+When you dial a call from your phone, and suppose it 
+happens to be long distance, the digits you dial, 
+whether they are touchtone or dial type pulses, are 
+sent directly to your central office. Most CO's have 
+CAMA, Centralized automatic message accounting. The 
+CAMA machine in the CO records your number, the date 
+and time, and the number you dialed. The record is 
+a.punched paper tape. The CO then relays the area 
+code and number to the toll office. The toll office 
+contains a sender, which sends by whatever route is 
+easiest a series of MF,or mltifrequency pulses to 
+another toll office in the area you called. These 
+are picked up by an incoming sender, which translates 
+and connects you to the CO dialed. The CO then itself 
+translates the remaining digits and connects you to 
+the line you dialed. when that line answers, a signal 
+is returned all the way down the line to your CO to 
+say that the call is completed. The punched paper 
+tape records this. When you or your friend hang up, 
+@ signal is returned to end billing, and this goes 
+on tape too, along with the date and time and both 
+numbers, yours and theirs. At this point the CAMA 
+machine sends the billing details of the call to 
+the real heart of the CAMA, in the Toll office. 
+Now the way the phone company sends signals on 
+their lines is with frequencies. When an inter-toll 
+line, or trunk, is idle, it has present on it a tone 
+of 2€00 cycles, This tone tells senders who are 
+Gearching for je szunke phat his one is * fouse. 
+n the line is seiz: 
+use 
+e tone 
+is 
+present. 
+‘ 
+LOS ANGELES 
+NEW YORK 
+A 
+i 
+Control of your telephone line is done by 
+AREA 213 
+AREA 218 
+you. When you hang up, the CO relays that to 
+the senders and incoming senders on the trunk 
+and then they disconnect, 
+IF, 
+However, you were to send a 2600 cycle 
+tone down your line, your CO would not do a 
+thing because it isn't designed to react to a 
+2600 cycle tone. But the intertoll trunks would 
+think you hung up, because 2600 cycles means the 
+line is “dle. So they would disconnect you from 
+the CO ct the end of the chain. When you release 
+the 2600 tone, the incoming sender would now be- 
+lieve the line has been seized, and will wait for 
+the MF digits. 
+Meanwhile, back at the CO(yours) the CAMA is 
+billing you for the initial call you made. If it 
+was for information, the rate is zero ¢/minute. 
+However, information calls don't take too long so 
+the people who go over the paper tape at the end 
+of the month may spot something fishy. 800 numbers 
+ave a different story, but they'd better be valid. 
+The MF digits and 2600 cycles are passing thru the 
+CO unnoticed all this time. 
+When you ‘send MF digits, the incoming sender at 
+the far end translates them and routes you to the 
+correct CO, if its in that area code. If it is, and 
+you send the area code along with the other digits, 
+the machine will overload and the call won't go 
+thru. If you had dialed information or a wats line 
+based in a different area from the desired number, 
+the sender will reroute you to that area and then 
+to that number, Most boxers call information in a 
+different city from where they want to call and then 
+send area code with digits to reroute. 
+Since all calls are shown on the paper tape, a 
+pay phone is the only safe way to go. And be sure 
+to change phones too.
+An item of interest for readers: For $1.50 
+businesses and schools are equipping them- 
+selves with "dial-lock", which fits into 
+the "1" position on a dial phone, which 
+eliminates calls except from dial-lock 
+key holders.(For pushbrtton phones, a 
+steel plate covers the buttons-Ed.) 
+For every piggy action, there is an equal 
+and opposite people reaction. Simply lift 
+the receiver and rapidly push the buttons 
+on the cradle equal to the numbers you 
+would dial. For example, to dial 936-2323 
+you would push the buttons ‘down(or just 
+one of them) 9 times, 3 times, 6 times, 
+etc.,about as fast as a watch ticks, with 
+a second or so between each digit. Keep 
+count, cause its easy to lose count. Or, 
+push the button 10 times, and you can 
+Give the operator the number you want, 
+whether its around the cofpner or across 
+the country. She is. well-trained to as- 
+sist you most ably. The "dial-lock ads 
+are right, the phone bill is effectively 
+reduced, but it doesn't say whose. L.W., 
+Houston, Texas. 
+Published for informational purposes only 
+STRENGTH IN NUMBERS! 
+Sign up all your friends for YIPL. $2 to 
+TAE Room 504, 152 W. 42 St.,NY,NY 10036 
+-When our subscription breaks 1000, we'll 
+have a super article! 
+BUTTON OFFER 
+we have these cute little Anti-Bell 
+Buttons to raise some bread, and at 
+50¢ each they probably will. We'd like 
+to see every person in the country 
+wearing these pretty soon. 10 for $3. 
+Dear YIPL, 
+If any YIPL reader has access to info 
+on a pig device called a curdler please 
+publish the description of the resona- 
+tor tubes. This device is developed 
+in France for use on rioters. Basically 
+it is a tone generator, amplifier, and 
+a hi-fi type exponential horn tweeter 
+fitted with resonator tubes. Supposedly 
+even a hand-held model can cause ear 
+damage and brain hemmoraging through 
+a sort of "sound laser" effect. Come 
+the revolution sympathetic stereos can 
+be turned against the pig. CCS. Yippie! 
+The Credit Card Computer we reported 
+to you about is not yet available to 
+all operators. So in some areas, the 
+old system of simply matching the 
+4th digit to the letter still works. 
+We've also heard that on the West 
+Coast,the computor is off from 2-4 
+a.m. for checking, and credit card 
+calls during that time are assumed 
+to be valid. The same thing is true 
+in other areas, but we don't know the 
+times. They may be the same. 
+by Youth Hot Line Reports, Inc. 
+BACK ISSUES 
+-Credit card calls-How to safely. 
+-Receive long distance calls free. 
+-The Blue Box(this issue) 
+-Pay phone issue 
+Back issue are back up to 50¢ each, 
+until we raise some more bread. 
+FROM TAP, Room S04, 152 W. 
+42 ST.,NY,N.Y. 10036 
+(Mair ONLY)

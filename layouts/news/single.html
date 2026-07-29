@@ -22,21 +22,37 @@
 
 </header>
 
-{{/* Select the first available live destination. */}}
-{{ $destinationURL := "" }}
+{{/* Select the destination for the "Read/View" link. Normally the first
+  available live source (source_url, then archive1_url, then archive2_url),
+  falling back to the local copy only once all three are dead or unset.
 
-{{ if and .Params.source_url (not .Params.source_dead) }}
+  `prefer_local: true` inverts this for pages where the local copy is the
+  better reading experience than the live source — e.g. a periodical
+  archive with its own corrected page order and OCR — and should always
+  be surfaced first, regardless of whether the live source still works.
+  This is deliberately a separate flag from source_dead/archive*_dead,
+  which track actual link health and must stay accurate; don't mark a
+  live source "dead" as a workaround to force the local file to show. */}}
+{{ $destinationURL := "" }}
+{{ $localURL := "" }}
+{{ with .Params.local_file }}
+  {{ with $.Resources.GetMatch . }}
+    {{ $localURL = .RelPermalink }}
+  {{ else }}
+    {{ warnf "Local file %q was not found for page %q" . $.File.Path }}
+  {{ end }}
+{{ end }}
+
+{{ if and .Params.prefer_local $localURL }}
+  {{ $destinationURL = $localURL }}
+{{ else if and .Params.source_url (not .Params.source_dead) }}
   {{ $destinationURL = .Params.source_url }}
 {{ else if and .Params.archive1_url (not .Params.archive1_dead) }}
   {{ $destinationURL = .Params.archive1_url }}
 {{ else if and .Params.archive2_url (not .Params.archive2_dead) }}
   {{ $destinationURL = .Params.archive2_url }}
-{{ else if .Params.local_file }}
-  {{ with .Resources.GetMatch .Params.local_file }}
-    {{ $destinationURL = .RelPermalink }}
-  {{ else }}
-    {{ warnf "Local file %q was not found for page %q" $.Params.local_file $.File.Path }}
-  {{ end }}
+{{ else }}
+  {{ $destinationURL = $localURL }}
 {{ end }}
 
 <div class="fullPost clearfix">

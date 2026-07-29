@@ -1,21 +1,651 @@
-TECHNOLOGICAL AMERICAN PARTYSegsor
-HELP IS NEEDEDWe need info on the following subjects for future articlesin TAP.Automatic Blue Boxes~ With info about where they're nec-essary.VendingMachjnes- Locks, getliny stuff, ete,Locks- New code books, picking Medeco, Sargent Keso,tricks, etc. .Radio- Setting up your own Slation, transmitter schematicsand building jammers, info on pirate station legal hassles.Burglar Alarms- Such as Holmes and other central stationalarms, bypassing, electronic keys andpicking, etc.Also, Maqnets, Overseas Phreaking, and Chemistry,Dear TAP-Your advice on turning back Con Ed nieters by hand isgreat-been doing it for years. However, you should men-tion that when turning the dials back, one Should be verycareful not to touch or even slightly rub the face of themeter, The black ink used to form:
-smudges very eaSily on the white background-They mustuse a special ink to get that effect. Also the white back-ground Stains easily from the slightest touch. Smudges putthe meter reader on notice that the meter has been tamp-ered with.The seal on the meter can be replaced So it wild Look un-touched if you uSe common Sense in evtting it (Any one knowhow?).But if there are smudges the meter reader closelyexamines the seal, which he wouldn't ordinarily do, andthen puts Con Ed hip to the game. This happened to me onceand I don't know their next Step since ] moved (for otherreasons) right after Con Ed put in a new unsmudged meterwith a new seal. But that is the only way Con Ed evercaught on in about 5 years. You should advise participantsto be careful not to get caught Since sect, 165.15-5 of N, Y.penal law states "with intent to avoid payment... foracharge...measured by a meter he tampers with such deviceor related equipment or in any manner attempts to preventthe meter or device from performing its measuring functior:-.-" is a class A misdemeanor and with a legal aid lawyeryou'll do the maximum sentence of 2 year.AlSo in any payphone, a 1/4" brass washer works foradime~not by putting tape over the holes which rarely worksbut simply by spitting on the washer, both sides. It takessome practice until you learn just how wet to get the wash-er; you may have to drop it in the slot a few times. Use a1/4"brass washer-not a #14, which is the same diameter,but has a bigger hole. J] have never yet used a phone thatdidn't work on these. Norks best on phones with lever coinreturns-knov return phones must be tried a few times.Keep up the good work. Fuck them all.S. - If you wrap some drano in aluminum foil then drop. foil tn water, hydrogen is produced. Don't know whatconcentration is explosive, but it has possibilities-droppedina toUlet, quantities of explosive gas are produced.
-NO. 24DECEMBER 1973Che New Year season makesus feelHull of joy, zest, and zealOhe joy we feel when we explodeOhe 1974 Credit Card Code! -1234567890.NXZAGSQFEUJ,10 use this cole, add the city code and then the code lettertoa phone number of the desired corporation. The letteris Jelermined by the 4th digit of the phone number. Exam-ple- Litton Industries in Los Anyeles is 273-7260, AreaCode 213, The code for Los Anyeles is 124, and the 5thGigitis 8. The Cre Card Nurnber is 273-760-124 F.Howpeople make calis is outlined in the Credit Card Fact Sheet.Dear TAP,I have noticed that all the envelopes J have received fromTAP have been opened. Twice they were resealed with a lotof glue, and once the envelope was just taped up loosely,after being opened at the top. It seems someone has madeit their duty to monitor private mail. Is this lejal? Maybesome of your readers have had this same problem.The number of the American Embassy in Moscow is 252-0011, To test Blue Boxes, dial KP 402 009 ST, then dialKP ll + digits + ST, up to 19 diyits. The computer willread back the numbers you dial correcUy. 901-725-9021 isa test # with the sound of a train.-TEXAS-Ed. Note: For two years we have had problems with ourmail, as you all know. But getting it intercepted by Bel) isanother story. In 1972, one reader reported that Bell sec-urity men knocked on the door and asked if they were theSame person whose initials had appeared under a certainletter in YIPL. They said, "We know you receive YIPL"(now TAP, of course). Another reader overheard Bell sec-urity calling their employer and saying,"He receives anewSletter called YIPL, which is part of a national conspi-racy of about 600 people", And we recently learned that ina bust,a Bell man was carrying an Issue of TAP address-ed to the bustee, THE ONE ISSUE THAT THEY DIDN'TRECEIVE, This is totally illegal without court order, andwe are Sure that some of the above cases werén't orderedby any court. We are examining Several possibilities atthis end, but any of you can pick up @ few bucks if you havea witness to evidence of mail tampering without a courtorder, and institute a suit against your local pigs. If anyof you know of direct evidence liking Bell or Post Officeofficials with mail tampering, let us know about it.Youth Hot Line Reports, Inc. 1973Movement groups may reprint with TAP's address, andplease send us copy of reprinted work.NY " Published for informational purposes only by Youth Hot Line Reports,.Inc.
-
-REPORT OH TOLL GRAD DETECTORSIt is now widely acknowledged unt Phone Phreaks havecontributed greauy to society. For example, we have >eenregarded by ATAT as “a inreat ta nauonal security”. Thisbas been of Service to our Presutentin bis more tryingmoments of atiempuny to raticralize ais grand larceny ofthe BIL of Rights. We have similarly enabled AT&T toblame rising phone rates pardy on iS. And row it Seemsthat we are puting people to work making devices tc catchus. A definite contribution to the nauaon's economy!The most obvious way to eliminate Blse Boxing is tochange the frequencies. Forturately, that's .mpossible.The whole fucking world has adcpoed MF (muitifrequency)as the starcdard. So the next thing tried was [o detect the2800 Hz. tone, which ls normally not present on custcmerphone lines, or even between certain Central Cifices(C, 0)Teltronics {we printed their credit card # in [ssue °O) hasa FFF-100 Fone Freak Fouler for jJetecting 2600 ils. toreslonger than .1,.2, or .5 seccrds(selectable}). Two nitsare mountedona card for rack mounting na C.C, for 3388.For 3350 they sella PFFF-1 Portble Sone Fregx Foilerchat also has tc channels and is smaller than a breadbox.When activated by a 2600 Ex. tone, it closes a relay thatcan be hooked up toa tape recorder, alarm beil -use, etc.It can also be wired to disconnect your line, too.Dianatek makes a 3295 SF and KP counter, It aly res-ponds when it hears 2800 (SF or Single Frequenc,’) followedoy Key Pulse widiin the next 20 seconds. Since most sen-Gers Umeoutby 20 seccnds, you can’t beat tt by Flowingoff and then counling lo 20 befare KP. This means Laat itwon't be fooled b7 false alarms of people picking up theirphones, dialing long distance information and wnistling.However, i: also won't respood to SF fraud, acne oy send-ing pulses of 2500 for each digit SF is still around in someplaces and we'll reporton it soon as receive info on it.Hekimian Laboratories(301 424-3180) seits a MOO. SLADizied Number Recorder, It records on paper tape like anadding machine, noting such trivia a8 every time you pickUp (o@ phone or Jang iLup, every call you recéive, andthe exact numbers you dial or toucn-tone. Cu, yes it noteswhen 260C appears on the line above'-31 dBm :n volume.Time is kept oy an internal clock wittf the datg, and fora measly $1000 you can add Multi-frequency printout 30that all Blus Boxed nurmoers will be recorded. It can alsoactivate other equipment like the others. A remote signalextender allows the Recorder to be used ata point that isnot connected by a £< loop, such as over carrier (and mult-iplexed) facies. 5000 calls ean be recorter before thepaper tape has to be replaced, so jon't heaitate to jigglethe switchhock before you yo (9 sleep tonite}Northeast Electronics makes a Simular Maled NumberRecorder, a little tess expensive, and a capacity for only900 calls on a roti of tape. Voiceprint labs nas another but‘ey doen't even detect 2600 unless you ‘ork over another$200 (after the initial 32000).Bramco (513 473-8271) makes cheapie tone Jecoders thatyou'd have to modify to nirn into a fraud detector.Hekimian also makes a Black Box detector shat detectsvoice currents on a ling wnich 1s not drawing ‘of{-hook”current from the C.O. [t also nas a 2600 detector that isused lo prevent "Reverse Sig* boxes, which s:mulate aplack box by sending 2600 back to the caller. informatonon Reverse Supervision boxes will be forthcoming,As for Red Boxes, the Phone Company is tslying on op-erator's ears. A lamp is usually aole to tall .f coins arepresent, but only when an operatcr manually -cUlects orreturns (or tries ta) coins. Stil, cperators are so used tobroken ¢quipment that you can vsvally act Inuigrnant if theyget suspicious ard get away with it. The trick is not tohave them collect or return money when Were isn't any,Bell's had their own stuff fora while, like a 2000 detec-lor woich activaied a normal tape recorder. They wouldthen use the tapes in court. And the Dialed Number Recor-ders are just fancy versionsofthe old Fen Register. A
-computer program that ccunts cOC calls for normal statis-Goal data is now uSed to ca atventicn te excesSive or for.GOO calls or $55-1212 cauc. Suspects get 24c0 vectorsplated on the:r lines as Une next Step. Bell's own swif wasali desime to be compat.dle with tne rest of he system,thus thar 2600 detectors 2ve "talk-orf protection. Thougtsore 2500 devectors have 3 marrow acceptance candwidtharnucd the center frequency, in this case 2600, Bell's havean additional feawre whicn rejects 25 ‘alse all 2600's thatare accompanied by other sourds. These can be bypassedby asing guard tones, alSo coming up s90n in TAP, out thepoor quality of ali the other manuf&aicturers doesn't allowhe use of guard (because iney dor.'t use talk-of).All of thease units work, and they ali nave limitations,Obviously, putting filters in all o2 the pnone Lines in thecountry is Loo expensive. Even putting in filters at pointsof concentration tat all lines must go through is rough,and will take time. These would prosably be ser up todrop a call rather than uracé it in order to discourasefurther poreak activity. This woulc be a definite summer.But we have one hope, and tnat is that we must rely onihe inflated egos of Bell's crack security force. Thesedudes know damn well wbat putting in filters and even thed@tectors won't earn them any points with ‘he top >rass.If Bell's own security can't Stop phone pnreg«s, waal thebell are they on tne precicus payroll for? {f any agertsare readir.g this, and we andw they are, we hope they askthemselves tnat question and get to work ‘(nding us with(heir own ingenuity, IF THEY CAN] Bob Kitzinger ofDlinois Bell Telephone admits they spend mure to catchuS than they get back. Cre day, isch, even JD mijht beforced by the diggies to acami:u this charade, al-ng withthe clowns. But Bop knows this and that's why tn oneporeaks have bope. If Boo gets every phresk in giinoisheii be out of a job. Yes, we'll bear rumors of tusw afi'ters ant detectors all ous» the place, and each timeSomeone is causht a buoadr:= capers will scream “ead-lines, but in reality it will «i be people Like Bob wro wantjob security, being PR peope rather than recommendingtbe most effective metho7s§ !: reir superiors and oelsiyreplaced by a machine, ‘.'.. :on't blame you, Bob,dow do we gel aroun the u-uectors that are around? Byusing common Sense. Monft ..4 home phones for BI.P BoxCalls. Don't bave 4 “favorite” booth (ar Red or Bluc ‘taxcalls. Don't Slay on icy on Flack Box calls. ‘Mitac;calling attention to yuursell, try cc find cutvhat the ‘toryis in your local C. 2. This ts sossible by asking yourBusiness rep. what kind of Svitehing system you've yor,yhey tell you 3omenmies, if ou Say you just read an Sri-icle about ESS (Ekectronic oyitching System), and you'redeing @ report for scnool. Seta jcocr bave @ friend ot& job at your C.O. Aci keep ail calls, even irom payPaones, under 10 minutes and even less if possible. YouCan maxe twice 85 Many -1.0 safely if ney're hai +s lnm.ty this gem: Use 3 Rad S:.° 3 call a cneap long dauinzenumber, and beep «/f to Blu: Box Lanul At the end =: weacall, give the operator her corey. FAy use a Blue ikexif you've gota Rea Box? Europe, Australia and Airs-:,for example! Most Booths won't hold ensugh Red 8c) i.Ifa Blue Box Detector records your call, there's 2chance that the number ycu 50x will ilso be Laped, ©¢.- besure to call cnly cool peccie, or amnesiacs, sr corp rat-ions. However, be moSt .TMportant security precauk ‘nyoucan take iS tow :'"h what) “u say. More phreaxs ha... eencaudht Decause j big mouvc Umnanyuhiin3j else. &-orewey Duta dete.cor on your vine, tney have to SusSpé © you,rignt? Don't brs; 1pout , us Dlack box when pecfl»y sudon't trust are ..thin earsnct. Bod says, “ 40st v1 3u2help on Black S-xes comes ircm informants". Dun't tellyour friend thar yau jast called them ‘with a hot creditcard or a r@d'>x or the 2perator may nm@ar you. Just actlike every phone -ou're 397 (8 tapped. [f you. Subscribe toTAP, they prooaply are!
-
-All informauon 18 free if you can't alford itBACK DS8UE3-S0¢~ TWO OF THEFINEST PUBLIC SERVANTSTHAT 1 VE KNOWN’ 1?- Red Bou, Line Ralaylg Call StopperLo Snoop Light40-Craene Sow21: Autonstic Prone Tapi- Extensions, conference awiichesZ- Giue Box Story aad Abdseon ripotisJ+ Telecommsory4- Pay Paone lewuefs Box 2 HOwobsckeratisows 17)Fa Toawg your organ 42.Aneueroebe Credit card ¢alls and 1U72? cxe 23- Free Biecttrinty& Super Oupar Prsject, Ceeiasce 11) en=SeLic Rece.ving ber) isaace all [ree.2~ Blue Bor Plans.3vbaternabonal Cals’ fru. Phansni4d-invernatonal Talis : AT"T Papersshel Creat Crue, T lietrecrselt‘=-KHed Box PlansFACT SHEETS-25°L.New Cre@it Card Fact Sheet AUITI- BELL MUTT Ol 50¢ neCESTRUCTORY ASS-STANCE-Free, mst=,Raceiving Lor, Distance Calle Fre sangas mucaintsas youwnatUc:ina(Gen. Tel. version of lesue 11) stan.ord, seif-adiressed envelope.Cisplayed sed BSow- 1K Haad CrasheSerng pete ge LS aeords ard uprrainee2600 ahistie Perfecior- 15¢ aly 7 GOD arthur Fon Larre.Dual Tome Gactilator with Interrupter-16¢ bteal Thia Boox- 32.23Sciedule fron gad Int'l Farwak Convention— FreeTo receive Sub. via first class enmvalepa, add 31.50¥2 Sudacription approx. 310 ismues/yr.Ausber On s@drasa aren ladicates [iret Lasve sent.Renew if your address nas a )t4cor leap on it,
-('24 Code and How to dao tt Safely)
-List of Dealractory Asaslatance Topica- } ree aonoapaly- $1.20
-livia, LOO36TAP, mUCal 504,42 OTL Nora ged.piling addrems orl:', check or soney Order anly, CASH,INDEX toissues 1-23All listings are under Issue Number and Pays Number, e.g.-17. 4 is Issue 17, page 4.Only piaces where actual information is givén are Listed under headings.Andie H-<énan 2.3;38.3Asgwero 2.1] Credit Cards (coat)City Codes 1, 1,4. 1,8. 3,15. 4 Phone Books 6. 2Monkay Wartere 4, 4:7.3;19,2Bell S7Ste::, Code) at Parary ‘/e‘ers4 2:19.1Erodi 13 4. 4 1OT8 Le 4 Pay PhcresMia griddustrial Complex 2, 4-20.4Pol. xy ~yoperztisa 1.343,5,198. 1Pouey ) 25.4527, Lia. 11a 1,21, 3,22.2Pour ccry.c@ ladSO ala 24:28 1Sutusty 5 2.3,19.2:27, 1:19, 4:20, 3Pills Procm {fedcciny &2; 15, 2:20. 4Black bo.
-code Bulreq 8.3pompuer 12.4512, 4Uf Bell Ynacks 5. 4:7. 2:3.9)14. 3,17. 1Mumoers 1.1:3.2;4,.2.5. -83;14.°Hide ait. 3°4519,4:20,2.3Press Censersaip 5.2Salery 5.3:5.3,:4 ale. yCurher 12. 415.529.4
-CaUect Calla To 4.315. 25241ose Tas 17,2517. 35:7. 4Imigars Tria Somes 1.354, E19. 2Lis, Piteing seTSrcel Cuts 22,3recs, T2his 2.257.93Feccru.s3 Co.1 Sounds 41Fefinas 4.2:15.2;11.3Fame FIZ S leak ¥ te Ferrers, Cz! 4.2,11,3 -Hoo. corns V2.3 me nS Sta 2-48. 118.2 Sk: 3Sent cs 2 Fisas @9;41.2 ae Me WA Te mee BM Be As VY Daercirk &ajl. hl 3282Sub oo: nae ns 10.3 - . Phors 51swh gd: in18,2:20. 4 Removing ¢.2 . free i2.4Blue: , Sa) .Biln! Cpeed 17.6 Sahay:7)Aas: oacent lie 14 Es tS troppany 1. J:Cae t So ee 5224 Phone Duccare 2 2:7.2:9.2:19.2, G1 14. &Als. eve iuert Plas) 6.3 bi9, 2.20. Sal, Jee. S4,.3,05. 0,251, 3,4 20.1, 521.1, 522.2~e Electric Melrs «o2,0,23 . sed. 4 Red bes: t=. eo 414. 115, 2:22. 2 Extarsh20s 9 Correcticn 21, 2:22. 4Nou ah. 1,18.9;36, 2:20, 3:22.2 Acqibrirg oi7h; ve 22.3 Setetn23 22.3vie ; 62,45. 5512.2 Detectny t,2)29, 1,51. 3,22, Dsl Tyne felacs) 17.2: ° aa e358 th &chroom 9.2. inprrveT 233 i7.2:19.8oy F eee wt Instablazan 1.2 Seog hd* wit? “Ji we Daypaeis Ne eddlitt ab oils 13.3,14.2 15,215 422.2 Films, Pecueg Phare C9, 22. 4 Pesncesce Tyre (Flasshl6.2. we ea Tyre comps ==. 2 Usa] 1211."9nas Wwe. Firewarrns J1.3 teas‘eo uy “pe Recorder 4.1519.2xy ‘ An: ’ i Syse Calls 17.3 Sabo.je ‘43°74wicket feline Hothran-See ALOte . Safary 2%:24.3,18. 317.1Dee eeapene 14.3 Had Hatton 1.2 Shorrave cl. 4Pre. i¢soremip b% ine rat ral Calls Stazs B70,2:20 01 lk48 f“* SA Cwit$=lee Blue Sox Enszp Li-rt2 13.3co an Pies 12.2 Corea Cars to si S, 1e.3 Suts2y 193 °Ten nag N24 Flacua 14. si20. 2 Sopermircet Ripotis 4.2;29, 3ts wih. Joeanewma Space 2;14.2ae”+. ape Recorder 2,1 Jalety 19. 7,135.1< wits 2k S:pearya.2a 22.2Ssppliers 7. 3,0. 2,22. 12. 0514. 2516.218.2;Lie Xtector 2t.4 TS. het,SMe Sh, Line, Tettay free Exura52 a Meteora 4. waSu. =. Soe Liane: cpay 17.3 T.ps x SU OATESShea. 3;22.47 U st et Lock 719. Acbomaue ~iedRCS: ae Reers mth 73.3 Tele-orerains 2.3~ oP ‘ Ficainy Phones 9,2 Test liumzers 23. ad 2.45.2, 4,16 6:17.34:. ‘eu in 2,3 Loopa 13.2,.4,2;17, 3:17. 4 229,929, 2.09.1, 5,21, 3:22,2ite taeda Ta, Mai) Third fierver Attia rGH3¢* feo, Cessoriny 7. 1;108. 4:19. 2 Tip and Rin 15.!Canter. g i. fT. 902 Free $.2:3. 4:0. 4,22. 4 Tokl Restrictirs 22.3Convert. a Macker:d 14.1 Tomthtong Feen er es 7.4512,2nw Money Cchemes Votceprinus .4. G02. 4Bill Chacspere 6.JCum. Stares 7.2 War Promucts ll. ¢War Tux Aerurivoe Lodi 4
-
-Dear TAP,Black Box Detection depends on the kind of switching equi-pment you have in your C,O.: Identification Step by Step:Dial your own number and listen after each digit. If itmakes a distinct click or clicks after most of the diqitsyou have SXS. If you get nothing except a distinct KlunkKlunk sound after the Inst diyit only, before you have abusy you lrve Crossbar,cither no, | (the first kind Pa Re)created or no. », the jmproved varicty. We your busy sigenal Sounds real music: rather than the normal harsherbusy you probably hive no, 2 155, Black boxes are consid-ered safe only on no. ! or possibly no, t crossbar, Tt canbe used on SXS but for ody very Short perixds, unkossyour C,O, switchroom Js unatlermcd at Ure Lime you usethe box or if the C, O, doesn't hove CPH alarms. The pur-pose of these is not to catch boxcs (although it works forthat) but to keep Someone who called you from holdiny yourline up in case they don't hang up, If the alarm comes inonce in 2 while the switchman will just get up and knockdown the connection (you'l) be disconnected, and after aminute or more) but he'll get VERY Suspicious if it happenstoo often and he myy listen in, If he hears a conversationand the alarm says one person huny up, well... Somecheap offices don’t hive alarms, they're safe for boxing.To find out, call some business you can't stand in the sameoffice (same prefix or first 3 digits) and after they hang upsit on the line. Make the call just before they close for theday, or they'L) call the phone co. and have the connectionknocked down. Or try 8 friend who doesn't mind his linebeing held up for half a day. After that time, if you're stillholding the line up, either the office doesn't have alarms orit is unattended during that time, ESS is almost impossibleto use any kind of box with; move to a different area. Or{ind a friend who works in the switchroom to re-programthe computer to give you the neat extra cost features likecall forwardiny free!California loop aroun? numbers vary widely across thestate, but in Southern California the pattern is ¥XX-1118and XXXK-1119 or XXX-0118 and 0119. Most charge, someare free when called from the same area code but chargeoutside that area code.~CALIFORNIA-SF CHROWICLE 12/16/73-Kidnapers Get Van, $3000Oakland pole were
-an phone booth saliectorof $3000in coinSergeant EA Subice saidwas fitting io her PacificTelephene Ce. van in front? FeothiD boulevard atwm whea amaawithasuddenly appeared bethe van.~~i155bica the man
-EFfeice:tfxixEyecood man entered the vantrem the passenger trdeWah Mrs Alesi betveentherm. the two drove Wireavemees where they stoppedand the driver getovtA third maa, whe wes a>parently waiting fer thenthere handed 3 pair of bolteutiers to lhe Griver abnThey returnedta an areneear wherethe heldup beand the @ivergotou!. Théotere he cutihe
-ti
-padlocks off the rear doorsof the van, grabbed the mon-ey inside, then returned tothe cab.They drove te the (aklanetHig. where the (wo ovencook aa additions! $21 from‘Mirae Alessi and ordered hereut of the van on Redwoodread mear Skyline boule-vard) They bet her thereand drove away ia the van.
-Dear TAP,A friend showed me an amaziny cataloy from AmcricanColonial Armament, 1 Riverside Road, Riverside, U1.60544, In addition to a large selection of electronic bugs,bug detectors, surveillance units, and other electronicgoodies, it contains weapons, police equipment, army sur-plus and books. Just about everything Abbie mentions inSteal This Book. It's a litUe right wingy in tone, but a realtrip to read. Cost is $2.00. Keep up the excellent work.-OHTO-Dear TAP,Better tell people to turn off most if not all the powcr inthe house when they pull the meter. When you put it backin, if there Is a good load it could blow out, Just throw themain switch at the fuse box, There Is a meter direct wiredhere that is working fine.-FLORIDA-Dear TAP,Brainstorm! If you want to find out who owns a local #, call’the business office and say "Service rep please, 329 resid-ence (or whatever the exchange is, and whether business orresidence)". The operator will switch you, and when therep. answers, order an out-of-town directory. They'll askyou a number of questions, and then they'll ask for yourphone # So that they can get your name and address. Givethem the number you want to check, and then when the repcomes on and says, "Alright, Mr. Roberts, I'll handleyour request", complete the call and then check the direc-tory for which Mr. Roberts matches the number. This is away to get around the telco ripoff of allowing law agenciesto find who owns a number, but not Joe Public.-TEXAS-Abble's case has gone to court with a motion to drop allcharges on the grounds that cocaine is improperly clas-sified as a narcotic with heroin. The judge complimentedthe defense on the extent of their research and document-ation but refused the motion. His case goes to trial soon &money is desperately needed, so if you can help with a fewbucks please send it to:Abbie Hoffman & Friends DefenseFund, 840 Broadway, N. Y.,N. Y, 10012, don't send cash!TAP has courses on Basic Electricity that are easilyunderstood, no matter how little knowledge of Electronicsyou already bave. You learn by building useful projects andexperiments such as those in TAP. In fact, you Should beable to build any project in TAP after 6 courses, which are50¢ each (free if you can't afford i. 3 courses are avail-ahle now, A-Basic Electricity, B-Alternating Current, andC- Basic Phones, with more coming soon. We urge you tosend for them if you want a quick education in electricity.If you want to meet other phreaks in your area, and arewilling to be met, write to Meat. We'll accumulate a listof names and match you up with someone nearby as 500n aspossible, and notify you both.T-shirts will be coming soon, but we don't have themyet, They'll look like choice no. 1 in Issue 22.TAP, ROOM 504, 152 W. 42 ST., N.Y.,N.Y. 10036
+TECHNOLOGICAL AMERICAN PARTY 
+HELP IS NEEDED 
+We need info on the following subjects for future articles 
+in TAP. 
+Automatic Blue Boxes- With info about where they're nec~ 
+essary. 
+Vending Machines- Locks, getting stuff, ete, 
+Locks- New code books, picking Medeco, Sargent Keso, 
+tricks, etc. 
+Radio- Setting up your own station, transmitter schematics 
+‘and building jammers, info on pirate station legal hassles. 
+Burglar Alarms- Such as Holmes and other central station 
+alarms, bypassing, electronic keys and picking, etc. 
+Also, Magnets, Overseas Phreaking, and Chemistry, 
+Dear TAP- 
+Your advice on turning back Con Ed meters by hand is 
+great-been doing it for years. However, you should men- 
+tion that when turning the dials back, one should be very 
+careful not to touch or even slightly rub the face of the 
+meter. The black ink used to form: 
+3 
+2s 
+smudges very easily on the white background-They must 
+use a Special ink to get that effect. Also the white back- 
+ground stains easily from the slightest touch. Smudges put 
+the meter reader on notice that the meter has been tamp- 
+ered with, 
+The seal on the meter can be replaced so it will look un- 
+touched if you use common sense in cutting it (Any one know 
+how?).But if there are smudges the meter reader closely 
+examines the seal, which he wouldn't ordinarily do, and 
+then puts Con Ed hip to the game. This happened to me once 
+and I don't know their next step since I moved (for other 
+reasons) right after Con Ed put ina new unsmudged meter 
+with a new seal. But that is the only way Con Ed ever 
+caught on in about 5 years. You should advise participants 
+to be careful not to get caught since sect, 165, 15-5 of N, Y. 
+penal law states "with intent to avoid payment... for a 
+charge... measured by a meter he tampers with such device 
+or related equipment or in any manner attempts to prevent 
+the meter or device from performing its measuring functior 
+..." is a class A misdemeanor and with a legal aid lawyer 
+you'll do the maximum sentence of 2 year. 
+Also in any payphone, 
+a 1/4" brass washer works for a 
+dime-not by putting tape over the holes which rarely works 
+but simply by spitting on the washer, both sides. It takes 
+some practice until you learn just how wet to get the wash- 
+er; you may have to drop it in the slot a few times. Use a 
+1/4"brass washer-not a #14, which is the same diameter, 
+but has a bigger hole. I have never yet used a phone that 
+didn't work on these. Works best on phones with lever coin 
+returns-knob return phones must be tried a few times. 
+Keep up the good work. Fuck them all. 
+P.S.- If you wrap some drano in aluminum foil then drop 
+the foil in water, hydrogen is produced. Don't know what 
+concentration is explosive, but it has possibilities-dropped 
+ina 
+toilet, quantities of explosive gas are produced. 
+-NY- 
+NO. 24 
+DECEMBER 1973 
+Ghe New Year season makes us feel 
+Hull of joy, zest, and zeal 
+The joy we feel when we explode 
+Che 1974 Credit Card Code! 
+oO 
+1234567890 
+NXZAGSQFUJ 
+.To use this code, add the 
+toa phone number of the 
+desir 
+is determined by the bth digit 
+ple- Litton Industries in Los An 
+Code 213, The code for 
+Los Anyeles is 124, and the 5th 
+digit is 8, The Credit Card Number is 273-7260-124 F.How 
+people make calls is outlined in the Credit Card Fact Sheet. 
+je and then the code letter 
+corporation. The letter 
+the phone number. Exam- 
+les is 273-7260, Area 
+Dear TAP, 
+Ihave noticed that all the envelopes I have received from 
+TAP have been 
+opened. Twice 
+they were resealed with a lt 
+of glue, and once the envelope was just taped up loosely, 
+after being opened at the top. It seems someone has made 
+it their duty to monitor private mail. Is this legal? Maybe 
+some of your readers have had this same problem 
+The number of the American Embassy in Moscow is 252- 
+0011. To test Blue Boxes, dial KP 402 009 ST, then dial 
+KP 11 + digits + ST, up to 10 digits. 
+The computer will 
+read back the numbers you dial 
+correctly. 
+901-725-9021 is 
+a test # with the 
+s ound of a tr: 
+Ed. No! 
+r two years 
+we have had problems with our 
+mail, as you all know. But getting it intercepted by Bell is 
+another story. In 1972, one reader reported that Bell sec- 
+urity men knocked on the door and asked if they were the 
+same person whose initials had appeared under a certain 
+letter in YIPL. They said, "We know you receive YIPL" 
+(now TAP, of course), Another reader overheard Bell sec- 
+urity calling their employer and saying,"He receives a 
+newsletter called YIPL, which is part of a national conspi- 
+racy of about 600 people". And we recently learned that in 
+a bust,a Bell man was carrying an Issue of TAP address- 
+ed to the bustee, THE ONE ISSUE THAT THEY DIDN'T 
+RECEIVE, This is totally illegal without court order, and 
+we are sure that some of the above cases werén't ordered 
+by any court, We are examining several possibilities at 
+this end, but any of you can pick up a few bucks if you have 
+a witness to evidence of mail tampering without a court 
+order, and institute a suit against your local pigs. If any 
+of you know of direct evidence liking Bell or Post Office 
+officials with mail tampering, let us know about it, 
+Youth Hot Line Reports, Inc. 1973 
+Movement groups may reprint with TAP's address, and 
+please send us copy of reprinted work. 
+Published for informational purposes only by Youth Hot Line Reports, Inc,
+REPORT ON YOLL FRAUD DETECTORS 
+It is now widely acknowledged that Phone Phreaks have 
+contributed greatly to society. For example, we have been 
+regarded by AT&T as "a threat to national security". This 
+has been of service to our President in his more trying 
+moments of attempting to rationalize his grand larceny of 
+the Bill of Rights. We have similarly enabled AT&T to 
+blame rising phone rates partly on us. And now it seems 
+that we are putting people to work making devices to catch 
+us, A definite contribution to the nation's economy! 
+‘The most obvious way to eliminate Blue Boxing is to 
+change the frequencies. Fortunately, that's impossible. 
+‘The whole fucking world has adopted MF (multifrequency) 
+as the standard. So the next thing tried was to detect the 
+2600 Hz. tone, which is normally not present on customer 
+phone lines, or even between certain Central Offices(C, O,) 
+Teltronics (we printed their credit card # in Issue 20) has 
+a FFF-100 Fone Freak Foiler for detecting 2600 Hz. tones 
+longer than .1,.2, or .5 seconds(selectable). Two units 
+are mounted on a card for rack mounting in a C, O, for $98. 
+For $350 they sell a PFFF-1 Portable Fone Freak Foiler 
+that also has two channels and is smaller than a breadbox. 
+When activated by a 2600 Hz, tone, it closes a relay that 
+can be hooked up to a tape recorder, alarm bell, fuse, etc. 
+It can also be wired to disconnect your line, too. 
+Dianatek makes a $295 SF and KP counter. It only res- 
+ponds when it hears 2600 (SF or Single Frequency) followed 
+by Key Pulse within the next 20 seconds. Since most sen- 
+ders time out by 20 seconds, you can't beat it by blowing 
+off and then counting to 20 before KP, This means that it 
+won't be fooled by false alarms of people picking up their 
+phones, dialing long distance information and whistling. 
+However, it also won't respond to SF fraud, done by send- 
+ing pulses of 2600 for each digit. SF is still around in some 
+places and we'll report on it soon as receive info on it, 
+Hekimian Laboratories(301 424-3160) sells a $4000. 51A 
+Dialed Number Recorder. It records on paper tape like an 
+adding machine, noting such trivia as every me you pick 
+up the phone or hang it up, every call you receive, and 
+the exact numbers you dial or touch-tone. Oh, yes it notes 
+when 2600 appears on the line aboveé'~31 dBm in volume, 
+‘Time is kept by an internal clock wit the date, and for 
+a measly $1000 you can add Multi-frequency printout so 
+that all Blue Boxed numbers will be recorded, It can also 
+activate other equipment like the others. A remote signal 
+extender allows the Recorder to be used at a point that is 
+not connected by a DC loop, such as over carrier (and mult- 
+iplexed) facilities. 5000 calls ean be recorder before the 
+paper tape has to be replaced, so don't hesitate to jiggle 
+the switchhook before you go to sleep tonite! 
+Northeast Electronics makes a similar Dialed Number 
+Recorder, a little less expensive, and a capacity for only 
+500 calls on a roll of tape. Voiceprint labs has another but 
+it doen't even detect 2600 unless you fork over another 
+$200 (after the initial $2000). 
+Bramco (513 773-8271) makes cheapie tone decoders that 
+you'd have to modify to turn into a fraud detector. 
+Hekimian also makes a Black Box detector that detects 
+voice currents on a line which is not drawing "off-hook" 
+current from the C,O, It also has a 2600 detector that is 
+used to prevent "Reverse Sig" boxes, which simulate a 
+‘black box by sending 2600 back to the caller. Information 
+on Reverse Supervision boxes will be forthcoming. 
+“As for Red Boxes, the Phone Company is relying on op- 
+erator's ears. A lamp is usually able to tell if coins are 
+present, but only vhen an operator manually collects or 
+returns (or tries to) coins. Still, operators are so used to 
+broken equipment that you can usually act indignant if they 
+get suspicious and get away with it. The trick is not to 
+bave them collect or return money when there isn't any. 
+Bell's had their own stuff for a while, like a 2600 detec~ 
+tor which activated a normal tape recorder. They would 
+then use the tapes in court, And the Dialed Number Recor- 
+ders are just fancy versions of the old Pen Register. A 
+computer program that counts 800 calls for normal statis- 
+tical data is now used to cali attention to excessive or long 
+800 calls or 555-1212 calls. Suspects get 2600 detectors 
+placed on their lines as the next step. Bell's own stuff was 
+all designed to be compatible with the rest of the system, 
+thus their 2600 detectors have "talk-off" protection, Though 
+some 2600 detectors have a narrow acceptance bandwidth 
+around the center frequency, in this case 2600, Bell's have 
+an additional feature which rejects as false all 2600's that 
+are accompanied by other sounds. These can be bypassed 
+by using guard tones, also coming up Soon in TAP, but the 
+poor quality of ali the other manufacturers doesn't allow 
+the use of guard (because they don't use talk-off). 
+All of these units work, and they all have limitations. 
+Obviously, putting filters in all of the phone lines in the 
+country is too expensive. Even putting in filters at points 
+of concentration that all lines must go through is rough, 
+and will take time. These would probably be set up to 
+drop a call rather than trace it in order to discourage 
+further phreak activity. This would be a definite bummer. 
+But we have one hope, and that is that we must rely on 
+the inflated egos of Bell's crack security force. These 
+dudes know damn well that putting in filters and even the 
+detectors won't earn them any points with the top brass. 
+- 
+If Bell's own security can't stop phone phreaks, what the 
+hell are they on the precious payroll for? If any agents 
+are reading this, and we know they are, we hope they ask 
+themselves that question and get to work finding us with 
+their own ingenuity, IF THEY CAN! Bob Kitzinger of 
+Illinois Bell Telephone admits they spend more to catch 
+us than they get back. One day, Bob, even JD might be 
+forced by the biggies to abandon this charade, along with 
+the clowns. But Bob knows this and that's why phone 
+phreaks have hope. If Bob gets every phreak in Illinois 
+he'll be out of a job, Yes, we'll hear rumors of busts and 
+filters and detectors all over the place, and each time 
+someone is caught a hundred papers will scream head- 
+Hines, but in reality it will all be people like Bob who want 
+job security, being PR people rather than recommending 
+the most effective methods to their superiors and being 
+replaced by a machine. We don't blame you, Bob. 
+How do we get around the detectors that are around? 
+By 
+using common sense. Don't use home phones for Blue Box 
+calis. Don't have a "favorite" booth for Red or Blue Box 
+calls, Don't stay on long on Black Box calls. Without 
+calling attention to yourself, try to find out what the story 
+is in your local C, O, This is possible by asking your 
+Business rep. what kind of switching system you've got, 
+‘They tell you sometimes, if you Say you just read an art- 
+icle about ESS (Electronic Switching System), and you're 
+doing a report for school. Get a job or have a friend get 
+job at your C.O, And keep all calls, even from pay 
+phones, under 10 minutes and even less if possible. You 
+can make twice as many calls safely if they're half as long. 
+Try this gem: Use a Red Box to call a cheap long distance 
+number, and beep 
+off to Blue 
+Box Landi At the end of the 
+call, give the operator her money. Why use a Blue Box 
+if you've got a Red Box? Europe, Australia and Africa, 
+for example! Most booths won't hold enough Red Box $. 
+Ifa Blue Box Detector records your call, there's a 
+chance that the number you box will also be taped. So be 
+‘sure to cail only cool people, or amnesiacs, or corporat- 
+ions, However, the most important security precautionyou 
+can take is to watch what you say. More phreaks have been 
+caught because of big mouths than anything else. Before 
+they put a detector on your line, they have to suspect you, 
+right? Don't brag about your black box when people you 
+don't trust are within earshot. Bob says, " Most of our 
+help on Black Boxes comes from informants", Don't tell 
+your friend that you just called them with a hot credit 
+card or a red box or the operator may hear you. Just act 
+like every phone you're on is tapped. If you.subseribe to 
+TAP, they probably are!
+All information is free if you can't afford it, 
+BACK ISSUES-50¢ 
+1+ Extensions, conference switches 
+2+ Blue Box Story and Abbie on ripotts 
+‘3+ Telecommand Story 
+4- Pay Phone Issue 
+“..TWO OF THE 
+FINEST PUBLIC SERVANTS 
+THAT I'VE KNOWN” 
+17-Red Box, Line Relay 
+19-Cali Stopper 
+19-Snoop Light 
+20-Cheese Box 
+& Bite Bor } >> now obsoletetismus 12) 
+21-Autonatic Phone Tap 
+‘7 Tunlng your 
+22-Ansveroo 
+- Credit card calls and 1972 code 
+23- Free Electrisity 
+95 Supor Duper Projecytige issue 11) 
+A1-Recelving long distance calls free 
+12-Blue Box Pans 
+\S-International Calls’ Box Plans. 
+M4-International Calls #2 ATT Papors 
+1fi~1973 Credit Code, T Network 
+\-Red Box Plans 
+FACT SHEETS-257 
+1,New Credit Card Fact ‘Sheet 
+('74 Code and How to do it 
+Safely) 
+Lon, Distance Calls Fre 
+AUTI-BELL BUTTON $06 10/83.00 
+DESTRUCTORY ASSISTANCE-Free, just 
+‘sond as much info as you want back in & 
+stamped, self-addressed envelope. 
+2600 whistle Perfector- 15¢ 
+Dual Tone Uscillator with Interrupter-16 
+stance Topics- Free 
+Schedule fron 2nd Int'l Phreak Convention— Free 
+‘envelope, add $1.50 
+List of Destructory Al 
+To receive Sub, via first cla 
+$2 Subscription approx, 10 issues/yr. 
+ttonew 
+1f your address has a 14 or le: 
+TAP, ROCM 504, 152 
+W, 42 ST.,N.Y. Ne 
+sailing address on} 
+INDEX to issues 1-23 
+Ltr 
+pednr poccwnrds 
+at syeratnr~ 
+! 
+a 
+bteal This Buok-$2,25 
+stonopol 
+y- $1.20 
+Number on address area indicates first issue sent, 
+on it, 
+10036 
+check or money order only, NG CAS! 
+All listings are under Issue Number and Page Number, e.g.-17. 4 is Issue 17, page 4. 
+Only places where actual information is given are listed under headings. 
+Abbie Hoffman 2.3;18.3 
+Greait Cards (cont. 
+Answeroo 22.1 
+City Codes 1, 1;0.1;8. 3:15. 4 
+Bell System 
+Code1971 1. 
+Buildings 9.4 
+1972 8.3 
+Milltary-Industeial Complox 2. 4;20.4 
+1973 15.4 
+Collect Calls To 4. 
+35 
+eather te 3 
+Froe Calls 17.21 
+yr 
+10. 
+3;12. 
+5 Cain So 
+Gompatar 10.3:12, 
+Mating 
+Coln Soants 1.3; 
+320.8 
+Bickel Cstts 
+Statistles 5. 3;16.2;17, 1;18. 
+4;20.3 
+Bills Phone (Reducing) 6.2;15.2;20, 4 
+Black Box 
+‘Detucting 12. 1518. 2;19,2 
+Hew it Works 9.3;11,3 
+Schematics and Plans 9,3;12.2 
+Steal This Book plans 10.3 
+Numbers 1. M 
+Penny Cells 4.2;7.3 
+Recording Co!n Sounds 4.2 
+Refunds 4.2;19.2;11.3 
+Retrieviag Cains 4.3;11.3 . 
+Stuss 
+T Hierwork 41:7. 3)18, 316.1 
+Sin 3 
+8:10. 
+3511, 
+2; 
+Removing 0.2 
+eet? 9.3510, 3312, 2:15. 2:20. 
+4 
+Adjasting Spoed 17.2 
+‘Advarticement 
+for 13.4 
+Eavesirepping } 
+57. 
+159. 2510. 2, 4513. 1334. 25 
+19. 1, 4521. 1, 3322.2 
+Amplifier-Nixor{Piaus) 6.3 
+Electric Meters 
+City Codes 
+Country Cates 19,3316, 
+Err ang 6: 
+Corrention 21.2;22, 
+4 
+Prenuonsias 2,46, 102,2 
+Detecting 1. 
+Bint Type (Flana) 27.2 
+How it Works 12. ab 
+In Bethroom 8,2 
+inpvenens 17.2;19.2 
+Anduetion Coupler 6.1 
+- 
+Pulses 12.1 
+InternaUonal Eas 13, 3514. 215, 2;15. 4522.2 
+Films, Renting Phone Co. 22.4 
+Pushbut!se Type (Plans);16.2 
+Musical totes 7.4 
+Exrebombs 22.2 
+Using 13.1;15.2 
+Firewor's 21.3 
+a 
+Gisolescence 82 
+Fireworks 
+21-9 
+sanoEig Tam Recorder 4.1:10.2 
+Sreiveee 
+Hottman-Seo Abbie 
+3:15. 3;16.9517.2 
+Preas Censorsbip 16.9 
+Hold Button 
+1-2 
++ 
+Eafety 17.1 
+Codes-See Blue Box 
+3 Bilo.2:13. 18. 4319.1 
+Schematlc(Plans) 12.2 
+Creiit Card to 
+U.S. 18.9 
+Signetics VCO 13.1 
+ard 
+. 
+‘Dunk 7.4312. 9313, 2514 2 
+Pilsen 
+13, 3522, 
+Supermarket Ripotts 8,2;20, 3 
+Using 
+2. 150-156. 9512, 319.2514,2 
+aa 
+Supervision 20.2 
+Usitay Tape Recorder 2.1 
+Lie Dot 
+‘23, 4 
+Suppliers 7. 3,8. 1;11.1;12. 2314. 2;16. 2316.2; 
+Book Clubs 1.1 
+tector 
+22. 
+1.3 
+Bugs-Sce Taps 
+Line, Getting freo Extra 5.2 
+‘T-Netzork 
+q 
+Call Stepper 18.2 
+Line Relay 7.3 
+Taps 3.3;9. 
+1518, 
+Cheese Box 20, 
+Lock. 
+Tap, Autamatc 21.3 
+‘Computors 10. 3;12.4 
+Rollersmith 23.3 
+Telocommand 3.3 
+Catch Red Box 22,3 
+Picking Phone 9.2 
+Test Numbers 13. 
+Crimincls 18.1 
+Eva 10.2514.2;17, 
+mmira 
+18. 
+Ripple Off 9.1 
+Number Billing'4, 3; 
+Conference 1.2:17. 4;20, 2 
+onsoring 7 
+Tip and Ring 13.1 
+Convention 
+Free 3.2}, 
+‘Toll Restrictors 22.3 
+First 12,1 
+Mackeral 14.4 
+‘Touchtone Frequencies 7. 4;12,2 
+Second 21.2 
+Money Schemes 
+Votceprints 14. 4;22. 4 
+Credit Cards 
+‘BOI Changers 16.3 
+War Products 11.4 
+Calls to U, 5, 18.3 
+Dent, Stores 7.2 
+‘War Tax Reeirtance 1,456.4.
+on the kind of switching equi- 
+pment you have in your C, O,: Identification: Step by Step: 
+Dial your own number and listen after each digit. If it 
+makes a distinct click or clicks after most of the digits 
+you have SXS, If you get nothing except a distinct Klunk 
+Klunk sound after the last digit only, before you have a 
+busy you have Crossbar,cither no, 1 (the first kind Pa Rell 
+created 
+or no. 5, the improved variety. If your bi 
+nal sounds real musical rather than the normal ha 
+her 
+busy you probably have no. 1 ESS. Black boxes are consid- 
+ered safe only on no. » or possibly no. 1 crossbar, Tt can 
+be used on SXS but for only very short periods, unless 
+your C,O, switchroom is unattended at the time you use 
+the box or if the C,O, doesn't 
+have CPH alarms. The pur- 
+pose of these is not to catch boxes (although it works for 
+that) but to keep someone who called you from holding your 
+line up in case they don't hang up. If the alarm comes in 
+once in a while the switchman will just get up and knock 
+down the connection (you'll be disconnected, and after a 
+minute or more) but he'll get VERY suspicious if it happens 
+too often and he may listen in, If he hears a conversation 
+and the alarm says one person hung up, well... Some 
+cheap offices don't have alarms, they're safe for boxing. 
+To find out, call some business you can't stand in the same 
+office (same prefix or first 3 digits) and after they hang up 
+sit on the line. Make the call just before they close for the 
+day, or they'll call the phone co. and have the connection 
+knocked down, Or try a friend who doesn't mind his line 
+being held up for half a day, After that time, if you're still 
+holding the line up, either the office doesn't have alarms or 
+it is unattended during that time. ESS is almost impossible 
+to use any kind of box 
+with; move to a different area, Or 
+find a friend who works in the switchroom to re-program 
+the computer to give you the neat extra cost features like 
+call forwarding free! 
+California lodp around numbers vary widely across the 
+state, but in Southern California the pattern is XXX-1118 
+and XXX-1119 or XXX-0118 and 0119. Most charge, some 
+are free when called from the same area code but charge 
+outside that area code. ~CALIFORNIA- 
+SF CHRONICLE 
+12/16/73 
+Kidnapers Get Van, $3000 
+Oakland police were 
+padlocks off the rear doors 
+still looking yesterday 
+for 
+_of the 
+van, grabbed the mon- 
+‘a telephone company van 
+ey inside, then returned to 
+stolen Wednesday after- 
+the cab. 
+noon by two men who kid- 
+They drove to the Oakland. 
+naped and robbed a wom- 
+Hills. where the two men 
+‘an phone booth collector 
+took an additional $21 from 
+‘of $3000 
+in coin. 
+Mrs. Alesi and ordered her 
+‘Sergeant Ed Subica said 
+oult of the van on Redwood 
+Nancy Alesi. 21. had just 
+road ear Skyline boule- 
+completed her rounds and 
+ard. 
+‘They lett her there 
+was sitting in her Pacific 
+7d drove away inthe van, 
+Telephone Co. van in front 
+of 3617 Foothill boulevard at 
+1:35 p.th. when a man with a 
+gun suddenly appeared be- 
+side the van. 
+‘She told Subica the man 
+pointed the gun through the 
+window and erdered her to 
+move over. As he got in be- 
+hind the wheel. she said. a 
+second man entered the van 
+from the passenger side 
+With Mrs. Alesi between 
+them. the two drove tite 
+locks to 33th and Hess 
+avenues. where they stopped 
+and the driver got out 
+A third man, who was ay 
+parently waiting for ther 
+there. handed a pair of bolt 
+cutters to the driver. who 
+then got back in the van and 
+drove off again. 
+‘They returned to an area 
+near where the holdup be- 
+fam and the driver got out 
+again. Thie time he cut the 
+Dear TAP, 
+A friend showed me an amaziny catalog from American 
+Colonial Armament, 1 Riverside Road, Riverside, Il. 
+60546, In addition to a large selection of electronic bugs, 
+bug detectors, surveillance units, and other electro 
+goodies, it contains weapons, police equipment, army sur- 
+plus and books. Just about everything Abbie mentions in 
+Steal This Book. It's a little right wingy in tone, but a real 
+trip to read, Cost is $2.00, Keep up the excellent work, 
+-OHIO- 
+Dear TAP, 
+Better tell people to turn off most if not all the power in 
+the house when they pull the meter, When you put it back 
+in, if there is a good load it could blow out, Just throw the 
+main switch at the fuse box. There is a meter direct wired 
+here that is working fine. 
+~FLORIDA- 
+Dear TAP, 
+Brainstorm! If you want to find out who owns a local #, call” 
+the business office and say "Service rep please, 329 resid- 
+ence (or whatever the exchange is, and whether business or 
+residence)". The operator will switch you, and when the 
+rep. answers, order an out-of-town directory. ‘They'll ask 
+you a number of questions, and then they'll ask for your 
+phone # so that they can get your name and address. Give 
+them the number you want to check, and then wheh the rep 
+comes on and says, "Alright, Mr. Roberts, I'll handle 
+your request", complete the call and then check the direc- 
+tory for which Mr. Roberts matches the number, This is a 
+way to get around the telco ripoff of allowing law agencies 
+to find who owns a number, but not Joe Public. 
+~TEXAS- 
+Abbie's case has gone to court with a motion to drop all 
+charges on the grounds that cocaine is improperly clas- 
+sified as a narcotic with heroin, The judge complimented 
+the defense on the extent of their research and document~ 
+ation but refused the motion, His case goes to trial soon & 
+money is desperately needed, so if you can help with a few 
+bucks please send it to:Abbie Hoffman & Friends Defense 
+Fund, 440 Broadway, N. ¥.,N.¥. 10012, don't send cash! 
+TAP has courses on Basic Electricity that are easily 
+understood, no matter how little knowledge of Electronics 
+you already have. You learn by building useful projects and 
+experiments such as those in TAP, In fact, you should be 
+able to build any project in TAP after 6 courses, which are 
+50¢ each (free if you can't afford it). 3 courses are avail- 
+able now, A-Basic Electricity, B-Alternating Current, and 
+C-Basic Phones, with more coming Soon. We urge you to 
+send for them if you want a quick education in electricity. 
+Tf you want to meet other phreaks in your area, and are 
+willing to be met, write to Meat. We'll accumulate a list 
+of names and match you up with someone nearby as soon as 
+possible, and notify you both, 
+‘T-shirts will be coming soon, but we don't have them 
+yet. They'll look like choice no. 1 in Issue 22. 
+TAP, ROOM 504, 152 W. 42 ST., NY.,N.Y. 10036

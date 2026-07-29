@@ -1,30 +1,646 @@
-IRDS. PRESENTS -A RIVIEW OF'EXOTIC WEAPONS - AN ACCESS BOOK'LY MICHAEL HOY($4 from Loonpanics)
-The first thing that should be noted whendiscussing this book is the fact that it is an accesshook - a 38 page reference that lists addresses ofsuppliers and publishers, It's not a book that tellsvou how to do it. Rather, it tells you whoro to yofor more information. You'li be extrernely dis~appointed if you buy this book expecting plans and .diagrams on how to biild all sorts of havoc NOV = DEC 1978 NO. 54wreakiny davices,lioy uivides his book into two parts, This ain't our department but we thoughtGeneral and Specific access. The former lists you hardware phreaks would be interested inthe addresses of various periouicals, bool:s, and the fact that there is a company producingpublishing houses that deal with weapons in MF tone modules. Designed for interfacing togeneral, Frankly, if you read: TAP or LUNS (sce later TTL logic this little yoodie could be very usefulnote) you've prohably heard of most of these places. to people designing computerized blue hoxes.oo" It's called the MF Tone Generator CM7050 and goesThe second part of the book, Specific Access. for a cool $75 per. Direct inquiries to:is more useful, It is divided into sections Mitel Inc., St. Lawrence Industrial Park,dealiny with such sections as air guns, black. Ogdensburg, NY 13669 . Phone # is 315-393-powder firearns, boomeranygs, electrical weapons, 1212. Be prepared to look official...oriental wéapons and more. Lach section lists a In the DA file we have an untested circuit forpaygo or so of relevant addresses. This sort of a blue box using this module. Send a SASLinformation is fairly difficult to find for the plus a stamp to reimburse us for copyingaverage reader and thus would be worthwhile for the cost.weaponry buff, | A ok wo kh ek we w & bt to 8 ee elWe'd like to insert an editorial note. Weat IRDS helieve that the use of violence in contemporary - What's the story with Loompanics? VeAmerika is assinine. ‘hen thinus get heavy (as ask because when leafing thru their latestthey may = look at Nazis un Chicago, Klan resuryence _ Catalog we were shocked to see that they carryAnita Bryant, etc) perhaps. But at this point | .a book called ‘The Hoax of the Twentieth Century.'the trigger happy antics of CLA tyres are not only Thig book, written by an associate Electricalimmoral (attacks on civilians is no way to fight a Engineering prof with a reputation as arevolution) hut also stupiu as they.serve to goad facist crackpot claims that the Nazi exterminationBig brother into bringiné down more pressure. We're: of 6 million Jews never took place. This is, ofinto) the WYLF jamming up thousandsof parking oo, anti-semitic: pro-Nazi bullshit of the worstmeters and YIP pieinys but regard violence as the kind and one wonders ahout Loompanic'sactivitty of more barbaric elements of our socicty motivations in carryiny this crap. Write ‘en(like cops, politicians......). and ask... It hag been our feeling that many ofthese Free Enterprise/Survivorist types are5O, to sum up - is Exotic Weapons worth jugt neo-facists. We don't mean to startthe bux being asked? Only if you're heavily a big political arguement but you shouldinto weapons. kuow that there are sone anarcho-communist YIPtYpe phreaks too.® ® * * ® ® * * * « & * ® ® * * * ”Until our next info packed column this isResearch done at IRDS. indicates that TAP the ‘software people' at IRDE saying: “hangreaders may be interested in acauiring hard to loose infophreaks, and keep:those cards and lettersfind tools such as lock picks and other comingi" | :locksmithiny supplies (for when you get locked 7 7 coout cf your house, riyht?). Well, we have : . .. Suffolk County detectives anda definately cool source for goodics like picksets 4 Youths Charged Members of the telephonesecu:Lockaid tools, car ignition cylinders pullers, With Defrauding | Telephone Company and theand more, The outfit is called Russel and Associates campuspecurit .Fee eto senite or can oes at PO Lox 2461, : Telephone Company code authoritiessid theyTampa Orida . Fone -879-8581, A cataloc is gave off frequency impulsesfree. Apparently they can also supply legit ID that (UP) the Suffolk Comnty po that wepereatiyfooked opera.identifies the hearer as a private investiyator in the eetary at pout tors bate «thinking thatmoneyState of Florida. Needless to say this sort of with’ tampering with hadDeendropped identified ascredentials could be useful for paper trippers and teler one equipment to |mals - "HerbertYeats, 16years old, ofother mythical beasties. Thanx to LUIS for this info, of $100,000 to such places as. 3643. Park Avenue, veeShanghai, the United States. :Embassy in Moscow and a Toad path 23° of 16 beefer’, Shack at Bockingbam ory Drive, Lake Ronkonkoms,x *« * e * K Fe e wR wR KE Re HR KR Ke KF ners said the fourwould aad Alan 5; Rubinstein, 19, ofask things like “lioware ” 5 my wenn chanel this on r third degree and’re-vue “How’s weather” der- leased ‘on their own recogniz-While we're on the subject, we're sad theircalls to exoticplaces. anes pending a afterto report that LUNS newsletter is no more. day morning in the biolog de. ~ being arraigned 7Barry Reid explained that they needed more partment buildingat the _s ange:thepoles waatime to devote to researching and writing books versity of Stony Brook by == .they are planning to publish and were forcad -to clese down the newsletter. All -we can say is _ Youth Hot Line Reports, :Inc, 1978 - Do not make checks‘look out!' because when these folks go to out to Youth Hot Line Reports, PLEASE! Movement grciupswork tneyv come up with some gems. may reprint without permission with TAP's address givenwith all credits. Please send us a copy of reprinted work.* tk * * 2 ® *® x ® t ® * * x x t
-
-Howdy Pholks,On top of all the Bell pigs, city pigs, state pigs, andfederal pigs you fine people must have on your backs allthe time, I'm sure you won't mind having the SecretService there too. The thing is, I don't think much of@all rhe phony money the government prints, and I'll betyou don't either. In fact, I highly approve of peoplewho go ahead and print their own phony money. Now, Ican't help anybody get to be a good printer, but I cangive you a couple of hints if you already are. High qual-ity offset printing is just fine. Get the green tint realwell, but don’t worry so much about the red and bluethreads. Two other things are necessary so the funnymoney doesn't get traced if it eventually gets caught bythe banks or the Federal Reserve System. First, the inkthe government uses is water-based. The ink most non-gov-ernment printers use is oil-based. Oil fluoresces underan ultraviolet lamp; water doesn't. Second, the black inkon one side of each note contains iron powder, giving itmagnetic properties.When they catch a note, they get real nasty. Each one getsits own File, and gets traced back as far as they can get,often as far as the store it was passed in. They are verythorough. Don't give up, just do it right. And remember,you have just as much right to print the stuff as they do.Fuck the Government?!WWWBill Forger
-iseveryour|worldchtelevitapestheir|federtraveoffer:makicme
-
-Dear TAP:As a new subscriber, I just read your plea for articles.short article will be of some interest to your readers.reply to a letter in TAP#47.COIN COLLECT AND COIN RETURNThere are three coin control methods used by PA Bell.on a local basis only and consists of two voltage signals:for collect and -110(+gnd) for return. The real
-Maybe thisThis fia in
-The first is used+110 (~gnd)interesting part islong distance coin return and that's where the other two metRods come.in.The firat of these is called INBAND COIN CONTROLThe frequencies are noted in TABLE 1.receiver to accept the incoming pulses. This isand it uses MF pulsing.The tricky part is preparing thedone by issuing an on-hook wink (That's off-hook on-hook off~hook) of 70-130 MS. The receiverwill accept pulse durations of 60-140 MS. 60 MSpulse {is issued and it must last at least 900 MSafter the wink the MF°
-The other method is called MULTIPLE WINK COIN CONTROL. It is exactlywhat you would expect, control by on-off hook signals. This methodgives the operator two additional control signals known as OPERATOR-RELEASED and OPERATOR-ATTACHED. The operator-attached signal will lockout the touch-tone pad at the calling station.I don’t know if this isdone by voltage cut-off or disablement of tone-receivers.I don't thinkLast year the fraed cost that the operator can shut out MF pulses originating from the calling9066838, the spekesman station.said.He saidthe This method is only used on TSPS. Each wink should be 70-130 MS and‘remdul bilting calls to spaced 100-150 MS apart. The code is shown in TABLE 2. WNote that toa third party or giving use INBAND COIN CONTROL you actually have to issue a Operator-—Releasedoperators phony credit card signal!pembders.“We're trying to belancefor telephone ser-vice ko the peiaaewith our TABLE 1 TABLE 2need to protectourthe spokesman said. "Ii it SIGNAL TONES SIGNAL WINKSgetstoo high we're going to“eunates previously had te Collect 70 + L100 Operator Released 1make appointments to use Return 1160 + 1700 Operator Attached 2the : Ringback 700 + 1700 Coin Collect 3Coin Return 4TIPS ON KEEPING ‘COOL’ IN MEXICO Ringback 5eo . . ® > » : *Traveling south of the border with Abbie Cheating!s the ObjectNEW YORK (AP) — Becaute“every border guard and e cop inMexice is corrupt,” be to bribeyourway outof any Cignt situation, saysworld traveler Abbie Hoffman.ee by loading uv tn portable colechange by on portable cotelevision sets, ear slereoe and cassettetapes andsellingthem at four timestheir cost while south of the border.Hoffman,a fugitive since 1974 onfederal drug selling charges an thetravel editor of Cra y magarine,offers these time-saving and money-making tips in the magarine’sJanuaryissue.
-equipment that Onyou caneasilyunload for tbreeor four jhvery bordergeard sod every cop iatimes” you pay, Hoffmansuggests, i“ColorTVs are the easiestitem te sel attitude and the correctbribeyoucamoff, bat carstereos arealsoin de-the prospective traveler to buy some 00 respectforlocal vities, which“$e-minutecheapo cassettes”andspend —«sfrownof beRaviorinpublic.“A man and a woman travetiiaweek Making copees before leavi“You can sell a tape with for$5ortrade it for 2 night's lodging or agood meal. 1 ve traded 2 tapes fora kiloCen one-time Yippse leadersheuld say that they're.’ Hoffman writes.
-Ot aGame on TaxesDALLAS (UPY)—Twolocal InternalRevenue Service employees created &boerd game to allowtaxpayersto chest.the Governmentin the comfort andthe safety of theig homes. It costs$11.98 andis not deductible.A sample cun ofcalled eThe ob
-Eeveyendup es thetaxpayerwiththelargestrefund,” said the I.RS- employer’.who asked not to be identif “forobvious reasons.”"playeris selected as thedistrictdirector. Heplays arole sknilar to thatof the or in the board gameMonopoly.
-
-HOW TO FIND ANY 800 NUMBER IN THE COUNTRY WITHOUT REALLY TRYINGBYNapoleon SoloBEFORE WE BEGIN TO LOOK FOR 800 NUMBERS, I MUST FIRST GET YOU FAMILIARWITH CERTAIN TYPES OF RECORDED ANNOUNCEMENTS SO YOU CAN IDENTIFY AND TELLWHAT IS GOING ON. IN THIS WAYs YOU WILL BE ABLE TO TELL WHERE YOU ARE DIALINGTOLL MACHINE RECORDINGS? SOMETIMES REFERRED TO AS "JANE" RECORDINGS» APPARENTLYBECAUSE THAT WAS THE NAME OF THE LADY WHOSE VOICE WAS ON THE RECOREIVING.THERE ARE 3 TYPES YOU SHOULD BECOME AWARE OF? 1. "WE’RE SORRY» DUE TO EQUIPMENTCONDITION,s YOUR CALL DIDN’T 60 THROUGH, WILL YOU PLEASE HANG UP AND TRY YOURCALL AGAIN LATERs OR BIAL YOUR OPERATOR: THIS IS A RECORDING 2132”2. "WE’RE SORRY» ALL CIRCUITS ARE BUSYr WILL YOU TRY YOUR CALL LATER PLEASE?THIS IS A RECORDING, 2132"3+ "BALTIMORE 4A INWATS TESTs 3455 232% THIS IS A RECORDING 3012"EXCHANGE RECORDINGS: ARE LIKE THISs “THE NUMBER YOU DIALED HAS BEENDISCONNECTED, PLEASE CHECK WITH DIRECTORY ASSISTANCE..." ETC.THE LAST RECORDING IS USEN TO TETERMINE WHICH “BANB” THE 860 NUMBER EXCHANGEIS IN RELATION TO YOU. BANE! 5 IS THE HIGHEST,» AND GO DOWN TO BAND 1s WITHBANB 1 THE SMALLEST CONCENTRIC AREA ANN BAND 3 TRE LARGEST (INCLUDES THE WHOLECOUNTRY) INCLUDING HAWII» NOW JUST RECENTLY ADDEDs THEY ARE TALKING ABOUTINCLULLING ALASKA.TO START OFFr YOU MUST FIRST LOCATE ALL THE VALID 800 PREFIXES ACCESSABLEFROM YOUR AREA+ THIS CHANGES SIIGHTLY FROM AREA TO AREA. ONCE THIS IS DONEA LATER ARTICLE WILL SHOW YOU WHAT TO BO TO FIND THE 800 NUMBER IN THAT AREA.INWATS NUMBERS PROVIDE A SPECIAL SUFFEX (LAST FOUR DIGITS GF THE NUMBER)TO TEST HOW FAR YOU ARE BY DETERMINING WHICH BAND THE NUMBER IS LOCATED,THESE ARE "“INWATS TEST NUMBERS", ABOUT 5-10 YEARS AGOr THESE USED TO GOTO OPERATORSs RUT NOW THEY GO TO RECORDINGS, AND ARE USED TO DETERMINETHE BAND. THESE RECORDINGS ALSO IDENTIFY THE LOCATION OF THE PREFIX ANDIS USED AS A GUIRE TO MAP OUT THE ENTIRE 800 NUMBER SYSTEM IN THE CUMFORTSOF YOUR HOME.LETS SAY I WANT TO FINE OUT WHERE 800-241-3466 GOES. THIS IS A VALIDWATS EXTENDER NUMBER BY THE WAY, AND IS USED AS AN EXAMPLE TO SHOW YOUHOW TO LOCATE THE 800 NUMBER FREFIX.ALWAYS START WITH THE HIGHEST BAND NUMBER THEN GO DOWN THE “BANDS” TILLYOU FIND ONE THAT WON’T WORK. THE SUFFIXES ARE AS FELLOWS?800-PRE-0010 FOR BAND 1800-FRE-0020 FOR RAND 2BOO-PRE-0030 FOR BAND 3800-FRE-0040 FOR BAND 4BOO-PRE-0050 FOR BAND 5SYOU START WITH 800-241-0050 AND YOU SHOULD GET THE INWATS RECORDING #3AS ILLUSTRATEI ABOVE. SOMETIMES THERE ARE EXCEPTIONS TO THE RULEr AND I WILLSHOW YGU HOW TO GET AROUND THEM LATER. ASSUMING YOU GOT THE INWATS RECORDINGSYOU THEN LIAL 800-241-0040 ETC. UNTIL YOU GET & "JANE" RECORDING. AT THISTIMEs YOU HAVE FOUND THE BAND THAT WON’T WORK. LETS SAY YOU ARE BAND 3 TO800-241-3446, YOU WOULD FIND THIS BY DOING THE FOLLOWING BIALING SEQUENCE800-241-0050 (CINWATS RECORDING)800-243-0040 (INWATS RECORDING)800-241-0030 CINWATS RECORDING)800-241-0020 (JANE RECORDING)( AT THIS FOINT,s YOU STOP} YOU HAVE FOUND THE BAND )IT WILL ALWAYS BE THE “LAST” ONE THAT WORKS. IT ISN’T NECESSARY TO DO THISTO ALL THE 800 PREFIXES UNLESS YOU WANT TOs IT WILL TAKE A CONSIDERABLEAMOUNT OF TIME, AND IF SOMEONE DOES IT IN CALIFre TO SOMEONE IN NYse THEINFO WOULD BE USELESS.REFORE WE START TEARING UP THE SYSTEM» YOU MUST KE ABLE TO IDENTIFY YOUR OWNTOLL CENTER RECORDING SO YOU WILL BE ABLE TO ELIMINATE THE INVALID 800 NUMBERPREFIXES. DO THIS IN THE FOLLOWING WAY: BIAL 800-999-9999 YOU WILL ALWAYSCET A LOCAL “JANE” RECORDING. REMEMBER EVERY LITTLE DETAIL ABOUT IT. ESPECIALLYTHE VERY FIRST FEW PHRASES, CLICKSs POPS ETC. THE SOONER YOU CAN IDENTIFYITy THE FASTER AND MUCH EASIER YOU WILL BE ABLE TO "SCAN" THROUGH ALL THEPOSSIBILITYS.NOW I WILL TELL YOU WHERE TO START» WHAT TO SKIFs AND HOW YOU CAN IDENTIFYINWATS NUMBERS WITHIN YOUR OWN STATE.START FROM 800-222 AND GO TO 800-998 SKIPPING ALL DIGITS THAT END IN “O"(IN THE PREFIX) AND NO "1" OR “0” AS THE MIDDLE DIGIT. IF THE LAST DIGIT INTHE PREFIX ENDS IN "2", IT MEANS IT’S AN "INSTATE" INWATS NUMBER AND TERMINATESWITHIN YOUR OWN STATE. WARNING: MOST OF THE TIMEs THE INWATS TEST SUFFIXWON’T WORK ON “INSTATE" NUMBERS.ALSO, IY MIGHT BE DIFFICULT TO DETERMINE THE AKEA CONE OF THE INSTATE NUMBERBECAUSE ENTIRE 800 EXCHANGES HAVE BEEN SET UP FOR IN-STATE INWATS NUMBERS.( Continued on next page )
-
-NOW I WILL GET YGU FAMILIAR WITH THE NUMBERS GIVEN AT THE END OF EACHAND MEANS 213WHICH MACHINEWON’T GIVE THESEWILL GET THISRECORDING. IN THE PREVIOUS EXAMPLE, "2132" WAS THE NUMBER,IS THE AREA CODE OF THE SWITCHING MACHINE AND THE “2” I5WITHIN THE AREA CODE. SOMETIMES, THE INWATS TEST NUMBERSNUMBERS: BUT RY DIALING AN INVALID NUMBER, YOU SOMETIMESIN THE FUTURE: IN FACT EVEN NOWs THE PHONE CO.OF SIGNALLINGr ITS CALLED C.C.1I.S.SIGNALLING). IF YOU HAVE THIS IN YOUR AREA,"JANE" RECORDINGs YOU WILL GET A LOCAL "JANE" RECORDING,IF YOU FAIL TO CET SOME NUMBER IN THE PREFIX THAT GIVES YOU AN AREA CODE,LEAVE IT BLANK AND FILL IT IN LATER.COMPILE A LIST SHOWING ALL THE FREFIXES IN THE FOLLOWING WAY;eae> 21249§OQO-221222 xexr> 2132223 s=z=> 2032992 ===" 9161THIS LIST WILL HAVE ABOUT 400 FREFIXES IW ITsIX ASCENDING ORDER (FOR THE AREA CONES) FOR FAST REFERENCE.TIME YOU READ ABOUT SOMEYOU SIMPLY LOOK UF THE AREA CODE,»YGU LOOK UF THE 800 NUMBER PREFIX FOR 206 AND FIND IT TO BE 426,YOU WILL BE ABLE TO FIND THIS NUMBER.REATING THE FOLLOWING ARTICLEsHAVING TO RELY ON INSIDE SOURCES.POPS EL ES TONE GOES MEO ON ONPoople Living im-New York stete and serviced by NY TELhave found that thew are now charged ten cents each timethew call information (after an initial six tames). There ishowever a@ simple waw to avoid this charge |!keer athe areacalling informationshave called it» andaot the information.Whertimes yOuwhare wOu code of the areaAlter accumulatinad some information charses (works bestif done right before wour billing is run each month), bringwour Lod to a Pwwehone and call information in each of thearea codes om sour lod, When the information oFreratorsnswers ask er for a mumber in #a city thet wou know 15 motim that area. She will tell wou so» and ask you wour mumsberso that you may recieve credit for the information call.Simely tel] her wour home Phone number and this will knock adime off wour Dill. Rereat above until wou Owe nothing.The reason this works it that the information oreratorhas mo idea wou are calling from 2 PaewPhone,“Cautions that should be followed.the same NFA @s wour oristinalAlso make sure wou don’t detthis could be veryw[here ate severalsure wOu det a@ credit inor MA BELL might Set wise.teasSit
-Nakecallwore credit them wouembarra&sind btu #exPleancalls, ats
-IS INSTALLING A NEW TYPEANT MEANS (COMMON CONTROL INTER-OFFICEYOU MIGHT NOT GET A DISTANT
-YOU CAN THEN SORT OUTTHEN THE NEXTNEW COMPUTER BEING INSTALLED IN SEATTLE,»THEN WITH YOU HANBY LITTLE INWATS LIST
-lod of the number of-
-NUMBER
-THE LISTWA?THEN BYWITHOUT
-Phone it.inFor $50.50 plus $7.50 shipping and hand.ling, you ¢an obtaln a vintage blackpay phone, completewith é& originalscratched-in litl.Each phone isequipped with a standard plug to Jittelephone-companyjacks. AllPeteraSeonjeconnected. Grder trom Lefrom LongIsland Pkone Co., 121 Lakeville Road,New Hyde Park, WEY. 11040. Pay bycheck or credit card,
-Bick [ssyues are ody er on.Subsoriptims - 1) iscaes - US Bulk rate 5... wi iS 4US First Cleer in plain serle: envel pe 37. qvCunida & Meae. biret Class 37. goPerel of.IMPORTANT! Include mailing Inbo] tr Xerox copy <when writing i TAP about yur subssription.Klectr “nics 2 - SG each. A- DC Basics,B- AC Basics, C- Phove asics, D- Amplifiers.mugs- $4. 350.T-shirts - $4.52. Specify size and color: Small,Medium, Large, Extra Larye. Black or red T-shirtwith white TAP 1 F neayMedium, Large, Extra Lane.
-C+re>vw"6 T ne
-weSpecifysiaand cols iSpecifyie and color:Bluc, tan, or yellow.Send ONLY check or morey order (No Cash) toTAP, cm 415, 1g? West 42 Stree, New York, N.Y. aboThis isa Walldre wnly,
-Published for informational purposes only by Youth Hot Line Reports, Inc.22MPHIt sucks. Speed(with caution) isFUN! 55 violatesour right to puresuit of happiness.VOTE WITH YOUR FOOT.
-54.MPHGive ita chance towork. To save gas-oline. To save lives,too. And there’sone more thing toit's Ole remember:it's not)Oepst| OeTA
-Address all mail and checks to:TAP, ROOM 418,152 W.42 ST, NY 10036
+IRDS PRESENTS A RCVILW OF 
+'EXOTIC WEAPONS - AN ACCESS 
+BY MICHAEL HOY 
+($4 from Loompanics) 
+BOOK" 
+The first thing that should be noted when 
+discussing this book is the fact that it is an 
+access 
+book - a 38 page reference that lists addresses of 
+suppliers and publishers. 
+It's not a book that tells 
+you how to do it. 
+Rather, it tells you where to go 
+for more information, You'll be extrenely dis 
+-appointed if you buy this book expecting plans and 
+diagrams on how to build all sorts of havoc 
+wreakiny devices. 
+lioy 
+divides his book into two parts, 
+General and Specific access. The former lists 
+the addresses of various periouicals, bool:s, and 
+publishing houses that deal with weapons in 
+general. Frankly, if you read TAP or LUNS (see later 
+note) you've probably heard of most of these places. 
+The second part of the book, Specific Access 
+is wore useful. 
+It is divided into sections 
+dealing with such sections as air guns, black: 
+powder firearms, boomerangs, electrical weapons, 
+oriental weapons and more. Lach section lists a 
+page or so of relevant addresses. This sort of 
+information is fairly difficult to find for the 
+average reader and thus would be worthwhile for the 
+weaponry buff. 
+We'd like to insert an editorial note. We 
+at IRDS believe that the use of violence in contemporary 
+Amerika is assinine. 
+When things get heavy (as 
+they may - look at Nazis in Chicago, Klan resuryence 
+Anita bryant, etc) perhaps. 
+but at this point 
+the trigger happy antics of CLA types are not only 
+immoral (attacks on civilians is no way to fight a 
+revolution) hut also stupia as they serve to goad 
+Big brother into bringing down more pressure, We're 
+into the NWLF jamming up thousands of parkinc 
+meters and YIP pieinys but regard violence as the 
+activitty of more barbaric elerents of our socicty 
+(like cops, politicians......). 
+So, to sum up - is Lxotic Weapons worth 
+the bux being asked? 
+Only if you're heavily 
+into weapons. 
+2 
+Research done at IRD’ indicates that TAP 
+readers may be interested in acauiring hard to 
+find tools such as lock picl:s and other 
+locksnithing supplies (for when you get locked 
+out of your house, right?). 
+\ell, we have 
+a definately cool source for goodies like picksets 
+Lockaid tools, car ignition cylinders pullers, 
+and more. The outfit is called Russel and Associates 
+Investigators, rite or call them at PO Lox 2461, 
+Tampa Florida 33601, Fone # 813-879-8581. 
+A catalog 
+free, Apparently they can also supply legit ID that 
+identifies the hearer as a private investiyator in the 
+State of Florida. Needless to say this sort of 
+credentials could be useful for paper trippers and 
+other mythical beasties. Thanx to LUNS for this info. 
+is 
+While we're on the subject, we're sad 
+to report that LUNS newsletter is no more. 
+Barry Reid explained that they needed more 
+time to devote to researching and writing books 
+they are planning to publish and were forced 
+to cluse down the newsletter. All we can say is 
+"look out!' 
+because when these folks go to 
+work they come up with some gems. 
+ee 
+ed 
+NOV -DEC 1978 
+NO. 54 
+This ain't our department but we thought 
+you hardware phreaks would be interested in 
+the fact that there is a company producing 
+MF tone modules. Designed for interfacing to 
+TTL logic this little goodie could be very useful 
+to people designing computerized blue boxes. 
+It's called the MF Tone Generator CM7050 and goes 
+for a cool $75 per. Direct inquiries to: 
+Mitel Inc., St. Lawrence Industrial Park, 
+Ogdensburg, NY 13669 . 
+Phone # is 315-393- 
+1212, be prepared to look official... 
+In the DA file we have an untested Circuit for 
+a blue box using this module. Send a SASE 
+plus a stamp to reimburse us for copying 
+cost. ee 
+What's the story with Loompanics? we 
+ask because when leafing thru their latest 
+catalog we were shocked to see that they carry 
+a book called 'The lloax of the Twentieth Century. 
+This book, written by an associate Electrical 
+Engineering prof with a reputation as a 
+facist crackpot claims that the Nazi extermination 
+of 6 million Jews never took place. This is, of 
+anti-semitic pro-Nazi bullshit of the worst 
+kind and one wonders about Loompanic's 
+motivations in carrying this crap, Write ‘en 
+and ask... 
+It has been our feeling that many of 
+these Free Enterprise/Survivorist types are 
+just neo-facists. We don't mean to start 
+a big political arguement but you should 
+kuow that there are some anarcho-communist YIP 
+type phreaks too. 
+Until our next info packed column this is 
+the ‘software people' at IRDS saying: "hang 
+loose infophreaks, and keep those cards and letters 
+coming!" 
+- 
+4 Youths Charged 
+With Defrauding 
+Telephone Company 
+Suffolk County detectives and 
+members of the telephone secu 
+Fity division of the New York 
+Telephone Company and the 
+campus security office. 
+‘The authorities said they had 
+confiscated three devices that 
+gave off frequency impulses 
+and one device for coin phones 
+that apparently fooled opera: 
+tors into. thinking that money 
+had been dropped in. 
+‘The four were identified as 
+Herbert Yeats, 16 years old, of 
+3643 Park Avenue, Wantagh; 
+Lawrence A. Rachman, 18, of 
+2 Maggio Lane, Old Bethpage; 
+James W. Roth, 23, of 16 Greg: 
+ory Drive, Lake Ronkonkoma, 
+and Alan’S. Rubinstein, 19, of 
+6 Warren Place, Plainview. 
+They were charged with 
+third-degree burglary and re- 
+leased on their own recogniz- 
+ance pending a hearing after 
+being arraigned yeste 
+Suffolk County court in 
+Pauge, the police said. 
+HAUPPAUGE, L. 1, Sept. 23 
+(UPI)—The Suffolk County’ po- 
+lice said yesterday that four 
+Long Island youths had been 
+charged with tampering with 
+telephone equipment to make 
+calls worth an estimated total 
+‘of $100,000 to such places as 
+Shanghai, the United States 
+Embassy’ in Moscow and a 
+guard shack at Buckingham 
+Palace. 
+Officers said the four would 
+ask things like “How are you?” 
++ 
+"What's going on there?” 
+‘How's the weather” dur- 
+ing their calls to exotic places. 
+‘The four were arrested Fri- 
+day morning in the biology de- 
+partment building at the State 
+University of Stony Brook by 
+faup- 
+Youth Hot Line Reports, Inc, 1978 - Do not make checks 
+out to Youth Hot Line Reports, PLEASE! Movement groups 
+may reprint without permission with TAP's address given 
+with all credits, Please send us a copy of reprinted work.
+*Ayodouoy. 
+‘ure’ preoq ay} uj soyueq ay jo 
+20}, paumnuap! 3401 tou payse om 
+‘saskoduo "swt out ples. punjas 
+asain] oxy upim saxedxey oun su'dn pua 
+0d K9A9 WIELD, 
+‘aiqhonpap Xe} You st pur g611S 
+sys00 4 “sawoy slay Jo Mayes amp 
+jawusaA0 ou 
+0} owed pzzoq 
+aS anuanay 
+Teusoyuy e090] omL—Gan) SVITVE 
+saxD J uo aupy D 10 
+390190 942 8] 3u17004.9 
+uy ut auyeq 20 
+{\UPIMOYS OA, 
+‘pasiape os|e oH 
+‘SU UEUIyoH,/paLureW 
+aufauy’ yeu) Kes pinoys'” saqio80) 
+Buijanexy uewox e pue uew y,, 
+‘qygnd ut zotaeyaq qwesSey Jo uno3y 
+ory ‘sanarysuas [800] 40) y2adsou ou 
+‘ey paysnq aidoad ayy 20 ‘ssautsng s.asja 
+‘3ug@uu0s opt yno auoaios asnedaq apett 
+ae sueotiauy Jo s150q Snap 130WN, 
+vel ysayyain at wioay Leave ye 
+uuep nof aqlaq yoa1i09 ayy pue anime 
+wus 
+ayy thi * * * adnuo9 st 004 
+UY doo dtasa-pue pzend 19pi0g A328 
+‘sajum ay ‘sepu0q auy Butss039 uQ 
+sazeppap 
+Japeat atddi, oum-auo ayy 'sse19 Jo 
+44 
+& 20} sade} 
+og papesy a4,] “Teaur poo 
+8 40 Suipoy saydtu e 203 1 apes 40 of 
+4} sna 
+ae © 8 UD NO 
+‘utseo} auojaq soidoo Buryeu Yaa 
+& 
+puads pu, sayasseo 
+odeaya aynuttit5,, 
+‘uios ng “oy Jajaneay aatioadsoad oy) 
+sastape os[e ‘sea auo 40} Appepnes) 
+40} Suan u9aq sey oye “WeUIjIOH 
+.pueut 
+9p you ut osje axe soaioys 229 Ig “yo 
+[19S 0} wart ysatsea ayy aie SAL, 4010), 
+‘sisaSiins wewyjoy ‘Aed nos yey .souit, 
+no} 40 3834) 40} peojun Ay[sea ued Nox 
+eq) qwouidinbsajgenrea,, 
+ayy 10 
+‘ansst 
+Avenuep saureeBeur ayy ut sdy Suryeus 
+-fouow pue Sutaes-auun asayy si0}0 
+‘aurzefeu Xppepaes) jo soup [exes 
+‘ay pue safueyo Sutyas Bnap rezapay 
+‘Uo pl6l aouls aaniiny e “ueunyoH 
+"9404 34 0 YMOs aIYH 3509 stay 
+sour ano} ye waxy Burjas pue sade} 
+ay}asseo pile s0210}S 
+JeD "S}as uoIstsajay 
+4J0j09 ajqeyi0d uo dn Suipeo, Aq a4ueya 
+aueds apni] 
+& ayeut osje ued 249 
+‘UeLU}jOH iggy s2)—xeN POM 
+ses ‘uoryenyis 1yaty Aue yo yno Kea anos 
+aquq oy pasedaad aq ,yéi2s09 st ootxayy 
+uu doo A1asa pue puend 19p10q 4990, 
+asnevog — (dy) YYOA MAN 
+alqqy YsIM Japsog ay; Jo yynos Buyjaan.) 
+sauogdaya) au 
+sn 0} swuaunutodde ayeur 
+0) pey Ajsnorsaud soyeunuy 
+0 SAS a4 YN 
+0 8408 
+au am Wy 009 SH 
+wa 
+‘res ueusoyods om 
+,'S8890] sno y99y02d 0} pat 
+Sno wit 
+wostad amy wr 20s 
+49s auoydajay 40} poou ay 
+sousreg 0 Bund 24,9q.,, 
+sioquina 
+s 
+yoeqsury 
+OD1X3W NI 1009, ONIdaay NO SdiL 
+rs 
+uanaey UFO 
+£ 
+399TTOD UTOD 
+OOLT +002 = *1EASUTE 
+Z 
+—-peyoeaay x0qe10d9 
+OOLT + OOTT 
+uana3y 
+T 
+paseatay 1oje1ed9 
+OOTI + OL 
+qeTTOD 
+‘SXNIM 
+‘TWNSIS 
+SINOL 
+‘TWNOIS 
+@ a1avL 
+1 aTavi 
+jTeusts 
+paseatay-s0zezadp ev onsst 03 aaey ATTeNIDe MOA “IONINOD NIOO GNVANI 2S" 
+03 3e4 230N °Z HIGVL UE wnoYs St epod eu 
+PUE SK OET-OL 24 PINCYS AUTH YORE 
+sazede gx OST-001 paceds 
+*gdSL vo pasn ATuo SF poyrom sTYL 
+suoT3e38 
+BuyTTeo eya wory BupIeUTBTI0 sasqnd gW no 3nYs ues zoyeAado ayI IeUI 
+wUTYI 3,UOP T 
+YPOT ITEM TeusEs poyerae-zozeredo ou 
+“sx@ayave1-9U0I Jo WsWeTIeSTP 10 JJo-Ino aBerToa Aq auop 
+ST STH] JF Mouy 3,U0P T 
+suoyae3s BufTTeD ya qe ped auor-yonor ay3 Ino 
+*CSHOVILV-YOLVUadO Pur CASVATTa 
+-UOLVYAdO Se uMoUY sTeUsTs TorIUOD TeUoTITPpE om IoeIedo Oy3 soATE 
+poysew sTuL 
+Ayq0exe SF AT 
+*sTeuBTs yooy 550. uo £q Torq0D ‘39adxa prnom nok 3eYyr 
+*IOMINOD NIOO YNIM TIAILION PeTTeS SF poyzew zeyI0 eyL 
+“SH 006 3SB2T 3 aseT asnm ay pue penssT st asqnd 
+Bi 947 ALTA ByI 30352 SH 09 
+A@AFOIET PUL “SH OET-OL JO (AOOU-F0 Yooy-uo you, 
+~uo ue Suznsst Xq ouop sf sTyL 
+aya Suprederd sy qaed Ay9T22 OL 
+“SW OYT-09 JO suoTaeInp astnd adasoe TTTH 
+-3F0_8,IBYL) ATA yoou 
+*sastnd Suymoout ey3 qdese 07 seaqevea 
+*] HTGVL UT pazou are sayouenbezz ou 
+*Supstnd gy Sesn 37 pur TOYINOD NIOO GNVENI PeTTES SF S943 JO 383TF SUL 
+‘auo> spoyzeu on3 T9yj0 oy exeyA s,3e42 puE UANIeT UTOD eDuRISTP BUT 
+sf qed Supzsezequy Teer ou 
+(pus-) OTT+ 
+pasn sf 3sat3 ou 
+Uy St STUL 
+sya ogden 
+NUNLAY NIOD ANV LOATIOO NIOO 
+suangex 103 (pu8+)QTT- pue 399TTO> 103 
+isqeulys aBerTOA omy Jo SysTsuoa pue ATUO STSeq [eD0T B uO 
+“TT@q va Aq pasn spoyzom ToxqUoD ToD arya aIe eroyL 
+*LogaVL UF 19392T & 03 ATdor 
+sezapear amok 03 4se7aqUT aWOs Jo aq TITA eTOTIAe 3204s 
+*saTo}32e oy watd anok pear asnf J ‘zeqrrsqns mou e sy 
+ral 2¥0q 
+peo ypax0 Auoyd suoyezado 
+Buiai8 10 Aysed pas & 
+1 seo Baa squaqnpnesy 
+uaaq aay sayeut 
+un Bungsao7 ain pres aH, 
+pres 
+wewisayods ou ‘ope’ saat 
+4809 peg ayy JeaK 38] 
+‘sawed snonn 
+2 Jo 3sn ayy pue soa1A—p 
+aruosja9j@ ‘sioqumu pied 
+1upax2 uogd “Burinq_ Azed 
+-pany warnpnesy  ynoamy 
+streo auoydatar 10; ur 
+-Aed prone om ssaiuorsno 
+‘wosy yInsa1 Sasso] au, 
+epuoy 
+pres weussayods Auedutoo 
+® ‘pneay auoydayay ut 0k 
+Sim yo syjuow oat sy aun 
+Burm ooo'sseg eM) aout 
+sol sey Aueduios ayy, 
+‘Aepuow pres weussayods 
+‘09 auoydajay jeg Aassop 
+\nON B “1898 ayy jo siqUOU 
+ayy xy aig Butanp pneay 
+Moy 
+auoydayay ut aszesout 
+quad 
+sad 0g ® 0) paynquuyU0D 
+‘ney ‘aeax 
+1Se] souoydayay 
+01 ssa00e {se9 uaai8 “Saye 
+wostig ayeig Bunqsoay 
+nel ui aq dew Apeaste 
+sitadino jaryo ayy Jo aos 
+uy “Poqgos waad S,(88 W. 
+= (dV) TN MUNN 
+Meg PW 
+pnoafep 
+84OU08L 
+aa8i0g TITa 
+wy 
+;{Iuamureacg 242 yong 
+‘op Kaya se yynas oya quad 02 ay8ta yonw se 
+3 
+‘aequowes puy 
+ay8ta at op asnf ‘dn aay 3,u0q 
+Kaan ase Kayy 
+“uy passed sem ay a10as aya se 
+avy se urge 
+ues Kaya se aey se y9eq pavesra s10B pur ‘etry uno 
+#3) 
+auo yoeq *haseu Tear 308 kaya ‘az0u e ysaes far 
+*sapaaadoad dp zeuse0 
+ay Buzaz3 ‘aapmod uoszy suzezuos aqou yore yo apys auo v 
+AUT AORTA a 
+aapun 
+“puovas 
+usoop aaaem fduey yeToFAraaqn 
+ur 
+saoseront3 THO 
+‘“peseq-[To sf asn saaquyad qu 
+-ao8-uou aso yuT ay_ 
+‘paseq-193eN Sy sasn quowusano’ ay 
+yur eya ‘asata 
+asks aaaasay [erapay aya 10 syuRq 
+ay 
+£q ay8ne9 8328 AtTe 
+os Kae 
+quana 
+aT 
+aae s8urya aaqi0 
+aovay 328 3,Usa0p Kauor 
+kuuny 
+aya 
+seve 
+omy 
+‘spray 
+i 
+P 
+waar aya aa: 
+2 342 3noq 
+yonw os kazom 3,uop anq 
+‘qT a 
+vas quya 
+eury a 
+nf sp Surautad aasyjo Ka 
+b y8tH 
+‘eae 
+Kpeaa 
+4 
+nok jf 
+jo atdnos e nok 
+saury 
+aa 
+ues 1 
+nq ‘xaquyzad 
+3 oe 
+aq 
+‘kauow kuoyd uno azaya 
+03 198 Kpoqkue dtay 1,ue 
+I ‘mon 
+auyid pue peaye o8 o 
+atdoad jo ancadde Atysty 7 ‘30e7 UT 
+aur 
+*z947T2 3,U0P no. 
+394 IT,1 pue ‘sautad auawursncs 
+Kauow Kuoyd 
+It 
+jo 
+‘ 
+yonw yuyya a, 
+oP 1 
+‘SF BuTya ayy 
+‘003 22943 aozAza} 
+Jaaseg ay2 BuyAey puyu a,u0M Nok eans wy ‘auyza at 
+T1® sy2eq ano uo aaey asnu atdoad auzz nok s8yd [esapa 
+pue ‘s8rd ajeqs ‘s8td 4aq9 ‘s8rd T1aq aya TTR Jo doa 
+“s4Toud Apo] 
+tue j,ueo hou 
+snowy, 0} ao1u $,31'— sueID 
+sted ynoge Suny 2u0 
+201 puapiaig
+HOW TO FIND ANY 800 NUMBER IN THE COUNTRY WITHOUT REALLY TRYING 
+BY 
+Napoleon Solo 
+BEFORE WE BEGIN TO LOOK FOR 800 NUMBERS, I MUST FIRST GET YOU FAMILIAR 
+WITH CERTAIN TYPES OF RECORDED ANNOUNCEMENTS SO YOU CAN IDENTIFY AND TELL 
+WHAT IS GOING ON, IN THIS WAY, YOU WILL BE ABLE TO TELL WHERE YOU ARE DIALING 
+TOLL MACHINE RECORDINGS? SOMETIMES REFERRED TO AS "JANE" RECORDINGS, APPARENTLY 
+BECAUSE THAT WAS THE NAME OF THE LADY WHOSE VOICE WAS ON THE RECORDING. 
+THERE ARE 3 TYPES YOU SHOULD BECOME AWARE OF! 1. "WE’RE SORRY, DUE TO EQUIPMENT 
+CONDITION, YOUR CALL BIDN’T GO THROUGH? WILL YOU PLEASE HANG UP AND TRY YOUR 
+CALL AGAIN LATER, OR DIAL YOUR OPERATOR, THIS IS A RECORDING 2132" 
+2. "WERE SORRY» ALL CIRCUITS ARE BUSY, WILL YOU TRY YOUR CALL LATER PLEASE? 
+THIS IS A RECORDING, 2132" 
+3, "BALTIMORE 4A INWATS TEST, 345, 232, THIS IS @ RECORDING 3012" 
+EXCHANGE RECORDINGS! ARE LIKE THIS# "THE NUMBER YOU DIALED HAS BEEN 
+DISCONNECTED, PLEASE CHECK WITH RIRECTORY ASSISTANCE..." ETC. 
+THE LAST RECORIING IS USEN TO DETERMINE WHICH "RANI" THE 800 NUMBER EXCHANGE 
+IS IN RELATION TO YOU. BAND S IS THE HIGHEST» AND GO DOWN TO BAND 1, WITH 
+HAND 1 THE SMALLEST CONCENTRIC AREA AND BAND 5 THE LARGEST (INCLUDES THE WHOLE 
+COUNTRY) INCLUDING HAWITs NOW JUST RECENTLY ADDED, THEY ARE TALKING AROUT 
+INCLUTNING ALASKA. 
+TO START OFFy YOU MUST FIRST LOCATE ALL THE VALID 800 PREFIXES ACCESSABLE 
+FROM YOUR AREA. THIS CHANGES SLIGHTLY FROM AREA TO AREA. ONCE THIS IS DONE 
+A LATER ARTICLE WILL SHOW YOU WHAT TO DO TO FINI) THE 800 NUMBER IN THAT AREA. 
+ITNWATS NUMBERS PROVITIE A SPECIAL SUFFEX (LAST FOUR TIGITS OF THE NUMBER) 
+TO TEST HOW FAR YOU ARE BY DETERMINING WHICH BAND THE NUMBER IS LOCATED, 
+THESE ARE “INWATS TEST NUMBERS", AROUT S-10 YEARS AGO, THESE USED TO GO 
+TO OPERATORS, RUT NOW THEY GO TO RECORDINGS, AND ARE USED TO DETERMINE 
+THE BANI. THESE RECORDINGS ALSQ INENTIFY THE LOCATION OF THE PREFIX AND 
+IS USER AS A GUITIE TO MAP OUT THE ENTIRE 800 NUMBER SYSTEM IN THE CUMFORTS 
+OF YOUR HOME, 
+LETS SAY J WANT TO FINE OUT WHERE 800-241-3466 GOES. THIS IS A VALID 
+WATS EXTENTER NUMBER BY THE WAY, AND IS USED AS AN EXAMPLE TO SHOW YOU 
+HOW TO LOCATE THE 800 NUMBER PREFIX, 
+ALWAYS START WITH THE HIGHEST BAND NUMBER THEN GO DOWN THE “BANDS” TILL 
+YOU FIN GNE THAT WON’T WORK, THE SUFFIXES ARE AS FOLLOWS: 
+800-PRE-0010 FOR BAND 
+800-PRE-0020 FOR RANI! 
+800-PRE-0030 FOR RANI! 
+800-PRE-0040 FOR RAND 
+800-PRE-0050 FOR RANT! 
+eae 
+YOU START WITH 800-241-0050 ANI YOU SHOULT GET THE INWATS RECORDING #3 
+AS ILLUSTRATED ABOVE. SOMETIMES THERE ARE EXCEPTIONS TO THE RULEy AND I WILL 
+SHOW YOU HOW TO GET AROUND THEM LATER. ASSUMING YOU GOT THE INWATS RECORDINGS 
+YOU THEN ITAL 800~241-0040 ETC, UNTIL YOU GET A "JANE" RECORDING, AT THIS 
+TIME: YOU HAVE FOUND THE BAND THAT WON’T WORK. LETS SAY YOU ARE BAND 3 TO 
+800-241-3466, YOU WOULD FIND THIS RY DOING THE FOLLOWING DIALING SEQUENCE 
+800-241-0050 (INWATS RECORDING) 
+800-241-0040 (INWATS RECORDING 
+) 
+800-241-0030 (INWATS RECORIIING 
+) 
+800-241-0020 (JANE RECORTING 
+) 
+(AT THIS POINT, YOU STOP} YOU HAVE FOUND THE BAND ) 
+IT WILL ALWAYS RE THE "LAST" ONE THAT WORKS. IT ISN’T NECESSARY TO DO THIS 
+TO ALL THE 800 PREFIXES UNLESS YOU WANT TOy IT WILL TAKE A CONSIDERABLE 
+AMOUNT OF TIME, ANI! IF SOMEONE TOES IT IN CALIFy TO SOMEONE IN NYy THE 
+INFO WOULT RE USELESS, 
+REFORE WE START TEARING UF THE SYSTEM, YOU MUST RE ARLE TO IDENTIFY YOUR OWN 
+TOLL CENTER RECORDING SO YOU WILL BE ABLE TO ELIMINATE THE INVALID 800 NUMBER 
+PREFIXES. [10 THIS IN THE FOLLOWING WAY: DIAL 800-999-9999 YOU WILL ALWAYS 
+CET A LOCAL "JANE" RECORTING. REMEMBER EVERY LITTLE IIETAIL AROUT IT. ESPECIALLY 
+THE VERY FIRST FEW PHRASES, CLICKS, POPS ETC. THE SOONER YOU CAN IDENTIFY 
+IT; THE FASTER ANI! MUCH EASIER YOU WILL BE ABLE TO "SCAN" THROUGH ALL THE 
+POSSIBILITYS. 
+NOW I WILL TELL YOU WHERE TO START» WHAT TO SKIP» ANI) HOW YOU CAN IDENTIFY 
+INWATS NUMBERS WITHIN YOUR OWN STATE. 
+START FROM 800-222 ANI GO TO 800-998 SKIPPING ALL TIGITS THAT ENT IN "0" 
+(IN THE PREFIX) AND NO "1" OR "O" AS THE MIDDLE DIGIT. IF THE LAST DIGIT IN 
+THE PREFIX ENDS IN "2", IT MEANS IT’S AN “INSTATE" INWATS NUMBER AND TERMINATES 
+WITHIN YOUR OWN STATE. WARNING: MOST OF THE TIMEs THE INWATS TEST SUFFIX 
+WON’T WORK ON "INSTATE" NUMBERS. 
+ALSO, IT MIGHT BE DIFFICULT TO DETERMINE THE AREA COLE OF THE INSTATE NUMBER 
+BECAUSE ENTIRE 800 EXCHANGES HAVE BEEN SET UP FOR IN-STATE INWATS NUMBERS.
+NOW I WILL GET YOU FAMILIAR WITH THE NUMBERS GIVEN AT THE ENT! OF EACH 
+RECORDING. IN THE PREVIOUS EXAMPLE, "2132" WAS THE NUMBER, AND MEANS 213 
+IS THE AREA CODE OF THE SWITCHING MACHINE AND THE "2" IS WHICH MACHINE 
+WITHIN THE AREA CODE. SOMETIMES, THE INWATS TEST NUMBERS WON’T GIVE THESE 
+NUMBERS, BUT BY IITALING AN INVALID NUMBER, YOU SOMETIMES WILL GET THIS NUMBER 
+IN THE FUTURE, IN FACT EVEN NOW» THE PHONE CO. IS INSTALLING A NEW TYPE 
+OF SIGNALLING, ITS CALLED C.C.I.S. AND MEANS (COMMON CONTROL INTER-OFFICE 
+SIGNALLING). IF YOU HAVE THIS IN YOUR AREA, YOU MIGHT NOT GET A DISTANT 
+"JANE" RECORIINGs YOU WILL GET A LOCAL "JANE" RECORIIING. 
+IF YOU FAIL TO GET SOME NUMBER IN THE PREFIX THAT GIVES YOU AN AREA CODE, 
+LEAVE IT BLANK ANI! FILL IT IN LATER. 
+COMPILE A LIST SHOWING ALL THE PREFIXES IN THE FOLLOWING WAY? 
+800-221 
+249 
+223 
+992 
+===> 
+9161 
+THIS LIST WILL HAVE AROUT 400 PREFIXES IN ITy YOU CAN THEN SORT OUT THE LIST 
+IN ASCENIIING ORLIER (FOR THE AREA CODES) FOR FAST REFERENCE. THEN THE NEXT 
+TIME YOU REAL ABOUT SOME NEW COMPUTER REING INSTALLED IN SEATTLE, WA$ 
+YOU SIMPLY LOOK UP THE AREA CODE, THEN WITH YOU HANDY LITTLE INWATS LIST 
+YOU LOOK UP THE 800 NUMBER PREFIX FOR 206 AND FINI! IT TO BE 426, THEN BY 
+READING THE FOLLOWING ARTICLE, YOU WILL RE ABLE TO FINI) THIS NUMBER. WITHOUT 
+HAVING TO RELY ON INSIDE SOURCES. 
+FRSERED 
+CONFORMA 
+T LON 
+Phone 
+it in 
+For $59.50 plus $7.50 shipping and hand. 
+ling, you can obtain a vintage black 
+Peorle living in New York 
+state and serviced by NY TEL 
+pay phone, complete 
+with is origina 
+‘ 
+seratchedin graffiti, 
+Bach phone is 
+have found that they are now charged ten cents each time — {ritehedin 
+graffitl Each phone is | 
+they call information (after an initial sis 
+however a simple way to avoid this charge 
+check or credit card. 
+times you have called ity 
+and the area code 
+of the area 
+where you sot the information, 
+After accumulating some information charges (works best 
+if done risht before your billind is run each month), brand 
+your log to a Peyehone and call information in each of 
+the 
+area codes on your 
+los, 
+When 
+the information orerator 
+answers ask er for @ number in a city that you know is not 
+in that area, She will tell 
+you sor and ask you your number 
+so 
+that you may recieve credit for 
+the information call, 
+Simply tell her your 
+home Fhone number and this will knock @ 
+dime of 
+f your bill. Rereat above until you owe nothing. 
+The reason this works is that the information operator 
+has no idea you sre calling from a rayehone. 
+There are several 
+cautior 
+that should be 
+followed. 
+Hake sure you det s credit in the same NPA as your original 
+times). There 15 
+ telephonecompany 
+jacks. All you do is 
+plug it in. Coin-activating mechanism 
+has been disconnected. Order from Long 
+Island Phone Co., 121 Lakeville Road, 
+When calling informations keer 
+a 
+lod of the number of 
+New Hyde Park, N.Y. 11040. Pay by 
+call or MA BELL might get wise. Also make sure you don’t get 
+more credit than you made callsy as 
+this could be very 
+embsrrasing to exflain |! 
+Published f 
+ational purposes only by Youth Hot Lin 
+all mail 
+checl S to: 
+It sucks. Speed 
+54 
+(with caution) is 
+FUN! 55 violates 
+our right to pur- 
+Give ita chance 
+to 
+suit of happiness. 
+work. To save gas- 
+oline. To save lives, 
+VOTE WITH YOUR FOOT! 
+tog And there's 
+one more thing to 
+It's not a 
+remember: 
+it's just 
+the law, 
+1BP 
+A 
+= 
+55 
+TAP, ROOM 418,152 W.42 ST, NY 10036

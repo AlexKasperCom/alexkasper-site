@@ -1,24 +1,900 @@
-Issue 29 Oct,1975
-A lack of staff has prevented the newsletter from beingpublished as often as we would have liked. However, weare attempting to remedy this situation by opening a NewYork office where prospective volunteers can help to putout the newsleller. In addition, readers can come in toask questions, donate articles and information, obtainsubscriptions and back issues without uSing the mails, andmeet other readers. Due to the sensitive nature of our pub-lication, we muSt insist tbat no materials of an iiegal na-ture accompany you when you visit us. Until further no=-tice the office will only be open at the hours and days listedbelow.Address: 1201 Broadway (Between 28th and 29th Street)Room 608 / Wo cade de vj) wy: it -/Many readers have Jifficulty obtaining parts for ourprojects in TAP. Most parts can be obtained from mail-order companies Such as those below. To read their cat-alogs is an education in itself.Babylon Electronics, P,O, Box J, Carmichael, Ca. 9560%B&F Enterprises, P,C. Box 44, Hathorne, Mass. 01987 (617)532-2323Burstein-Applebee, 3199 Mercier, Kansas City, Mo. 64111 (816) 531-5814Digi-Key, P. OQ. Box 126, Thief River Falls, Minn, 56701H.J. Knapp Co., 3174 8th Ave. ,5, W., Largo, Fla. 33540 (813)584-0034Lafayette Electronics, lllJericho Tpke. , Syosset, N, ¥, 11791 (516)921-7700Poly Paks, P, ©. Box 942, South Lynnfield, Mass. 01940617) 245-3829Solid State Systems, P, C. Box 773, Columbia, Mo. 65201 (314)443-3673TAP has courses on Basic Electricity that are easilyumderstood, no matter how litle knowledge of Electronicsyou already have. You lerrn by building useful projects andexperiments such as those in TAP. In fact, you should beable to build any project in TAP after 6 courses, which are00¢ each (free if you can't afford it, 4 courses are avail-able now, A-Basic Electricity, B-Alternating current,C-Basic Phones, and D-Amplifiers, with more coming500n, We urge you to send for them if you want a quickeducation in electronics.YOU CAN HELP TAPIf you can contribute any information tnat you think otherreaders would be interested in, please do so. TAP readersare the main source of our information. You can help bymeeting employees of phone and power companies, alarmPlaces, elc., and asking them about questions otherpecpleraise in the newslelter, Be sure to get details and maintaincontact in case you Save additional questions. Most empl-oyees of those companies would be glad to screw their bossand they'd provably be interested in TAP, too, We hopethat a lot of you will gather information so we know whatthe scene \s around the country and Canada.We also need Info on the following.Automatic Dive Boxes-With info about where they're nec-essary.Vending Machines-Locks, getting stuff, etc.Locks- New code books, picking Medeco, Sargent Keso,tricks, etc.Fadig- Setting up your own Station, Echematics, legalStuff, jammers, etc.Burglar Alarms-Holmes and other central station alarms,bypassing, electronic keys and picking, etc.Also, Maanets, OverseasPhreaking, and Chemistry.
-ADVANCED BLUE BOXThis circuit was sent in by a reader and we've checkedit out to find that it's beautifully stable with voltage andtemperature (assuming the capacitor ,022 is Stable), The8038 circuit in issue #26 is very convenient but it requiresa voltage regulator IC. This circuit does not. It uses a ODDtimer, which, used in the free-running mode generates aSquare wave, which is ok for two reasons: First, the phoneline, earpiece and telephone mouthpiece you're using can'treproduce a square wave So it's Shaped somewhat into aSine wave, and secondly this circuit makes up for it's wave-Shape by its excellent frequency Stability. It needs double-pole buttons , admittedly a hassle to obtain, however it ofcourse needs no diode matrix. Current drain is under 20ma. for two 555s.7 +9 voltsab sus,25 v.47LM555 7(2 needed)7, 72K1 3 etc.Reese‘ ; wy e ;—— 3 2 2.43 3From er >other 6 | ft>655 1 022S | Sv. | ! \3.3% 33,3K | : ; } 3 ernetec
-To telephone earpiece to otherLM555Approximate value for R; (Use trimmers)Hz Rt700 42k For example: 700 Hz~ use 50k trimmer900 3ok pot, 10 or 20 turns, or else use a1100 28k Single turn 5k or 10k pot in series1300 24k with a resistor, so that the center of1500 2oK the pot{1/2 the value) plus the resis-1700 18k tor equals 42k. Thus a 10k pot at its2600 12k center is 5k, plus 37k =42k.,Build two duplicate circuits, connect outputs, ground, andpower. Can drive a telephone earpiece strongly. Removethe varistor dual-diode on the earpiece before using,() Youth Hot Line Reports, Inc. 1975Movement groups may reprint without permission withTAP's address included, and please send us a copy ofreprinted work. WARNING: We will prosecute violators,
-
-Latters Frem ReadersDear TAP,A modified Starretr rlGB small dole gage- availablefrom mcct machinist suppiy cOmparnies- .5 an eflectuvexey for the 2ollersmith lockiSee issue 2c and #22), Accep:no substitures-General makes 2 simuar wol Lut it is ctlower quality and may require a special order. The gageis hardened steel, so you'll nave to use & Small benchgrinder, no. a file, to reduce the cizmeter of the ballhalves and ccne to about .150" (That's one hundred andfifty tnousands of an inh) ygscrewed. >inish grinding byhand on a cerca stone unt) it just enters the bole. Insertall the way, Ughten, and retract it, and Voilai The lock4s open.The gage costs about $7 and can be sold ata nice profitBe sure to grind the manufacturer's nams and number offthe gace to insure its anonymity.BAr. PhelpsAdvisable Missions Force( | Before Cinding — =ONote: Grind with gage unscrewed.| (| Aner GrindingDear TAP,A good way to nail those anti-phone phreak MArnym@chirer8istogo tc apay poneandcall one up. It le mot naces-sary to pay, instead, simply call the operator and tall be>that you just dialed a wrong mimber. In most cases, if youare convincing, sbe will connect you. When the companyanswers, have nice long talk about how good you think thezdevice is to protect life, limb and property. Sound sincers.and stay cn for as long as possible or until an operatorcomes on. Almost always, after using the ‘wrong number'approach, the cperator will forget about you, and by thetime she remembers, you will already rave run up a hugebill (staying on for an bour across country will come toover $20). When you think you must, ham: 1p, making Sureyou have left no clue to your idendty. The cperator willcall back, and ask you to deposit an amoun: aqual to GM's- 3¢ eac1-Extensions, Conference Switches2-Blue Box Story and Abbie on Ripoftts3Telecommand Story4-Pay Phone Issue>Blue Box6-Alue Box 5mOBSOLETE7=-Tuning your Organ8—Credit Card Calis/1972 CodeF-Super Duper Protect ([ssue 11)1O- Same ag 9 (obsolete)ll-Receiving long distance calls free12-Blue Box Plans ee13-Internadonal calls /Box plans14-International calls/AT&T papers15-1973 Credit code/T network16-Red Sox Plansi17-Red Box/Line Relay.$-Call StopperLo=Snoop Lightco-Cheese cx2l-Automatic Phone Tap22-AnSweroo23- Free Electricity24- Fraud Detectors, index, 1974 Code<beNew Red Box/Free GasSt-Mew Blue Box7a Sree Electricity<teComputer Bills
-FACT SHEETS -25¢ eack1, Credit Card Calling Hin:s8. Rece:ving Loag Distance Calls Free :(Sarre as issue 11 for General Telephone Co. HedCustomers instead of Bell Telephone <o.)Displayec Red Boxfactor LS¢ eachDual tone oscillatorAnti-Bek Sutten-50¢ 10/$32600 Whistle PerSteal This Sook-$2. 25Monopoly -eo+ Blarmped, self-ddressed envelcpe and topics youwould itke tc trece info for. Send for our free listof destructory assistance Llopics,SUB ORIPTICN = US Bulk- $2Canada = $3, 50Foriegn- 34. 50US Birst Class-Add $1.30 (Total 3, 30)(Envelope)
-wet jets stuck with the cil? Toat's nicht, ue 7-1 --4Cuwuaciurer.vearly sales. Sy this time, you wil be lony gore, .. JucecNEY JERSZYDear TAP,Wisconsin Telepnone New3line is 2 pretty typical Telconewsline, except they 2ave a mania for phone phreaks. Theyalways bave the latest 50 ouSts across the country, a5 wellaS up-Ught references to puolications they think are cut toSupvert trem. (414) 678-SE1L. Unicrtunately, 1: is scupecand you get charged if calling from outskie 414 area. Thesafo is almost wort’ itMilwapkee Ring-ogsck- 97:1, wait for tone, dial ¢ ard hang up.Loop suffix for 414 area is XXX-0010 &0011. They ‘ve o¢enclosed for a year out someone gets sloppy oncd in a while.There's a magazine calied Amateur Radio 73. It's a bammagazine supposedly published in the Nertheast and aistrib-uted ty ham sealers. The June 1275 issue has anarticleentitled ‘Inside Ma Bell" which (acecrding to Wis. TelconewsSline) gives "precise techrical details on dlue box con-Structicn. " I've searched for a ccpy but they were gonequick. You may have better luck ina library.Incidentally Paciiic NW Bell is sueing the magazine for$100, 900 for distributing it in their area! Freedom cf thePress? Shit.I *have heard” that some criminally insane persons buycoin folders mace for coin collectors and use the quarterand dime size cardboard discs in these aS slugs. Seemsthese cardboard discs work in the "slide-in" type coinacceptors used in Laundromats and on small vending mach-inas. Apparently they ever. wor« in the "Slide-im" acceptorsthat have magnets to reject metal slugs. Although thssepeople have to hunt around for the “wood-grain"' type fcl-ders with the cardboard discs still in them, that doesn'tseem to deter them.INDIANADear ‘TAP,Shown below is a rotating disc flowmeter. This is thetypeused in gas pumpe, fuel cil metersand tomeasurewater used ‘n your houge. It is usually found ynder a roundsteel plate that says "water" which ts located in your yardor ‘n the street, etc. Ic is held toge:ber with 6 or 3 boltsaround its circumference. When these bolts arm removechaid litePhone Line| ) redhom adRi To PhoneSW1Ll bt$7. 20 - —prrrée-seod us info and bin tee. oreenITOy7h
-(Approximately 12Issues per year)
-Send Check or Money order zaly to TAR.Auvires& Room 34, 152. i281, MY IY(This is a Muil Dron ory)rach Course .J¢ApRBasic ElectrintyB-Aiternaung Cnrrent D-AmplifersLode
-~~- Basic Fhenes
-
-everyUn; in ine meter can 56 removed. This is a positta:splacementmeater which means for every cycle or revo~cn 7f{ the tise a Lxed amcunt of water is transferred. registered on the cial. The lixed amount of water istrapped in a sealea fixed space and carried thru the meterby movement of the disc. Tell your readers that it is il-legal to do this but if you were to shave or grind off 1/8"off wneé sutside circumference of the disc and then pat itback in, a large amount of water will pass through withoutregistering on the dial. This results in a large savings on
-DISCRerlioaal viewof typical nutaiiag pishent preter.
-water bills. Remember that failure to put the disc back inwill ~esult in no water registering and the meter readerwill get suspicious unless you tell bim that you've stoppedtakirxy batbs.Please print my article cause J always wanted to getsomething published. Yours,BALTIMOREhasic wnoop tite
-, CORRECTED SNOOP LITEThe Snoop Light article in issue 419 listed incorrect valuesfor ‘te buld anc capacitor, The bulb is a #48 screw base ora #49 bayonet base, both 2 volts and &O ma. The capacitoris a SOO mfd. at 15 volts. The complete circuit operation isas follows: When the phone is on tha hook 48 volts DCisacross ibe redandcreen phone wires, Since the phone{sdrawing no current now, the snoop light (in series with thegreen negative line) does not light. Ringing is a 90 wilt AC20 Hertz signal superimposed on the 48 volt phone Line.The bulb®coldresistance is smallnoappreciable voltagedevelops across il, so it remains unlit. When you pick up,the beli is switched out of the circuit and a large surgecurrent Gows thru the ling and bulb causing it to lite brightly.Thislarge surgeis causedb;' the low 100 chmphone resis-tance being switched across the phone Line. If you pick upduring thering the voltageis 48 plus 90 volts AC, andsothis can be quile a surge. The capacitor opposes the volt-age change and helps absorb the surae of current. Thebulk will momentarily brighten if you pick up during a ring,So to increase bulb life only pick up_betweenrings. If thebulb goes out while you're talking the phone will go dead.To preventthis a zenerdiode (5 to 10 volts, 1 wart) isadded. When thebulb burns out 4&5 volts is acrossthe zenerand it conducts. The zaner does not let the voltage acrossthe capacitor exceed 10 volts so the capacitor is protected.Thus a 15V capacitor can be used, instead of 50V, savingspace pod money.Remember, the snoop light is not a phone tap indicapr,it only indicates Lhat all extensions are hung up, It will notwork on 8 Black Box cali. Lf the snoop light is connectedbajore gq holdbutton it willalsolight up on bold. The holdresistor js 100 chms 1 watt. If you Sybarites want musicon bold agd a 10 ohm resistor (2 watts) in series with theresistor and bulb. Connect the audio output leads ofaradio or sterec with Transformer output to the 10 ohmRed n— —<« Red resistor instead of the speaker it normally goes ‘o.TAP is working on a snoop lite chat will work withaPhone Li To Phone Black Box. A schematicwillprinted assoon as possible,Line ideasare welcome. Also we nsed to knowiftheoff-book_ eurrent in your areais different from &ma.asin NewGreen 9— = __, Green Jersey. A different bulb may be needed for different places.x aamplete aircuitmusic on hold Phone Lineeh Line Red +Red——p- From AudioTo Audio Red Cutput :ReCutpuc ft —f- TransformerTra SW To PhoneTT “TT
-———pe GreenPheneLine GerenWorking Within The System DeptYou're reading TAP because you wint t? Smash the State, —righ’? ‘vari co abolish monopoles, r.jut’ Believe you have we Phore L.netha miy:t |. io whatever you want So! +: as you don't force areer -or frauc iiainst’) 0 otserir’ ‘dual? s/suld you believe there's - Lo mat Ace |a politics! -arty feeist. § .me way. [t's called the Lib- Li, Ls, -e4- or sy Sel: BSeicK cam/1/2 wattertarian Percy arm 1a8 chapters in most ".tates”. Many cf the ah “ o) Mia/t Fr =~ ita./1 20 Poltsmember ~..' seem m.caera%® tc us bomt-‘hrowing radicals, 2 =: - “Olt oer Dine,1 watt oe OPO atbeylro th ‘Jame in town". Reaacuarters are at 550 BL thrir/) ware AWeo=itimentarybut tbe; tin2 only Jame ean. R2 xl) -m/> watt SW?=SPST SwitchXearmy St., San Prancigco, Ca. Hill3. Teli them you .eadacout them in TAP,“Thomas vefferson”
-
-ForeignAustralia 61 Leeds 532 Lyons 78Adeleile 82 Wales (Cardiff) 222 Marseilles 91Brisbaine 72 Sussex 4352 Menton 93Camberra 62 Denmark 45 Monaco 93Hobare 2 Aalborg 8 Monte Carlo 93Melbourne 8 Arhus 6 Montpelier 87Perth 92 Coperfhagen 1 Nantes 40Sydney 2 Esbjerg 5 Nice 93Austria 43 Grenaa 8 Paris 1Graz 3122 Helsingor 3 RoubaixInnsbruk 5222 Herning q RonenKlagenfurt 4222 Horsens 5 St. TropezLinz 7222 Kalundborg 3 StrasbourgSalzburg 6222 Kolding 5 ToulouseVienna 222 Nordborg 44 VouvrayBelgium 32 Nyborg 9 GermanyAntwerp 03 Cdense 9 BerlinBrussels 2 Randers 8 Berlin MilitaryCharleroi 7 Ringsted 3 SwitchboardCourtrai 56 Roskilde 3 EttlinburgGenk 11 Silkeborg 6 FrankfurtGhent g Skaelskor 3 HamburgLeuven 16 Svendborg 9 HanoverLiegz 4 Thyboron 7 HeidelbergLokeren g Vejle 5 MannheimMous 65 Viborg B Mannheim Mil.Nienchen 15 France 33 SwitchboardNamur 81 Amiens 22 ManichOstend 39 Antibes 93 NurnbergTurnbout 14 Azaylerideau 47 StuttgartVelirens 87 Biarritz 59 GreeceWalengem 56 Bordeaux 56 AgrinionWavre(Waver) 10 Boulogne 21 AthensZeebrugee 50 Brest 98 CorfouBritish Isle 44 Calais 21 Delphi/DhelphoiBurniungham 21 Cannes 93 LarissaCoventry 203 Cherbourg 33 PatraiLiverpool 51 Clermont Ferrand73 FPiraeusLondon O1 Dieppe 35 RodosManchester 61 Dijon 80 ThessalonikiSouthampton 703 Dunkirk 20 Honk KongNL Belfast 232 Grasse 93 Cheung ChowScot. Edenburgh31 Grenoble 73 Ciear Water BayGlasgow 4} Le Havre 35 Fan DingPrestwick 292 Lille 20 Hong KongPublished for informational purposes only by Youth Hot Line Reports, Inc.
-Phone TAPMay 21,1975 TheReet PaperWhile were on the subject. we'd bxremrss if we didn'l pass along 2 BerkeleyParb report that phone phreaks in the man."uM securty) prison at Waysrde HoyNancho in Los Angeles Amie been bustedan charges of making long-dvaiance calls us-ing counterfex creda card numbers. The in-matey are accused of running up $400 incui. dne prisomer had the temerity tocharge all his calk to the Chino, Californiafrunnipal court. Anothet inmate, accord-mt sheriff deputies. used th phone tovate Washington and talk personatty joSupreme Court Justice Wiliam O. Dougla:shorily before Douglas suffered his strokeAnd a third inmate, according to police,was actually using the prison phone to talklo friends on the outside Lo plan robberies.The scheme was discovered when the in-mate called a wrong mumber — that of »police beutenant,
-Codes
-20359488614749311311+819724151411511624821621+'730811911711
-Kowloon 3 Cape TownLamma 882 Durban |Ma Wan 986 East London 431New Territory 0 Johannesburg ilsha Tin 61 Port Elizabeth 41Tai O 0985 Pretoria 12Tsun Wan 040 Spain 34Israel 972 Barcelona 3Haifa 4 Bilboa 40Jerusalem 2 Cadiz 56Nazareth 65 Granada 08Tel Aviv 3 Madrid 1Haly 39 Malaga o2Bologna 91 Palma De Mallorea 7]Brescio 30 Ceuta 56Florence (55773 Seville 00(54)Genoa 10 Toledo ooMilan 2 - Valencia 62(63)Japan 81 Sweden 46Fukuoka 92 Gothenburg 3]Hakone 46 Karlstad 4Kawasaki 44 Kristianstad 44Kobe 718 Lund 46Kyoto 15 stockholm 8Mob 78 Uppsala 18Nagoya 52 Switzerland 41Osaka 6 Berne a1Tachikawa 495 Geneva ae(Mil. Switchboard)493629 Interlaken 36Yokota Swbrd, 42552 Locarno 93Tokyo 3 Lucerne 41Yokohama 45 Montreux 21(Mi. Swbrd.) 46251 St. Moritz 82Netherlands 31 ourich 1Amsterdam 3490 Venezuela o8Delft 15 Barquisimeto dlGouda 1820 Caracas 2Haarlem 23 Maiquetta 31The Hague 70 Maracaibo B1Rotterdam 10 Merida 74Utrecht 30 Puerto la Cruz81Norway 47 Puerto Crdaz 8&6Bergen 3 San Cristobal 76Oslo 2 Valencia 41South Africa 27 Valle de la Pascug35}
-TAP, ROOM 504, 152 W.42 ST., N.Y,,N.Y. 10036BULK RATEU, 8. POSTAGEPAIDPerntNo. 209Geeat Neck, N.Y.
+Issue 29 
+a 
+we 
+ws AP 
+Oct,1975 
+A lack of staff has prevented the newsletter from being 
+published as often as we would have liked. However, we 
+are attempting to remedy this situation by opening a New 
+York office where prospective volunteers can help to put 
+out the newsletter. In addition, readers can come in to 
+ask questions, donate articles and information, obtain 
+subscriptions and back issues without using the mails, and 
+meet other readers. Due to the sensitive nature of our pub- 
+lication, we must insist that no materials of an illegal na- 
+ture accompany you when you visit us. Until further no- 
+Bee the office will only be open at the hours and days listed 
+low. 
+Address: 1201 Broadway (Between 28th and 29th Street) 
+Room 608 , W2 MAY ary 
+3 ~ 8 te Fd 
+Many readers have difficulty obtaining parts for our 
+projects in TAP, Most parts can be obtained from mail- 
+order companies such as those below. To read their cat- 
+alogs is an education in itself. 
+Babylon Electronics, P.O, Box J, Carmichael, Ca, 95608 
+B&F Enterprises, P. 0, Box 44, Hathorne, Mass, 01937 (617)532-2323 
+Burstein-Applebee, 
+3199 Mercier, Kansas City, Mo. 64111 (816) 531-5614 
+Digi-Key, P.O. Box 126, Thief River Falls, Minn. 56701 
+3. Knapp 
+Co. , 3174 8th Ave. ,8, W., Largo, Fla. 33540 (813)564-0034 
+Paliyette ectronies, 11iJericho ‘Tpke. , Syosset, N. Y. 11791 (516)921-7700 
+PolyPaks, P. 0. Box 942, South Lynnfield, Mass, 01940(617) 245-3829 
+Solid State Systems, P. 0. Box 773, Columbia, Mo. 66201 (314)443-3673 
+‘TAP has courses on Basic Electricity that are easily 
+understood, no matter how little knowledge of Electronics 
+you already have. You learn by building useful projects and 
+experiments such as those in TAP. In fact, you should be 
+able to build any project in TAP after 6 courses, which are 
+50¢ each (free if you can't afford it), 4 courses are avail- 
+able now, A~Basic Electricity, B-Alternating current, 
+C-Basic Phones, and D-Amplifiers, with more coming 
+soon. We urge you to.send for them if you want a quick 
+education in electronics. 
+YOU CAN HELP TAP 
+Ifyou can contribute any information that you think other 
+readers would be interested in, please do so. TAP readers 
+are the main source of our information. You can help by 
+meeting employees of phone and power companies, alarm 
+places, etc., and asking them about questions other people 
+raise in tho newsletter, Be sure to get details and malntain 
+contact in case you have additional questions. Most empl- 
+yees of those companies would be glad to screw their boss 
+and they'd probably be Interested in TAP, too. We hope 
+that 
+a lot of you will gather information so we know what 
+the scene 1s around the country and Canada. 
+‘We also need tnfo on the following: 
+wa-With info about where they're nec 
+essary. 
+Vending Machines-Locks, getting stuff, ete. 
+‘Locks: New code books, picking Medeco, Sargent Keso, 
+Fadio”Soliog 
+up your own Station, 
+8! 
+toga 
+up 
+own 
+Station, 
+Schematics, 
+Suilljammers, etc, 
+larms-Holmes and other central station alarms, 
+bypassing, electronic keys and picking, etc. 
+Also, Macnets, Overzeas Phronking, and Chemistry, 
+ADVANCED BLUE BOX 
+This circuit was sent in by a reader and we've checked 
+it out to find that it's beautifully stable with voltage and 
+temperature (assuming the capacitor .022 is stable). The 
+8038 circuit in issue #26 is very convenient but it requires 
+@ voltage regulator IC. This circuit does not. It uses a 555 
+timer, which, used in the free-running mode generates a 
+Square wave, which is ok for two reasons: First, the phone 
+line, earpiece and telephone mouthpiece you're using can't 
+reproduce a square wave so it's shaped somewhat into a 
+Sine wave, and secondly this circuit makes up for it's wave- 
+shape by its excellent frequency stability. It needs double- 
+pole buttons , admittedly a hassle to obtain, however it of 
+course needs no diode matrix. Current drain is under 20 
+ma. for two 555s. 
+‘Sut, 
+“Bev. 
+123 
+= et. 
+ae sts ce 
+> 
+From 
+* 
+other 
+ook 
+. 
+555 
+* 
+Hi 
+15 ve 
+. 
+3.3 
+3.3K 
+= j 
+} 
+i 
+i 
+to other 
+To telephone earpiece 
+LM555 
+Approximate value for Ry (Use trimmers) 
+Hz 
+R 
+700 
+42k 
+“For example: 700 Hz- use 50k trimmer 
+900 
+35k 
+pot, 10 or 20 turns, or else use a 
+1100 
+28k 
+single turn 5k or 10k pot in series 
+1300 
+24k 
+with a resistor, so that the center of 
+1500 
+22k 
+the po(1/2 the value) plus the resis- 
+1700 
+18k 
+tor equals 42k, Thus a 10k pot at its 
+2600 
+12k 
+center is 5k, plus 37k =42k, 
+Build two duplicate circuits, connect outputs, ground, and 
+power. Can drive a telephone earpiece strongly. Remove 
+the varistor dual-diode on the earpiece "before using. 
+© 
+Youth Hot Line Reports, Inc. 1975 
+Movement groups may reprint without permission with 
+TAP's address included, and please send us a copy of 
+reprinted work. WARNING: We will prosecute violators.
+Letters Frem Readers 
+Dear TAB, ff 
+bh aE Sit ba 
+A’ modified Starrett 829B smail hole gage- available 
+from most machinist supply companies- is an effective 
+key for the Rollersmith lock(See issue #26 and #23). Accept 
+no subStitutes-General makes a Similar tool but it is of. 
+lower quality and may require a special order. The gage 
+is hardened steel, so you'll have to use a small bench 
+grinder, not a file, to reduce the diameter of the ball 
+halves and cone to about . 150" (That's one hundred and 
+. 
+fifty-thousands of an inch) unscrewed. Finish grinding by 
+band on a bench stone until it just enters the hole. Insert 
+all the way, tighten, and retract it, and Voilal The lock 
+is opened. 
+‘The gage costs about $7 and can be sold at a nice profit. 
+Be sure to grind 
+the manufacturer's 
+name and number off 
+the gage to insure its anonymity. 
+Mr. Phelps 
+Advisable Missions Force 
+Ee 
+ee 
+Note: Grind with gage unscrewed. 
+(Titer Grinding | 
+a 
+Dear TAP, 
+A good way to nail those anti-phone phreak manufacture: 
+s 
+is togo to 
+a pay phone and call one up. It is not neces- 
+sary to pay, instead, simply call the operator and tell her 
+that you just dialed a wrong number. In most cases, if you 
+are convincing, she will connect you. When the company 
+answers, have nice long talk about how good you think their 
+device is to protect life, limb and property. Sound sincere, 
+and stay on for as long as possible or until an operator 
+comes on, Almost always, after using the 'wrong number! 
+approach, the operator will forget about you, and by the 
+time she remembers, you will already have run up a huge 
+bill (staying on for an hour across country will come to 
+over $20), When you think you must, hang up, making sure 
+you have left no clue to your identity. The operator will 
+call back, and ask you to deposit an amount equal to GM's 
+— TJ 
++160") 
+TRIVIA Hee 
+yearly sales. By this time, you will be long gone, So guess 
+who gets stuck with the bill? That's right, the good old 
+manufacturer! ~~” 
+a 
+. 
+. 
+NEW JERSEY 
+Dear TAP, 
+. 
+‘Wisconsin Telephone Newsline is a pretty typical Telco 
+newsline, except they have a mania for phone phreaks. The 
+always bave the latest on busts across the country, as well 
+as up-tight references to publications they think are out to 
+subvert them. (414) 678-3511. Unfortunately, it is souped 
+and you get charged if calling from outside 414 area. The 
+info is almost worth it. 
+Milwaukee Ring-back- 971, wait for tone, dial 6 and hang up. 
+Loop suffix for 414 area is XXX-0010 &0011. They've been 
+closed for a year but someone gets sloppy once in a while. 
+‘There's a magazine called Amateur Radio 73. It's a ham 
+magazine supposedly published in the Northeast and distrib- 
+uted by ham dealers, The June 1975 issue has an article 
+entitled "Inside Ma Bell" which (according to Wis. Telco 
+newsline) gives "precise technical details on blue box con- 
+struction, " I've searched for a copy but they were gone 
+quick. You may have better luck in a library. 
+Incidentally Pacific NW Bell is sueing the magazine for 
+$100, 000 for distributing it in their areal Freedom of the 
+Press? Shit. 
+I “have heard" that some criminally insane persons buy 
+coin folders made for coin collectors and use the quarter 
+and dime size cardboard discs in these as slugs. Seems 
+these cardboard discs work in the "slide-in" type coin 
+acceptors used in Laundromats and on small vending mach- 
+ines. Apparently they even work in the "slide-in" acceptors 
+that have magnets to reject metal slugs. Although these 
+people have to hunt around for the "wood-grain" type fol- 
+ders with the cardboard discs still in them, that doesn't 
+seem to deter them. 
+INDIANA 
+Dear TAP, 
+Shown below is a rotating disc flowmeter. This is the 
+type used in gas pumps, fuel oil meters and to measure 
+water used in your house. It is usually found under a round 
+steel plate that says "water" which is located in your yard 
+or in the street, etc, It is held together with 6 or 8 bolts 
+around its circumference. When these bolts are removed 
+BACK ISSUES- 50¢ each 
+FACT SHEETS ~25¢ 
+each 
+1-Extensions, Conference Switches 
+1, Credit Card Calling Hints 
+hold tite 
+2-Bilue Box Story and Abbie on Ripoffs 
+2, Receiving Long Distance Calis Free. 
+Phone Line 
+3-Telecommand Story 
+(Same as Issue 11 for General Telephone Co. “* 
+. 
+Red 
+7 
+4-Pay Phone Issue 
+Customers instead of Bell Telephone Co.) 
+5-Hlue Box 1 06 0L6TE 
+Displayed 
+Red Box 
+> Re 
+6-Blue Box 2— 
+jOLETE.. 
+2600 Whistle Periectar>> 19¢ each 
+7-Tuning your Organ 
++ 
+Dual tone oscillator. 
+RL 
+To Pt 
+8-Credit Card Calls/1972 Code 
+Anti-Bell Button-50¢ 10/$3 
+9-Super Duper Project (Issue 11) 
+BOOKS 
+10- Same as 9 (obsolete) 
+. 
+Steal This Book-$2, 25 
+@ 
+11-Receiving long distance calls free 
+Monopoly - 
+$2.20 
+i» 
+12-Blue Box Plans 
+DESTRUCTORY ASSISTANCE-Free-Send us info and 
+Phone 
+Green 
+13-International calis /Box plans 
+a stamped, self-addressed envelope and topics you 
+Line Green ° 
+14-International calls/AT&T papers 
+15-1973 Credit code/T network 
+16-Red Box Plans 
+would like to trade info for. Send for our free list 
+of destructory assistance topics. 
+SUBSCRIPTION- US Bulk- $2 
+Working Within The §
+(Approximately 10 
+17-Red Box/Line Relay 
+Canada - $3,50 Issues per year) 
+You're reading TAP}
+18-Call Stoppér 
+Foriegn- $4. 50 
+right? Want to abolish|
+19-Snoop Light 
+US First Class-Add $1. 50 (Total 3. 50) 
+the right to do whatever
+20-Cheese Box 
+Envelope) 
+or fraud against any oth
+21-Automatic Phone Tap 
+@ political party that fet
+22-Answeroo 
+Send Check or Money order only to TAP 
+ertarian Party ani has 
+23-Free Electricity 
+24-Fraud Detectors, Index, 1974 Code 
+25-New Red Box/Free Gas 
+26-New Blue Box 
+27-Free Electricity 
+22-Computer Bills 
+Address: Room 504, 152 W. 42 St., N.Y.,N.Y. 
+(his is a Mail Drop only) 
+Each Course 50¢ 
+A-Basic Electricity 
+B-Alternating Current D-Amplifiers 
+members may seem mc
+but they're "the only ga 
+Kearny St., San Franci
+about them in TAP. 
+10036 
+C-Basic Phones
+everything in the meter can be removed. This is a positive 
+displacement meter which means for every cycle or revo- 
+lution of the disc a fixed amount of water is transferred 
+and registered on the dial. The fixed amount of water is 
+trapped in a sealed fixed space and carried thru the meter 
+by movement of the disc. Tell your readers that it is il- 
+legal to do this but if you were to shave or grind off 1/8" 
+off the outside circumference of the disc and then put it 
+back in, a large amount of water will pass through without 
+registering on the dial. This results in a large savings on 
+DIAL 
+DISC 
+Sectional view of typies! nutating pltton meter. 
+water bills, ‘Remember that failure to put the disc back in 
+will result in no water registering and the meter reader 
+will get suspicious unless you tell him that you've stopped 
+taking baths, 
+Please print my article cause I always wanted to get 
+something published. Yours, 
+BALTIMORE 
+basic snoop tite 
+Red 9-—_______________-» Red 
+Phone 
+L1 
+To Phone 
+Line 
+Green 
+ch 
+Green 
+4 
+music on hold 
+vi ‘CORRECTED SNOOP LITE 
+on 
+‘The Snoop Light article in issue #19 listed incorrect values 
+for the bulb and capacitor, The bulb is a #48 screw base or 
+@ #49 bayonet base, both 2 volts and 60 ma. The capacitor 
+is a 500 mf. at 15 volts. The complete circuit operation is 
+as follows: When the phone 
+is on the hook 48 volts 
+DC is 
+across the red and green phone wires, Since the phone is 
+drawing no current now, the snoop light (in series with the 
+green negative line) does not light. Ringing is a 90 volt AC 
+20 Hertz signal superimposed on the 48 volt phone line. 
+‘The bulbs cold resistance is small no appreciable voltage 
+develops across it, so it remains unlit. When you pick up, 
+the bell is switched out of the circuit 
+anda large surge 
+_ 
+current flows thru the line and bulb causing it to lite brightly. 
+This large surge is caused by the low 100 ohm phone resis- 
+tance being switched across the phone line. If you pick up 
+during the ring the voltage is 48 plus 90 volts AC, and so 
+this can be quite 2 surge. The capacitor opposes the volt- 
+age change and helps absorb the surge of current. The 
+bulb will momentarily brighten if you pick up during a ring, 
+So to increase bulb life only pick up between rings. If the 
+bulb goes out while you're talking the phone will go dead. 
+To prevent this a zener diode (5 to 10 volts, 1 watt) is 
+added. When the bulb burns out 48 volts is across the zener 
+and it conducts. The zener does not let the voltage across 
+the capacitor exceed 10 volts so the capacitor is protected. 
+Thus a 15V capacitor can be used, instead of 50V, saving 
+Space and money. 
+Remember, the snoop light is not a phone tap indicator, 
+it only indicates that all extensions are hung up. It will not 
+work on a Black Box call. If the snoop light is connected 
+before a hold button it will also light up on hold. The hold 
+resistor is 100 ohms 1 watt. If you Sybarites want music 
+on hold add a 10 ohm resistor (2 watts) in series with the 
+resistor and bulb. Connect the audio output leads of a 
+radio or stereo with Transformer output to the 10 chm 
+resistor instead of the speaker it normally goes to. 
+TAP is working on a snoop lite that will work with a 
+Black Box. A schematic will printed as soon as possible. 
+Ideas are welcome. Also we need to know if the off-hook 
+current in your area is different from 60 ma. as in New 
+Jersey. A different bulb may be needed for different places. 
+complete ciréeuit 
+Phone Line 
+p Red + 
+<9 
+From Audio 
+Ree 
+one 
+Output 
+R2: 
+‘Transformer, 
+TO PHONE 
+Green 
+ystem Dept. 
+ecause you want to smash the State, — 
+monopolies, right? Believe you have the 
+‘you want so long as you don't force 
+er individual? Would you believe there's 
+ls the same way? It's called the Lib- 
+chapters in most "states". Many of the 
+derate to us bomb-throwing radicals, 
+me in town", Headquarters are at 550 
+sco, Ca. 94108. Tell them you ead 
+"Thomas Jefferson" 
+Ll, 
+cL 
+Z 
+Ri 
+R2 
+L2 =#48 or 49 Bulb 
+=500 Mfd/15 volts 
+=10 Volt Zener Diode, 1 watt 
+=100 ohm/1 watt 
+#10 ohm/2 watt 
+R3=10K ohm/1/2 watt 
+C2=1 Mfd. /100 volts 
+SW1=DPDT Switch 
+SW2=Momentary SPST 
+SW3=SPST Switch
+Foreign Codes 
+Australia 
+61 
+Leeds 
+532 
+Lyons 
+vi: 
+Kowloon 
+3 
+Cape Town 
+21 
+Adeleile 
+82 
+Wales (Cardiff) 222 
+Marseilles 
+91 
+Lamma 
+982 
+Durban 
+31 
+Brisbaine 
++ 
+72 
+Sussex 
+4352 Menton 
+Ma Wan . 
+986 
+East London 
+431 
+Camberra 
+Denmark 
+45 
+Monaco 
+93 
+New Territory 
+0 
+Johannesburg 
+1 
+Hobare 
+2 
+Aalborg 
+8 
+Monte Carlo 93 
+Sha Tin 
+61 
+Port Elizabeth 
+41 
+Melbourne 
+3 
+Arhus 
+6 
+Montpelier 
+67 
+Taio 
+5985 
+Pretoria 
+12 
+Perth 
+92 
+Coperfhagen 1 
+Nantes 
+40 
+‘Tsun Wan 
+040 Spain 
+34 
+Sydney 
+2 
+Esbjerg 
+5 
+Nice 
+93 
+Israel 
+972 
+“Barcelona 
+3 
+Austria 
+43 
+Grenaa 
+6 
+Paris 
+1 
+Haifa 
+4 
+Bilboa. 
+40 
+Graz 
+3122 
+Helsingor 
+3 
+Roubaix 
+20 
+Jerusalem 
+2 
+Cadiz 
+56 
+Innsbruk 
+5222 
+Herning 
+7 
+Rouen 
+35 
+Nazareth 
+65 
+Granada 
+58 
+Klagenfurt 
+4222 
+Horsens 
+5 
+St. Tropez 
+94 
+Tel Aviv 
+3 
+Madrid 
+1 
+Ling 
+7222 
+Kalundborg 3 
+Strasbourg 
+88 
+ttaly 
+39 Malaga 
+52 
+Salzburg 
+6222 = Kolding 
+5 
+‘Toulouse 
+61 
+Bologna 
+51 
+Palma De Mallorea 71 
+Vienna 
+222 
+Nordborg 
+44 
+Vouvray 
+aT 
+Brescio 
+30 
+Ceuta 
+56 
+Belgium 
+32 
+Nyborg 
+9 
+Germany 
+49 
+Florence 
+(55973 
+“Seville 
+50(54) 
+Antwerp 
+03 
+Odense 
+9 
+Berlin 
+311 
+Genoa 
+10 
+‘Toledo 
+25 
+Brussels 
+2 
+Randers 
+6 
+Berlin Military 
+3114819 
+Milan 
+2 
+Valencia 
+62(63) 
+Charleroi 
+7 
+Ringsted 
+3 
+Switchboard 
+Japan 
+81 Sweden 
+46 
+Courtrai 
+56 
+Roskilde 
+3 
+Ettlinburg 
+‘7124 
+Fukuoka 
+92 
+Gothenburg 
+31 
+Genk 
+1 
+Silkeborg 
+6 
+Frankfurt 
+151 
+Hakone 
+46 = Karlstad 
+54 
+Ghent 
+9 
+Skaelskor 
+3 
+Hamburg 
+411 
+Kawasaki 
+44 
+Kristianstad 44 
+Leuven 
+16 
+Svendborg 
+9 
+Hanover 
+$11 
+Kobe 
+1% 
+Lund 
+46 
+Liegz 
+4 
+Thyboron 
+7 
+Heidelberg 
+621 
+Kyoto 
+75 
+Stockholm 
+8 
+Lokeren 
+9 
+Vejle 
+5 
+Mannheim 
+621 
+Mob 
+78 
+Uppsala 
+18 
+Mous 
+65 
+Viborg 
+6 
+Mannheim Mil. 
+621+730 
+Nagoya 
+52 Switzerland 
+4. 
+Nienchen 
+15 
+France 
+33 
+Switchboard 
+Osaka 
+6 
+Berne 
+31 
+‘Namur 
+81 
+Amiens 
+22 
+Munich 
+811 
+Tachikawa, 
+425 
+Geneva 
+22 
+Ostend 
+59 
+Antibes 
+93 
+Nurnberg 
+911 
+(Mil. Switchboard)42362 
+Interlaken 
+36 
+‘Turnhout 
+14 
+Azaylerideau47 
+Stuttgart 
+711 
+Yokota Swbrd. 
+42552 
+Locarno 
+93 
+Velirens 
+87 
+Biarritz 
+9 
+Greece 
+30 
+Tokyo 
+3 
+Lucerne 
+41 
+Walengem 
+56 
+Bordeaux 
+56 
+Agrinion 
+642 
+Yokohama 
+45 
+Montreux 
+21 
+Wavre(Waver) 10 
+Boulogne 
+21 
+Athens 
+21 
+(Mi. Sword.) 
+46251 
+St. Moritz 
+82 
+Zeebrugee 
+50 
+Brest 
+98 
+Corfou 
+661 
+Netherlands 
+31 
+Zurich 
+1 
+British Isle 
+44 
+Calais 
+21 
+Delphi/Dhelphoi 265 
+Amsterdam 
+8490 
+Venezuela 
+58 
+Burmingham = 21. 
+Cannes 
+93 
+Larissa 
+41 
+Delft 
+15 
+ Barquisimeto 51 
+Coventry 
+203 
+Cherbourg 
+33 
+Patrai 
+61 
+Gouda’ 
+1820 Caracas 
+2 
+Liverpool 
+51 
+Clermont Ferrand73 Piraeus 
+21 
+Haarlem 
+23 «= -Maiquetta «= 31 
+London 
+o1 
+Dieppe 
+35 
+Rodos 
+241 
+The Hague 
+70 
+Maracaibo 
+61 
+Manchester 
+61 
+Dijon 
+86 
+‘Thessaloniki 
+31 
+Rotterdam 
+10 
+“Merida 
+14 
+Southampton 
+703 
+Dunkirk 
+20 
+_ Honk Kong 
+852 
+Utrecht 
+30 © Puerto la Cruz81 
+N.L Belfast 
+232 
+Grasse 
+93 
+Cheung Chow 
+981 
+Norway 
+47 
+Puerto Ordaz 86 
+Scot. Edenburgh32 
+Grenoble 
+76 
+Clear Water Bay 329 
+Bergen 
+5 
+San Cristobal 76 
+Glasgow 
+41 
+Le Havre 
+35 
+Fan Ding 
+090 
+Oslo 
+2 
+Valencia 
+41 
+Prestwick 
+202 
+Lille 
+20 
+Hong Kong 
+5 
+South Africa 
+27 
+Valle de la Pascua351 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+TAP, ROOM 504, 152 W.42 ST., NY,,N.Y. 10036 
+BULK RATE 
+U.S. POSTAGE 
+Phone TAP 
+Palo 
+May 21,1975 The Rea! Poper 
+While we're on the subject. we'd br 
+remiss if we 
+didn’t pass along a Berkeley 
+Furb report that phone phreahs in the mav- 
+um security: prison at Wayside Honat 
+hancho in Los Angeles have been busted 
+‘on charges of making long-distance 
+calls us- 
+ing coumerfeit credit card numbers, The 
+ze accused of running up 
+cai, One prisoner had the temer 
+charge all his calls to the Chino. Cal 
+municipal court, Another inmate, aocord- 
+ing te sheriff deputies, 
+used the phone to 
+sait Washington and talk personally to 
+‘Supreme Court Justice 
+William 
+©. Douglas 
+shortly before Dougtas suffered his st 
+And a third inmate, according to poli 
+as actually using the prisan phone to talk 
+to friends on the outside to plan rqbberies. 
+The scheme was discovered when the in- 
+mate called a wrong number — that of x 
+police lieutenant. 
+Pormit 
+No. 209 
+Groat Neck, N.Y,

@@ -9,6 +9,11 @@
   inserting a new article anywhere in the sequence automatically
   updates its neighbors' links without editing any other file.
 
+  Sub-series sharing one project (e.g. TAP issues and the Classified
+  TAP ad sheets) are deliberately interleaved into a single date-sorted
+  chain rather than split apart, so a classified sheet's prev/next
+  neighbors are the numbered issues it shipped alongside.
+
   Renders nothing if the page has no `projects`, has no sibling pages
   sharing one, or has no `date` set (a page with no date can't be
   reliably placed in a date-ordered chain, and Hugo's zero-value date

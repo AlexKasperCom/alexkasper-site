@@ -1,30 +1,866 @@
-Milo Ponebiil's Automatic Blue Box Explainedby LavoisierAdvantages of Milo's Box1. Can hold 5 10 digit numbers.2. Each number is outvoulsed at the proper rate at thetouch of a single key.3. The current drain is very low. When not pulaing thebattery drain is only ficrommps. A single 9 Valkaline battery will power it for a year of on time,unlike Peter Piver's crogramnmsable box (TAP ¢ 56) whichtakes two SV batteries and pulis 24mea in standbyDisadvantages of Milo's Box1. The box is comvlex.2. Because of its complexity it ia bulkier than the usualmanual] box.The enclosed schematic is cf a working Milo Fonebill BB. Ittook one hell of a lot of study to figure it out from Milo'sdrawings. I'll describe how it works in 3 sections: 1, Numberentry} 2, Playing back the nurters, or RUN; 3, Clearing theBox.1. Mumber entry. Assume the box has been cleared andml in in al) 64 bits of each register. I'll get to theyeason for this later. The switch enabling the keyboard isClosed. Now assure that the KP key is vreassedthen linss1100 snd 1700 go low. A “O" (0 is low, 1 is highjis placedon pin 35 (Data In) of IC 9 & 12 but the deta is notentered yet. At the sere timerin 4 of ICSA and pin 13 of1chcgo low which drives pin 1] of IC14C Jow. This in turnwakes fin 10 of all the shift registers low through IC4Aand IC]6B. This puts the shift registers in date ontrymode. Meanwhile charge ia leaking off C3 through R14 andafter sbdout 9msQD goes high and ‘goes low. This delayis to allow for contact bounce jn the keyboard awitches.QD high drives pin 2 (clock input) of sll the shift registe-shigh. The data vresent at pin 15 of all the shift registersis now entered. KD' went low after 9ms which, through IC6A,ICL7A-F, and IC21E &F turns on the output amolifier (LMZE6)giving an audible click and lights the pulsing gate indi-cator LED. The LED stays lit es long as any key is depressed.Let ws repeat, we O is entered into the 1100 and 1700shift recisters ond a } is entered in the 700, 9CO, 1300,and 1500 shift registers when KP {s pressed on tha key-board.The Schritt triggers (IClGE&F) reolace the 4047 usedin Milo'a box.I could not get the AC47 to work in thisapplication. Besides the 74C14 Schmitt trigger is cheapor.Note also that the P gate indicator driver siould be eanon-inverting buffer and not an inverting buffer ss Miloshows it.The 40%] shift register, wlike other CMOS ICs, hes aJarge clock input capacitance (nin 2) so Y play safe anddrive them with 3 invertirg buffers rather tan 1 18 Hilodoes. The 4031 is clocked by the positive edge of theclock end not just a high level so the clock input needsa sherply rising wave form to clock it.2, RUN Mode. Assume that 2 ton digit mumbers each witha prefix of KP and e suffix of 3 have been ontered into theehift registers. Before going on I will describe the 1 of2 data selector composed of the 3 NAND gates IC5iB, C, & Dund the inverting buffer IC16C. Two clock rates are used?1280 He supplied by the oscillator IC25; lOHz at the@utput (pin 3) of thedivide by 128 counter (IC20). TheW2L0Hz clock zoes to one invut of the date selector(pin 9,IC3D) and the JOHz clock goes to the other input(pin 12,1C3C). The ecntrol signal appears et pin 4 of the NOR gateIC)5B. When this contro] voltage is low then the output ofthe data selector (pin 4, IC3B) follows the nigh speed clock.When thie pin is high then the output of the data selectorfollows the Jow speed clock.Now, Jet's cress tne RUN key. Immediately pin 4 of1C4B goes high end stays high for 5O0ms (I'll explain thereason for the SOms later) and the output of the NOR latchcomposed of I1C13C & D (vin 10, IC13D) goes high which sendspin 3 of ICl4A low. After 5SOus this turns on the clockoscillator (pin 4, IC23) and drives pin 1 of IC6A high whichturns on the output arcplifier and the P gate indicator.Which clock will be used by the dats selector? A totalof 24 digits have been entered into the shift registers.Since these are 64 bit shift registers the data ia 40 bitsaway from epoesring at the outvout. The 2 NAND gates ICS58and IChD see all "la" at the 2 output (pin 6) of the shiftregistera, This through ICI&D end IC15B selects the highspeed clock. So, at a rate of i1250Hz data ia atepped throughthe shift registers.
-MAR-APR 1980 NO.62After 40 clock cycles two things harcnen, eltner of v-ichwill reset the RUN latch and turn off tne clock. The “f-gof Register” (2CR) ccunter (IC]9) hns reached a count of64 (it also counts when the numters are enterad) viscing ahigh level cn pin 6 of ICIAB. Also the K)* Kn» detctorcomposed of the 3 NAND getes IC2C & D and ICRA '.as detectedKP, at the J output (Yu not Q) output (cin 7) of the 1100and 1700 shift registers. This pisces a high level at thaother input (sin %) of the NCR gate ICI4B. The nepativegoing pilse st pin 6 of the reset generator (IC22) trigzersa 2ms output pulse at pin 10. This ressts the SUN latch, theEOR counter (1619), the civide by 128 counter (1020), andturns off the clock. Al] this happoned in @1,.25ma, SCmsdelay before the clock turned on plus 31.25ms to snift 40bite at 1280Hz.But we still haven't layed our numbers back. The nextpress of the AUN key sets the first number. KP of the firstnumber js st the output of the 1100 & 17CO shift registors.The output of the K)+ K, detector is high making the triggerinput (nin 6) of the reset generator low but this doesn'tdo anvthing. The reset generator is negative edge triggered.Iet's cress RUN again. Again wo pet the 50ms Jelay beforethe clock turns on. The "No Dats Detect" gates see datapresent at the shift registers so the dats selector selectsthe low speed clock. Pin 13 of the NOR gate ICI]EC goes lowand pin 12 of the seam IC is also low because it takes 64clock cycles before pin 3 of IC20 will go high. ICISC thendrives orm innut of sli the output NAND gates high (ICIA, B,CO, D, IC2A & B)-Pins 7 of ehift registers IC9 ani ICl2 erealso high so the output of BAND gates IC1C (1100) and1C2B (1700) go low which turns on the 1100 and 1700 tonegonerstors. The output azolifdier and the P gate indicatorare also on so we have ]00ns of KP as per Milo’s speca.KP is 100ms because of the 5SOms delay before the clockstarts running. This is the reason for the 5Oms delay.Therefore R2 and C2 should be chosen to give a SOms delay.Pin 3 of IC20 goes nigh 100ms efter RUN ia keyed. Thisturns off the tone generators and clocks the shift registersto the next number. After 50ms of silence pin 3 of IC20 goeslow for 5Oms and we get 5Oms of tones for wnat ever nunber4s after KP end so on for each number until KP of the nextnumber is reasched. Then the Ky-¥ Ko detector ‘output, whichwent low after KP of the first nuzber was shifted past, againgoes high trigzering the reset penerator which stops the clockand resets everything.A second press of the RUN key plays the second numberin the same way. After ths second number is played thereare 40 bits of no data so the "No Data Detect" selects thehigh speed clock which ravidly (31.25ms) recirculates KP ofthe first nurber to the output of the shift registers andeverything stops. The box is now ready to replay the firstnumber.3, CLEAR. When the CLEAR key is pressed pin 1 of ICI3Agoes high. This i@ one input of the NCR latch composed ofICl3A and B. This drives pin 3 of ICI3ZA low which, throughIC4A and IC16B drives low pin 10 of all the shift reginateras.Thie changes the shift registers from the recirculate nodeto the date entry mode. At the sane time the other outputof the WOR latch (vind, IC13B) goes high. This through [C158Causes the data selector to select the high speed clock. Theshift registers sre now clocked at 1280He with their inputs(pin 15) all high. This losds a "1" in all 64 locations ofall the shift registers. Since the complement outcut (3) ieused the shift registers sre cleared. After 64 counts the EORcounter goes high (pin 3, IC]19) and resets the CLEAR NORlatch. The box in now ready to accept new nusbers
-
-The Tene Generator AoardThe S0l7e are the oscillatora and are overstsd at 10times the desired wutput frequmney. The outsut of eachoecillator is fad into a digital sine wave czenerator (seeDon Lancaster's *CWOS Cookbook") which gives a 10 stepapproximation of a sine wave at 1/)0 the inrut frequency.Unlike « square wave whose first harmonic i» the jrd at1/5 the power of the fimdamental, the firet harmonica of«a 20 step eine generator is the 9th et only 1/9 the poweref the fundamental. Musnonof Vilo's elaborate filtermetwork is required. Just lately I've learned {TAP ofseurss) that square waves work af well se sine waver #0 thebeard seuld be simplified by operating the oscillators atthe eorrpct frequensy and eliminating the digital sine wavexoreratore.Tha output amplifier (LNOG6) ie very convenient andeasy to use. Ite ocutmrt voltage {a automatically bissedat @ the susply voltage. Its autput iupedance is §& ohm towateh the wost commen speakers. [t {es designed for batteryoperation and haz a low quisseant ourrent drain.Milto’s schewetia did not includes it, but the voltageregulaster is required. The frequency of the 4047s is somewhat voltage dependant. Do not make any component@ebatitutionms in thia raguiator. It ta designed for CHOeircuite and has « very low power drein but ean atill supplyquite a bit of current when necessary. When the box iaeutpuising for instance. You eam find more about thisregulator in the National Semisonductoe “Linear Applisations,Veolwu i", AN71-7 & 8.Yer the buffers om the logic soard de not substitutethe £009or 4010 for the4049 or 4050. The latter2 cansupply much more output current than the first mentionedpair.Twe tipe for -working with CMOS cireultea. Piret, theinputs are statis sensitive. Werk on a grounded surface andground yourself throwh « 1] weg resistor when handling CHOS@ircuits, Jesced, the inputs of unused devicee must go 2008where, either to the positive or negative supply, or tisd tea funetioning input. Inputs cannot be left floating or thedevice may caesillate which will pull « lot of standby current.Remember that CKOS circuits theeretically draw ne currentwhen they are not switehing.I have not shewn the positive and negative supply leadsom the various gatea on the logia board. Just remember,all the gate peekagea need pesitive and negative supplies.
-e
->¥
-«5 PS .oO g 9 “” FertE poy HE24 be .$ >.5 >+ séaZ ~< ~ 3a Som ———
-oe< 33 Fb “ae Ayoa ” mR Yaa rS lu° - 4 ag fsw ct Ko- wv rer en. & aa | | o* x“z mie *eec.oO > GR 2oe w NY r X<¥ ai er Sza ~~ <€yofase ro” Ny2 3T 223~ ea w TMuy ia a aewe
-&1100 >———%0)—_——Ra)——
-Poo
-qs
-FRONT 7ANEL7é0
-190
-HOO
-yao
-i500
-1700
-pa Sy >} 2600te) { PATE NACALeo=PNe? + CLEARRe —p Ren
-7rdSpe<5 weIsLe mM“3.< j axb 33]Ss 5Mme2| ** >e<=INNS2qrt“ oa e RKa dongngo”= gd0aa Oogeacagqaea2aaoaaqeenWy kh ws“Syoea oh
-5.6V aTLegie Board IC'sAESUL ATEDMAND gateIc}, i 5, 4, 4011 Quid dua) input305, 6=Dus) A in bP,© shift registor1put NAND gatese dl, 12-405) 6hFut NCR gaquad 2 In gxer bufferSeing bufferng Scheitt traMonosteble/satable multivibreterinary counterng bufferbuffer 4049Max nen=-invert“The hex invertlRon-daverti023~-WO&? Low pewer7 atage b
-Ru@iuvertingTC19, 20-4624F021 4040 Ke xre22TO181c?,8,9, 10ois, 34, )¥C16-Hes17450
-
-LOGIC & RDa3
-_»f gam hm ~FFa
-Ti@ *ueft ror the terfect “leor,Much roDetercee Yenc te CF CT LIt er eller.hich" Mee citer saa,Ml VET.to chtedr, vr my .l to ofa rro fees, cr, CP rerki,ELL TO@LGlVe bro ocerperiz:on t¢ the:r tee: le, cl lrethere,Cre rugitarnce thet cee fee cf Gt tw reworercg lr etrans(AsroPe, ClethIA ctner or (act etmylether’s, the ereertsets:Thal eboil, NT RGuririrg, MAphel Fle ortie Vewie sir cuitePorysserms em ef blom vite: the pest co.t.e 2 Porsres ‘exnrr(thuore Ipterect@ec car veler t¢ “laeit ria lisieas Ureyprcy ‘mecher) enc the “ether eve" have et cioee -eer Cultsrerudear. [tr pOvarta,@& anc Virtues fre trat .t le chess,lecal, easily evarlatle, |edicel. sere, +rc, of courte,Or & akin oust. fievar, ceeu ether on pre Cr! fora ti =car of jeers, 46 weil @2 tumiing of 6 Gagnibicent nn cerCi t¥lercs withCut wns ceseterious ef fectr anc erntiurtxet.creviews, ether hes the cs ‘. Mazcigm .@aa ef APr roves oricele cra effective recreuticrel cm,.the eri: real arawbaca Cu atier ic tie carnoteticns 3!parol fsing Wet 3a?e cae Consures uy. Tr5e Can Le @pruoler. cir.ce Conew.:ticr Ccoumes the ctror, cOlvert Foes!O: ether ta pervece the uncle area, ACM ci like rot mine,nin formed terial: i ecers anc [rience tena to pet culteSOrtcerrma (ANC go:.etice suite hortile) wher they rotice 1%.The; i:-ealatel) eg8tc @ Jou are |.ABFeCTirg JOUr ure cellicwath clue, you 'ucrin' cegenctrete, ou. ‘'egt ekacrec,Pouever, thet efiher 1 spie rrcg unreistea to , duc, tol ieneora over carverous incustrial sclverts.Another pOirt tc tere ceretul rote cr if that aliSler@r curt Te nest peas (ro. ether, its va-our ara tieWhU.L@ -OCnern. ategs FCher ac ether (uep are estreel:tlerc able. Thik remsre °C eobing at all, so carcier,retches, etc. if vou choose t? forse. or tinregarc this,reveccer that wrdare opin a tcepstal Purt werd ,cr croreprocaoly rrarfir, 28 in the rerultic, ea: lemion uf seKriryfleces tre oc uct un; lem@arnt wasm tO cone acwoes
-Lat.1.OCnMink $7aF
-Ctner wir we or.ret! ag fm ow OMe Clee CF these?Toupeey Cro riypra@e CLP 6mm tour loerl vencu. the.str crseGidy) det. Wther in cblourtcur .5 the crearic cheristr:2, B vere ce vc? JAS Temper.t ur ealvert, anc urec toongf> Out filer ee: rete on She a10 let. If :0u ius ether,1Ccen CLreigyt e7CG ft efneo cay SQL. reeu it ep & Cleer st?eC lver?, Cr 'Or & ¢he..wtrs exits cr tO sneak Cyt filce‘or ph p@he@tice Cort. lt akculs cont ecu. 77.0 for «Crm lh. suttimcr cen eich wali Last euite ¢ ion, tues.Titibe ether ch corte, @ lattle 6 ¢ cloth i> hleetex,recering era ¢utyi, cost (er leetin, On) the container,notin, The cioth ur ta :aur rere cr Olt cee irrelireGeesly te vupoere. Ft creli pret:; raurer;, at triecleerreers efter a grcrt while. The tritisel bic seerscl? vem curabhl;, theretcre "Fé Cottle -6f ce festeserourd cOntinucvely with 2 proc feclitery srortiry; iF bacPCr DOU ewethetit anc selet: reazcrc}. “ c,arting”* theOttlme 18 ¢Cconeicered fcor vor. “ther c@irn, -2r creemthetic(Ccassioreli7 » Teal fiero wil? case ont src bee! over,This i2 frothing %O pat excites ctour- Che over-irnculrercer either be wlaprea .; or jel to har creae. . ade surehe's etili oreathir, every now ann then sw: you're worriac,whe ether hagn io truly increa:ble. One cor attainA reaily interecting, surer-storee, paychecelac rtate that1g truly out of this worle., ‘Yiu can ree t: © setup, cethe secrets Of the unaverme uwiécld. Am ether-heacNeo.There@eau rerertes, “‘ou ,o ce.cra the turthest star.’Petter Thor pseon'’s accurate cencreption cr etherccenie inris excellent "“ear @# -cath:nge ir Leas VYeges" is aise worthcheckirg OutsLestly, the are. cl etrcer cuales or vour breath foreB ehile isceaiatel, a:tat use arc it ce -ara to Ci SgulseOQ @kp.mins sO Hay aba Vror etrai, hte ss roeslole.Cae orves wisely anc 31... ccerat:.n ae trey will szpreveYOur e@exieBasce.MOREY stoning anc@ rece cer srat the aommouse salés..
-
-Everything you always Wanted tu know aboutlo33 HZ tones but were atraid to askhy the YagicianAS any of you know, there 15 a foucth toneusel in the Toucsu lone asatrix that is not ancluaedon standard Touch fone phones. This tone 18 1633WZ and Can be obtained in three ways. You can tryto cocate 3 ailitary 16 button puone, but tars 28usually very dizsficult. the other cnoices are touboy a Vo Sutton Jouch Tune encuder usea Ly uaaIrai10 operators or tu sodify a pell Touch Tonepnone by adding an adaitionat exewitch to theunutilizea tap on the torvuid transfurpec.Now that You Koow wuys to venerate lo33 HZ,you ahunt wonder what it iS uted tor. lhe bainuse of this rereyguency is tor control Signauliiny ainAUILUVUN (arlitary aba LULL AUlugatic V¥uiceheUWOrK). Foe Suttons in the e@2trda Cozausn areGesrgndtua PlaSh Owerrpiage (16343 ¢ 697 Ez), Flasn(to33 © 770 H2zyp, Intersediate (loss + &52 Hz), andPriority (to33 * Y41 HZ), top to buttoe. bachkuttou supeccedes the one below at, with FlashUVercide LeServes for the President ah the eventUl a “national emergency".The othec use of foss ob2 As in fda nellCubtro, Signalling. it can be uSeud to setuptolir-iree louprarounds, wass conrerence Calis, anideven lets YUU becoau tue Intormation JpEeKrutoc.When you place a call fur Lona distanceJuformatiun, you ar2. routed through at ALY(Automatic Vall vistrabutor). In about dsu% ot thearea codes in the US, it as Possible to access ACUinternals via Joss Hz (e.9. uafea cod2 3b5 asQlways puun!). fo gain access tu Ach, call theinformation operator as usual (1¢3U5-555-1212z).AS the Cala @QOeS tnrough, Keep the FTLOrIty buttonpressed; tre aoment the operator answers, you arethrown into ACU abd you wlial recelve a diral tunepulsed abuut once per Secund,Tne functions now available to you througnACD are uocunented ain the 4a beil book tmotes onDittance Yraling® ss the "WO serdet test Lodes'.Just ouse the last digit of the code (e.u. Tuewould be executed Ly pressing © and waal provide aWd HZ tone). The cudeS OL AnNLerest to us are oand 7. Code 6 enters you anton one side of aloop-arounid and Since the ahtoraation nuaber ashON~Supecvisiny, the caal is toli-tree!! Haveyour partner in crise access ACV anu use coae 7 tuacce33 the otner side of the loop-arounu (susearea Coder are gettinsy Saart and passing obly WLUHZ). Ik the ccde © person hangs up ana tute cuoae 7person hanus on, aCb will sometises saltruuctionang route all information calis to the coge 7pecson instead of.the real iuntrormation operator.how that you are the intorsmetion Uperator, givethose Fulks some REAL information Like the audressto subscribe to TAF. This same tecnnigue providesfor aass conferenciny since ail callers to thatinfor Pation nutber are connected touvether!1?!ACD 13 Aeat abt phun to experiment wath asdung aS you don't stay on too long. I"m not surehow leval at is to sess with ACD since youtre notuefraudanu Tebvu of ats lavwtul Cbharves, but asSOun 38 yOu Cun act to anvcther person, you peichtyvalify ror arrest under wire traud statutes (boy,aren't you lucky?!)Pleace teal tree to send questions, coasents,etc. to The tagician, c/o TA.
-UPDATE ON MANUFACTURING SEALS by Agent MDARE: TAP Issue #50.8 (May-June '78)_ This methodof manufacturing seals for birth certificates andother official documents uses a clay called “FIMO”that is made in Germany and may be difficult topurchase locally. An acceptable substitute called“Repla-Cotta"TM can be purchased from American Handi-crafts stores. (Stock #049-3021.) A two poundblock costs five dollars, and it is a sufficientamount to make at least a hundred seals. If there18 no American Handicrafts store nearby, the com-pany can be contacted by writing: American Handi-crafts, Division of Tandycrafts, Inc., Ft. Worth,Texas, 76107, AJso, retail prices for tools haveskyrocketed, and the price of a set of 3/32" re-verse latter punches is now twice the thirty threcdollars quoted in TAP #50 --~ $66.00:A novel and casy method of obtaining seals hasbeen published by Eden Press, P.O. Box 8410, Foun-tain Valley, CA, 92708, in The Paper Trip 11, 1979Edition, pages 88-89, price $14.95. (This book wasformerly called The New Paper Trip, and the sealsection has been revised, too.) Basically, thePaper Trip II method uses two or more’ seals --which can be purchased at seal and rubber stampstores -~ and by cutting and filing away the un-wanted parts of cach scal, the seal desired can beeffected by embossing them in succession, one overthe other. For example, to make the seal of “Bum-fugg, Maine", order a seal thal says something like“Moose Club -~ Bumfugg, Maine“ and have an engrav-—ing put in-the center portion of the seal. Whenthe raiscd lettering that says "Moose Club" is fil-ed off the seal, only the center engraving, town &state name, and the border will be embossed. An-other seal is still needed to be purchased; forthis one, just have “Vital Statistics” on the topand "Moose Club" c1 the bottom, File off the rais-ed letters of the "Moose Club" and the seal willonly emboss "Vital Statistics” and the border. Theborder will have to be removed from one of the seals,of course, but after the second seal is embossedover the first seal, it will read "Vital StatisticsBumfugg, Maine" with a neat engraving in the centerportion which will be good cnough to fool almostany bureaucrat.In comparison to the TAP #50 method, the PT ITmethod has two noteworthy advantages: First, it isless work because it is more of a method of gettinga seal rather than a method of making a seal; apassable seal can be obtained the first time around.Second, the initial outlay of cash for one seal maybe a few dollars lese;: on the other hand, the TAP#50 method is less expensive for a large quantityof seals. Therefore, if one necds only a seal ortwo, and his desire to spend hours modeling clayand plastic is low, the Paper Trip II method isideal.Mitehhiker Picks the Wroug CarMilpitas, Callf. (AP) — The free- ly does not pick u hitchhikers, betdom of the open roed was brief for Dean was irresistible His pants wereescaped cenvkt Rey Dean, 2%. He = slenciied “Counly Jail."hitched a ride that took him straight She said Dean, in jall since Au.back to jail. gust for burglary, offered ne resist-Lt. Pat Ruch of the Santa Clara ance. “He just hooked very disap.County sheriff's office said she usual. pointed,” she said.62 TAP, Room 603, 147 W. 42 St., NY 10036Bask Ingsues are b0¢ each. Issue #59 is $1.00, o> aSBubscriptions - 10 issues - US Bulk rate $5. . "Taxesarenot levied forUS First Class in plain sealed envelope $7. x 7 the benef!! of the taxed."Canada & Mexico First Class $7. . Robert Hetndein.Foreign $8, THs1 Include mailing label or Xerox copywhen writing to TAP about your gubseription.Elivy, aics Courses - 50% each. A - DC Basics, ; anesB- AC Basics, C - Phone Basics, D- Amplifiers. hafltidecchdhtchaedihbadTAP Mugs - $4.47,TAP T-shirts - $4.59. Specify size and color: Smal, T-eed offMedium, Large, Extra Large. Black or red T-sbirtwith white TAP logo. ASHEBORO.NC (UPT) —Service station attend.. oe TAP“CrackedBel Button - ¢ each. sot Orlando McIntosh had mo doubt what to do whenDammit, MissCampbell, our wortd- TAP Cassette Tape - $3.50. Hear Capt Crunch, Al Bell, man walked into his station Sunday night. Hefollowedwide computer- . — Joe Engressia, and Bell Security Chief Jobn Doberty, the keeroctioneprintedontheman'sT-shirtCommunications tgplay - ; wrti . id “sh “which ;TAP "The Telephine, #1" artis! Print - $3.5). Ki_untang em vp. which Mctntosh did,wor er fone toa Th for ood We mftructions fur Boy oonceelrent included. handing over $454to the bandit whocarried a 22caliberFriday party.TAP"143 Belllf A Sbeap Mother® Patch - $1.59.robber lestas was Seen fleeingtoward nearby
+Milo Fonebill's Automatic Blue Box Explained 
+by Lavoisier 
+Advantages of Milo's Box 
+1. Can hold 5 10 digit numbers. 
+2. Each number is outpulsed et the proper rate at the 
+touch of a single key. 
+3. The current drain is very low. When not pulsing the 
+battery drain is only 40 microamps. A single 9 V 
+alkaline battery will power it for a year of on time, 
+unlike Peter Piper's crogrammable box (TAP # 56) which 
+takes two 9V batteries and pulls 2lma in standby 
+Disadvantages of Milo's Box 
+1. The box is complex. 
+2. Because of its complexity it is bulkier than the usual 
+manual box. 
+The enclosed schematic is of a working Milo Fonebill BB. It 
+took one hell of a lot of study to figure it out from Milo's 
+drewings. I'll describe how it works in 3 sections: 1, Number 
+entry; 2, Playing back the numbers, or RUN; 3, Clearing the 
+Box. 
+1. Number entry. Assume the box has been cleared and 
+a lis in all 64 bits of each register. I'll get to the 
+reason for this later. The ewitch enabling the keyboard is 
+closed. Now assume 
+that the KP key is vressedthen lines 
+1100 and 1700 go low. A "O" (0 is low, 1 is high)is placed 
+on pin 15 (Data In) of IC 9 & 12 but the data is not 
+entered yet. At the same timepin 4 of IC5A and pin 13 of 
+Tekcgo low which drives pin 11 of IC14C low. This in turn 
+mekes pin 10 of all the shift registers low through ICKA 
+and IC16B. This puts the shift registers in data entry 
+mode. Meanwhile charge is leaking off C3 through R14 and 
+after about SmsQD goes high and KD'goes low. This delay 
+ia to allow for contact bounce in the keyboard switches. 
+QD high drives pin 2 (clock input) of all the shift registers 
+high. ‘The data present st pin 15 of all the shift registers 
+is now entered. Ko" went low after 9ms which, through IC6A, 
+IC17A-F, and IC21E &F turns on the output amplifier (LM386) 
+giving an audible click and lights the pulsing gate indi- 
+cator LED. The LED stays lit as long es eny key is depressed. 
+let me repeat, a O is entered into the 1100 end 1700 
+shift registers end a 1 is entered in the 700, 900, 1300, 
+and 1500 shift registers when KP is pressed on the key- 
+board. 
+The Schmitt triggers (IC1SE&F) revlace the 4047 used 
+in Milo's box.I could not get the 4047 to work in this 
+application. Hesides the 74Cl4 Schmitt trigger is cheaper. 
+Note also thet the P gate indicator driver should be a 
+non-inverting buffer and not an inverting buffer as Milo 
+hows it. 
+The 4031 shift register, unlike other CMOS ICs, has a 
+large clock input capacitence (pin 2) so I play safe and 
+drive them with 3 inverting buffers rather than 1 1s Milo 
+does. The 4031 is clocked by the positive edge of the 
+clock end not just a high level so the clock input needs 
+a sharply rising wave form to clock it. 
+2, RUN Mode. Assume that 2 ten digit numbers each with 
+& prefix of KP and a suffix of $ have been entered into the 
+shift registers. Before going on I will describe the 1 of 
+2 data selector composed of the 3 NAND gates IC3B, C, & D 
+and the inverting buffer IC16C. Two clock rates are used: 
+1280 Hz supplied by the oscillator 1023; 10Hz at the 
+output (pin 3) of thedivide by 128 counter (1020). The 
+1280Hz clock joes to one input of the data selector(pin 9, 
+I03D) and the 10Hz clock goes to the other input(pin 12, 
+103C). The control signal appears at pin 4 of the NOR gate 
+10158. when this control voltage is low then the output of 
+the data selector (pin 4, 103B) follows the sigh speed clock. 
+When this pin is high then the output of the data 
+selector 
+follows the low speed clock. 
+Now, let's press the RUN key. Imrediately pin 4 of 
+I04B goes high and stays high for 50ms (I'll explain the 
+reason for the 5Oms later) and the output of the NOR latch 
+composed of I013¢ & D (pin 10, IC13D) goes high which sends 
+pin 3 of IC14A low. After 50ms this turns on the clock 
+oscillator (pin 4, IC23) and drives pin 1 of IC6A high which 
+turns on the output amplifier and the P gate indicator. 
+Which clock will be used by the data selector? A total 
+of 24 digits have been entered into the shift registers. 
+Since these are 64 bit shift registers the date is 40 bits 
+away from apvearing at the output. The 2 NAND gates IC5B 
+and ICKD see all "1s" at the Q output (pin 6) of the shift 
+registers. This through IC159 end £015B selects the high 
+speed clock. So, at a rate of 1260Hz data is stepped through 
+the shift registers. 
+MAR-APR 1980 
+NO. 62 
+After 40 clock cycles two things hanpen, either of wrich 
+will reset the RUN latch and turn off the 
+clock. The "End 
+of Register" (ZOR) counter (IC19) has reached a count of 
+64 (it also counts when the numbers are entered) placing a 
+high level cn pin 6 of IC14B. Also the K+ Ko detector 
+composed of the 3 NAND gates IC2C & D and IC3A has detected 
+KP, at the Q output (T= not Q) output (pin 7) of the 1100 
+and 1700 shift registers. This places a high level at the 
+other input (pin 5) of the NOR gate IC14B. The negative 
+going pulse at pin 6 of the reset generator (IC22) triggers 
+@ 2ms output pulse et pin 10. This resots the RUN latch, the 
+EOR counter (1019), the divide by 126 counter (1020), end 
+turns off the clock. All this happened in €1.25ms, 50ms 
+delay before the 
+clock turned on plus 31.25ms to shift 40 
+bits at 1280Hz. 
+But we still haven't olayed our numbers back. The next 
+press of the RUN key gets the first number. KP of the first 
+number is at the output of the 1100 & 1700 shift registors. 
+The output of the K+ K> detector is high making the trigger 
+input (oin 
+6) of the reset generator low but this doesn't 
+do anything. The reset generator is negative edge triggered. 
+Let's press RUN egain. Again we get the 50zs delay before 
+the clock turns on. The "No Data Detect" gates sce data 
+present at the shift registers so the data selector selects 
+the low speed clock. Pin 13 of the NOR gate IC15C goes low 
+and pin 12 of the same IC is also low because it takes 64 
+clock cycles before pin 5 of IC20 will go high. ICSC then 
+drives ore input of all the output NAND gates high (ICIA, B, 
+©, D, IC2A & B).Pins 7 of snift registers IC9 and ICl2 are 
+also high so the output of NAND gates ICIC (1100) and 
+I¢2B (1700) go low which turns on the 1100 and 1700 tone 
+generators. The output amplifier and the P gate indicator 
+are also on so we have 100ms of KP as per Milo's specs. 
+KP is 100ms because of the 50ms delay before the clock 
+sterts running. This is the reason for the 50ms delay. 
+Therefore R2 and C2 should be chosen to give a 50ms deley. 
+Pin 3 of 1020 goes high 100ms after RUN is keyed. This 
+turns off the tone generators and clocks the shift registers 
+to the next number. After 50ms of silence pin 3 of IC20 goes 
+low for 50ms and we get 50s of tones for what ever number 
+is after KP end so on for each number until KP of the next 
+number is reached. Then the Kj 
++ Ko detector ‘output, which 
+went low after KP of the first number was shifted past, again 
+goes high trigzering the reset generator which stops the clock 
+and resets everything. 
+A second vress of the RUN key plays the second number 
+in the same way. After the second number is played there 
+are 40 bits of no data so the "No Data Detect" selects the 
+high speed clock which rapidly (31.25ms) recirculates KP of 
+the first number to the output of the shift registers and 
+everything stops. The box is now ready to replay the first 
+number. 
+3, CLEAR. When the CLEAR key is pressed pin 1 of ICI3A 
+goes high. This is one input of the NOR latch composed of 
+IC13A and B. This drives pin 3 of ICI3A low which, through 
+IC4A end IC16B drives low pin 10 of all the shift registers. 
+This changes the shift registers from the recirculate mode 
+to the date entry mode. At the same time the other output 
+of the NOR latch (pint, IC13B) goes high. This through IC15B 
+causes the data selector to select the high speed clock. The 
+shift registers ere now clocked at 1280Hz with their inputs 
+(pin 15) all high. This loads a "1" in all 64 locations of 
+all the shift registers. Since the complement outout (@) is 
+used the shift registers are cleared. After 64 counts the EOR 
+counter goes high (pin 5, 1019) and resets the CLEAR NOR 
+latch. The box in now ready to accept new numbers
+The Tone Generator Board 
+The 4017s are the oscillators and are operated at 10 
+FRONT PANEL 
+times the desired output frequency. The output of each 
+oscillator is fed into a digital sine wave generator (see 
+‘Don Lencaster's "CMOS Cookbook") which gives a 10 step 
+approximation of a sine wave at 1/10 the input frequency. 
+rt? 
+700 
+Unlike a square wave whose first harmonic is the 3rd at 
+ty 
+1/5 the power of the fundamental, the first harmonic of 
+a 10 step sine generator is the 9th at only 1/9 the power 
+of the fundamental. Thus nonsof Milo's elaborate filter 
+network is requi 
+lately 
+I've learned (TAP of 
+course) that squere waves 
+work as well as sine waves so the 
+board could be simplified by operating the oscillators at 
+the correct frequency and eliminating the digital sine wave 
+generators. 
+The output amplifier (LMG86) is very convenient and 
+a 
+easy to use. Its output voltage is automatically biased 
+at ¢ the supply voltage. Its output impedance is 6 ohms to 
+watch the most common speakers. It is designed for battery 
+operation and has a low quiescent ourrent drain. 
+Milo's schematic did not include it, but the voltage 
+regulator is required. The frequency of the 4047s is some- 
+whet voltege 
+dependent. Do not make any component 
+substitutions in this regulator. It ie designed for CMOS 
+circuits and has a very low power drain but can still supply 
+quite a bit of current when necessary. When the box is 
+outpulsing for instence. You can find more about thie 
+regulator in the National Semiconductor "Linear Applications, 
+Yolume 1", AN71-7 & 8. 
+For the buffers on the logic board do not substitute 
+the 4009 or 4010 for the 4049 or 4050. The latter 2 can 
+supply much more output current than the first mentioned 
+pair. 
+1500 
+1700 
+Two tips for working with CMOS circuits. First, the 
+inputs are static sensitive. Work on a grounded surface and 
+ground yourself through a 1 meg resistor when handling CMOS 
+circuits. Second, the inputs of unused devices must go some 
+where, either to the positive or negative supply, or tied te 
+a functioning input. Inputs cannot be left floating or the 
+device may oscillate which will pull a lot of stendby current. 
+Remember that CMOS circuits theoretically drew no current 
+when they are not switching. 
+I have not shown the positive and negative supply leads 
+on the various gates on the logic board. Just remember, 
+all the gate packages need positive end negative supplies. 
+< 
+TED 
+PGATE INDICATOR 
+Vr 
+1X 
+CLEAR 
+a 
+as 
+s 
+R 
+RUN 
+Lntinnhy 
+$ 
+3 
+Hot 
+oy 
+8 
+= 
+S 
+er 
+3 
+E 
+a3 
+<= os 
+3 
+=? 
+‘ee 
+cUy 
+i 
+ul 
+ow 
+a 
+» 
+4 
+4X 
+& 
+= 
+= 
+3 
+a 
+° 
+3 
+$ 
+a 
+3 
+Py 
+ry 
+At 
+$s 
+= 
+a 
+cc) 
+a 
+2 
+5 
+4 
+a 
+z= 
+5 
+s 
+& 
+Ly 
+2 
+s 
+3 
+s 
+wa 
+$ 
+-i- 
+3 
+i 
+g 
+25 gu 
+oe 
+= & 
+. 
+8 
+> 
+rFeE2a2 
+"ge eg 
+5 
+3 
+ge 28 
+z 
+38 
+8 
+¢$ 
+iy 
+eh SR 
+E223 #3 
+z 
+~F 
+8 gucs 5 P85 
+w 
+we fe 
+He 
+& 2522 2522 
+vo 
+Ra Fw 
+a #37 S92 882 
+Sige 
+BR yssgg2 ize 
+y 
+uo9 
+Sha BaD we 
+z 
+232. 
+Behe ea des 
+= 
+ae* 
+goa bet aed 
+eyk 
+PER a 
+whe 
+gear 
+3 beers 
+o-=3o 
+ate wT 
+E REE 
+z° 
+Re 
+PRAgSeESSE 
+“ 
+Fe* 
+2 
+Shae Gat 
+| 
+xi 
+a 
+ee 
+~ 
+wad 
+a 
+WTO S88 we 
+< 
+gw 8 
+wo 
+Kxewen 
+wg BS L888 
+ZZRue 
+3 
+|Soocoonu 
+Wed 
+pT OST 
+Ee 
+Geli ga 
+B SJocohmic. 
+NAOT KAST 
+OT 
+Z eima2es 
+Matera 
+s 
+4 
+seebeeeend 
+} 
+tose 
+BREEBSRERS 
+°° oo 2 
+8 
+H88Sssss 
+8 
+3s 8ee8 
+Prsaes 
+FS 
+es See 
+3 
+=
+LOGIC BOARD 
++P GATE 
+PEATE INT 
+> 2600 GATE 
+g 
+cy 
+° 
+°° 
+& 
+nig 
+= 
+<8 
+ari, 
+oF). 
+ate 
+an 
+s 
+8 
+ry 
+* 
+oo 
+3K 
+Yeo 
+iz 
+8ae 
+< 
+See 
+S 
+sic 
+ov 
+5 
+dD) 
+No 
+DATA 
+DETECT 
+Ic4D 
+1c1s 
+° 
+are 
+ele 
+fiz 
+aS) oe 
+FS} 
+= 
+RIO 
+cr 
+aie 
+Else 
+@| °C 
+TS 
+pana, 
+? 
+jae 
+u 
+: 
+By 
+50m, 
+Ry 
++ 
+mi 
+4a 
+3 
+8 
+8 
+= 
++2 
+The queet for the perfect "level 
+t 
+ee ofter cee 
+in vein. ‘uch 
+evubetences terd te be 64 
+it er ex 
+to cbtein, herful 
+to 
+:ind ené nocy, or, ix 
+.ererel, 
+uninpreseive ir corperieor te their 
+lest 
+rere 
+One substance 
+thet hre few if ery 
+crewor 
+(eckeee 
+) 
+This eesily 
+vapour 
+e bietory es 
+& 
+(th 
+by 
+diethyl ether or just ‘ethylether), 
+rey highly 
+flencable lic 
+h 
+over the past couple of 
+ee interested cen refer to "licit exd 
+recker) ené the "ether jez" have et tines teen quite 
+ler. Ite edvanteges and virtues ere thet it is cher 
+1, easily eveileble, medicelly sefe, eré, of course, 
+enezing buzz. Keving used ether on end of 
+ver of years, as well es tuming on & signific; 
+of triercs without 
+celeterious effects enc enthus 
+reviews, ether hee 
+the Cz Y. Mancies Leel of Ap 
+sefe enc effective recreationel cruc- 
+ne only real drewback to ether 
+glue-eriffing thet ite use conjures 
+problem since consunpticr ceuses the stron, 
+of ether to pervece the whcle aree, sort of like 
+Yninforned fenily nenbers and friends tend to get quite 
+concerned (ené scnetines quite hoctile) wher they 
+notice it. 
+They inzedietely essure you ere ueesecring your breir cells 
+with elue, you fuckin! degenerete, you. Test essurec 
+however, thet ebher is sefe end unrelated to clue, toluene 
+end other cengerous industriel solvents. 
+Another point to teke cereful note cf is thet all 
+flenes nust be kept away from ether, ite vepour era the 
+whole generel aree. Ether ang ether funes sre extrenely 
+flenmeble. This reens "C 
+snoking et all, ro cendlec, 
+netches, etc. If you choose to forget or disregeré this, 
+remember that erding up in e hospital burn werd,or nore 
+probebly snuffing it in the resulting explosion of cearing 
+flemes ere rost unpleasant weys to come down 
+x 5 
+Ei 
+33 4. ote 
+7 
+fetes 
+fre |ee 
+a8 
+I" 88 
+= 
+s 
+as 
+# 
+3 
+° 
+5S 
+s 
+° 
+& 
+& 
+& 
+22 
+8 
+= 
+Z 
+: 
+a 
+c 
+n 
+3 
+Ether cen ve purchacec fre: 
+a 
+crug 
+hemicr] 
+y or 
+rippec 
+fro: your locel school chesistry or 
+leb. ither is 
+ubiquitous in the orgenie chenistry 
+or Jab reegent or solvent, ana used to 
+the bio leb. If 
+you tuy ether, 
+yy you need it es e cleen 
+istry expt. or to hncck cut flies 
+geneticr expt. 
+shoule cost 
+bout $7-5C for e 
+aottle or cen which will last quite @ lore tine. 
+Inbibe ether by 
+poring e little or ¢ cloth or kleerex, 
+receping 
+ona putt 
+(or pessine cn) the conteiner, 
+holeing the cloth 
+our ncee cr south ené inheling 
+ceeply the vapours. It smells pretty raunchy, but this 
+diseppears 
+ef 
+The initiel high wears 
+cff very cuickly, therefore the bottle 
+rust be pessed 
+eroura continuovsly with e group (sclitery snorting ie bed 
+for both eesthetic and sefet) reasons). "“scgarting" the 
+ottle is considered poor forn. 
+Hther being en ereesthetic 
+cecessionelly e reel fiend will pase out end Lee] over, 
+This is nothing to get excited ebout. 
+cen either be slepped up or left 
+to 
+he's etill breathing every now and then if you're worried. 
+The ether high is truly 
+incredible. Cne cer ettein 
+# relly intereeting, super-stoned, psychedelic ctate that 
+is truly out of this world. You cen see tine stop, or 
+the secrets of the universe urfold. As ether-head 
+H.D. Thoreau reportec, "You go beyond the furthest ster." 
+Hunter Thorpson's eccurate descréption of etheronenia in 
+his excellent "Pear & Loathing in Las Vegas" is elso worth 
+checking out. 
+Lestly, the sriell of ether stays on your breeth for 
+a while innediately efter use end it is hard to disguise 
+and explein, so stay awey from straights if possible. 
+Use drugs wisely end in moderation and they will improve 
+your existance. 
+Heppy stoning end remember what the dormouse said... 
+Lolo 
+eb, @ very cc 
+cut flies exo rets in 
+eskeo © 
+etreight exc 
+rt, or for e ch 
+The over-inculger 
+cresus. hake sure
+Everything you always wanted to know about 
+1034 uz tones but were afraid to ask 
+by the 4agician 
+As aany of you know, there is 
+a fouctn tone 
+used in the Touca Jone aatrix that is not ancluaed 
+on standard Touch sone phones. 
+This tone is 1033 
+siz and can be obtained in three ways. You can try 
+to locate a ailitary 16 
+button puone, but this is 
+usually very dizficult. the other choices are to 
+buy a 
+vo button oucn Tone encoder usea by uaa 
+railo operators or tu modify a 
+veil Touch Tone 
+pnone by adding an 
+adaitionai switch 
+to the 
+unutidazed tap on tne toroid transfurser. 
+Now that you know ways to generate 
+1634 Hz, 
+you mignt “onder wnat it 
+is used tur. 
+‘the main 
+use of this rcequency is tor control sagnaliing in 
+AUIUVUN = (madatacy 
+ana LOL 
+AvTumatic 
+Voice 
+Network). 
+[he Duttons in the extra coausu are 
+aesignateu Flash Override (1t33 + 097 Hz), Plasa 
+(1033 + 770 Hz), Intermediate (1033 + 652 Hz), and 
+Priority (1033 
+* 941 
+uz), top to buttow. — Eac’ 
+button supercedes the one below at, with flash 
+Uverciue reservei 
+for the President an 
+the event 
+or a “national emergency". 
+The 
+other 
+use of 
+Wess 
+b2 
+as an 
+ea 
+sell 
+control signalling. 
+It can be used to setup 
+toii-tree loup-arounds, "ass conterence Calis, and 
+even lets YUU become the Intormation vuperator. 
+When 
+you place 
+a 
+call 
+for ion 
+distance 
+information, you 
+are outed through 
+an acy 
+(Autowatic Call Distcabutor). In about >¥% or the 
+area codes in the US, 1t 4s possible to access Acb 
+internals via Jb33 Hz 
+(e.g. urea code 4U> is 
+always pnun!). 
+Yo gain access to Acb, Call the 
+information operator as usual 
+(14505-555-3212). 
+AS the cais goes tarough, keep the rriority button 
+pressed; 
+tae moment the operator answers, you are 
+thrown into ACY and you widi ceceave a dial tone 
+pulsed abuut once per Secund. 
+dhe functions now available to you througn 
+ACD are documented in the Ma 5eil book "Notes on 
+Distance Wialing' as the 
+"100 series test Loaes* 
+dust use the last digit of the code (e.g. 
+10Z 
+would be executed Ly pressing Z and wiil provide a 
+1000 liz tone). The codes of interest to us are 0 
+and 
+7. 
+Code 6 enters you into one sige of 
+a 
+loop-around and Since tae anfoLaation number is 
+Kon-supervising, 
+the caal is toli-tree 
+Have 
+your partner in crime access ACD ana use coae 7 to 
+access the otner side of the loop-around 
+(sore 
+area codes are getting Smart and passing only 1000 
+Hz). 
+If the code 6 person hangs up ang tue code 7 
+person hangs on, acb will sometaaes aaltuuction 
+and route all information caiis to the code 7 
+person instead of.the real ainrormation operator. 
+Now that you are the information operator, cave 
+those folks Some REAL information 1ike the audress 
+to subscribe to IAP. This same tecnnigue provides 
+for mass conferencing since ail caliers to that 
+anformation nuaber are connected togetner!!! 
+ACD 2S heat and poun to experasent wath as 
+long as you don't stay on tov Long. I*a not sure 
+now iegal at as to aess 
+with ACD sance you're not 
+aefrauding T2LCO of ats lawful charves, 
+but as 
+Soun as you con’ct to another person, you might 
+qualify for arrest under wire traud statutes (boy, 
+aren't you lucky?!) 
+Please feei tree to send questions, comments, 
+etc. to Ine dagician, c/o TAP. 
+Cariada & Mexico 
+reign $8, 
+t Class $7, 
+cu 
+ones Courses 
+B- AC Basics, C - Phone Basics, D 
+"AP Mugs - $4, 59, 
+“AP 
+with white 
+TAP logo. 
+TAP "Cracked Bell" Button - 
+o¢ each, 
+ammit, Miss Campbell, our world- 
+wide computer 
+- gwitched satellite 
+communications 
+and display net- 
+work was 
+not installed for you to 
+issue invitations to a Thank God t's 
+Friday party." 
+elephone, # 
+Boe © 
+artist 
+t Class in plain sealed envelope 37. 
+ts - $4.50, Specify size and color : Small, 
+Medium, Large, Extra Large, Black or red T-sbirt 
+TAP Cassetie Tape - $3.50. Hear Capt Crunch, Al Bell, 
+Yoe Engressia, and Bell Security Chief John Doherty. 
+ealment included, 
+Mother" Pate - $1. 
+UPDATE ON MANUFACTURING SEALS by Agent MDA 
+RE: 
+TAP Issue #50.8 (May-June '78). This method 
+of manufacturing seals for birth certificates and 
+other official documents uses a clay called "FIMO" 
+that is made in Germany and may be difficult to 
+purchase locally. An acceptable substitute called 
+"“Repla-Cotta" can be purchased from American Handi- 
+crafts stores. 
+(Stock #049-3021.) 
+block costs five dollars, 
+amount to make at least a hundred seals. 
+is no American Handicrafts store nearby, 
+pany can be contacted by writing: 
+crafts, Division of Tandycrafts, 
+Texas, 76107. Also, retail prices for tools have 
+A two pound 
+and it is a sufficient 
+skyrocketed, and the price of a set of 3/32" re- 
+verse letter punches is now twice the thirty three 
+dollars quoted in TAP #50 -~ $66.0 
+A novel and easy method of obtaining seals has 
+been published by Eden Press, 
+tain Valley, CA, 92708, 
+formerly called The New Paper Trip, and the seal 
+section has been revised, too.) 
+Basically, the 
+Paper Trip II method uses two or more seals -- 
+which can be purchased at seal and rubber stamp 
+stores -- and by cutting and filing away the un- 
+wanted parts of each seal, 
+effected by embossing them in succession, one over 
+to make the seal of 
+fugg, Maine", order a seal that says something like 
+"Moose Club -- Bumfugg, Maine" and have an engrav- 
+ing put in-the center portion of the seal. 
+the raised lettering that says "Moose Club" is fil- 
+ed off the seal, only the center engraving, town & 
+state name, and the border will be embossed. 
+the other. For example, 
+the seal desired can be 
+other seal is still needed to be purchased; for 
+this one, just have "Vital Statistics" on the top 
+and “Moose Club" ci the bottom. 
+ed letters of the "Moose Club" and the seal will 
+only emboss "Vital Statistics" and the border. 
+border will have to be removed from one of the seals, 
+of course, but after the second seal is embossed 
+over the first seal, it will read "Vital Statistics, 
+Bumfugg, Maine" with a neat engraving in the center 
+portion which will be good enough to fool almost 
+any bureaucrat. 
+In comparison to the TAP #50 method, the PT II 
+method has two noteworthy advantages: First, it is 
+less work because it is more of a method of getting 
+a seal rather than a method of making a seal; a 
+passable seal can be obtained the first time around. 
+Second, the initial outlay of cash for one seal may 
+be a few dollars less; on the other hand, the TAP 
+#50 method is less expensive for a large quantity 
+of seals. Therefore, if one needs only a seal or 
+two, and his desire to spend hours modeling clay 
+and plastic is low, the Paper Trip II method is 
+ideal. 
+Hitchhiker Picks the Wrong Car 
+Milpitas, 
+Calif, (AP) — The free- 
+dom of the open road was brief for 
+escaped convict Roy Dean, 29. He 
+hitehed a ride that took him straight 
+back to jail, 
+Lt. Pat’ Ruch of the Santa Clara 
+Couniy sheriff's office said she usual- 
+62 
+TAP, Room 603, 147 W. 42 St., NY 10036 
+x 
+Robert Heinlein. 
+ors 
+TANT! Include mailing label or Xerox copy 
+ing to TAP about your subscription, 
+SOP each, A ~ DC Basics, 
+Amplifier: 
+“Taxes are not levied for 
+the benefit 
+of the taxed.” 
+T-eed off 
+ly does not pick up hitchhikers, but 
+Dean was irresistible. His pants were 
+stenciled “County Jail.” 
+She said Dean, in jail since Au- 
+gust for burglary, offered no resist- 
+ance. 
+“He just looked very disap- 
+pointed,” she said, 
+WC. FIELOS 1000-1900 
+ASHEBORO, N.C. (UPI) — Service station attend- 
+ant Orlando Meintosh had no doubt what to do when a 
+‘The shirt said 
+handgun, 
+Interstate 8, 
+‘man walked into his station Sunday night. He followed 
+the instructions printed 
+on the man’s T-shirt 
+“stick em up.” which MeIntosh did, 
+‘handing over $454 to the bandit who carried a .22 caliber 
+‘The robber was last seen fleeing toward nearby 
+If there 
+the com- 
+American Handi- 
+Inc., Ft. Worth, 
+P.O. Box 8410, Foun- 
+in The Paper Trip II, 
+Edition, pages 88-89, price $14.95. 
+1979 
+(This book was 
+“Bum- 
+When 
+An- 
+File off the rais-

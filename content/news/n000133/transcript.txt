@@ -1,28 +1,613 @@
-_}READERSDear Yipl,Please distribute this little gem of info immed-jately- "The National Security Agency monitorsand records every trans-Atlantic telephone call.”Source- Ramparts Aug. '72. Also- "Of course,all trans-Atlantic and trans-Pacific Telephonecalls to or from the U.S. are tapped.”I don't know if the NSA would pass info on tothe FBI about phone phreaks, but its certainlyconceivable that they may.It seems ITT is pushing Astrofood to schoolkids through a subsidiary, Continental Baking.I think we need to find out just how much ITTcontrols. If I get the time I'll go to MLPFE&Fsand check Standard & Poors to see if I can getthe scope of operations of this giant. J.R.,itlanta, Ga. |Dear YIPL,Just a note to give you a few comments on theAugust issue(No. 12).First, the Red Box: you might note that itis also important to provide a contact and makethe line connections which will ground the tipside of the line when you beep the box. When acoin is placed in a pay phone, the mechanismgrounds the tip side for about 1 second; thisis what gets you dial tone on 4 so-called pre-pay phone. Then, when dealing with the operatorfor longer calls, the beeps tell her that you'vepaid, but it will look a little funny if the —equiptment doesn't register the dropping of coins.Both are necessary for a realistic simulation.(The terms "tip" and *ring"(also "sleeveTM)come from the old manual switchboard days anddescribe the connections on a cord plug. Thesearchaic terms are still used today: the tipside is the green wire and Ll if things arehooked up properly; the ring side of the line4s the red wire and L2.)Second: I have constructed several Blue Boxesusing the Signetics NE 566 Ic. I do not recom-mend it for several reasons: 1. It is designedto be a voltage-controlled oscillator and isvery good in this role. It is so damned voltagesensitive that it needs a very stable, rocksolid battery supply. Even with a zener regulatorafter the battery, which is getting rather silly,it is no good because of 2. its temperature sens-itivity. Using mylar caps and me al-film resistorsTt got an 8% variation between 35 F. and 90°F.,hich means you have to re-tune the thing all thetime. Finally, diode variations lead to unrealdifferences between tones that should be thesame frequency. Best Wishes, T.V., Calif.
-ricut pach: NO.13SEPT.-OCT. 72THE YOUTH INTERNATIONALPARTY LINE
-Many telephone services at your fingertips simplyrequire the correct number to perform for you.These New York numbers a1] work in areas of N.Y.,and many out-of-city and out-of-state readerswill find they work in their neighborhood. We'llpublish Los Angeles and San Francisco numbersif we receive them soon.AREA CODE 212324-0707 Sweep tone at high level. When comparingan osSCilloscope trace of this tone to another madeat an earlier date, detection of taps is possible,DE2HYS 9932 Silent line-Line will be held open whileTwl off hook without making noise.XXX-9980 Dial your prefix(first 3 digits) and 9980and you will get a 6000 cycle tone, It has a slightterdency toward being permanent, unless rhe phonehook is hit twice,311958 These numbers,when dialed, read back the number‘ou are on, Great in apartment basements for findinc‘our line, or unused free lines waiting to be con-nected,260(wait for tone)O09(wait)6Chang up)660-your last 4 digits(wait)1l(hang up) RING BACK6606{(wait)6(hang up)Prefix-9901 Verification. Sound like Telco employee.or dial O,ask for "260 official 0-1" and get thesame without even paying a message unit. By the way,don't use 260, use your own prefix. When verifyingoperator comes on say, "Verify such and such please,'New Yorkers are up in arms against the GreatSubway Ripoff. It seems people are buying theStandard electrical knockout boxes at hard-ware stores, removing the knockouts, and thenfiling down the nitch where it was attached. Thenthey proceed to use them as tokens in turnstiles.It turns ovt that they work in turnstiles almostanywhere in N.Y. Exceptions are Penn Station. Ifthe knockout falls through the mechanism, theyfollow it with a real token and walk right through.The 40¢ boxes contain 17 knockouts, each worth35¢ when filed a bit. YIPL readers are urged towatch out for these people, as they wipe theirfingerprints off the slugs when they drop them.Readers who missed the Phirst InternationalPHONE PHREAK CONVENTION will be able to readabout it in the latest issue of RampartsMagazine, and in Telephony, the magazine ofthe telephone industry. The Telephony art-icle, though somewhat biased, plugged ouraddress for company execs, advising themnot to reveal identities when writing us.Cute, huh? Now we've got ATETs execs read-ing YIPL! However, we applaud Telephony onthe ridiculous accuracy of their name, andsalute their new readers with finger upheld!
-
-WORE BOH PLANSCorrection- The 39K resistor used for settingthe gain of the asplifier in last month's is-sue is incorrect. It should be between 5 and 6thousand ohms in value. Too large a value willcause 4 buzz in the amplifier from too much gain.Lat's clear up a few details in last month'sBlue Sox comstruction plans. For those of youwithout 4 lot of test equiptment, this might helpyou a bit.i= The Twin fT oscillator has maximum stability forvoltage and temperature changes when it is tunedat least 5X above the initial oscillaring frequencyof the oscillator. Otherwise, a voltage drop of avolt or temperature drop of 20 degrees aight turnit off, For example, tune in your resistor or cap-eacitor values of the 1100 cycle oscillator so thatit starts ocacillating at about 1000 or 10K) cycles,and rune it sp to 1100. The starting point of osc-dllacion is always Che purest sine wave, but theoacillator is on the verge of turning off, so aes distortion of the wave can and must be tol-ere in this circuit.2- Tuning up to a touch tone phone( frequencies givenlast month) will result in greeter than IX sccuracy,A hasesond organ shouldbe even better. The MF rec-eivers that process your calls will respond to anerror of 30 cycles or greater with a reorder signal.That's a wide margin, and it varies from place toplace. So if your tones come closer chan 30 cyclesto the correct ones, you will have better successamd less of "I'm sorry, your call did not go thru".3~ Repeat—Call only fram pay phones, never framyour home phone! An exception is to call fromaphone that will probably never be boxed on again.Thephone company has records of 800 calls and555-1212? calls that are abnormally long, and theyhave been known to investigate.4~- If your call doesn't go thru, it may be yourtuning, an excess of distortion(tones will soundvery herah),ctoo lowd or soft a tone, extra noiseleaking into che phone, and most Lnaportanct, anoverload in Bell's circuits that night from allthe other blue-boxers making calls. Also rememberthat if you initially dial and beep off a 800 orinformation muaber in the area code you will beboxing, do not key in the area code, just the 7digits{ 7D).5- The dicdes are non-critical, small signal unitsami don't have to be JN914. The transistors aremallsignalNPN cCype with HFE of 50 or more, Thetransistors mentioned, and many others also willall work perfectly.
-A square wave, generated by an on-off typeof device such as 4 multivibrator, has alot of harmonics, sounds hersh and is notas affective as 4 sine wave, though ofteneasier (oO make.
-A pure sine wave, from a Twin T oxillator, andfrom @ touch tone phone, is the best waveshapefor activating western Electric's brain.
-awA Twin T oscillator slightly distorted, becauseit is tuned SX higher than its initial frequencyof oscillation. Its stability is excellent. It’sdynamite for boxing.
-ONYA triangle wave, generated by the Signetics266 IC( Integrated Circuit). Because it ian'ta2 pure sine wave, it sounds harsh because itcontains harmonics, and it doesn't work aswell, though it does work.
-i\This is 2 sine wave with its peaks flattened (or cutoff}. It causes distortion, harshness, and trouble. Atelephone earpiece has a dual dicde conmected across theCermingls in newer units, and if the gignal level is toogreac the diodes absorb the peaks of the sine wave, chuecausing the wavefora to distort like this. Remove thediode before using.
-
-DIALING OVERSEAS CALLSCOUNTRY CODES
-7RUSCZECHOSLOVAKIADAHOMEYDENMLARKECUADOREGYPTETHIOPIAFLJI ISLANDSFINLANDFRENCH GUIANAFRENCH POLYNESIAFRENCH SOMALILANDGAMBIAGHANAGIBRALTARGREAT BRITAIN —GREECEGUAMGUINEAHADRAMANTHONG KONGHUNGARYICELANDINDIAINDONESTATRANTRAQIRELANDISRAELITALYIVORY COASTJ AP ANJORDANKENYA' TEAAIT
-$91$9267740395257855238355565?685533574222945$932526794015946892532202333506822246975$52402354916299964353397239225Bl96225482965
-LE BANONLIBERTALIBYALALXEMBURG
-$9535124567226240423926326425233796626896586255676
-The procedures for calling overseas are moreinvolved than normal long-distance calls, butthey are infinitely far out and become easy witha little practice. We have here a4 list of allthe countries with telephone service and theirassociated codes. A overseas muaber consists ofcountry code, city coda, and number. The mumbercan be 7? digits, or 6,5, or even 4 digits.Once you have beepec off your free mumber,whether information or a Wats line(800), youmust route to an international center. Seven ofthese exist in the U.S.182 White Plains183 Mew York184 Pittsburgh185 Jacksonville186 Oak land187 Denver188 MontrealThe international center for Cantral America isJackzonville, for South America and part ofEurope and Asia is Mew York, tut if you don'tknow, simply pulse XP O11 XXX ST. You willthen receive an international dial tone. TheXXX is che derived country code. If the coun-try code has 3 digits, they are the xxx. Ifthe country has a 2 digit code, key in OXXor 1XX, XX being the country code, The 0 isfor satellite, 1 for cable. Sometimes thesatellite is busy, and sometimes the countryyou want is only available by cable. For 4Single digit country code, key in 0X1 or1X1. Russia is 071 or 171. The 011 aboveis an international access code, and willautomatically route you to the proper inter-national center.When you hear international dial tone, key inKP XXX, city code, and nmuober, and ST. Learn todo this in less than 7 seconds. We don't wancto waste time on those valuable TASI channels!Often the city code of the largest city is l,but you can find out by keying KPXXX 121STand aaking the inward operator for the citycode, or KP XXX 131 ST om XP XXX 141 ST forthe information operator for the same info.Say, "Overseas city code for Hamburg, please.”,or wherever you want.An international dial tone is a good testfar your box'’s volume. The KP signal shouldbe just loud enough to wipe it out.If after receiving international dial tome, youkey numbers and blow it, you can try again by beep-ing off, but remember that you must re-key accesscode to get another international center semer. Soeach time you beep, key KPOLLXXXST, and continuefrom there. As in regular calls, once you get aconnection and hang up on the called party, youmust hang up phone, and redial to call again. Ifyou try to beep off a call that has Deen cospleted,and redial, you will get a local dial tone within20 seconds of beeping 2600 cycles.If talk is cheap, blame it on YIPL!More information on overseas Calling will be up-coming soon 4s our research and developement teansends it in for publication. Remember, you are thesource of our information.
-
-BACK ISSUES 50¢1- Extension phones, conference switches2-Blue Box Story and Abbie on ripoffs_3- Telecommand story‘- Pay Phone Issue- Blue Box lL6- Blue Box 2>-Now obsolete7- Tuning your organB~ 1972 Credit Card CodeTOL rsuper duper project(See issue 11)li- Receive free long distance calls12- Blue Box plans -13- International calls (this issue)FACT SHEETS 25How not to get caught making credit card callsReceiving free long distance callsYIPL, c/OTAP, room 418,152 W. 42 St.YIPL, ROOM 504, 152 W, 42 ST., NEW YORK,N.Y.10036[] susscrretin $4 First class and CanadaBACK ISSUES 50¢ each | $6.U ° ~ Foreign $7[[] ANTI-BELL BUTTON 50¢ each 10/$3.00[[] appRess CHANGE- PLEASE INCLUDE OLD ADDRESSNAME.STREET & APT.#CxTY STATE, YIP.OLD ADDRESS-STREETeSiTy. STATE. LIP.NUMBERS OF DESIRED BACK ISSUES~ LIST HERE
-|
-ptt "ajdatddy
-e°(L’
-Above tt the Fett Sytem’: are ~mesicet heyboerd ' later! skews Me Spits ofwermbert i musics? setetion, vel es Hey ore vent ecress country.Playing a (une fer a telephone numberBefore vou talk over some of the newBell Systems long distance cirevils, youroperatog presace kheve hike thoee shownshove, one for each digit in the numberof the telephone you are calling. Eachkey ecnde ont a pair of tones, literallyectiing the number to music.In the community you are calling.these tones activate the dial telephonerystcm. to give vou the number sou want.It is as if the operator reached acrom thecouniry and dialed the number for vou.BELL YFELEPHONELABORATORIESExytoving andbeventing,dovining ond perterting,for seatinnsdimpsereanentsandassncenies in telnphens serviey
-This avetem. one of the newest de-velopmente of Bell Telephone Lahora-tories, is already in ose on hundreds oflong distance lines radiating fromChicago, Cleveland, New York. Oaklandand Philadetphia, and between a nam.her of other communilics.Tt will he extended steadily in otherparts of the country—a srowing exampleaf the way Bell Telephone Laboratoricsarc ever finding new wave to give youbetler. faster telephone service.-Published for informational purposes only by Youth Hot Line Reports, Inc.TIME TO RENEW ?Next to your address there should be a number, Thisis the first issue you received. If its a lora 25it's time to renew, Renewing promptly will preventyou from missing a single issue, as they say.
-Yer sree mene catetiee as cthy cp pets.
-nn
-Keep in the family circleUSE TRE PHONEkeep in touchwithyour family andfriends — Give them
-f
+READERS 
+Dear Yipl, 
+Please distribute this little gem of info immed- 
+dately- "The National Security Agency monitors 
+and records every 
+trans-Atlantic telephone call.” 
+Source- Ranpavts-Aug. "72, Also- "Of course, 
+all trans-Atlantic and trans-Pacific Telephone 
+calls to or from the U.S, aré tapped." 
+I don't know if the NSA would pass info on to 
+the FBI about phone phreaks, but its certainly 
+conceivable that they may. 
+It seems ITT is pushing Astrofood to school 
+kids through a subsidiary, Continental Baking. 
+I think we need to find out just how much ITT 
+controls, If I get the time I'll go to MLPFéFs 
+and check Standard & Poors to see if I can get 
+the scope of operations of this giant. J.R., 
+Atlanta, Ga. 
+. 
+Dear YIPL, 
+Just a note to give you a few. comments on the 
+August issue(No. 12). 
+Teirst, the Red Box: you might note‘that it 
+is also important to provide a contact and make 
+the line connections which will ground the tip 
+side of the line when you beep the box. When a 
+coin is placed in a pay phone, the mechanism 
+grounds the tip side for about 1 second; this 
+is what gets you dial tone on a so-called pre- 
+pay phone. Then, when dealing with the operator 
+for longer calls, the beeps tell her that you've 
+paid, but it will look a little funny if the 
+equiptment doesn't register the dropping of coins. 
+Both are necessary for a realistic simulation. 
+(The terms "tip" and "ring"(also "sleeve") 
+come from the old manual switchboard days and 
+describe the connections on a cord plug. These 
+archaic terms are still used today: the tip 
+side is the green wire and Ll if things are 
+hooked up properly; the ring side of the line 
+is the red wire and L2.) 
+Second; I have constructed several Blue Boxes 
+using the Signetics NE 566 IC. I do not recon- 
+mend it for several reasons: 1, It is designed 
+to be a voltage-controlled oscillator and is 
+very good in this role. It is so damned voltage 
+sensitive that it needs a very, stable, vock 
+solid battery supply. Even w: 
+a zener regulator 
+after the battery, which is getting rather silly, 
+it is no good because of 2. its temperature sens- 
+tivity. Using mylar caps and mefal-film resistors 
+I got an 8% variation between 35°F. and 90°F., 
+which means you have to re-tune the thing all the 
+time. Finally, diode variations lead to unreal 
+differences between tones that should be the: 
+same frequency. 
+Best Wishes, T.V., Calif. 
+ricut sachs NO.13 
+SEPT.-OCT.'72 
+THE YOUTH INTERNATIONAL 
+PARTY LINE 
+Many telephone services at your fingertips simply 
+require the correct number to perform for you. 
+These New York numbers all work in areas of N.Y., 
+and many out-of-city and out-of-state readers 
+will find they work in their neighborhood. We'll 
+* publish Los Angeles and San Francisco numbers 
+if we receive them soon. 
+AREA CODE 212 
+324-0707 Sweep tone at high level. When comparing 
+an oscilloscope trace of this tone to another made 
+at an earlier date, detection of taps is possible. 
+DE2 
+HY9 9932 Silent line-Line will be held open while 
+Twl 
+off. hook without making noise. 
+XXX-9980 Dial your prefix(first 3 digits) and 9980 
+and you will get a 6000 cycle tone. It has a slight 
+tendency toward being permanent, unless the phone 
+hook is hit twice. 
+. 
+311 
+: 
+958 These numbers,when dialed, read back the ‘number 
+}ou are on. Great in apartment basements for findinc 
+your line, or unused free lines waiting to be can- 
+nected, 
+. 
+860(wait for tone)09(wait)6(hang up) 
+660-your last 4 digits(wait)2(hang up) RING BACK 
+6606(wait)6(hang up) 
+. 
+Prefix-9901 Verifiéation. Sound like Telco employee. 
+or dial 0,ask for "260 official 0-1" and get the 
+same without even paying a message unit. By the way, 
+don't use 260, use your own prefix. When verifying 
+operator comes on say,"Verify such and such please.' 
+New Yorkers are up in arms against the Great 
+Subway Ripoff. It seems people are buying the 
+standard electrical knockout boxes at hard- 
+ware stores, removing the knockouts, and then 
+filing down the nitch where it was attached. Then 
+they proceed to use them as tokens in turnstiles. 
+It turns out that they work in turnstiles almost 
+anywhere in N.Y. Exceptions are Penn Station. If 
+the knockout falis through the mechanism, they 
+follow it with a real token and walk right through. 
+The 40¢ boxes contain 17 knockouts, each worth 
+35¢ when filed a bit. YIPL readers are urged to 
+watch out for these people, as they wipe their 
+fingerprints off the slugs when they drop them. 
+Readers who missed the Phirst International 
+PHONE PHREAX CONVENTION will be able to read 
+about it in the latest issue of Ramparts 
+Magazine, and in Telephony, the-magazine of 
+the telephone industry. ‘The Telephony art- 
+icle, though somewhat biased, plugged our 
+address for company execs, advising them 
+not to reveal identities when writing us. 
+Cute, huh? Now we've got AT6Ts execs read- 
+ing YIPL! However, we applaud Telephony on 
+the ridiculous accuracy of their name, and 
+salute their new readers with finger upheld!
+Correction- The 39K resistor used for setting 
+the gain of the amplifier in last month's is- 
+sue is incorrect. It should be between 5 and 6 
+thousand ohms’ in value. Too large a value will 
+cause a buzz in the amplifier from too much gain. 
+Let's clear up a few details in last month's 
+Blue Box construction plans. For those of you 
+without a lot of test equiptment, this might help 
+you a bit. 
+1- The Twin T oscillator has maximum stability for 
+voltage and temperature changes when it is tuned 
+at least 5% above the initial oscillating frequency 
+of the oscillator. Otherwise, a voltage drop of a 
+volt or temperature drop of 20 degrees might turn 
+it off. For example, tune in your resistor or cap- 
+acitor values of the 1100 cycle oscillator so that 
+it starts oscillating at about 1000 or 1050 cycles, 
+and tune it up to 1100. The starting point of osc- 
+lation is always the purest sine wave, but the 
+oscillator is on the verge of turning off, so a 
+slight distortion of the wave can and must be tol- 
+Saved in this circuit. 
+2- Tuning up to a touch tone phone(frequencies given 
+last month) will result in greater than 1% accuracy. 
+J hammond organ should be even better. The MF rec- 
+eivers that process your calls will respond to an 
+error of 30 cycles or greater with a reorder signal. 
+That's a wide margin, and it varies from place to 
+place. So if your tones come closer than 30 cycles 
+to the correct ones, you will have better success 
+and less of "I'm sorry, your call did not go thru". 
+3- Repeat-Call only from pay phones, never from 
+your home phone! An exception is to call from a 
+phone that will probably never be boxed on again. 
+The phone company has records of 800 calls and 
+555-1212 calls that are abnormally long, and they 
+have been known to investigate. 
+4- If your call doesn't go thru, it may be your 
+tuning, an excess of distortion(tones will sound 
+very harsh),too loud or soft a tone, extra noise 
+leaking into the phone, and most important, an 
+overload in Bell's circuits that night fron all 
+the other blue-boxers making calls. Also remember 
+that if you initially dial and beep off a 800 or 
+information number in the area code you will be 
+boxing, do not key in the area code, just the 7 
+digits(7D). 
+5- The diodes are non-critical, small signal units 
+and don't have to be 1N914. The transistors are 
+small signal NPN type with HFE of SO or more. The 
+transistors mentioned, and many others also will 
+all work perfectly. 
+A square wave, generated by an on-off type 
+of device such as a multivibrator, has a 
+lot of harmonics, sounds harsh and is not 
+as effective as a sine wave, though often 
+easier to make. 
+\ 
+A pure sane wave, from a Twin T oscillator, and 
+from 2 touch tone phone, is the best waveshape 
+for activating Western Electric's brain. 
+aw, 
+A Twin T oscillator slightly distorted, because 
+it is tuned 5% higher than its initial’ frequency 
+of oscillation. Its stability is excellent. It's 
+dynamite for boxing. 
+ONY 
+A triangle wave, generated by the Signetics 
+566 IC(Integrated Circuit). Because it isn't 
+a pure sine wave, it sounds harsh because it 
+contains harmonics, and it doesn't work as 
+well, though it does work. 
+ON 
+This is a sine wave with its peaks flattened (or cut 
+off). It causes distortion, harshness, and trouble. A 
+telephone earpiéce has a dual diode connected across the 
+terminals in newer units, and if the signal level is too 
+great the diodes absorb the peaks of the sine wave, thus 
+causing the waveform to distort like this. Remove the 
+diode before using.
+DIALING, OVERSEAS CALLS 
+COUNTRY CODES 
+ADEN 
+AFGHANISTAN 
+ALBANIA 
+ALGERIA 
+AMERICAN SAMOA 
+ANGOLA 
+ARGENTINA 
+AUSTRALIA 
+AUSTRIA 
+BAHRAIN ISLANDS 
+BASUTOLAND 
+BECHUANALAND 
+BELGUIM 
+BOLIVIA 
+BRAZIL 
+BRITISH GUIANA 
+BRITISH SOLOMON IS. 
+BULGARIA 
+BURMA 
+BURUNDI 
+CAMBODIA 
+CANADA 
+CAPE VERDE IS. 
+CENTRAL AMERICA 
+CEYLON 
+CHANNEL ISLANDS 
+CHILE 
+COLUMBIA 
+COMORES 
+COOK ISLAND 
+CUBA 
+CYPRUS 
+CZECHOSLOVAKIA 
+DAHOMEY 
+DENMARK 
+ECUADOR 
+EGYPT 
+ETHIOPIA 
+FIJI ISLANDS 
+FINLAND 
+FRENCH GUIANA 
+FRENCH POLYNESIA 
+FRENCH SOMALILAND 
+GAMBIA 
+GHANA 
+GIBRALTAR 
+GREAT BRITAIN 
+GREECE 
+GUAM 
+GUINEA 
+HADRAMANT 
+HONG KONG 
+HUNGARY 
+ICELAND 
+INDIA 
+INDONESIA 
+TRAN 
+IRAQ 
+IRELAND 
+ISRAEL 
+ITALY 
+IVORY COAST 
+JAPAN 
+JORDAN 
+KENYA 
+KOREA 
+KUWAIT 
+969 
+93 
+405 
+21 
+684 
+244 
+54 
+61 
+43 
+973 
+266 
+267 
+32 
+591 
+55 
+592 
+677 
+403 
+95 
+257 
+855 
+1 
+238 
+1 
+94 
+355 
+56 
+57 
+269 
+685 
+53 
+357 
+42 
+229 
+45 
+593 
+20 
+251 
+679 
+401 
+594 
+689 
+253 
+220 
+233 
+350 
+44 
+30 
+682 
+224 
+975 
+852 
+402 
+354 
+91 
+62 
+98 
+964 
+353 
+972 
+39 
+225 
+81 
+962 
+254 
+82 
+965 
+LAOS 
+LEBANON 
+LIBERIA 
+LIBYA 
+LUXEMBURG 
+MACAO 
+MALAGASY 
+MALAWI 
+MALAYSIA 
+MAURITANIA 
+MALI 
+MALTA 
+MEXICO 
+MONGOLIA 
+MOROCCO 
+MOZAMBIQUE 
+NEPAL 
+NETHERLANDS 
+NEW CALEDONIA 
+NEW HEBRIDES 
+NEW ZEALAND 
+NIGER 
+NIGERIA 
+NORTH RHODESIA 
+NORWAY 
+NRUE 
+PAKISTAN 
+PARAGUAY 
+PERU 
+PHILIPPINES 
+POLAND 
+PORTUGAL 
+PORTUGESE GUINEA 
+PORTUGESE TIMOR 
+REUNION 
+ROMANIA 
+ST. THOMAS & PRINCE 
+SENEGAL 
+SOUTH RHODESIA 
+SOUTH WEST AFRICA 
+SPAIN 
+SUMALI REP. 
+SURINAM 
+SAUDI ARABIA 
+SWAZILAND 
+SWEDEN 
+SWITZERLAND 
+SYRIA 
+TAIWAN 
+TANZANIA 
+THAILAND 
+TOGOLESE REP, 
+TONGA 
+TUNISIA 
+TURKEY 
+UGANDA 
+usa 
+ussR 
+UPPER VOLTA 
+URUGUAY 
+VENEZUELA 
+VIETNAM 
+WESTERN SAMOA 
+WEST GERMANY 
+YEMEN 
+YUGOSLAVIA 
+856 
+961 
+231 
+21 
+352 
+853 
+261 
+265 
+60 
+222 
+223 
+356 
+854 
+212 
+258 
+977 
+31 
+687 
+678 
+64 
+227 
+234 
+260 
+47 
+688 
+92 
+595 
+596 
+63 
+48 
+351 
+245 
+672 
+262 
+404 
+239 
+221 
+263 
+264 
+34 
+252 
+597 
+966 
+268 
+46 
+41 
+963 
+86 
+255 
+228 
+676 
+21 
+36 
+256 
+226 
+598 
+58 
+84 
+683 
+49 
+967 
+38 
+The procedures for calling overseas are more 
+involved than normal long-distance calls, but 
+they are infinitely far out and become easy with 
+a little practice. We have here a list of all 
+the countries with telephone service and their 
+associated codes. A overseas number consists of 
+country code, city code, and number, The number 
+can be 7 digits, or 6,5, or even 4 digits. 
+‘Once you have beeped off your free number, 
+whether information or a Wats line(800), you 
+must route to an international center. Seven of 
+these exist in the U.S. 
+182 White Plains 
+183 New York 
+184 Pittsburgh 
+185 Jacksonville 
+186 Oakland 
+187 Denver 
+188 Montreal 
+The international center for Central America is 
+Jacksonville, for South America and part of 
+Europe and Asia is New York, but if you don't 
+know, simply pulse KP 011 XXX ST. You will 
+then receive an international dial tone. The 
+XXX is the derived country code. If the coun- 
+try code has 3 digits, they are the XXX. If 
+the country has a 2 digit code, key in OXX 
+or 1XX, XX being the country code. The 0 is 
+for satellite, 1 for cable. Sometimes the 
+satellite is busy, and sometimes the country 
+you want is only available by cable. For a 
+single digit country code, key in 0X1 or 
+1X1, Russia is 071 or 171. The 011 above 
+is an international access code, and will 
+automatically route you to the proper inter- 
+national center. 
+When you hear international dial tone, key in 
+KP XXX,city code, and number, and ST. Learn to 
+do this in less than 7 seconds. We don't: want 
+to waste time on those valuable TASI channels! 
+Often the city code of the largest city is 1, 
+but you can find out by keying KPXXX 121 ST 
+and asking the inward operator for the city 
+code, or KP XXX 131 ST or KP XXX 141 ST for 
+the information operator for the same info. 
+Say, "Overseas city code for Hamburg, please.", 
+or wherever you want. 
+An international dial tone is a good test 
+for your box's volume. The KP signal should 
+be just loud enough to wipe it out. 
+If after receiving international dial tone, you 
+key numbers and blow it, you can try again by beep- 
+ing off, but remember that you must re-key access 
+code to get another international center sender. So 
+each time you beep, key KPOLIXXXST, and continue 
+from there. As in regular calls, once you get a 
+connection and hang up on the called party, you 
+must hang up phone, and redial to call again. If 
+you try to beep off a call that has been completed, 
+and redial, you will get a local dial tone within 
+20 seconds of beeping 2600 cycles. 
+If talk is cheap, blame it on YIPL! 
+More information on overseas calling will be up- 
+coming soon as our research and developement team 
+sends it in for publication. Remember, you are the 
+source of our information.
+BACK ISSUES SO¢ 
+1- Extension phones, conference switches 
+2-Blue Box Story and Abbie on ripoffs 
+.3- Telecommand story 
+4- Pay Phone Issue 
+ar Blue BX 1 Snow obsolete 
+7- Tuning your organ 
+8- 1972 Credit Card Code 
+jos suber duper project(See issue 11) 
+li- Receive free long distance calls 
+12- 
+Blue Box plans 
+. 
+: 
+13- International calls (this issue) 
+FACT SHEETS 25¢ 
+How not to get caught making credit card calls 
+Receiving free lonq distance calls 
+wt 
+ae 
+a: 
+YIPL,c/oTAP, room 418,152 
+W. 42 St. 
+YIPL, ROOM S04, 152 W. 42 ST., NEW YORK,N.Y. 10036 
+CD susscrrpries $4 First class and Canada 
+(0 pack rssues 506 each 
+.. 
+86, 
+im $7 
+CO anrr-seLL surron 50¢ each wo/¢3.b0rre an § 
+o ADDRESS CHANGE- PLEASE INCLUDE OLD ADDRESS 
+JRE 
+crry 
+OLD ADDRESS-STREET 
+oy 
+NUMBERS OF DESIRED BACK ISSUES- LIST HERE 
+of tones, fiterally 
+musie. 
+In the community 
+you 
+are calling. 
+there tones activate the dial telephone 
+jogive you the number you want, 
+the operator reached aeross the 
+country and dialed the number for you. 
+L TELEPHONE LABORATORIES 
+(Carey ond tevin, Gest ond pertacng, fr eaiznt Imprvvemants xd sconce a eeghone sarin 
+This rystem, one of the newest de 
+velopments of Bell Telephone Lahora- 
+tories, is already in use on hundreds of 
+long 
+distance lines radiating from 
+Chicago, Cleveland, New York. Oakland 
+anit Philadelphia, and heiween a num 
+her of other communities. 
+At will he extended steadily 
+in other 
+purts of the country~a 
+growing example 
+‘of the way Bell Telephone Lahoratories 
+ure ever finding new ways to give you 
+hotter. faster telephone service. 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+TIME TO RENEW? 
+Next to your address there should be a number. This 
+is the first issue you recéived: If its a 1 or a 2, 
+it's time to renew. Renewing promptly will prevent 
+you from missing a single issue, as they say. 
+Youre never alone 
+wath ae phone 
+War fas PHORR 
+‘Keep in the family circle 
+ZOE THE PHONE 
+ten 
+keep in sguch 
+your family and 
+‘ove 
+UGE TRE PHONE

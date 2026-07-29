@@ -1,15 +1,500 @@
-ODDS & ENDS by Tom EdisonHappy Birthday TAP! Five years old on May 1, 1976.Since the last issue there has been only one new readersponse to the TAP T shirt. Talk about mail trickling inlThe weather js starting to warm up and if you want to be"HIP TO YIP" this summer in your TAP T shirt NOW isthe time to make yourself heard. If you think that I'm goingto bust my balls and run all over N. Y.C. in the heatof thesummer trying to find a T shirt manufacturer YOU'RE NUTSIJune 30, 1976 is the deadline. If I don't receive a sufficientnumber of responses by then there will be_NO TAP T Shirts!A reader informed me that he is having trouble using bisRED BOX, It seems that after he beeped in the right amountof beeps the operator came on the line and said that he wasusing a recording and that no money had been deposited.This is fast becoming an annoying occurance! To betterunderstand this problem let me briefly review what happenswhen you use a pay phone. Your initial deposit of a dime orslug equivalent goes through the coin chute and eventuallymakes its way down into the coin hopper where it is held forlater deposit or return. Just before it drops into the hopperit hits a plastic vane causing this vane to lower which thencloses a switch that completes the coin relay circuit. Theimportant point to remember here is that a coin or slugMUST go into the coin hopper to close the relay circuit!When you make a long distance call the operator comeson the line to tell you how much the initial deposit should beand she RETURNS YOUR DIME! This resets the coin relay ‘in the open position and removes the relay from the circuit.After you've made your RED BOX beeps, all the operatorhas to do to see if coins were deposited is to check the relaycircuit for continuity. If you did deposit coins the relay willbe closed but if you "boxed" the relay will be open. Since thewer requirements for the relay are 50 volts DC at 41 mau that is needed by Pa Bell to test if the relay is open orclosed is a smaller test voltage and current. You phoneoperators who are into Women's Liberation, now is a verygood time to revolt against Pa Belll Let us know how Belldoes test the coin relay circuits. Surely somewhere out therein our readership are wives, sisters, girlfriends, and loverswho either are or know phone operators. If you're paranoidyou don't have to sign the letter, just send us the info. You'llbe doing a hell of a lot more for Women's Lib than you evenrealize|Back to our RED BOX dilemma. As a possible solution mayI suggest that the next time you use a pay phone, after theoperator has returned your dime, redeposit a_slug which willgive the indication that coins are being deposited and thenbeep the balance with your RED BOX. Remember, the operatorhasNO way to tell how many coins have actually been deposited,just that at leastone coin has been deposited! And if some ofyou have a guilty conscience about using a slug to screw PaBell you may use a real dime. After all, 10¢ is a very reason-able price to talk to your friend in California from New York,don't you think?My reading recommendation for this month is F, P,S,, amagazine of young people's liberation. F. P,S. which originallystood for Fuck Public School, has for its goals more rightsfor young people, a more humane restructured society, andan end to agism, racism and sexism, While originally it wasan independent and underground newspaper service, it hasdeveloped into a refreshing commentary on the problems oftoday's youth. One of the services that they provide is CHIPS,*he Cooperative Highschool Independent Press Service, whichrves as a clearing house for news and information relating~ w today's youth. If you're publishing an underground news-paper or want to startone they haveall kinds ofbelpful infoincluding your legal rights! Subscriptions are $10/1 year,$18/2 years, $24/3 years & $6/1 year if you're under 18,' which seems like age discrimination to me. For more infowrite to: YOUTHLIBERATION, 2007 WASHTENAW AVE,,ANNARBOR, MJ. 48104 or use your REDBOXand call(313) 905-4575.
-TOPMAY NO. 35John T, Draper, better known as Captain Crunch, has beenbusted for the second time in San Francisco. He's accusedof fraud by wire for making three calls to Bethlehem, Pa.uSing a Blue Box. John was placed on 5 years probation andfs now free on $5, 000 bail.The following off-hook currents were sent in since our lastissue:Burtonsville, Md. 13 ma Toronto, Ont. 49 maQueens, N, Y. 40 maWestminster, Ca. 35 maFor you TAP readers who are into CB radio be advised thattheré are some unscrupulous individuals within the rank andfile! The following interesting clip is from the N. Y. Daily Newsof April 22, 197&Citizen Band Pays OffCrawfordsville, Ind. April sueda citizen band radio cal!21 (AP) — Jondn Gunaet, 18, for help, a driver stopped onef Omaha, Neb., wa stranded the other side of the highway,en Interstate 74 near here walked across the road, pulledyesterday after his car stalled. a knife and robbed Gunset ofPolice said that after he is- $44.I hate to end my colurnn on @ sour note but a couple of TAPreaders were pissed about the last few issues. They didn'tlike the light social criticism or the plugs for books, maga-zines, and underground records that were mentioned, Theyfelt that TAP should stick to technical things and leave thesocial commentary alone. If these critics want only technicalarticles, let 'em sub to Popular Mechanix! I don't know wherethese vegetables live but today technology depends on social,political, and ecconomic conditions amd anybody who doesn'trecognize this is a fool! The S-1 Bill, the pollution of our airand water by the greedy pig monopolies, and the unsafe nuclearpower plants being built (including that new horror being builtright off the coast of New Jersey) are just some of the veryimportant issues that cry out for examination and we willcontinue to do so! So go ahead, stay in your room and play withyour Blue Box and yourself, and one day, when the phone goesdead and the lights go out and you finally stick your bead outthe door to See just what the hell is going on, don't be surprisedto find people lying on the ground dying from pollution andradiation or people being swooped up in mass arrests thanksto S-1! Remember, 1984 IS closer than you think! !(Tom, Icouldn't have said it better myself. Jim)And finally, to the critics who felt that Mr. Phelps camedown too heavy in his article on how to write to the TAPoffice, I can only say that he didn't word it strong enough!If you can't write, print or type your own name and addresslegibly you don't deserve a subscription to TAP] We are allvolunteers on the TAP staff and none of ws are getting a damndime for working. If you think you could do a better job justdrag your ass up here! Our office-hours are posted in everyissue. If you live far away, write us! Remember that beforethe staff was increased it was sometimes 6 months betweenissues! We're averaging about an issue a month and the mailis getting answered almost as fast as it comes in so I don'tfeel that you've got too much to bitch about, do you?(c) Youth Hot Line Reports, Inc, 1976 - Do not make checksout to Youth Hot Line Reports, PLEASE. Movement groupsmay reprint without permission with TAP's address givenwith all credits. Please send us a copy of reprinted work.Warning: We will prosecute copyright violators.
-
-ASK Mr. PHELPSSena in your questi_as ant ce all try to answer them. Ufya S€LQ @ 2ep.3.t lO Us oank account in Zurich, be willmaxée an ab- ict, maximum effort.~. Where can [ get an effective bulletprocf vest?A. Man, what xind of scene are you makinz” We can cuseym in the Advisatle Missions Force. Dror by our office,The indusury prefers the tarm. ’scrt bocy armor’, AL ofthese products use aramid plastic “ber, Lnvented sy DuPont,who calis it Kevlar. It is remarkably resistant lo cuttingand abrasicn. Tire makers are 2ls- ising it, but caly irthe tread, and cnty a couple of ples, sc we don't have sul-letproo! tires yet. The armor's thickness, effectiveness,and corcealabil:ty varies with the moceis, Do not expectConsumers Reportsto test them, altho Soldier of Fertunemagazine ($€/year from Arvada, CC 80001) feamres adsfor it and may.Recently newspapers publicized the fact that our BelovedAppointed (non-elected) Leader was wearing armor. Thistold would-be assassins to concentrate on bead saots. (Noteto SS, or Secret Service ag they're called in this country:this was first mentioned in tne NY Times 28. 9.75, sc don'taccuse us of "encouraging” anyona to shoot at tbe head ofJerry the Puppet. All that woula do is cut off one easilyreplaced tentacle of the Cctcpus,) Cne manufacturer'sslogan is: "lf TheySee -be Armor, TheyShoot for the Head"So do not brag about wearing it. Your armsand legs aisowill still be vulnerable, and you could bleed zo death from a"minor” wound, unless you wear an outfit which makes youlook Like an astronautSome mamilacturers and distributors have restricted saleof the garments to Law Enforcement Personnel. Such effortsare foolish. Notonly is a diamond "forever", so is tbe freemarket. If someone wishes to Suy sometiing, someone eleewill offer it ‘cr sale. This applies to ALL commodities.Attempts ‘o stop them are never really successful. Theyare at worst an inconvenience. DuPon: will undoubtedlyOffer he Kevlar piece goods on the oper. market. Indeed,if they try lo restrict it, their employses will smuggle itout, and sell it for a nice profit. A new “cottage industry”will spring up. Enterprising seamstresses will buy it.Can't you just see it? “Mother's Horre-sewn Body Armor"Even wearing armor, getting hit with a bullet is no joka.The muzzle energy of a bullet is significant~ the effectislike getting ait with a bowling ball. PACA states:"NoClaim is made regarding the prevention of injuries sustainedfrom anyblunt traumaarising outof tha impactof thepro-jectile on tbe garment. The Seriousness of such effectswill vary depending upon a variety of ‘actors, including theage, bealth and physical comdiition of the wearer.”About a year ago, 7. Capps and Sons of Reston, VA 22091began publicizing their products, but are apparently no long-er in produccion. Too dad - Uney had an attractive line,Protective Apparel Corp. of America, 333 Sylvan Avenue,Englewood Cuffs, NJ 07632 offers two vests. The beavierModel© weighs 4 pounds, is 15 plies, and will stopa .45Suto, Umm Parabellum, and .357 Magnum. Price 956,Second ChanceBody Armor claims to be Number | ~ thatthey have saved the lives of more American policemen (70)than all other body armor manufacturers combired. Whe-ther you thirk this is good or bad deperds on where yourheadisat. They dave quite a variety of models trom? '/2pounds up to their heaviest (non-concealable) model whichweighs 10 kilos and will stop repeated bits from armorpiercing miitary ammo. [am not inclicing their addressbecause they will ignore inquiries from non Law Enforce-ment Personnei,Soft body armor |s reasonably priced GENULNE Life insur-ance ~ unlike ‘bose worthless paper policies con artists tryto seli you. Try stopping a bullet with a paper “piece of theRock”! All it wii do is make your beneficiaries wealthy -Or make the ingurance company even wealther than it al-ready is, if it uses the inevitaole fine print to welca.
-0 Se meee SO NY Ne mesA net Powe ey ~ GE joe APO?- 2 ..2%er hau us sue 0 featuring the article 71 taxMaer*. GONG Li peas. , than tne april Sayely 2ppeares,ampeg OrbAly oa ine tiver “Det the JES! A RevoludisnaryMovernant Takes Riitin America’. I even -went outardbliugcit a icpy, ratner wnan wait fora sticky cand-me-icwn,.I bas seen inclined :: appeal :o people's razcnal self-interestas tne justificauon fir tax refusal, put after seeing chisarcicie, I'm inciined to use a different approacn "TaxRefusal is What's Happening and Where [t's At, so Joir theCrowd, Baby!"The same issue featured an interview with GovernorBrown of California. Tho not a Libertarian, he appears tobe the best, by far, of the dad lot who are pulling the stringsof our society.A couple of weeks cater, oa March 24, one of our volun-teers came up about oom and reperted that he’d seen a con-Spicuously incoespicuous dark sedan parked outside ouroffice for awhile. Two agent-types were sitting in it star-ang Steacily up at our window. (They couldn: see anythingat that angle) They drove off after a wale and haven't beanback. if they do return, I'll send Barney to bug then.. Thisproves, incidentally, tha: at least one of our readers isaFINK! An INFCRMESII wastalkong to anI:allanIRSsupervisorthe other Cay,He looxed just like a Mafia enforcer and I joked about it.He admitted it was more fun and profitable to work for BigBrotber, than to work for the Matia and have Big Brotheragainst him."I realized that anyone in this country, any time and inany Way, can be attacked and vilified by a particular kind ofbureaucracy that grows liks a galloping cancer," That wasIngmar Bergman, announcing that be could no longer Live inSweden (and you thought -hings were bad bere?) He said hehad been harassed and humiliated by “a bunch of prestige~Seeking poker players” in tbe tax bureaucracy. Theseparasites Cemanded .30% of some of bis earnings, so beSplit. The gov't will iose $1.2 million in taxes on foreignbookings made for his canceled film projects. Talk aboutkilling the Goose|Mr. Bergman has lived all his life in Sociajist Swedenand unfortanately has apparently been brainwaned, ASucker to the end, he announced he was leaving nis forninein Swecenarthe disposal of the Tax Board, jf he loses hisSuit. Lf be owes any further money, be intends to pay itlWhy? For what? TAXATION IS THEFT! He snouldfollow che advice of Jarry Schultz Ph.D. (Pho, Doctor),who is probably the world's sharpest investment advisor."Everyone should bave have three cifferent cour ies: thecountry of his citizenship, the country he Lives ic, and theone be banks in,"According to an unconirmed report from a usually reliableSource, IRS parasites in Wyoming no longer leave the cityof Cheyanne, because 4, four, count ’em, FOUR agents havedisappeared, mySteriousiy, without a trace. - don't seethat it's mysterious atal.. Wyoming is rough ~ountry andthey were probably eaten by grizzly bears. It's only fair -they're parasites who Live off productive people so nowsomething's living off them. Wyoming, the first Liberatedcone| Readers of AUas Shrucged probably expected Coloradowoulc be first. Today, Wyoming; tomorrow, ue US?FOR (ugh!) once said "We bave aothing to fear but ‘saritself’ so dont fear the IRS, FIGHT THENMIWe had some more excitement in April. Tbe building at124] Broadway was ttally guued by fire. The cloud hadaSilver lining, however. An office cf IT&T was among thosedestroved. Someone speculated that an arsonist might havegotte:, the address wroog. Hmmm! We're at welve-gg-one.And, by the way, our building ig sprinklered,We've been locking for a logo for some me. Recentlya fel:.w walked in and showed us a couple he'd been workingon, Cpinion was unanimous and we bope everyone Likes it,because you'll be seeing .t for awhile. If anyone neeas theServices ofa good artist. we highly recommend Sl QaHis address is and hisSccial Security Number is Si - - a.
-
-MISSION: IMPOSSIBLE!Wewll Start ty plaving 2 word asucciation game. Thewora is) ‘Dunce:r.’ Perraps vecu cus shi st Mactew.7 Orthe Duncan yoy. Li ycoatlre one cruS, ;lu Ucugne cf inoseubicullcus sitewalx piscycanks wrth harass mMctoriscs.Inside i@se iS Fea.th beyond your wilcest dreams (if yourwildest dreams are m.cdest) and all you need are the keys.Letus fclicw a purely nypothetical miscreant on hispurely ayrothetical mission. Do you know that Gypsyrecipe that begins "First you steal one chicken..."? Well,first he Steals a meter. Ai" Ridcid pipe cutter is neces-sary. It can be soucnt for 530 with no questions asked ardnm ID is requirec, The typical perpetrator may prefer toSteal cne from a comstruction site. Do not try to econo-mize ty getting a cheap tubing cutter, Replacing the rollerswith extra culters is optional,Meters should be selected with care. Just as somecrops are best when harvested under certain moon signs,meters are ripest when harvested a aay or two before thecollector visits. Cne perpe:rator chose a meter hiddenbetind a tamporary censtruction shanty and all it containedwas one #14 brass washer. As meters get Stolen, replace-ments are fitted with an outer pipe to prevent use of a pipecutter. In some neighborhoods, this is the only kind onefinds, Noisy sledgehammering is recessary to drive theouter pipe into the groundif one is determined to get thatparticular meter.3 to 5amis a goodtime. The meteris heavy - aboutJOlbs for the standard "Urban" model, The "Ghetto" modelwith the beefier op is heavier, and the "Jungle" model isaven heavier, Two or three strong net shopping bags insxiean opaque one snould suffice. The pipe must be cut at least2 1/2" betow the meter to avoid the internal clamp.The door of -he meter is 3/8" thick and the sides are0/16" thick, (pening it is easy when one knows how. Drill-ing in : locationswillexpose 4 sockethead Screws. Thebit may Srap as ‘t breaks thru. Anyone with access toarmoilling machine will find it easier to sink a 1/2" end millin these .ccalUons, Remove the four Screws and the doorwill come «ff. The inner can which bolds the money ismade of thin aluminum, Do not throw away the can whenyou are finisbed with {t, Ramember that aluminum is recy-cleable.Remove ibe Screyve tn the aoor, remove the lock, andStudy it. [t is an unuSual design and making keys is ratherdifficult, Fey joccsmitas have the machine, and besides,each lock \§ suamped "RESTRICTED". Making keys re-quires en fico Bell key mactine or a small pantograph. Thelock on the janer can nas three pins per side andratherloose tolerances. It appears that CNE KEY will open allthe inner cans io the city!Now for the bad news: the CUTER locks are ALL differ-ent! It is beliaved thar they were changed after the lastmajor ripoff. Enterprising individuals acquired official-looxing uniforms and carts and went into business for bhem-Selves. There is so Such thing as a *master key" and thelocgs are 80 designed and so deeply buried in the door tharthey (probably) can't be picked. Now you know the reasonfor Une tile of this ardicla. Anybody want to buy 100 feetof 3/32" x 1/4" rectangular brass bar key stock?Your mission Cbserws the collectors in YCUR city.Perhaps tbey use the sar:e key for all of the meters. Itrosy even be an easily mane tucular Ace-type key. Reportyour findings to us. Do net Send meters or locks to us|
-}
-Cutaway end view cf locxWaters may be spring orgravity operared
-THANKSto everyone who sent in info about CB-phone interfacing.We will be having an article about it shortly.WE WOULDUIKE INFOabout Federal Agencies’ radio frequencies - DEA, etc,A triend of mine who was quite impressed with James Bond'sAston Martin with its revolving license plate has been sug-gesting that I rig something similar on my "Great EscapeMaching” If anyone has designedanything like this, let us.know the details.Letters From Readers1.3.26Tre Wetec HoustWhbrrMEYORDeor ep,Exctoxed is & 1 dollar check,Crnld Won please send me CoursesA,&,c and D. Also the 3 followinc,fact sheets, Displargd Red Sox, 2600Lahistie perfector, and the Duattoweox ator. Tama Sulosuriber so Ihave the corrections for the Red oxName witaheld toprovwct the guilty
-
-Dear TAP,Switches: I've been building blue ones for quite some time Back [ssues - Listed by feature articlesnow and always on the lookout for good cheap dpdt or dpst OO¢ each, 40¢ each if complete set is orderedSwitches, The Grayhill 35-1 is okay but has risen in price 1 - Extensions, Conference Switchesto about $1.75. There are also a number of cheap switches 2 ~ Blue Box Story and Abbie on RipoffsI've read about which are not Small and don't fit well into a 3 - Telecommand Storysmall compart ment.One is made by Cherry and can be had 4 - Pay Phone Issuefor .70 surplus. I've never tried toggles but I guess that o- Blue Box part] 6 - Blue Box part2would be one solution (actually what we need is a touch- 7 - Tuning your organ, 3-slot ripoffstone chip such as is available now for regular dialing 8 - Credit card calls, 1972 codefrequencies... tbat'll be the day). Just finished the advanced 8, 10, and 1 ~ Blackbox parts 1, 2, &3blue box with the 555 chips- couldn't you also use the 556, 12 - Blue Box planswhich is a dual chip? Seems to work fine so far. You can 13 - Int'l calls & codes, Bluebox planshear a "different" sound than the one issued by unijunction 14 - More codes, AT&T Papers, CA test #stypes. But much simpler to build. 15 - 1973 Credit Card Code, T networkName withheld 16 - Red Box plansEditor's note: Good idea for dual 5565's. However, you can't 17 - Red Box, Line Relay, "Don't Get Busted”use a 556 for the 555 Red Boxes, as several readers have 18 - Outgoing long distance call stoppersuggested. Only two Separate 555's will work because the 18 - Snoop light, Taping Fortress tonesV+ pins of the two timers go to different points in the cir- 20 - Cheesebox (Conference line, or looparound)cuit, and in a 556 the V+ pins of both timers are internally. 21 - Automatic phone tap, Convention reporttied together. And no, the circuit can't be modified to let 22 - Answeroo, "How we catch Red Boxers"the 556 work. 23 - Free electricity24 - Fraud Detectors, Index, 1974 CC Code25 ~ New Red Box, Free Gas26 - New Bluebox, Con Ed key (also 23, 29)27 - Free electricity, Bluebox correction28 - Reading computer bills, loop suffixes29 - Improved Bluebox & Snooplite, Int'l codes30 - Party lines, Fortress extension & locksgl - Black box, RAO Credit Card Codes32 - '76 CC Code, Improved Red Box33 - Supermarket codes and ripoffs, tax refusal34 - SS #, Inside the Fortress, Fone Fucker
-gubscriptions- 10 issues- USbulk rate $4.US First Clags in plain sealed envelope $4.Canada stapled $4 Foreign $7.Include mailing label or xerox copy when writing to TAPabout your subscription,- Monopoly $1.20Courses - SOg each A- Basic Electricity B- A.C.C - Basic Phone Cperation D> An pliftersSend Only check or money order (NC CASH) toTAP, 152 W 42 Street, Room 604, New York 100360This {8 a mall drop only.Cifice: 120) Broadway, Room 608, New York 1000Hours: Wednesday, 4-7pm,
-<<
-Published for informational purposes only by Youth Hot Line Reports, Inc.Address all mail and checks to BULK RATEU. S. POSTAGETAP, ROOM 504, 152 W.42 ST.,NY10036 PAIDPerm No, 209Groat Neck, N.Y.35® Supermarket CheatingThe nationally prominent magazine, The AtlanticMonthly, recently pubtished an article entitled, “Rip-Of at the Supermarket.” March, 1976The article was offensive enough to the industrythat at least one food chain, Safeway Stores, bennedthe saleof the magazine on its premises.The article dealt heavily on supermarket practicesthat cheat or miskad customers, including falselabeling of the weight of meat. prominent disptay’of higher-prof foods, and other questionable mer-chandising practices.The internetional Teameter
+ODDS & ENDS by Tom Edison 
+Happy Birthday TAP! Five years old on May 1, 1976. 
+Since the last issue there has been only one new reader 
+response to the TAP T shirt. Talk about mail trickling in! 
+‘The weather is starting to warm up and if you want to be 
+“HIP TO YIP" this summer in your TAP T shirt NOW is 
+the time to make yourself heard. If you think that I'm going 
+to bust my balls and run all over N. Y.C. in the heat of the 
+summer trying to find a T shirt manufacturer YOU'RE NUTS! 
+June 30, 1976 is the deadline. If I don't receive a sufficient 
+number of responses by then there will be NO TAP T shirts! 
+A reader informed me that he is having trouble using his 
+RED BOX, It seems that after he beeped in the right amount 
+of beeps the operator came on the line and said that he was 
+using a recording and that no money had been deposited. 
+This is fast becoming an annoying occurance! To better 
+understand this problem let me briefly review what happens 
+when you use a pay phone. Your initial deposit of a dime or 
+slug equivalent goes through the coin chute and eventually 
+makes its way down into the coin hopper where it is held for 
+later deposit or return. Just before it drops into the hopper 
+it bits a plastic vane causing this vane to lower which then 
+closes a Switch that completes the coin relay circuit. The 
+important point to remember here is that a coin or slug 
+MUST go into the coin hopper to close the relay circuit] 
+‘When you make a long distance call the operator comes 
+on the line to tell you how much the initial deposit should be 
+and she RETURNS YOUR DIME] This resets the coin relay * 
+in the open position and removes the relay from the circuit. 
+After you've made your RED BOX beeps, all the operator 
+has to do to see if coins were deposited is to check the relay 
+circuit for continuity. If you did deposit coins the relay will 
+be closed but 
+if you "boxed" the relay will be open. Since the 
+power requirements for the relay are 50 volts DC at 41 ma 
+all that is needed by Pa Bell to test if the relay 
+is open or 
+closed is a smaller test voltage and current. You phone 
+operators who are into Women's Liberation, now is a very 
+good time to revolt against Pa Bell! Let us know how Bell 
+does test the coin relay circuits. Surely somewhere out there 
+in our readership are wives, sisters, girlfriends, and lovers 
+who either are or know phone operators. If you're paranoid 
+you don't have to sign the letter, just send us the info. You'll 
+be doing a hell of a lot more for Women's Lib than you even 
+realizel 
+Back to our RED BOX dilemma. As a possible solution may 
+I suggest that the next time you use a pay phone, after the 
+operator has returned your dime, redeposit a slug which will 
+give the indication that coins are being deposited and then 
+beep the balance with your RED BOX. Remember, the operator 
+has _NO way to tell how many coins have actually been deposited, 
+just that at least one coin has been deposited! And if some of 
+you have a guilty conscience about using a slug to screw Pa 
+Bell you may use a real dime. After all, 10¢ is a very reason- 
+able price to talk to your friend in California from New York, 
+don't you think? 
+My reading recommendation for this month is F.P.S,, a” 
+magazine of young people's liberation. F, P,S. which originally 
+stood for Fuck Public School, has for its goals more rights 
+for young people,a more humane restructured society, and 
+an end to agism, racism and sexism. While originally it was 
+an independent and underground newspaper service, it has 
+developed into a refreshing commentary on the problems of 
+today's youth. One of the services that they provide is CHIPS, 
+the Cooperative Highschool Independent Press Service, which 
+serves as a clearing house for news and information relating 
+to today's youth. If you're publishing an underground news- 
+paper or want to start one they have all kinds of helpful info 
+including your legal rights! Subscriptions are $10/1 year, 
+$18/2 years, $24/3 years & $6/1 year if you're under 18, 
+" which seems like age discrimination to me. For more info 
+write to: YOUTH LIBERATION, 2007 WASHTENAW AVE, , 
+ANN ARBOR, MI. 48104 or use your RED BOX and call 
+(813) 995-4575. 
+t 
+q TAP 
+MAY 1976 
+NO. 35 
+John T, Draper, better known as Captain Crunch, has been 
+busted for the second time in San Francisco. He's accused 
+of fraud 
+by wire for making three calls to Bethlehem, Pa. 
+using a Blue Box. John was placed on 5 years probation and 
+is now free on $5,000 bail, 
+. The following off-hook currents were sent in since our last 
+issue: 
+Burtonsville, Md. 13 ma 
+Queens, N, Y. 
+40 ma 
+Westminster, Ca. 35 ma 
+For you TAP readers who are into CB radio be advised that 
+there are some unscrupulous individuals within the rank and 
+file! The following interesting clip is from the N.Y. Daily News 
+of April 22, 1976: 
+Citizen Band Pays Off 
+Cravtordaville, Ind, April 
+sneda citizen band radio. call 
+21 (AP) — John Gunset, 18, 
+for help, = 
+: 
+of Omaha, Neb, wa stranded 
+the other 
+on Interstate 
+74 near here 
+walked across the road, pulled 
+yesterday 
+efter his car stalled. 
+a knife and robbed Gunset of 
+Police said 
+that after be is- 
+$54, 
+Toronto, Ont. 
+49 ma 
+I hate to end 
+my column 
+on a sour note but a couple of TAP 
+readers were pissed about the last few issues. They didn't 
+like the light social criticism or the plugs for books, maga- 
+zines, and underground records that were mentioned. They 
+felt that TAP should stick to technical things and leave the 
+social commentary alone. If these critics want only technical 
+articles, let ‘em sub to Popular Mechanix! I don't know where 
+these vegetables live but today technology depends on social, 
+political, and ecconomic conditions and anybody who doesn't 
+recognize this is a fool! The S-1 Bill, the :pollution of our air 
+and water by the greedy pig monopolies, and the unsafe nuclear 
+power plants being built (including that new horror being built 
+right off the coast of New Jersey) are just some of the very 
+important issues that cry out for examination and we will 
+continue to do sol So go ahead, stay in your room and play with 
+your Blue Box and yourself, and one day, when the phone goes 
+dead and the lights go out and you finally stick your head out 
+the door to see just what the hell is going on, don't be surprised 
+to find people lying on the ground dying from pollution and 
+radiation or people being swooped up in mass arrests thanks 
+to S-11 Remember, 1984 IS closer than you think! (Tom, I 
+couldn't have said it better mysélf. Jim) 
+. 
+. And finally, to the critics who felt that Mr. Phelps came 
+down too heavy in his article on how to write to the TAP 
+office, I can only say that he didn't word it strong enough! 
+If you can't write, print or type your own name and address 
+legibly you don't deserve a subscription to TAP! We are all 
+volunteers on the TAP staff and none of us are getting a damn 
+dime for working. If you think you could do a better job just 
+drag your ass up here! Our office-hours are posted in every 
+issue. If you live far away, write us! Remember that.before 
+the staff was increased it was sometimes 6 months between 
+issues! We're averaging about an issue a month and the mail 
+is getting answered almost as fast as it comes in so I don't 
+feel that you've got too much to bitch about, do you? 
+Youth Hot Line Reports, Inc. 1976 - Do not make checks 
+out to Youth Hot Line Reports, PLEASE, Movement groups 
+may reprint without permission with TAP's address given 
+with all credits, Please send us a copy of reprinted work. 
+Warning: We will prosecute copyright violators.
+ASK Mr. PHELPS 
+Send in your questions and he will try to answer them. If 
+you send a deposit to his bank account in Zurich, he will 
+make an all-out, maximum effort. 
+Q. Where can I get an effective bulletproof vest? 
+A. Man, what kind of scene are you making? We can use 
+you in the Advisable Missions Force. Drop by our office. 
+‘The industry prefers the term "soft body armor". All of 
+these products use aramid plastic fiber, invented by DuPont, 
+who calls it Kevlar, It is remarkably resistant to cutting 
+and abrasion. Tire makers are also using it, but only in 
+the tread, and only a couple of plies, so we don't have bul- 
+letproof tires yet. The armor's thickness, effectiveness, 
+and concealability varies with the models. Do not expect 
+Con: 
+Reports to test them, altho Soldier of Fortune 
+magazine ($8/year from Arvada, CO 80001) features ads 
+for it and may. 
+Recently newspapers publicized the fact that our Beloved 
+Appointed (non-elected) Leader was wearing armor. This 
+told would-be assassins to concentrate on head shots. (Note 
+to SS, or Secret Service as they're called in this country: 
+this was first mentioned in the NY Times 28, 9.75, so don't 
+accuse us of "encouraging" anyone to shoot at the head of 
+Jerry the Puppet. 
+All that would do is cut off one easily 
+replaced tentacle of the Octopus, ) One manufacturer's 
+slogan is; "If They See the Armor, They Shoot for the Head" 
+So do not brag about wearing it. Your arms and legs also 
+will still be vulnerable, and you could bleed to death from a 
+"minor" wound, unless you wear an outfit which makes you 
+look like an astronaut. 
+Some manufacturers and distributors have restricted sale 
+of the garments to Law Enforcement Personnel. Such efforts 
+are foolish. Not only is a diamond "forever", so is the free 
+market, If someone wishes to buy something, someone else 
+will offer it for sale. This applies to ALL commodities, 
+Attempts to stop them are never really successful. They 
+are at worst an inconvenience. DuPont will undoubtedly 
+offer the Kevlar piece goods on the open market. Indeed, 
+if they try to restrict it, their employees will smuggle it 
+out, and sell it for a nice profit. A new "cottage industry” 
+will spring up. Enterprising seamstresses will buy it. 
+Can't you just see it? "Mother's Home-sewn Body Armor" 
+Even wearing armor, getting hit with a bullet is no joke. 
+‘The muzzle energy of a bullet is significant - the effect is 
+like getting hit with a bowling ball, PACA states:"No 
+claim is made regarding the prevention of injuries sustained 
+from any blunt trauma arising out of the impact of the pro- 
+jectile on the garment. The seriousness of such effects 
+will vary depending upon a variety of factors, including the 
+age, health and physical condition of the wearer." 
+About a year ago, J. Capps and Sons of Reston, VA 2209) 
+began publicizing their products, but are apparently no long- 
+er in production. Too bad - they had an attractive line. 
+Protective Apparel Corp. of America, 333 Sylvan Avenue, 
+Englewood Cliffs, NJ 07632 offers two vests. The heavier 
+Model O weighs 4 pounds, is 15 plies, and will stop a .45 
+auto, 9mm Parabellum, and .357 Magnum. Price $159. 
+Second Chance Body Armor claims to be Number 1 - that 
+they have saved the lives of more American policemen (70) 
+than all other body armor manufacturers combined. Whe- 
+ther you think this is good or bad depends on where your 
+head is at. They have quite a variety of models from 2 1/2 
+pounds up to their heaviest (non-concealable) model which 
+weighs 10 kilos and will stop repeated hits from armor 
+piercing military ammo, I am not including their address 
+because they will ignore inquiries from non Law Enforce- 
+ment Personnel, 
+Soft body armor is reasonably priced GENUINE life insur- 
+ance - unlike those worthless paper policies con artists try 
+to sell you. Try stopping a bullet with a paper "piece 
+of the 
+Rock"! All it will do is make your beneficiaries wealthy - 
+or make the insurance company even wealthier than it al- 
+ready is, if it uses the inevitable fine print to welch. 
+A VISIT FROM THE GESTAPO? 
+No sooner had our issue 33 featuring the article on tax 
+refusal gone to press, than the April Playboy appeared, 
+urging boldly on the cover "Defy the IRS! A Revolutionary 
+Movement Takes Root in America". I even went out and 
+bought a copy, rather than wait for a sticky hand-me-down. 
+Thad been inclined to appeal to people's rational self-interest 
+as the justification for tax refusal, but after seeing this 
+article, I'm inclined to use a different approach: "Tax 
+Refusal is What's Happening and Where It's At, so Join the 
+Crowd, Baby!" 
+The same issue featured an interview with Governor 
+Brown of California. Tho not a Libertarian, he appears to 
+be the best, by far, of the bad lot who are pulling the strings 
+of our society, 
+A couple of weeks later, on March 24, one of our volun- 
+teers came up about 6pm and reported that he'd seen a con- 
+Spicuously inconspicuous dark sedan parked outside our 
+office for a while. Two agent-types were sitting in it star- 
+ing steadily up at our window. (They couldn't see anything 
+at that angle) They drove off after a while and haven't been 
+back, If they do return, I'll send Barney to bug them. This 
+proves, incidentally, that at least one of our readers is a 
+FINK! An INFORMER! 
+I was talking to an Italian IRS supervisor the other day. 
+He looked just like a Mafia enforcer and I joked about it. 
+He admitted it was more fun and profitable to work for Big 
+Brother, than to work for the Mafia and have Big Brother 
+"T realized that anyone in this country, any time and in 
+any way, can be attacked and vilified by a particular kind of 
+bureaucracy that grows like a galloping cancer." That was 
+Ingmar Bergman, announcing that he could no longer live in 
+Sweden (and you thought things were bad here?) He said he 
+bad been harassed and humiliated by "a bunch of prestige- 
+seeking poker players" in the tax bureaucracy. These 
+parasites demanded 139% of some of his earnings, so he 
+split. The gov't will lose $1.2 million in taxes on foreign 
+bookings made for his canceled film projects. Talk about 
+killing the Goose! 
+Mr. Bergman has lived all his life in Socialist Sweden 
+and unfortimately has apparently been brainwashed. A 
+sucker to the end, he announced he was leaving his fortune 
+in Sweden at the disposal of the Tax Board, if he loses his 
+suit, If he owes any further money, he intends to pay itl 
+Why? For what? TAXATION IS THEFT! He should 
+follow the advice of Harry Schultz Ph.D. (Phony Doctor), 
+who is probably the world's sharpest investment advisor. 
+"Everyone should have have three different countries; the 
+country of his citizenship, the country he lives in, and the 
+one he banks in." 
+According to an unconfirmed report from a usually reliable 
+source, IRS parasites in Wyoming no longer leave the city 
+of Cheyanne, because 4, four, count 'em, FOUR agents have 
+disappeared, mysteriously, without a trace. I don't see 
+that it's mysterious at all, Wyoming is rough country and 
+they were probably eaten by grizzly bears. It's only fair - 
+they're parasites who live off productive people so now 
+something's living off them.’ Wyoming, the first Liberated 
+Zone! Readers of Atlas Shrugged probably expected Colorado 
+would be first. Today, Wyoming; tomorrow, the US? 
+FDR (ugh!) once said "We have nothing to fear but fear 
+itself" sodont fear the IRS, FIGHT THEM! 
+We had some more excitement in April. The building at 
+1241 Broadway was totally gutted by fire, The cloud had a 
+Silver lining, however. An office of IT&T was among those 
+destroyed, Someone speculated that an arsonist might have 
+gotten the address wrong. Hmmm! We're at twelve-oh-one. 
+And, by the way, our building is sprinklered, 
+We've been looking for a logo for some time. Recently 
+fellow walked in and showed us a couple he'd been working” 
+on, Opinion was unanimous and we hope everyone likes it, 
+because you'll be seeing it for a while. If anyone needs the 
+services of 
+a good artist, we highly recommend #3 GD 
+His address {s i 
+EES 
+and his 
+Social Security Number is #3 -0- Sam.
+MISSION:IMPOSSIBLE! 
+We will start by playing a word association game. 
+The 
+word is: "Duncan" Perhaps you thought of Macbeth? Or 
+the Duncan yoyo? If you're one of us, you thought of those 
+ubiquitous sidewalk piggybanks which harass motorists. 
+Inside these is wealth beyond your wildest dreams (if your 
+wildest dreams are modest) and all you need are the keys. 
+Let us follow a purely hypothetical miscreant on his 
+purely hypothetical mission. Do you know that Gypsy 
+recipe that begins "First you steal one chicken..."? Well, 
+first he steals a meter. A 2" Ridgid pipe cutter is neces- 
+sary. It can be bought for $30 with no questions asked and 
+no ID is required. The typical perpetrator may prefer to 
+steal one from a construction site. Do not try to econo- 
+mize by getting a cheap tubing cutter. Replacing the rollers 
+with extra cutters is optional. 
+Meters should be selected with care. Just as some 
+crops are best when harvested under certain moon signs, 
+meters are ripest when harvested a day or two before the 
+collector visits. One perpetrator chose a meter hidden 
+behind a temporary construction shanty and all it contained 
+was one #14 brass washer. As meters get stolen, replace- 
+ments are fitted with an outer pipe to prevent use of a pipe 
+cutter. In some neighborhoods, this is the only kind one 
+finds. Noisy sledgehammering is necessary to drive the 
+outer pipe into the ground if one is determined to get that 
+particular meter. 
+3 to 5am is a good time. The meter is heavy - about 
+30lbs for the standard "Urban" model. The "Ghetto" model 
+with the beefier top is heavier, and the "Jungle" model is 
+even heavier. Two or three strong net shopping bags inside 
+an opaque one should suffice. The pipe must be cut at least 
+2 1/2" below the meter to avoid the internal clamp. 
+The door of the meter is 3/8" thick and the sides are 
+5/16" thick. Opening it is easy when one knows how. Drill- 
+ing in | locations will expose 4 socket head screws. The 
+bit may snap as it breaks thru. Anyone with access toa 
+milling machine will find it easier to sink a 1/2" end mill 
+in these locations. Remove the four screws and the door 
+will come off. The inner can which holds the money is 
+made of thin aluminum. Do not throw away the can when 
+you are finished with it. Remember that aluminum is recy~ 
+cleable. 
+Remove the screws in the door, remove the lock, and 
+Study it. 
+It is an unusual design and making keys is rather 
+difficult. Few locksmiths have the machine, and besides, 
+each lock is stamped "RESTRICTED". Making keys re- 
+quires an Iico Bell key machine or a small pantograph. The 
+lock on the inner can has three pins per side and rather 
+loose tolerances, It appears that ONE KEY will open all 
+the.inner cans in the city! 
+Now for the bad news: the OUTER locks are ALL differ- 
+ent! It is believed that they were changed after the last 
+major ripoff. Enterprising individuals acquired official- 
+looking uniforms and carts and went into business for them- 
+Selves. There is no such thing as a "master key” and the 
+locks are so designed and so deeply buried in the door that 
+they (probably) can't be picked. Now you know the reason 
+for the title of this article. Anybody want to buy 100 feet 
+of 3/32" x 1/4" rectangular brass bar key stock? 
+Your mission. Observe the collectors in YOUR city. 
+Perhaps they use the same key for all of the meters. It 
+may even be an easily made tubular Ace-type key. Report 
+your findings to us. Do not send meters or locks to us! 
+Hh 
+Cutaway end view of lock 
+Wafers may be spring or 
+gravity operated 
+‘THANKS 
+to everyone who sent in info about CB-phone interfacing. 
+We will be having an article about it shortly. 
+WE WOULD LIKE INFO 
+about Federal Agencies' radio frequencies - DEA, etc. 
+A friend of mine who was quite impresséd with James Bond's 
+Aston Martin with its revolving license plate has been sug- 
+gesting that I rig something similar on my "Great Escape 
+Machine" If anyone has designed anything like this, let us | 
+know the details. 
+Letters From Readers 
+3.76 
+THe Waite House 
+(WASHINGTON 
+DearTep, 
+Enctosed is a 4 dollar check, | 
+Could won please send me Courses 
+A,B,C and D. Also the 3 Fallowinss, 
+fact sheets, Displawgd Red Sox, 2600 
+whistle perfector, amd the Duattone, 
+oscillator. Tama suloseriber so T 
+have the corrections forthe Red Box 
+Name withheld to 
+protect the guilty
+Dear TAP, 
+Switches: I've been building blue ones for quite some time 
+now and always on the lookout for good cheap dpdt or dpst 
+Switches. The Grayhill 35-1 is okay but has risen in price 
+to about $1.75. There are also a number of cheap switches 
+T've read about which are not small and don't fit well into a 
+Small compartment.One is made by Cherry and can be bad 
+for .70 surplus, I've never tried toggles but I guess that 
+would be one solution (actually what we need is a touch- 
+tone chip such as is available now for regular dialing 
+frequencies. .. that'll be the day). Just finished the advanced 
+blue box with the 555 chips- couldn't you also use the 556, 
+which is a dual chip? Seems to work fine so far. You can 
+hear a "different" sound than the one issued by unijunction 
+types. But much simpler to build. 
+Name withheld 
+Editor's note: Good idea for dual 555's. However, you can't 
+use a 556 for the 555 Red Boxes, as several readers have 
+suggeSted. Only two separate 555's will work because the 
+V+ pins of the two timers go to different points in the cir- 
+cuit, and in a 556 the V+ pins of both timers are internally. 
+tied together. And no, the circuit can't be modified to let 
+the 556 work. 
+Back Issues - Listed by feature articles 
+50¢ each, 40¢ each if complete set is ordered 
+- Extensions, Conference Switches 
+7 - Tuning your organ, 3-slot ripoffs 
+8 ~ Credit card calls, 1972 code 
+9, 10, and 1 - Blackbox parts 1, 2, &3 
+12 - Blue Box plans 
+18 - Int'l calls & codes, Bluebox plans 
+14 - More codes, AT&T Papers, CA test #s 
+15 - 1973 Credit Card Code, T network 
+16 - Red Box plans 
+17 - Red Box, Line Relay, ‘Don't Get Busted" 
+18 - Outgoing long distance call stopper 
+19 - Snoop light, Taping Fortress tones 
+20 - Cheesebox (Conference line, or looparound) 
+21 - Automatic phone tap, Convention report 
+22 - Answeroo, "How we catch Red Boxers" 
+23 - Free electricity 
+24 - Fraud Detectors, Index, 1974 CC Code 
+25 - New Red Box, Free Gas 
+26 - New Bluebox, Con Ed key (also 23, 29) 
+27 ~ Free electricity, Bluebox correction 
+28 - Reading computer bills, loop suffixes 
+29 - Improved Bluebox & Snooplite, Int'l codes 
+80 - Party lines, Fortress éxtension & locks 
+S1- Black box, RAO Credit Card Codes 
+32 - '76 CC Code, Improved Red Box 
+33 - Supermarket codes and ripofis, tax refusal 
+34 - SS #, Inside the Fortress, Fone Fucker 
+‘Spbterintions 
+- 10 issues - US balk rate $4. 
+‘US First Class in plain sealed envelope $6. 
+‘Canada stapled $4 
+Foreign 
+7. 
+Include mailing label or xerox copy when ‘writing to TAP 
+about your subscrintion, 
+Raoks - 
+Monopoly $1.20 
+‘Gourses 
+- 504 cach A~Basic Electricity B- A.C, 
+C~ Basic Phono Operation D- Amplifiers 
+Send Only check or monay order (NO CASH) to 
+‘TAP, 162 W 42 Street, Room 64, New York 10038 
+‘This is a mail drop only. 
+Office: 1201 Brosdway, Room 808, New York 10001 
+Hours; Wednesday, 4~7pm. 
+Published for informational Purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to 
+BULK RATE 
+U. S. POSTAGE 
+TAP, ROOM 504, 152 W.42 ST.,NY10036 
+PalD 
+35 
+@ Supermarket Cheating 
+The nationally prominent magazine, The Atlantle 
+Monthy, recently published on arte ‘ue, “Rip- 
+Off ot the Supermarket.” March, 
+19! 
+‘The article was offensive March. lee industry 
+that at least one food chain, Safeway Stores, banned 
+the sale of the magazine 
+on its premises. 
+‘The article.dealt heavily on supermarket practices 
+that cheat or mislead customers, including false 
+labeling of the weight of meat, prominent display 
+of higher-profit foods, and other questionable mer- 
+chandising practices, 
+‘The intarnational Teamster 
+Penni 
+No, 209 
+Great Neck, NY,

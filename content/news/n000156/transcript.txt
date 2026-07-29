@@ -1,25 +1,570 @@
-QUESTIONWhat do you suppose old Alex reajly said when he Spilledthe acid on himself? Could it be that History's first phonecall was an obscene one?!Agent 038(if you didn't understand it, we will explain it ina futureissue, )
-ULTIMATE RED BOX by Al BellTAPJUNE 1976 NO.36SPSTMomentaryPushbuttons+9volts 25 10 5 |i . :5.BES Earpiecet t i" 10K ‘s (or 100nat ohmspeaker)10 S10KS LITO 8H on |K 2 1510K4 4 13 +.01 10oD 2 12 — an8 OA || | 1 ad F7>56K 8 eTL ot2200 Hz be 1700 Hz470K
-gsWVouT E« BgEBottom View—_
-Resistors - 1/4 watt, 10%Op-Amp ~ 741CV (National, Signetics, etc.)Capacitors are in mfd. Values above .5 midare electrolytic, 15 volts or more. Obvserveproper polarity in these units,Diodes - Small-signal silicon, 1N914, 1N4001,or equivalent.Pots- 50K, smali 10 or 20 turn trimpots.Timer- XR-2240 made by Exar,Pushbuttons - Small, momentary, S.p.s, tGood units made by Alco, Grayhill and C&K.This is the Ultra-new Red Box that uses the new Exarprogrammable counter-timer. This Red Box is differentfrom all others in that it actually counts to 1, 2, or Sasthe case may be. The old versions, you may recall,would produce.a time "window" that the user wouldadjust to allow the required number of pulses to fit in.This adjustment, if done carelessly, would allow9 1/2 or 4 1/2 pulses on the 25¢ tone, for example.This circuit incorporates the new dual tones that arerapidly becoming the standard throughout the country,1700 Hz and 2200 Hz.
-NPN Transistor
-with all credits, Please send ys a copy ofWarning: We will prosecute copyright violators,
-Ground (Negative end of 9 volt battery)The circuit is easy to build on perf-board, and cheapbecause the most expensive part, the XR-2240, costsunder $3.00 at most mail-order electronics stores (theStores are listed in TAP Course B and Issue 29),To tune the two oscillators, disconnect one ata time byremoving one end of its 15K resistor, and then tune theother oScillator for its proper frequency with a frequencycounter or any of the methods outlined in Issues 7, le,or 16. Do the same for the other oscillator. Of course,determining the pitch of an oscillator that's gating onand off is not easy, so for tuning connect the top of the15K resistor right to V+ and a constant tone will result.More information on calibrating frequency sources will begiven in upcoming articles.The circuit runs quite well on a standard 9 volt battery orthe small 8.2 volt cells now becoming popular,The speed at which the tones gate on and off is determinedby the resistance to pin 13. In the Schematic, the 5.6Kresistor controls the 5¢ and 10¢ gating speed, while the8.2K resistor determines the speed of the 25¢ tones, Ofcourse, with this circuit the speeds can be changed andthe number of pulses (1,2 or 5) will remain exactly theSame. Neat, huh?(©) Youth Hot Line Reports, Inc. 1976 - Do not’make checksout to Youth Hot Line Reports, PLEASE!Movement groupsmay reprint without permission with TAP’S address givenreprinted work,
-
-ODDS & ENDS by TOM EDISONTHE LAP T-SHIRTSARF FINALLY YEREI!! The costis $4. Tne TAP T-shirt: ure white with black TAP hago.We're only making a few so order right away. Make sureyou are "HIP TO YIP” this summer at the DemocraticNational Convention! Pease make all checks payable toTAP.i received a request from a reader in West Virginia in-quiring how to connect your own battery lo my AutomaticBlack Box (See issue #33) for increased volume. I sent hima possible solution and he wrote pack informing me thatthe circuit is working well:+ a_WG© Z=06 volt zener5 watts
-D sdiode 100 pivl amp
-1 MFDo |_ TID YY} 100WVDCDPDTE=6-24 volt batteryRel KOhm Pot, audio taper with on-off switchThe standard 10 K ohm resistor is NOT needed, Thecapacitor passes the audio but blocks the DC volta:;3 whichresults in an “on-hook" condition. The 1 K ohm put givesyou a level control for YOUR voice.And speaking of Black Box modifications here's a circuitgent in by a reader from Brooklyn, N. Y. on bow to connécta@ phone answering device to the Auto Black Box:+ RINGoF - —ro TELEPHONE | RINGAy | ANSWERINGDEVICEZ=56 volt zener5 wattsTCPHONEDediode 100 pivlampt+ oF- TIP
-DPOTR-]0 KChm resistor, 1/2 wattCol MFD capacitor, 100 wyvDC
-The deyice is connected between the tw. Jicdes but pleasenote that only inswering dOvices equippca with A 4: Altermuidls can be connected this way, Culy the bettermichines have these terminals clearly marked. On the elcheapo equipment Uscy are either not available or hidden.Check out the schematic diagram that uSually comes withthé answering device and you may be able to find these twounused terminals. :In my "Cdds & Ends” last month ] told how to use yourMI" Red Box butI failed to mentinn a very important point.You will recall that Pa Bell is now having operators checkOo determine if coins are being deposited so it is now‘wecessary to redeposita Slug to reset tbe coin relay andget at least one real "beep" and than “beep” the balancewith your Red Box. It is now more important than everto have your Red Box on frequency. Lf the operator hearsa tone difference sbe'll know you're boxing. Also, youshould know if the pay phone you're using has the new MFtone generator Set on one or two tones. It's doubtful if theoperators know which pay phones are single tone and whichare MF tones butif you use a new MF Red Box on a singletone pay phone the operator sure as hell will know you'reboxing if you deposit @ Slug to gel one real "official Beli”beep and then beep the balance with MF tones. To determineif the corner pay phone is single or MF tone have a friendcall from the pay phone andBlick Box the call. Now havehim deposit coins. He won't hear anything because theearpiece is shorted but you will hear the beeps and caneasily tell if they're Single or MF tone. And becauseyou're boxing the call he'll get all deposited coins backwhen he hangs up. Since you’re actully testing the payphone for an out of tune condition Pa Bell should be gladto foot the bill, don't you ayree?TELEPHONE ELECTRONICS LINE, better kmown asTEL, has last its suit with PL&T was forced tocommit the unpardonable Sin of turning over their mau-ing ist to PT&T. (We don't intend TAP subscribers tosuffer the same fate. Only one person has accass [to themailing list He and it are being wired to self-destructin the case of attack ) The Gestapo tactics of PF&T's in-security department has included the mailing of a threatnote teliing all TEL subscribers to not only remove all"foreign" equipment from their phone but demanding thatall back issues of TEL and related TEL publications bede::troyed! They've got fuckin’ balls! Asking t2 removehomemade equipment is one thing bul demanding uneprinted information be destroyed just reeks of 1084, S-1,and Fabrenheit 45I71 While TEL left much t be desiredand at dest can only be considered an illeqitimate offspringof TAP they are nevertheless to be applauded for printinginforrmatuun that apparently pissed off PT&T envuygh totake them to court. My own gut reaction to the tactics ofPT&T can be sumed up in two words: Phuck youl For youcustomers "served" by PT&T may [ suggest that youlook to GT&E ur some other independent telephone companyfor all your future ousiness, And fur all TEL subscriberswho received PT&T's threat note, may I suggest that youeither roli it up and smoke a joint in it or keep it handyin the Smallest roomin your houseand putit to good usewhenever you get the urge from Mother Nature.Ever have Pa Bell charge you for a long distance callthat you never made? Thisannoyanceis due to theusualbilling incompetence of Bell and due to a new breed oftelephone linemen who are misusing that staple of thephone company, the lineman's test set. You know the oneI'm talking about, The blue handset with the dia) builtinto the earpiece and the special "roach" clips with centerspikes for easy access to thick rubber insulated wires,Ever wonder what we hell they're doing on the pole forsuch a long time? They're calling their friends usingyOur phone line. With his test set all he has to do is cliponto a pair of wires, wait for diol tone, and dial away,Bell is trying to keep this growing occurance under wrapsbut news of this abuse has leaked 2ut,
-
-Here's scme more q2o-d news. Littcn Industries hesrecenuly cued Pa Bell for $323 million in damages chargingBell :f moncpslizing the manufscture, distrituti.n, sale-rental and leasing of terminal equipment. Good luck Litton!And speaking about blasting Big Brother Bell, let me adday 2¢ warth. On March 18, 1076 the FCC, in one of thesmartest decisions they've ever made, ruled that subscriberscould legally own and connect terminal equipment to theirphone lines. Basically this meant that you could buy and owna phone and hook it yourself to your phone line. Bell panieked‘at the thought of all the money they'd loose in equipmentrentals, You cannot legally own Bell equipment and beforeyou Start screaming about all the different types of "Pun-FonesTM currently being "sold" by Bell let me remind youthat the only part of those phones that you really own is theplastic housing. Bell retains ownership to all the componentsincluding earpiece, mouthpiece, dial or touch tone pad, ringer,network, and all connecting cords. So if you want to spend$60 for a piece of plastic, go ahead|For the first time people in authority are beginning toquestion the necessity of Bell's muncpoly, Bell finallyrealizes (hat Washington and the public aren't going to beSnowed by Bell bull shit any longer! Ball recently launcheda three prong counter attack. First, pressure was put onWashington and the FCC by Bell's powertul lobby. Second,TELENEWS, Bell's propaganda handout inlosed with yourphone bil], carried editorials denouncing the attack on itsmonopoly and warning that you will get worse service (ifthat's possible) and a higher phone bill if Bell has to competewith other companies. And third, Bell went to its stockholdersand warned them that if they didn't gat off their fat asses andwrite their Congressmen (who are probably too busy screwingtheir secretaries!} in support of any and all pro Bell legislationthe dividends would be smaller than whale shit and wouldundoubtable force many stockholders to collect welfare. Theresults of this campaign have been moderately successful.“he FCC ruling bas been appealed and temporarily shelved.Jel is contiming to claim that its monopoly ts necessary tomaintain service. Bell also claims that it loopes money onevery private line phone and needs the revenues it gets fromihe rental of extra equipment to subsidise this loss. Bull shitlTbe majority of Bell customers have only one Line so basedon Uneir own Statement Bell should be broke. Not sol Bell'sprofit for 1976 is up 17. 6& over last year. And as for Bell'sclaim that telephone equipment manufactured by independentcompanies is not compatible with Bell system equipmentagain I Say bull shit] You can connect just about any telephonemade after 1900 on to your phone Line and it will work. AndaS for the independent companies making telephones, theyare ALL better than anything made by Pa Bell. I hawacandlesuck-roaring twenty's phone tbat I bought framLafayette Radio Electronics. It's made by a company inItaly and is far superior to the one made by Bell and what'smore I own évery piece of it, not just the plastic housing!Another game the linemen like to play is listening tayour conversations and because of the special "Monitor"Switch which puts the test set in series with a 1 MFDcapacitor there's no telltale click when the linemanconnects his “roach” clips across your line. And eventhe Snoop Detector (See issue #29) will NOT indicate a“Monitor” snoop on your line due to the fact unat the testset in the monitor position draws NO DC current, Whylet just the lineman have all the fun? Lineman's test setsare legally available. Check with your inde ent phonedealer. Remember, your friends are only a "roach" clipaway,If this were the 1890's I would not be 50 anti-monopolybecause manufacturing standards were crude and with thenany independent telephone companies around at the timeall making their own phones, standardized equipment wouldbe difficult to obtai; But today, with the weal of technologyavallable, standardization of all telephone equipment regardlessof manufacturers is no problem. When you want a 100 wattlight bulb you don't care if it's made by GE, Westinghouse,Sylvania, or any other manufacturer because they're allcompatible with one another, How daré Bell claim that onlyWestern Electric can make “usable” phone equipment] | 1
-And cpeakiny -{ Wetuern Ble stri:, what the hell ire theydzing cpenuing my on. nuy wavertuan: on SC} Mimies", ‘whichrecenu, nas hud wome excelent segments on acquiring falseLD and ripping off Ue unemployment insurance game whileliving Lke a king in Flarida. ‘The purpese of TV advertisingIS tr wel you ic buy the advertised product but Since you cannotbuy ANYTIONG trom Western Electric why are they spendingmoney obtained by increasing my telephone bill? Lf they wantto advertise, let Bell pay for it by robbing the stochholderspocket instead of the public's! And if the reduced dividendmeans that some 72f you rich capitalist bastards might actuallyhave to work for your money, tough shit!11There has been much propaganda by Pa Bell recently on theneed for their interface coupling device required to connectany non-Bell equipment to your phone line. As usual, Bell'sargument is pure 100 bull shit! Your telephone does notgénerate any electricity. It uses power supplied by the localCO. The worst thing that can happen in electronics is a deadshort. Do you know what would happen if you shorted yourtwo phone LUnes together? You'd get a dial tone on the [ina/No sparks, flame, smoke or fireworks-just a dial tone!Wake up people! Don't believe ANYTHING Pa Bell says anddon't be afraid to experiment wilh YCUR phone. Remember,playing with your phone is half the fun of having the damnthing in the first place! ;I've been informed by readers that Ballantine Books,publishers of ['M SORRY, THE MCNCPCLY YCU HAVEREACHEDIs NOT BY SERVICE, are no longer in servicethemselves. ['m sorry to have whetted so many appotitesfor a book that's out of print. I'll try and make it up lo youby recommending a better book next issue. My thanks toall TAP readers who wrote in to expose my goof, Smart asses|Congratulations to all recent Jr. High, Sr. High, andcollege grads. Have a fun filled summer and remember,don't get caught] We'll see you in the Fal) with our "BackTo School” issue,Desk iosues are 2deach, 40deach if you orderBAWMA See previous issues for listo! feawre ardchas,~ 10 wowes- US bulkrae HK,US c\ret Clase in plals senled envelops= bd.Canala avapled §4 Pureiga $7.Inciude mauing babel or xerox copy whee writing © TAPAb aly Ur VeRO PLBt in.Boag: Monpoty ol.)Coucies 7 each A-laakt Electrkiy @- ALL.C= Basic Prong. perez,» ©. An plulersCet Coly ceeck or w wy omer (ie CASH) I)TAP, Lit Wea? Street, Aen Od, Pew Yor bieThis sa mail drop ‘ny.Cifice 4 Broadway, foyvem MK, New Yor [0008Moore ‘Weloeutay, + ?pm.S-1 UPDATEton trem acseich, Instead of dropyung Ihedslog. mad menat politiciens,meceemty ef Commpremies,had te(ightihetyLmatiects.The tmgoruaas ef mapping $1 In itypeesest form conbe suaumenced brefly,Tradittese| American Canalitultenaltheory held: thal gaverament. whileRecemsery, is d rons. smd must beverity bnsted aad a cackby a Com-subatton Tha philosophy bhehiad S.1 txmhowlihe eppomie.Arand (mgof S 1 with » phyiesophvcaleyebende bw Ihe Comclsaenthatpevernenesd taa conetrectivaami Senevofest forces. «adthelpevernanentphouldhowsIhealhorityand powerneeded te do whal(he agerus ufthe gavernemeetthink bunt jer‘hepeoplaWe needaot CeQcern OCurnaives 106 muchhowd Bepbtpu een 1m the law winch¢aed”wad tm abusesof pecrar. harassmust por-ernment agents are Uhcere poopie wha,weetwitei's bentter thet country ped haveIba wrediem eed reer agto de wheal's bast.
-hhwdsed governmentemployee free
-Thekay00 suctens lor uppenentsaf$1weeYhew imseptencsOn havilgIhe onl wdbil]seternad ty mebcunpmiiiest»64Hwy-Abridged from Libcrurian Party NewsThis is no cause uw relax. It'll prbably be back nextyear, ina slightly less objectionable veraicn.
-
-ASK Mr. PHELPSQ. My ex-husband bas custody of our children and has anunlisted phone number. How canJIfind out his number?A. There are several ways which I will describe, butfirst you'll have to bear with me for a few paragraphs.You realize, Jam sure, that you are asking me to showyou how to violate Someone else's privacy. Itis mostunfortunate that people get into such situations. If you hadit all to do over again, knowing how it might end up, wouldyou have had the children? I realize that it is too late foryou, so the following is directed at everyone else out there,before they are cauthtin"The Baby Trap" Read this excel-“ nt book by Elien Peck before you make a mistake youmight regret for twenty years or more.Why have children? There's a surplus of people so they’renot needed; they're incredibly expensive and offer negligiblereturn; they'll occupy all of your time; they won't thank you -you might even produce another Alexander Portnoy. Thenumber of children being born with birth defects is signifi-cant (probably caused by all the chemicals we eat and breathe)SO why play the game when the odds are So poor? You shootcraps with the DNA code, and if you lose, Big Brother says"Sorry, you are stuck with it?As for parental urges, these can be satisfied by regularvisits to friends with children. When you are satiated (fedup) with them, you can leave and revel in the fact that youcan leave.{ want to make it perfectly clear (where have I heard thatbefore?) thatI do not comione your intended action and amdescribing the procedures only as an exercise. Just aboutall of the methods are illegal.You haven't mentioned whether the subject lives in a houseor an apartment, but the procedures are similar. Everyoneshould know one, or two, or more, enterprising Telcoemployees. It is 4 simple matter for him (or her) or evena Skilled amateur to tap the phone and get the number fromthe operator. In the old days, before all operators (in thisarea, anyway) were TSPS operators (Traffic ServicePosition System"), it was necessary to call a verificationnumber. But now he Simply dials the operator and Says:"Operator, frameman Gr switchmay/ testing. What numberam {coming in on?" She has the number on a LED readout.Another method (which is a Federal rap) would be to inter-cept his mail. If it remains in an accessible box all day,you could check it daily and steal his phone bill when itarrives. Cr you might be able to see the number thru theenvelope and not have to steal it. Unless you are on verygood terms with his mailman (Maybe I should say "intimateterms"), he probably won't want to be an accessory, or itwould be simple.
-If you are acquainted with a burglar, he could do his thingand note the number on the phone while he's there.The least esthetic possibility is the A. J. Weberman bit.You've never heard of A.J, ? Well, I don't think you'vemissed much. I heard him once on the radio and everyother phrase was "Ya know?" He's sort of a modernarcheologist who digs into celebrities’ garbage and reportshis discoveries. Ifyou get to the subject's garbage regularly,just before it is picked up, you might find a discarded portionofa bill, unless he is the kind of person who saves all oldbills,I would suggest that you come to some sort af an arrange-ment with him, but I don't want to sound like Dear Abby.IDIOT OF THE MON'THSHAPE HALLFrank DB walking aroundwith his chest stuck out to here, OnDecember [S an early Christmasgift in the form of an 8 Jb. 4 o7,bundic of joy was delivered. Theyhave named her Andrea Lorretia,This makes if the fifth child for theB "s, four girls and onehoy.20% of the Local's members are oui of work, includingthis idiot, so he and his brood sow have another one!Remember that every Bowery bum and 8th Avenue hookerwas once an innocent, newborn "bundle of joy". Whatwent wrong’FANTASIA is Back!Cr should be, on its annual visit, by the time you readthis. If you've seen it, you understand my enthusiasm. Ifyou've never seen it, DOJTISeeing it straight is like seeing it in black and white, I'mcertainly not about to encourage anyore to break the law (whme?), but if you're planning on taking another trip, or areconsidering losing your psychopharmaceutical virginity, thereare few better times and places that J can think of. Enjoy!A BOY ANDHIS DCGis not a Walt Disney film. I read the novella by HarlanEllison years ago and was delighted to see it appear asamovie. It is "an R rated, rather kinky tale of survival",I will not reveal the ending. Being familiar with it, I wasable to savor the audience's reactions. Thank you, Harlan,Thank you for all of your Stories,
-FEA computer Published for informational purposes only by Youth Hot Line Reports, Inc.lapped in theftBALTIMORE (AP) — A computerprogrammer, charged with what wasGesctibedas the ‘white collar crimeofputer banks of the Federal Emergy Administration.The governmen!saidBertramSeidiitz,37, used a computer terminal atlachedtobistelephoneto Lap the FEAcentral com-peter benksand extract 38rolls of priw-tovts containing the agency's lop-secreteee eanU.S Atty. Jervis § Fisneysald no-storedinformationwasactcal-ty obtainedfrom the computerbenks ofthe Washington headquarteredagency.Bat with the , Seidlitzhad freeaccess to any FEA classifiedinformation,including sensitive dats on offshore oflfieid leases and energy developmentplans.
-36
-From The News Tribune
-Address all mail and checks toTAP, ROOM S04, 182 W.42 ST.,NY10036BULK RATEU, S. POSTAGEPAIDParmll No, 209Great Neck, N.Y,
+QUESTION 
+What do you suppose old Alex really said when he spilled 
+the acid on himself? Could it be that History's first phone 
+call was an obscene one?! 
+Agent 038 
+{If you didn't understand it, we will explain it in a future 
+issue.) 
+ULTIMATE RED BOX by AlBelt 
+JUNE 1976 
+NO.36 
+SPST 
+Momentary 
+Pushbuttons 
+= 
+Ground (Negative end of 9 volt battery) 
+NEN 
+‘The circuit is easy to build on perf-board, and cheap 
+Ve LM oO 
+‘Transistor 
+because the most expensive part, the XR-2240, costs 
+ve 
+fe 
+under $3,00 at most mail-order electronics stores (the 
+Our 
+our 
+E 
+l. 8 
+Stores are listed in TAP Course B and Issue 29), 
+Top v 
+e 
+To tune the two oscillators, disconnect one at a time by 
+v= 
+View ¥" 
+Bottom View 
+removing one end of its 15K resistor, and then tune the 
+other oscillator for its proper frequency with a frequency 
+Resistors - 1/4 watt, 10% 
+counter or any of the methods outlined in Issues 7, 12, 
+Op-Amp - 741CV (National, Signetics, etc.) 
+or 16. Do the same for the other oscillator. Of course, 
+Capacitors are in mfd. Values above . 5 mfd 
+determining the pitch of an oscillator that's gating on 
+are electrolytic, 15 volts or more. Observe 
+and off is not easy, so for tuning connect the top of the 
+proper polarity in these units, 
+3 
+15K resistor right to V+ and a constant tone will result. 
+ae 
+a pna-signal silicon, 1N914, 1N4002, 
+More information on calibrating frequency sources will be 
+Po oe cOK i 
+10 or 20 turn trimpots 
+given in upcoming articles. 
+Timer. a ema 
+0 
+or 
+bi 
+pots, 
+‘The circuit runs quite well on a standard 9 volt battery or 
+Patan Sonate by Exar. 
+t 
+the small 8,2 volt cells now becoming popular. 
+_ 
+. 
+ash 
+* momentary, 5p s.t 
+The speed at which the tones gate on and off is determined 
+‘ood 
+units made by Alco, Grayhill 
+and 
+C&K. 
+by the resistance to pin 13, In the schematic, the 5, 6K 
+resistor controls the 5¢ and 10¢ gating speed, while the 
+This is the Ultra-new Red Box that uses the new Exar 
+8. 2K resistor determines the speed of the 25¢ tones. Of 
+programmable counter-timer. This Red Box is different 
+course, with this circuit the speeds can be ¢ 
+‘and 
+from all others in that it actually counts to 1, 2, or 5 as 
+the number of pulses (1, 
+2 or 5) will remain oaeae the 
+the case may be. The old versions, you may recall, 
+same. Neat, huh? 
+would produce a time "window" that the user would 
+° 
+’ 
+adjust to allow the required number of pulses to fit in. 
+This adjustment, if done carelessly, would allow 
+© Youth Hot Line Reports, Inc. 1976 - Do not*make checks 
+5 1/2 or 4 1/2 pulses on the 25¢ tone, for example. 
+out to Youth Hot Line Reports, PLEASE! Movement groups 
+This circuit incorporates the new dual tones that are 
+may reprint without permission with TAP's address given 
+rapidly becoming the standard throughout the country, 
+with all credits. Please send us a copy of reprinted work. 
+1700 Hz and 2200 Hz. 
+Warning: We will prosecute copyright violators.
+ODDS & ENDS by TOM EDISON 
+THE TAP T-SHIRTS ARE FINALLY HERE!!! The cost 
+is $4. The TAP T-shirts are white with black TAP logo. 
+We're only making a few so order right away. Make sure 
+you are "HIP TO YIP" this summer at the Democratic 
+National Convention! Please make all checks payable to 
+TAP, 
+I received a request from a reader in West Virginia in- 
+quiring how to connect your own battery to my Automatic 
+Black Box (See issue #33) for increased volume. I sent him 
+a possible solution and he wrote back informing me that 
+the circuit is working well: 
++ RING 
+Z=56 volt zener 
+5 watts 
+R 
+D=diode 100 piv 
+DPDT 
+=6-24 volt battery 
+KOhm Pot, audio taper with on-off switch 
+‘The standard 10 K ohm resistor is NOT needed. The 
+capacitor passes the audio but blocks the DC voltage which 
+results in an "on-hook" condition. The 1 K ohm pot gives 
+you 2 level control for YOUR voice. 
+And speaking of Black Box modifications here's a circuit 
+sent in by a reader from Brooklyn, N. Y. on how to connect 
+a phone answering device to the Auto Black Box: 
+Z=56 volt zener 
+5 watts 
+Dediode 100 piv 
+lamp 
+DPDT 
+R=10 KOhm resistor, 1/2 watt 
+C=1 MFD capacitor, 100 wvDC 
+‘The device is connected between the two diodes but please 
+note that only answering devices equipped with A & Al 
+terminals can be connected this way. Only the better 
+machines have these terminals clearly marked. On the el 
+cheapo equipment they are either not available or hidden. 
+Check out the schematic diagram that usually comes with 
+the answering device and you may be able to find these two 
+unused terminals, 
+In my "Odds & Ends" last month I told how to use your 
+MF Red Box but 
+I failed to mention a very important point. 
+You will recall that Pa Bell is now having operators check 
+o determine if coins are being deposited so it is now 
+necessary to redeposit a slug to reset the coin relay and 
+get at least one real "beep" and then "beep" the balance 
+with your Red Box, It is now more important than ever 
+to have your Red Box on frequency. If the operator hears 
+a tone difference she'll know you're boxing. Also, you 
+should know if the pay phone you're using has the new MF 
+tone generator set on one or two tones. It's doubtful if the 
+operators know which pay phones are single tone and which 
+are MF tones but if you use a new MF Red Box on a Single 
+tone pay phone the operator sure as hell will know you're 
+boxing if you deposit a slug to get one real "official Bell" 
+beep and then beep the balance with MF tones. To determine 
+if the corner pay phone is 
+le or MF tone have a friend 
+call from the pay phone and 
+Black 
+Box the call. Now have 
+him deposit coins. He won't hear anything because the 
+earpiece is shorted but you will hear the beeps and can 
+easily tell if they're single or MF tone. And because 
+you're boxing the call he'll get all deposited coins back 
+when he hangs up. Since you're actually testing the pay 
+phone for an out of tune condition Pa Bell should be glad 
+to foot the bill, don't you agree? 
+TELEPHONE ELECTRONICS LINE, better known as 
+TEL, 
+has lost its suit wi 
+was forced to 
+‘commit the unpardonable sin of turning over their mail- 
+ing list to PT&T. (We don't intend TAP subscribers to 
+suffer the same fate. Only one person has access to the 
+mailing list. He and it are being wired to self-destruct 
+in the case of attack ) The Gestapo tactics of PT&T's in- 
+security department has included the mailing of a threat 
+note telling all TEL subscribers to not only remove all 
+"foreign" equipment from their phone but demanding that 
+all back issues of TEL and related TEL publications be 
+destroyed! They've got fuckin'balls! Asking to remove 
+homemade equipment is one thing but demanding that 
+printed information be destroyed just reeks of 1984,8-1, 
+and Fahrenheit 4511! While TEL left much to be desired 
+and at best can only be considered an illegitimate offspring 
+of TAP they are nevertheless to be applauded for printing 
+information that apparently pissed off PT&T enough to 
+take them to court, My own gut reaction 
+to the tactics 
+of 
+PT&T can be sumed up in two words: Phuck youl For you 
+customers "served" by P&T may I suggest that you 
+look to GT&E or some other independent telephone company 
+for all your future business. And for all TEL subscribers 
+who received PT&T's threat note, may I suggest that you 
+either roll it up and smoke a joint in it or keep it handy 
+in the smallest room in your house and put it to good use 
+whenever you get the urge from Mother Nature, 
+Ever have Pa Bell charge you for a long distance call 
+that you never made? This annoyance 
+is due to the usual 
+billing incompetence of Bell and due to a new breed of 
+telephone linemen who are misusing that staple of the 
+Phone company, the lineman's test set. You know the one 
+I'm talking about. The blue handset with the dial built 
+into the earpiece and the special "roach" clips with center 
+spikes for easy access to, thick rubber insulated wires. 
+Ever wonder what the hell they're doing on the pole for 
+such a long time? They're calling their friends using 
+your phone line, With bis test set all he has to do is clip 
+onto a pair of wires, wait for dial tone, and dial away. 
+Bell is trying to keep this growing occurance under wraps 
+but news of this abuse has leaked out.
+Here's some more good news, Litton Industries has 
+recently sued Pa Bell for $333 million in damages charging 
+Bell of monopolizing the manufacture, distribution, sale- 
+rental and leasing of terminal equipment. Good luck Litton! 
+And speaking about blasting Big Brother Bell, let me add 
+my 2¢ worth. On March 18, 1976 the FCC, in one of the 
+smartest decisions they've ever made, ruled that subscribers 
+could legally own and connect terminal equipment to their 
+phone lines, Basically this meant that you could buy and own 
+@ phone and hook it yourself to your phone line. Bell panicked 
+-at the thought of all the money they'd loose in equipment 
+rentals, You cannot legally own Bell equipment and before 
+you start screaming about all the different types of "Fun- 
+Fones" currently being "sold" by Bell let me remind you 
+that the only part of those phones that you really own is the 
+plastic housing, Bell retains ownership to all the components 
+including earpiece, mouthpiece, dial or touch tone pad, ringer, 
+network, and all connecting cords. So if you want to spend 
+$60 for a piece of plastic, go ahead! 
+For the first time people in authority are beginning to 
+question the necessity of Bell's monopoly, Bell finally 
+realizes that Washington and the public aren't going to be 
+snowed by Bell bull shit any longer! Bell recently launched 
+a three prong counter attack. First, pressure was put on 
+‘Washington and the FCC by Bell's powerful lobby. Second, 
+TELENEWS, Bell's propaganda handout inclosed with your 
+‘phone bill, carried editorials denouncing the attack on its 
+monopoly and warning that you will get worse service (if 
+that's possible) and a higher phone bill if Bell has to compete 
+with other companies. And third, Bell went to its stockholders 
+and warned them that if they didn't get off their fat asses and 
+write their Congressmen (who are probably too busy screwing 
+their secretaries!) in support of any and all pro Bell legislation 
+the dividends would be smaller than whale shit and would 
+undoubtable force many stockholders to collect welfare. The 
+results of this campaign have been moderately successful. 
+‘The FCC ruling has been appealed and temporarily shelved. 
+Bell is continuing to claim that its monopoly is necessary to 
+maintain service. Bell also claims that it looses money on 
+every private line phone and needs the revenues it gets from 
+the rental of extra equipment to subsidise this loss. Bull shit! 
+‘The majority of Bell customers have only one line so based 
+on their own statement Bell should be broke. Not so! Bell's 
+profit for 1976 is up 17. 6% over last year. And as for Bell's 
+claim that telephone equipment manufactured by independent 
+companies is not compatible with Bell system equipment 
+again I say bull shit! You can connect just about any telephone 
+made after 1900 on to your phone line and it will work. And 
+as for the independent companies making telephones, they 
+are ALL better than anything made by Pa Bell. I havea 
+candlestick-roaring twenty's phone that I bought from 
+Lafayette Radio Electronics. It's made by a company in 
+Italy and is far superior to the one made by Bell 
+and what's 
+more I own every piece of it, not just the plastic housing! 
+Another game the linemen like to play is listening to 
+your conversations and because of the special "Monitor" 
+switch which puts the test set in series with a 1 MFD 
+capacitor there's no telltale click when the lineman 
+connects his "roach" clips across your line. And even 
+the Snoop Detector (See issue #29) will NOT indicate a 
+"Monitor" snoop on your line due to the fact that the test 
+set in the monitor position draws NO DC current. Why 
+let just the lineman have all the fun? Lineman's test sets 
+are legally available, Check with your independent phone 
+dealer. Remember, your friends are only a "roach" clip 
+away. 
+If this were the 1890's I would not be so anti-monopoly 
+because manufacturing standards were crude and with the 
+many independent telephone companies around at the time 
+all making their own phones, standardized equipment would 
+be difficult to obtain: But today, with the wealth of technology 
+available, standardization of all telephone equipment regardless 
+of manufacturers is no problem. When you want a 100 watt 
+light bulb you don't care if it's made by GE, Westinghouse, 
+Sylvania, or any other manufacturer because they're all 
+compatible with one another. How dare Bell claim that only 
+Western Electric can make "usable" phone equipment! !1 
+And speaking of Western Electric, what the hell are they 
+doing spending my money advertising on "@0 Minutes", which 
+recently has had some excellent segments on acquiring false 
+YD and ripping off the unemployment insurance game while 
+living like a king in Florida. The purpose of TV advertising 
+is to get you to buy the advertised product but since you cannot 
+buy. 
+from Western Electric why are they spending 
+money obtained by increasing my telephone bill? If they want 
+to advertise, let Bell pay for it by robbing the stochholders 
+pocket instead of the public's! And if the reduced dividend 
+‘means that some of you rich capitalist bastards might actually 
+have to work for your money, tough shitil! 
+. 
+‘There 
+has been much propaganda 
+by Pa Bell recently on the 
+need for their interface coupling device required to connect 
+any non-Bell equipment to your phone line. As usual, Bell's 
+argument.is pure 100€ bull shit! Your telephone does not 
+generate any electricity. It uses power supplied by the local 
+CO. The worst thing that can happen in electronics is a dead 
+short. Do you know what would happen if you shorted your 
+two phone lines together? You'd get a dial tone on the line! 
+No sparks, flame, smoke or fireworks-just a dial tone! 
+Wake up people! Don't believe ANYTHING Pa Bell says and 
+don't 
+be afraid to experiment with YOUR phone. Remember, 
+playing with your phone is half the fun of having the damn 
+thing in the first place! 
+. 
+I've been informed by readers that Ballantine’ Books, 
+publishers of I'M SORRY, THE MONOPOLY YOU HAVE 
+DIS NOT IN SE! 
+» are no longer in service 
+themselves. I'm sorry to have whetted so many appetites 
+for a book that's out of print. I'll try and make it up to you 
+by recommending a better book next issue. My thanks to 
+all TAP readers who wrote in to expose my goof. Smart asses! 
+Congratulations to all recent Jr. High, Sr. High, and 
+college grads. Have a fun filled summer and remember, 
+don't get caught! We'll see you in the Fall with our "Back 
+To School" issue. 
+are 50 cach, 40¢ each if you order a full 
+Sat See previous 
+issues for list of feature articles. 
+= 10 issues - US bulk rate M4. 
+‘U8 First Class in plain sealed envelope $0. 
+Canada stapled $6 
+Foreqn 
+#7. 
+ARSE Gilitg abel 
+or xerox copy when writing to TAP 
+thou your aubeeripon. 
+‘Book - Monopoly $1.20 
+MeGPTetta 
+A Beste Bloctricty B- A.C. 
+QP ER mooce Operation D- Amplifiers 
+Serd Qnly check or money orsr (NO CASH) to, 
+TAP, 1&2 W 42 Street, Room 504, New York 10030 
+‘This is a mail drop only. 
+Office: 1201 Broadway, Rogm 608, New York 10001 
+Hours: Wednesday, 4-7pm. 
+S-1 UPDATE 
+‘S11 Tn Deep Trouble 
+S.1. the gargantuan and oppressive ‘ro- 
+vision and recodlfication” of the 
+Federal 
+Criminal 
+Code, is n sortous trouble ahd 
+Wt 
+‘now appears that chances for 
+this 
+‘your ara quite poor. Politics 
+can bi sur 
+Pronies ter ‘poutble, 
+but ft rw 
+ap- 
+‘are ol 
+tt now a 
+Poors that St will got bo muscled through 
+‘even 
+the Senate judiciary Commniiten, 
+‘Among the compromisos accepted 
+sivtpeuon wos parial Socket, 
+zation of possession of small amoonts of 
+marijuans, repoal of the 1940 Smith Act, 
+and cutbacks in the number of crimes for 
+‘Watergate Defensa” which would have 
+prosecution 
+tay thought thn were 
+wa 
+Ing on Iawful 
+orders from superiors. The 
+provision 
+making itacrimstodivulge clas- 
+4sifled information would also have boon 
+dropped. 
+‘The key to success 
+for 
+opponents 
+of 5.1 
+‘was thelr insistence on having the entire 
+bill returned fo subcommitton.ts 
+be rawrit- 
+ten trom scratch, Insteed of dropping thelr 
+dbjections 
+after S.1 proponents 
+made some 
+compromises. This required parsaveranca, 
+for some of the 
+were tempt- 
+ing, and most politicians, suckled on the 
+necessity of compromise, had to fight thetr 
+Inetincta, 
+‘Tho Importance of 
+SA In its 
+pravnt orm enn be sumed bray 
+‘Traditional, American Constitutlonal 
+while 
+‘opposit 
+iret aanteetcy 
+benavalant force, and 
+should have the authority 
+needed to do what theagents of 
+and 
+the govarament thfek bast foe the poop. 
+‘Wo noed not concern oursalves too much 
+about amblguitios in tha law which could 
+ead to abuses af pawar, becauso most gov- 
+ernment 
+are sincera peoplo who, 
+‘want what's bost for the country 
+and have? 
+tho wisdom 
+and training 
+todo what's 
+best. 
+Abridged from Libertarian Party News 
+‘This is no cause to relax. It'll probably be back next 
+year, ina 
+slightly less objectionable version.
+ASK Mr, PHELPS 
+Q. My ex-husband has custody of our children and has an 
+unlisted phone number. How can I find out his number? 
+A, There are several ways which I will describe, but 
+first you'll have to bear with me for a few paragraphs. 
+You realize, Iam sure, that you are asking me to show 
+you how to violate someone else's privacy. It is most 
+unfortunate that people get into’such situations. If you had 
+it all to do over again, knowing how it might end up, would 
+you have had the children? I realize that it is too late for 
+you, So the following is directed at everyone else out there, 
+before they are caught.in"The Baby Trap? Read this excel- 
+wat book by Ellen Peck before you make a mistake you 
+might regret for twenty years or more. 
+Why have children? There's a surplus of people so they're 
+not needed; they're incredibly expensive and offer negligible 
+return; they'll occupy all of your time; they won't thank you - 
+you might even produce another Alexander Portnoy. The 
+number of children being born with birth defects is signifi- 
+cant (probably caused by all the chemicals we eat and breathe) 
+‘so why play the game when the odds are so poor? You shoot 
+craps with the DNA code, and if you lose, Big Brother says 
+"Sorry, you are stuck with it! 
+“As for parental urges, these ‘can be satisfied by regular 
+visits to friends with children, When you are satiated (fed 
+up) with them, you can leave and revel in the fact that you 
+gan leave. 
+I want to make it perfectly clear (where have I heard that 
+before?) that I do not condone your intended action and am 
+describing the procedures only as an exercise. Just about 
+all of the methods are illegal. 
+‘You haven't mentioned whether the subject lives in a house 
+or an apartment, but the procedures are similar. Everyone 
+should know one, or two, or more, enterprising Telco 
+employees. It is 4 simple matter for him (or her) or even 
+a skilled amateur to tap the phone and get the number from 
+the operator. In the old days, before all operators (in this 
+area, anyway) were TSPS opefators (Traffic Service 
+Position System"), it was necessary to call a verification 
+number. But now he simply dials the operator and says: 
+“Operator, frameman Gr switchman/ testing. What number 
+am I coming in on?" She has the number on a LED readout. 
+Another method (which is a Federal rap) would be to inter- 
+cept his mail. If it remains in an accessible box all day, 
+you could check it daily and steal Kis phone bill when it 
+arrives. Or you might be able to see the number thru the 
+envelope and not have to steal it. Unless you are on very 
+good terms with his mailman (Maybe I should say "intimate 
+terms"), he probably won't want to be an accessory, or it 
+would be simple. 
+If you are acquainted with a burglar, he could do his thing 
+and note the number on the phone while he's there. 
+‘The least esthetic possibility is the A, J. Weberman bit. 
+You've never heard of A.J. ? Well, I don't think you've 
+missed much. I heard him once on the radio and every 
+other phrase was "Ya know?" He's sort of a modern 
+archeologist who digs into celebrities' garbage and reports 
+his discoveries. If you get to the subject's garbage regularly, 
+just before it is picked up, you might find a discarded portion 
+of a bill, unless 
+he is the kind of person who saves all old 
+bills. 
+T would suggest that you come to some sort of an arrange- 
+ment with him, but I don't want to sound like Dear Abby. 
+IDIOT OF THE MONTH 
+SHAPE HALL 
+Frank B 
+walking around 
+with his chest stuck out to here. On 
+December 15 an carly Christmas 
+sift in the form of an 8 Ib. 4 oz. 
+bundle of joy was delivered, They 
+have named her Andrea Lorretty, 
+‘This makes it the fifth child for the 
+B 
+‘s, four girls and one 
+boy. 
+20% of the Local's members are out of work, including 
+this idiot, so he and his brood sow have another one! 
+Remember that every Bowery bum and 8th Avenue hooker 
+‘was once an innocent, newborn "bundle of joy". What 
+went wrong? 
+FANTASIA is Back! 
+Or should be, on its annual visit, by the time you read 
+this. If you've seen it, you understand my enthusiasm. If 
+you've never seen it, DO ITI 
+Seeing it straight is like seeing it in black and white. I'm 
+certainly not about to encourage anyone to break the law (who, 
+me?}, but if you're planning on taking another trip, or are 
+considering losing your psychopharmaceutical virginity, there 
+are few better times and places that I can think of. Enjoy! 
+A BOY AND HIS DOG 
+is not a Walt Disney film. I read the novella by Harlan 
+Ellison years ago and was delighted to see it appear asa 
+movie. It is "an R rated, rather kinky tale of survival", 
+T will not reveal the ending. Being familiar with it, I was 
+able to Savor the audience's reactions. Thank you, Harlan. 
+‘Thank you for all of your stories. 
+FEA computer  pyyistes for iniormational purposes only by Youth Hot.Line Reports, Inc. 
+tapped in theft 
+BALTINORE, (AP) Sat ame 
+‘programmer, 
+it was: 
+described as the “white collar crime of 
+‘the future,” has been convicted 
+of stea!- 
+‘ing classified information from the com- 
+poter banks of the Federal Energy Ad- 
+‘ministration. 
+‘The 
+ent said Bertram Seidlitz, 
+131, used a computer terminal attached to 
+{us telephone to tap the FEA central com 
+poter banks and extract 39 rolls of prin- 
+‘touts containing the agency's top-secret 
+US. Aug. Jervis S. Pinney sald oo 
+fy 
+luted from 
+the compte tanks of 
+ms headquortered agency. 
+Bat with the 
+|, Seidlitz had free 
+access 
+to any FEA classified Information, 
+including sensitive data on offshore cil 
+fret leases and. energy” development 
+36 
+From The News Tribune 
+Address all mail and checks to 
+TAP, ROOM 504, 152 W. 42 ST.,NY10036 
+BULK RATE 
+U.S. POSTAGE 
+PAID 
+Permit 
+No. 209 
+Great Neck, N.Y.

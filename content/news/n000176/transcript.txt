@@ -1,28 +1,598 @@
-BYTHE PROGRAUMUABLE BLUE BOXPETER PIPERThe Phone Phreak like everyone else must koep pace withtechnalegy. We therefore give you The Programable BlueBox»The Box presented here offers excellent stability withboth voltage and temperature. It uses 9 IC's, all of whichare readily available. And uses two ordinary 9 volt alka-'line batteriee. Current drain ie relatively low - 24 ma.in standby, about 30 ma. sending toncs.Circuit DescriptionJren ea key i5 .ressed,the diode matrix in fig. 1] producesa binary code on lines A through D corresponding to the keypressed. Note the code OOOO is not used here, it iareserved for 2600. s«henever a key is pressed the S linemiso goes high, indicating a valid code on lines A thru D.In fig. 2, lines A thru D and 8 go into the 2519 = a hex40 bit shift register. Only 5 out of the 6 shift rogietersare used. The input of the 6th should be rrounded. The §line also goes to a debouncing circuit and schmitt triggercomposed of the two inverters and associated parte. TheMAND wate takes either the sipnal from the schmitt trirgoror the system clock and generates the clock signal for theshift repister. This is ® negative goirgp pulse of about20 us. So each time wo key is pressed, the data at the inputto the SR is shifted ine An LED lights whencver a key i8pressed to indicate this.when all numbers are entcred,tones, tho S=MD key is pressed. This key trippers a flip-flop Torned by two NOR rates, and does 4 things. It inhibitsthe input circuitry from the keyboard eo no more nunberscon ve cntered; lt brings the reeirculate line of the SRhigh so the data in not luzt cnce it 18 sent; It ennticathe output circuitry by way of the EO line; And it cnedicsthe sysicm clack t1 shift out the data.When dota is shifted cut of the SR it appears on outputlines A thru Dd. In fig. 9 theee gen into 2 rroupse “f analorewitches. Each group contains 16 switches. A binary codeat the input of these switches connects the corrcspondirgOulput ic the Z input of the 405]'s. Esp. if the code OO1lis present at the input, output line 3 ia connected to ZeThis piaces the ecrrect resistor for the desired tone inthe circuit. Tine 0 is veed for generating the 2600 trne.Beach shifs of the SR thus places data at the input of theanalc-g cwitcreo and selecte the proper resistors for the 2oscilistor circuitgy. The outputs cf the oscillstors aresunmed throuzh the two 3.5K resistors and sert to thetclepl.once earpiccc, The tones are pated on and off by theRO linee When all the tones arc sent, the 8 line znce fromhigh to low and reacts the acnd and clear flip - flops,The tasie operation cf the box has cust been descridcd.There arc wo few additional features that should be mentionedkhcewevcreThe CLEAR key trigpere its own flip - Slop (forned hy theother 2 NCR patcs.) and does the sane things as the TENDkey with two excepticns: the recirculate line of the SRia held low, tnus cicaring memory and the two oreillatoraarc not cnatled so no tence are oraducecsThe DEL key is used to delirit between sequences ofnunbers. When preased, it clockc the SR without placr.rgany datm on its input lines. This fools the circuitry intobe,icving ‘heat all the ¢.nes have been sent.The 26CO tune is pererated ty preesing the SEIZE key.This is the only key that docs not uce the common bus.When pressed, it enables the orcillators, and evince theonly data at the input to the analog ewitches ig ©CCO whenMF tones are not being went, the top cscillator pencrates2600.Construction
-and it is desired to send
-The easiest zeans of construction is wire wrap. With alittle care the box can be built quite compactly. All IC'sexcept the SR use only the plus 9 supply. The TR usesplus and tinus 9. Both the Yss ard the Vee of the 4051'sshould be prounded. Ydd is plus 9. The input te. the oreunused shift rewiater #hould be yrounded. DON'T OK ARY-TINS TC YTS OUTPUT. The triapots should te 1C or 20 turncer—e* type ecnetructior. All rezistors ekould to cartonfiim KoT carton cozposition. Carton film offer totterterperature stability at ‘he save srice. The 34CO cf.cspacitorsg azsociated with the cscillat«rs curt te .71ly-atyrene. The end with tno bard chruldt te the rprounced cnd.The LED ray scet like @ power warttine frill t9 core, batit ir needed. At a rlarnce it car te)! you i? your data hactceon Bee yet tr wien tencry is cinar.
-1979MAR~-APRIL No. 56The wiring for the trizpots jc net chown t+ avoid a ere.The tonee are in two rroupe - bottom group 7CC,9°CO, 1100, |19€C,1700 - top rroup “CC,1V1CC,ISCO,1f00,26CO. Yiring ireasy though, just wire the output line for o particular oyto the corresponding pot. eE.r. digit 4 is 70O and 13CC,So output line 4 of the top rroup roce to 15SC9 ant ou'rutline 4 of the botton proup pocc to 700. Line © ie for orca,Wire up all used outputs thie way. Alco, dnrtt try toekinp by using single turn pots or one lerepe tri:.acre Thecasc of tuning and ireensitivity to vibration is well wortt.the 2C turn trizspote und the corien resistore.Thre hardest part to locate is probably the SR. [t ieeveailable from Janes Electronics,C21 Howard St., Tan Carlos.Ca. $4070, for 84 at this writing, All other parts areavailable from several sources ~— shop arourd.Calibration and UseThere gare a few methods that can be uncd to calibratethis boxe A DIP switch can te addid to the output of theSR to pull these lines up to plus 9 volts. Lf thin ieused Suet sect the switch to the code for the desired keysE.g. OO] for key 5. And press the SEIZE key to enablethe orcillators. You can alan wire up a l6 pin plup thatean be uted to replace the SR. Connect the input pins tothier respective outputs and substitute this plur for the“Re when a key in pressed on the keyboard and the SELZEkey is held, the derired tone will te heard.To use the Box, firet clear nemnry by presring theCLEAR key. (the prototype cecmed to always hove eo clearmceory when powcr wag first aprlied, but ['1 not eurethie will be the cane with all unite.) Snter your decirednumbere by prerring the respeetive keys. The L®D rheuldlipht cach tine a key its prerocd to signify aceeptrnee ofthat entry.Next, call your faverite FOO nusber and wrers the OFTZTkey for about a sceenml. When you hear the Ker-chunk preesOFND. Cut cores a merry little tuner!The DEL key ie uecd when it if neeecroery to repernrteecgucnece of rnurters, sich as for overescuot enlin.w Eversro call (44 1 246 ACCC, ecrter K~ Cll C44 "T then preee tieDET. key ard enter KP CAM 2 CAG ECOO TP. Uben you cressthe SEND key, the Siret sequence will te cert ticn tte toxwill halt. Presse the CFND key agnin art the recon) requrn.cewill te ecnt.I'd like to sn;and the Bluc Box.eword At thie tive eboul equrre roveeFor Some remeon acne caer le srer t4trink you cen't uer there A Bovuare weve ic race up of #fandarcntal frequency ard ite odd harsornics. So a “CC Raequerc wave ic really “ade up of a HCO He fundanertel wit!harnemics «f &7CC,45C0,6°CC,FICO and coor. The nntiretclephone network hen only a terdrictl of ahout OC Kd,hewewere A typical telepl ore chernel etartr to roll offat about 11CO Re, ard is dowr. 4 to 18 dk wt OCCO Me.Above 3 Fz the roll off it BO tn OC dt/octarc! What@ll thie means is thet even if you do rend eyuare waves,the revister at the otrear erd can't tell what you'rerendirg. If y~u hever'’t rucreed it, the oxcilletors i,thie box re.ermte equare wayer, and it works juet CREAT!This 2cx is capable cf rercratine all 15 UF eedes. IFyou want to have CCDE 11 and TCDE 12, juet add the diodesr.cedcd t> protuce 1110 ancfill and wire up the reepcctiveoutpute of the enmlog cwitches.Good luck o.d harpy Boxing!Youth Hot Line Reports, Inc. 1978 - Do not make checksout to Youth Hot Line Reports, PLEASE| Movement groupsmay reprint without permission with TAP's address givenwith all credits. Please send us a copy of reprinted work.
-
-Worn»
-g ° RR >»
-All 10K
-‘DelThQN3341L La Cler
-NOR 400)NANO YON1CNVERTER Yo'4K*ok{%
-oor i
-s 6ry
-
-“+ AY —> o4AS 3 a '- 2.2K5 > - ms 2600 Hz. > T~ a u?kk“pent ~ L— ~_“Los | So {S00 Qn LionK | of [+: 30° yey ° A 3.3isak| oo eo a a So 3600 1m SSé ee° = Q00 LOO hm ¢ 3mE LYe o£ atU } eo ¥ t DNHEO!os P Take phone~ 2.aXk farpoace__t— iy —> +4zC All Trin pols C2)E -” 29- Turn SOK405] - + at .— °° _ at — wa fe 43K7 Moe 130K | 3&0 7. il 556 S ANY, —= —Sir22" er __eeee ee cor —-Eé - Gao atau 2ork_| Te T WY} -—————«<Los) F Joo a z7oW | * r SeizeLo 2N44O) a“1Pacta 7 ixtAll rewisrtora are ¢ raitS¥ cearbon f115S - iFroo LlIx~ efeed“12KarkcK22K2 52XTILEel¢3X4'XK9.2Ko.okuFRed 1.25@osegs&8optt Ft @ € € @ € @ 6mer ODN WA rt et fom A: 4
-Oe pe wt et rt NeemA AN rPteoept@ 4 &£23291 or egir.oM44Cl cr egiv.2NOGC? or eqir.4CCi WR4CilL MAND4049 INVFSTCR2£19 40 bit hex4C3S2 8 chasnelweiter536 dual Ligner1CQ uf. cmpacitors«O01 uf.a. af. zylar VCS300 -f. colystyrene SXS&C pf. colystyrere
-oRanalog
-1% - Wer SS turn SSKCersat triapotsKeyisar, witcnea,[I7sccke*?,7@ . ING@lA® rieral aticdecar aqiv. ele.
-Pin-outs for the other IC’s can de found in National's CMCS book.PIN COMEIQURATIONS(TapveutBA PAZERARSTot P°C a1 ng1 my °C r-am fd OE.foe06 CRED Pp:¥ Ow ‘qeas =A Outs 5 iC N°Yog= 7*: S|
-¥ Hot line* CHARLESTON,SC (AP) — A man whe tred
-+4~Fv
-‘1fv j 100 mfd ~}= (+ § 100 mx +{ -TM~
-49 Volt Alkaline Batteries‘Taser’ guns zappedH wes shades of Siar Wars ms theMane Kanate ,
-
-GUARD BANDINGbyNapoleon SoloIF YOU USE A BOX» YOU PRORABKLY HAVE HEARD OFGUARD BAND BUY PROBABLY DON’T KNOW EXACTLY HOW ITSUSED OR WHY IT’S USED. I WILL ATTEMPT TO EXFLAINIT’S LEGIT PURPOSE: THEN EXFLAIN HOW A BLUE BOXERCAN USE THIS KNOWLENGE TO HIS ADVANTAGE.GUARD BAND IS A METHOD OF PREVENTING ACCIDENTALBISCONNECTS FROM PEOPLE TALKING OR PLAYING MUSICINTO THE PHONE LINE. IT SIMPLY MEANS IF ANY OTHERFREQUENCYS ARE PRESENT OTHER THAN 2600 HZ TONE»THE EQUIPMENT WON’T ALLOW A DISCONNECT THUS CLEAR-ING THE LINE DOWN FOR ANOTHER CALL, IF ONLY 2600WAS PRESENT THEN THE EQUIFMENT WILL CLEAR DOWN FOR@NOTHER CALL.IN SOME QUTBACK AREAS IN THE COUNTRY MANY MILESFROM THE TOLL SWITCHING OFFICEr THE FHONE COMPANYSWILL USE @& TRUNK LINE THAT IS CONTROLLED BY 2600$0 IF THE POTEWTUAL BLUE BOX USER GOES AND HAFFILYTOOTS THE 2600 TONE TO CLEAR TOWN THE 800 NUMBER,THE TRUNK LINE WILL HEAR THE 2600 BEFORE THE TAN-BOM AND DISCONNECT YOU FROM THE CIRCUIT WITHOUTYOU CETTING A CHANCE TO “BOX" YOUR CALL. THE PHONECOMPANY ALSO KNOWS THIS, SO THEY ARE HAPFILY FUTT-ING IN MORE OF THESE TYFES OF CIRCUITS. NATURALLYTHEY WON’T HAVE YO INSTALL . THEIR SPECIAL TOLLFRAUD DETECTING GEAR. SOr BOXING FROM THESE TYFESOF AREAS ARE USUALLY MUCH SAFER. STILL I WON'TRECCOMMEND DOING IT FROM HOME UNDER ANY CONDITIONSNOW I WILLYOU WILLTRY TO TELL YOU EXACTLY HOW YOU KNOWNEED GUARDBAND. I WILL FIRST EXFLAIN ITUNDER TWO CONDITIONS! 1. CALLING FROM A PAY PHONECOING THROUGH AN OFERATOR AND 2. CALLING FROM ABIRECTLY DIALED CALL. NATURALLY IF IT IS POSSIBLE1 WOULD RECOMMEND GOING THROUGH A DIRECTLY DIALEDCALL.IN CERTAIN OUTBACK AREASs OPERATORS HAVE KEENKNOWN TO BE AS FAR AS 2350 MILES FROM THEIR SERVINGAREA. AN EXAMPLE OF THIS IS NEATH VALLEY» CALIF. ICAN WELL UNDERSTAND WHY. IN DEATH VALLEY» THE OF-ERATORS ARE IN SAN BERNARDINO. THIS IA A HELL OF ABISTANCE FOR NORMAL OFERATOR TRUNKS SO FOR SIMFLI-CI1TY¥s I7°S EASIER TO SEND CALLS OVER MICROWAVE.THIS MEANS THAT IF YOU FLACE A CALL FROM THEREsANT YOU ATTEMPT TO TOOT IT OFF WITH PURE 2600+* YOUWON’T BE ABLE TO DO ITs INSTEARys YOU WILL JUST.FLASH THE GPERATOR. BY SENINING 2600+ YOU AKE SIMP-LY HANGING UF THE PHONE AS FAR AS THE OPERATOR ISCONCIRNED. .
-THE SECOND THING YOU WILL EXPERIENCE WILL BE IFYOU WERE TO BIAL DIRECT CALLS WITHOUT GOINGTHROUGH THE OPERATOR. IF YOU TRY TO BLOW OFF CALLSDIALED DIRECT LIKE AN 800 NUMBER OR WHATEVER: YOUWILL EITHER GET DUMPED INTO SILENCE (C USUALLY WHENUSING A PAYPHONE) OR A DIAL TONE (USUALLY WHENCALLING FROM A RESIDENTIAL PHONE. ITS USUALLY ANABRUPT CLICK AND YOUR DUMFER. SOMETIMES ON G.T.&ESYSTEMS YOU WILL GET A RE-ORIIER. OR A QUICK BUSYSOUND. IF YOU ARE SUCESSFUL, YOU WILL HEAR A "KER-CHINK" SOUND AND STILL HEAR THE SOFT HISS OF THELONG DISTANCE NOISE,NOW Y WILL EXPLAIN A LITTLE AROUT FREQUENCY RES-PONSE ANIt HOW THAT APPLIES WITH GUARD BANDING.THE LONG DISTANT PHONE LINES CAN ONLY TRANSMITTFREQUENCYS FROM 300 HZ T0 3000 HZ WITHOUT LOSSESAS THE FREQUENCY GOES HIGHER THAN 3000 HZ+ THEVOLUME OR “LEVEL” GOES DOWN (GETS SOFTER). SO THETRICK OF THE TRADE I8 TO INSERT A 31590 OR 3200 HZIONE MIXED WITH THE 2600 HZ TONE EXACTLY LIKE THETONES ARE MIXED IN THE ROX, BUT JT’S VERY IMPOR-TANT THAT YOU MUST BE ABLE TO MIX ANY FREPORTIONOF YHE 32060 AND 2600 HZ TONE. LIKE 40% 2600 AND66% 3200 OR 49% 3200 AND 512% 2600 TONES. THIS CANBE DONE WITH A KNOB WHEN TURNED IN ONE DIRECTIONTHE BOX SENDS PURE 2400+ THEN AS THE KNOB IS TURN-ED» MORE AND MORE 3200 COMES THROUGH ANI LESS ANTLESS 2600, THIS WAYs YOU CAN “PREFORTION” EXACTLYTHE CORRECT "MIX" UNTILL YOU CET RESULTS. THE EAS-IEST WAY TO MO THIS IS BY SETTING THE KNOB UNTILLIt JUST WON’T CLEAR ANYTHINGs THEN ADT A LITTLEWORE 2600 RELEASING THE YONGE EACH TIME UNTILL YOUHEAR THE FAMILIAR “KER-CHINK” SOUNT ONE HEARS WHEN"BLOWING OFF" THE 800 NUMBER OR WHATEVER YOU AKEUSING. GUARD BAND IS THE METHOD WHICH IS USED FOR"STACKING TANDOMS” AS YOU FRORABLY HEART IN SOMANY PUBLICATIONS, IT IS ALSO USED TO ACCESS AUTO-VERIFY BY COMING INTO A SWITCHING MACHINE FROMTRUNKS THAT ARE CLASS MARKED FOR AUTOVERIFY USAGE.GUARDRAND CAN ALSO BE USED YO GET INTO AUTOVON ANEOTHER INTERESTING SYSTEMS. SG AT THIS TIMEs I WILLLEAVE IT UP TO YOUR OWN IMAGINATION AS TO WHAT YOUCAN DO WITH IT AND HAFPY BOXING.acy Jscueg are 5O¢ cach.Ee oDME © 1 ‘cee = US Bulk rate $8. 1S 4US Firnt Claes in plain sealed envelope 37, &.Canada & Mexico First Class $7, &Fzreign $&.ILANTI Inctude mailing label or Xerox copywhen writing to TAP about your subscription. XIFlectrsnics Courses - §£0¢ each. A - DC Basics, >B- AC Basics, C - Phone Basics, D- Amplifiers,TAP mugs-$4. ).TAPT-shirts - $4.50. Specify size and color: Small,Medium, Large, Extra Large. Black or red T-shirtwith white TAP logo.TAP "Ma Be ls A Cheap Mother” T-shirts - $4.50.Specify size and color: Medtum, Large, Extra Large.Blue, tan, or yellow.Send CNLY check or money order (No Cash) tr:TAP, Room 418, 198 West 42 Street, New York, WN. ¥. 10036Dhisis a malldrop only,HCURS : WEDNESDAY,5-9 pm,
-sym>U9 THe
-Published for informational purposes only by Youth Hot Line Reports, Inc.Bank gave dealertoo much creditJERSEY CITY (AP) — Jersey City police arelooking for a comdealerwhodisappearedwith $108,000aller a computer made aa error fs his bank account.Charles Wash, 52.had only $85in his accountatwhe JerseyCity Commercial Trest Co., when a key- 6peach eperator but the wrong keyaad credited two 5$50,008checkswhich belonged in 2 commercial ac-cowallo Walsh's account.Hig account ayeriber differs by enly ene digit fromthe comreercialsccowat sember.com dealer withdr the moaey. Within aroosth he allegedly hed withdrawnall bet the 985fromtheaccount.Bt wasn't ott Feb. 2 that the beak officialswacevered the erver andnotified police to file a fravdcomplaint agsiast Waish.Police who went to Walsh'sheme foundthe doors lacked, the sidewalk washoveiedend the maliboufull ofSetters.
-Address all mail and checks to:TAP, 152 W.42 ST, ROOM 418, NY 10036
+BY 
+THE PROGRAMABLE BLUE BOX 
+PETER PIPER 
+The Phone Phreak like everyone else must keep pace with 
+technolegy. We therefore give you The Programable Blue 
+Box. 
+The Box presented here offers excellent stability with 
+both voltage and temperature. It uses 9 IC's, all of which 
+are readily available. And uses two ordinary 9 volt alka- 
+line batteries. Current drain is relatively low - 24 ma. 
+in standby, about 50 ma. sending tones. 
+Circuit Description 
+on a key is ;ressed,the diode matrix in fig. 1 produces 
+a binary code on lines A through D corresponding to the key 
+presseds Note the code 0000 is not used here, it is 
+reserved for 2600. whenever a key is pressed the S line 
+also goes high, indicating a valid code on lines A thru D. 
+In figs 2, lines A thru D and § go into the 2519 - a hex 
+40 bit shift register. Only 5 out of the 6 shift registers 
+are used. The input of the 6th should be frounded. The S 
+line also goes to a debouncing circuit and schnitt trigger 
+composed of the two inverters and associated parte. The 
+NAND gate takes either the signal from the schmitt trirger 
+or the system clock and generates the clock signal for the 
+shift register. This is a negative going pulse of about 
+20 us. So each time a key is pressed, the data at the input 
+to the SR is shifted in. An LED lights whenever a key is 
+pressed to indicate this. 
+when all numbers are entered 
+tones, the SEND key is pressed 
+flop formed by two NOR rates, and does 4 things. It inhibits 
+the input circuitry from the keyboard so no more numbers 
+can be entered; 
+It brings the recirculate line of the SR 
+hifk sc the data is not lost once it is sent; It enables 
+the output circuitry by my of the EO line; And it enables 
+the system clock t2 shift out the data. 
+When data is shifted out of the SR it appears on output 
+lines A thru D. 
+In fig. 3 theee go into 2 rroups »f analoe 
+ewitekes. Each proup contains 16 switches. A binery code 
+at the input of 
+tehes connects the corresponding 
+output tc 
+the Z input of 
+the 4051's. 
+E.g. 
+if the code 0011 
+is present at the input, output line 3 is connected to Z. 
+This places the correct resistor for the desired tone in 
+the circu 
+Tine 0 is used for generating the 2600 tone 
+Each shif: of 
+the SR thus places data at the input of the 
+analog ewitches and selects the proper resistors for the 2 
+osciliator ¢ 
+The outputs cf the oscilletors are 
+gummed throuzh the two 3.SK resistors and sert to the 
+telephone earpicce. The tones are pated on and off by the 
+FO line. When all the 
+and it is desired to send 
+This key tripgers a flip- 
+tones are sent, the S line goes fron 
+high to low and reacts the send and clear flip - flops. 
+The tasic operation cf the box has just been described. 
+There are a few aiditional features that should be mentioned 
+kowever. 
+The CLEAR key triggers its own flip - flop (formed by the 
+other 2 NOR gates.) and does 
+the same things as the SEND 
+key with 
+two exceptions: 
+the recirculate linc of the SR 
+is heid low, thus clearing memory and the two orcillators 
+are not cnabled so no tones are produced. 
+The DEL key is used to delinit between sequences of 
+bers. 
+When pressed, it clocks the SR without placcing 
+any date on its input lines. This fool: the circuitry into 
+beiicving that all the t-nes have been ser 
+‘The 26C0 tone is penerated ty pressing the SEIZE key+ 
+This is the only key 
+that does not use the common bu 
+When pressed, it enables the oscillators, and since the 
+only data at the input to the analog switches is CCCO when 
+MF tones are not being sent, the top oscillator pencrates 
+2600. 
+Construction 
+tha 
+The easiest means of construction is wire wrap. 
+little care the box can be built quite compactly. 
+All IC's 
+except the SR use only the plus 9 supply. The SR uses 
+plus and minus 9. 
+Bcth the Yss and the 
+Vee of the 4051's 
+should be grounded. Vdd is plus 9. The input tc the ore 
+unused shift register should be rrounded. 
+DCN'T DC ANY- 
+THING TC ITS OUTPUT. 
+The trimpots 
+should te 1C or 26 turn 
+cernet zype construction. 
+All resistors should te carton 
+film NOT carton composition. 
+Carton fils 
+offer better 
+tenperature stability et the save rrice. The S600 of. 
+capacitors associated with the sscillators sust te 
+poly- 
+styrene. The end wi 
+band 
+14 te the 
+prounted end. 
+The LED say seen like 8 power wactine frill to sone, but 
+gs rceded. 
+ata 
+ance it car tell you if your data has 
+seecrted or when sencry is clear. 
+MAR-APRIL 
+No. 56 
+The wiring for the trinpots ic not shown to avoid a neee. 
+The tones are in two proupe - ‘bottom group 700, 9CC, 1100 
+12C0,1760 - top proup SCC, 1160, 1300, 1560, 2600. 
+: 
+easy though, just 
+wire the output line for a particular i cy 
+to the correspondinr pot. Keg. digit 4 is 700 and 1900. 
+So output line 4 of the top sroup foce to 1509 and output 
+line 4 of the totton proup occ to 700. Line © ie for 2600, 
+Wire up all used outputs thie way. 
+Alco, don't try to 
+skiep by using sinple turn pots or one large trimer. The 
+case of tuning and ineensitivity to vibration is well worth 
+the 20 turn trinpots und the ceries resistors. 
+The hardest part to locate is probebly the SR. It is 
+available from Janes Electronics, 
+1621 Howard St.,San Carlos, 
+Ca. 94070, for $4 at this writing. All other parte are 
+available from several sources ~ shop around. 
+1979 
+Calibration and Use 
+There are a few methods that can be used to calibrate 
+this box. 
+A DIP switch can te addid to the output of the 
+SR to pull these lines up to plus 9 volts. 
+Lf this is 
+used just set the switch to the code for the desired key 
+Esp. 0101 for key 5. 
+And press the SEIZE key to enable 
+the occillators. You can also wire up @ 16 pin plup that 
+can be used to replace the SR. Connect the input pins to 
+thier respective outputs and substitute this plup for the 
+SR. when a key is pressed on the keytoard and the SEIZE 
+key is held, the dcrired tone will be heard. 
+To use the Box, firet clear memory by presring the 
+CLEAR key. (the prototype seemed to always huve a clear 
+menory when power was first applied, but [': 
+not sure 
+thie 
+will be the carc with all unite.) Enter your desired 
+numbers by preeeing the respective keys. The LED rhould 
+lipht each tine a key is prersed to sipnify actentnnce of 
+that entry. 
+Next, call your favorite 00 number ard orere the 
+key for about a sccond. When you hear the Ker-ctun 
+SEND. Cut cones 
+a merry little tunet 
+The DEL key ic used when it ic necerrary to seperate 
+eequencce of munters, stch as for overseas calls. Fer 
+To call 044 1 246 @CCO, erter KP C11 C44 OT then press the 
+DEL key ard enter KP (44 1 240 ECCC 
+Ste hen 
+the SEND key, the firet sequence will te ecr. 
+will halt. 
+Press 
+the SEND key again art the 
+11 be ecnt. 
+I'd like to say 
+and tke Bluc Box. 
+think you cen't usr 
+fanderental frequer. 
+2 
+pre 
+you press 
+then the tox 
+second eequerece 
+a word at thie tine ebsut 
+For 
+reason seme poeple seer. to 
+them. 
+A equare weve te nade up of a 
+y ard ite odd haraonics. So a SCC Hz 
+equare wave ic reelly sate up of a SCO Hz fundamental with 
+harmonies of 27CC,45C0,65CC,B1C0 and 
+The 
+eatire 
+telephone networks hee only a terdwidth of About 2 KF 
+however, A typical 
+teleplone chernel starts to roll off 
+at about 11CO Fz, and is down 4 to 1@ at at 2€CO Hz. 
+Above 3 KFz the roll off ie €0 to °C dt/octavet What 
+all thic means ie that even if you do cerd square wavee, 
+the rorister at the otrer erd can't tell what you're 
+sending. If you hever't fuesced it, the oscillators 
+this box rererate equare wavec, end it works just GREAT 
+‘This Ecx is capable of rereratire #11 15 UP ecdes. If 
+you want to have CCDE 11 and SCDE 12, 
+just add the diodes 
+needed to produce 111C and {111 and wire up the reepective 
+outputs of the enalop cwitches. 
+Good luck ard hazpy Boxing! 
+Youth Hot Line Reports, Inc. 1979 - Do not make checks 
+out to Youth Hot Line Reports, PLEASE! Movement groups 
+may reprint without permission with TAP's address given 
+with all credits. Please send us a copy of reprinted work. 
+squere vaver 
+seme
+= 
+-A 
+2514 
+a 
+ae 
+1 
+~ 
++4 
+= 
+> 
+ik 
+SS, 
+# 
+AN ok ‘Oost 
+= 
+Del 
+100k 
+2N3341 a 7 
+AW\—$§7 
+— 
+look 
+NOR 
+4Ool 
+ue 
+NAND oN 
+TT 
+A 
+slat 
+620k 
+12M 
+00) aft 
+TNVERTER “4o44 
+be AT Tey] 
+| 
+Le 
+We 
+x 
+Zlok Zlook Flook F 100k
+af 
+L 
+2.6 
+a 
+EF 
+2600 He 
+~- 
+x 
+u7k 
+—- 
+z 
+b 
+os 
+| 
+[~ 
+| 600 
+tok 
+tof] 
+i+ 
+[_ 
+1300 ant A> 30K 
+13 
+A 
+sak 
+Te — 
+W100 
+yay leek 
+ato 
+gt 2] 556 
+4 
+NW 
+\ oer a 
+L400 
+200k 
+7 
++ 
+me 
+OF 
+: 
+E 
+2NHtOI 
+- 
+Hos! £ 
+fale phir 
+~ 
+22k 
+ear piece 
+af 
++4 
+}+—_. 
+H 
+= 
+FP 
+t 
+E 
+All. trinpets 
+®Q 
+E 
+Cc 
+20- Turh 
+SOk 
+4o5] EF 
+1 
+it 
+33 
+Zo 
+> 
+Mit 
+el 
+& 
+look 
+E0 
+aaa 
+F- 
+r 
++—WV\s 
+< 
+4osl F 
+Seize 
+Parts List 
+2N3S91 or eqiv. 
+2N4401 or eqiv. 
+2N28C7 or eqiv. 
+All resistors are ¢ watt 
+- 
+- 401 NOR 
+5% carbon fila 
+4011 NAND 
+4049 INVERTOR 
+2519 40 dit hex SR 
+4051 8 channel analog 
+switch 
+- 556 dual tinner 
+- 100 uf. capecitors 
+- 
+.001 uf. 
+Perererer nee 
+fee 
+20 turn SCK 
+9 Volt Alkaline Batteries 
+Cermet trimpote 
+Keyboard, switches, 
+I7 
+rockets, ete. 
+‘Taser’ guns zapped 
+Pin-outs for the other IC's can be found in National's CMOS book. 
+ane ee 
+Legislation that would outlaw the 
+‘The battery-powered weapon 
+|GURATIONS 
+H 
+li 
+[goer 
+manufacture and sale of py 
+light and mick 
+PIN CONFI 
+(Top 
+View) 
+electronic “taser 
+” was 
+es 
+lot line 
+340, and sent tothe Asser. “Tra ron ies ess 
+‘BA PACKAGE 
+: 
+iy yesterday. 
+Satorecepaient 
+pacceg 
+¢ CHARLESTON, SC. (AP) — A man who tried 
+a 
+i 
+repeatedly with no’success to place a telephone call 
+i 
+blood Rea a 
+| 
+id 
+5 
+{rem 
+a downtown 
+booth today was arrested 
+and charged 
+trating 
+his bod 
+4 
+B- 
+war ater tying ote ote epi, 
+PevThe weapon could be “east 
+| 
+se 
+lice sai 
+@ 
+person 
+in 
+ide: 
+< Christopher 
+John Simon, of Charleston “apparently 
+ear doer igh Sod pe sun 
+e pom 
+kept oes, a recording that the number was not in 
+or could cause Sermanent bral 
+‘CL Pp: 
+tapes be tired of hearing the recording,” sid 
+damage, 
+ling 
+to a statement 
+‘dA be 
+lice’ 
+reen. 
+‘accompa 
+‘q 
+B: 
++ Green said Simén, in his 20s, took out is cigarette 
+ne enttios suds Now Jer 
+lighter 
+and applied the flame 
+to the 
+plast 
+re 
+8eq 
+pe 
+Wire the reine mele sai eee oe 
+Simon was charged with arson and was to appear 
+bbelore a magistrate later. 
+'s gun control law, and would 
+be 
+elcveimmediy 
+Hg 
+law.
+GUARD BANDING 
+by 
+Napoleon Solo 
+IF YOU USE A BOX, YOU PROBABLY HAVE HEARD OF 
+GUARD BAND BUT PROBABLY DON’T KNOW EXACTLY HOW ITS 
+USED OR WHY IT’S USED. 
+I WILL ATTEMPT TO EXPLAIN 
+IT’S LEGIT PURPOSE, THEN EXPLAIN HOW A BLUE BOXER 
+CAN USE THIS KNOWLEDGE TO HIS ADVANTAGE. 
+GUARD BAND IS @ METHOD OF PREVENTING ACCIDENTAL 
+DISCONNECTS FROM PEOPLE TALKING OR PLAYING MUSIC 
+INTO THE PHONE LINE. 
+‘IT SIMPLY MEANS IF ANY OTHER 
+FREQUENCYS ARE PRESENT OTHER THAN 2600 HZ TONE? 
+THE EQUIPMENT WON’T ALLOW A DISCONNECT THUS CLEAR~ 
+ING THE LINE DOWN FOR ANOTHER CALL. IF ONLY 2600 
+WAS PRESENTrTHEN THE EQUIPMENT WILL CLEAR DOWN FOR 
+@NOTHER CALL. 
+IN SOME OUTBACK AREAS IN THE COUNTRY MANY MILES 
+FROM THE TOLL SWITCHING OFFICE, THE PHONE COMPANYS 
+WILL USE A TRUNK LINE THAT IS CONTROLLED BY 2600 
+80 IF THE POTENTUAL BLUE ROX USER GOES ANDI HAPPILY 
+TOOTS THE 2600 TONE TO CLEAR DOWN THE 800 NUMBER 
+THE TRUNK LINE WILL HEAR THE 2600 BEFORE THE TAN~ 
+DOM AND DISCONNECT YOU FROM THE CIRCUIT WITHOUT 
+YOU GETTING A CHANCE TO "BOX" YOUR CALL. THE PHONE 
+COMPANY ALSO KNOWS THIS, SO THEY ARE HAPPILY PUTT~ 
+ING IN MORE OF THESE TYPES OF CIRCUITS. NATURALLY 
+THEY WON’T HAVE TO INSTALL . THEIR SPECIAL TOLL 
+FRAUD DETECTING GEAR. SOs BOXING FROM THESE TYPES 
+OF AREAS ARE USUALLY MUCH SAFER, STILL I WON’T 
+RECCOMMEND DOING IT FROM HOME UNDER ANY CONDITIONS 
+NOW I WILL TRY TO TELL YOU EXACTLY HOW YOU KNOW 
+YOU WILL NEED GUARDBAND. I WILL FIRST EXPLAIN IT 
+UNDER TWO CONDITIONS: 1. CALLING FROM A PAY PHONE 
+GOING THROUGH AN OPERATOR AND 2. CALLING FROM A 
+DIRECTLY DIALED CALL. NATURALLY IF IT IS POSSIBLE 
+I WOULD RECOMMEND GOING THROUGH A DIRECTLY DIALED 
+CALL. 
+IN CERTAIN QUTBACK AREAS, OPERATORS HAVE BEEN 
+KNOWN TO BE AS FAR AS 250 MILES FROM THEIR SERVING 
+AREA. AN EXAMPLE OF THIS IS DEATH VALLEY, CALIF. I 
+CAN WELL UNDERSTAND WHY. IN DEATH VALLEY, THE OP- 
+ERATORS ARE IN SAN BERNARDINO. THIS IA A HELL OF A 
+DISTANCE FOR NORMAL OPERATOR TRUNKS SO FOR SIMPLI- 
+CITYs 
+IT’S EASIER 
+TO SEND CALLS OVER MICROWAVE. 
+THIS MEANS THAT IF YOU PLACE A CALL FROM THERE» 
+aND YOU ATTEMPT TO TOOT IT OFF WITH PURE 2600+ YOU 
+WON’T 
+BE 
+ABLE TO 10 ITs 
+INSTEAD, 
+YOU WILL JUST 
+FLASH THE OPERATOR, BY SENDING 2600+ YOU ARE SIMF— 
+LY HANGING UP THE PHONE AS FAR AS THE OPERATOR IS 
+CONCIRNED. 
+" 
+THE SECOND THING YOU WILL EXPERIENCE WILL BE IF 
+YOU WERE TO 
+DIAL DIRECT CALLS WITHOUT GOING 
+THROUGH THE OPERATOR. IF YOU TRY TO BLOW OFF CALLS 
+DIALED DIRECT LIKE AN 800 NUMBER OR WHATEVER, YOU 
+WILL EITHER GET DUMPED INTO SILENCE (USUALLY WHEN 
+USING A PAYPHONE) OR A DIAL TONE (USUALLY WHEN 
+CALLING FROM A RESIDENTIAL PHONE. ITS USUALLY AN 
+ABRUPT CLICK AND YOUR DUMPED. SOMETIMES ON G.T.&E 
+SYSTEMS YOU WILL GET A RE-ORDER. OR A QUICK BUSY 
+SOUND. IF YOU ARE SUCESSFULy YOU WILL HEAR A "KER- 
+CHINK" SOUND AND STILL HEAR THE SOFT HISS OF THE 
+LONG DISTANCE NOISE. 
+NOW I WILL EXPLAIN A LITTLE ABOUT FREQUENCY RES- 
+PONSE 
+ANI) HOW THAT APPLIES WITH GUARD BANDING. 
+THE LONG DISTANT PHONE LINES CAN ONLY TRANSMITT 
+FREQUENCYS FROM 300 HZ TO 3000 HZ WITHOUT LOSSES 
+@S 
+THE FREQUENCY GOES HIGHER THAN 3000 HZy THE 
+VOLUME OR "LEVEL" 
+GOES DOWN (GETS SOFTER). SO THE 
+TRICK OF THE TRADE IS TO INSERT A 3150 OR 3200 HZ 
+TONE MIXED WITH THE 2600 HZ TONE EXACTLY LIKE THE 
+TONES ARE MIXED IN THE BOX. BUT IT’S VERY IMPOR- 
+TANT THAT YOU MUST BE ABLE TO MIX ANY PREPORTION 
+OF 
+THE 3200 AND 2600 HZ TONE. LIKE 40% 2600 AND 
+60% 3200 OR 49% 3200 AND 51% 2600 TONES. THIS CAN 
+BE DONE WITH A KNOB WHEN TURNED IN ONE DIRECTION 
+THE BOX SENDS PURE 2600, THEN AS THE KNOB IS TURN- 
+ED, MORE AND HORE 3200 COMES THROUGH ANI! LESS AND. 
+LESS 2600, 
+THIS WAYs YOU CAN "PREFORTION" EXACTLY 
+THE CORRECT "MIX" UNTILL YOU GET RESULTS. THE EAS- 
+JEST WAY TO DO THIS IS BY SETTING THE KNOB UNTILL 
+IT 
+JUST WON’T CLEAR ANYTHING, THEN ADD A LITTLE 
+MORE 2600 RELEASING THE TONE EACH TIME UNTILL YOU 
+HEAR THE FAMILIAR "KER-CHINK" SOUND ONE HEARS WHEN 
+“RLOWING OFF" THE 800 NUMBER OR WHATEVER YOU ARE 
+USING. 
+GUARD BAND IS THE METHOD WHICH IS USED FOR 
+“STACKING TANDOMS" 
+AS 
+YOU PROBABLY HEARD IN SO 
+MANY PUBLICATIONS, IT IS ALSG USED TO ACCESS AUTO~ 
+VERIFY BY COMING INTO A SWITCHING MACHINE FROM 
+TRUNKS THAT ARE CLASS MARKED FOR AUTOVERIFY USAGE. 
+GUARDBAND CAN ALSO BE USED TO GET INTO AUTOVON AND 
+OTHER INTERESTING SYSTEMS. SO AT THIS TIME, I WILL 
+LEAVE IT UP TO YOUR OWN IMAGINATION AS TO WHAT YOU 
+CAN DO WITH IT AND HAPPY BOXING. 
+Is 
+¢) Vt 
+4 
+SThuaiters, 
+Cy 
+m 
+> 
+~~ 
+ey order (No Cast) to 
+lest 42 Street, New York, N.Y. 10096 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to: 
+Bank gave dealer 
+too much credit 
+JERSEY CITY (AP) — Jersey City police are 
+looking for a coin dealer who disappeared with $100,000 
+after a computer made an error in his bank account. 
+‘Charles Walsh, 52, had only $85 in his account at 
+the’ Jersey City Commercial Trust Co., when a key- 
+punch operator it the wrong Key and credited two 
+sé 
+$50,000 checks which belonged in a commercial ac- 
+count to Walsh's account. 
+His account nuntber differs by only 
+one digit from 
+‘the commercial account number. 
+Walsh's Dec. 21 bank statement showed his ac- 
+‘count had a balance of $100,085 and, police said. the 
+coin dealer began withdrawing the money. Within a 
+month he allegedly had withdrawn all but the $85 from 
+the account 
+It wasn't until Feb, 9 that the bank officials 
+uncovered the error and notified police to file fraud 
+‘complaint against Walsh, Police who went to Walsh's 
+‘home found the doors locked, the sidewalk unshoveled 
+and the mailbox full of letters, 
+‘A warrant was issued for his arrest after he failed 
+to 
+‘in court Tuesday to answer the complaint 
+that He detrauded the bank 
+of $100,000. 
+TAP, 152 W.42 ST, ROOM 418, NY 10036

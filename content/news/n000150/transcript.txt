@@ -1,18 +1,425 @@
-NOVEMBER 1975THE PARTY’S OVERytom edisonOn Sept 29,1975, N J Bell discontinued all 4~party lineService. Bell customers were given the choice of eitheré-party line or private line service, at an increase in price,of course. Bell stated in their propoganda ad that increasedcoSts of operating 4-party line service forced them to takethis action. We all know the real reason, however, namelythat Pa Bell wishes to squeeze its customersalittle more.and force them to pay more money for the same lousy ser-vice. But take heart, all you N J Bell customers- Pa Bell'sgreed will only add to his defeat! By forcing us to use aprivate line, Pa Bell has now made it possible for everyonet’ “ave a working Black Box on their phones. Previously,iS risky to use a Black Box on a 4-party line beceuse ifany one of the other three parties picked up their phonewhile you were boxing a call, the box circuit would be in-operative and the caller would be charged for the call. With@ private line this cannot happen.Another problem that plagued 4-party line users was theconnection of extension phones. The extension ringer wouldring whenever any one of the other three partys! phoneswere called. Due to the unique way the party line phoneswere connected to the main Tip and Ring lines, all of theparty line phones had one side of the ringer going to ground(yellow wire). The other side of the ringer was connectedthrough a cold cathode tube (which acts like a solid staterectifier diode) to either the Tip(-) green wire or the Ring(+) red wire. Phones A and B had the cold cathode tubeconnected So that they passed only + pulses and phones CC and D had the cold cathode tube connected So that theypassed only - pulses. Thus a positive pulse on the Tip linerang only phone A, + on Ring rang B, - on Tip rang C, and- on Ring rang D.Another way that ringing was done on 4-party lines wasby the use of frequency selective ringers. Each ringerwould then only respond to its own frequency. Frequenciesranged from 16 Hz to 66 Hz.And while we're mentioning extension phones, let's notforget that playing with your phone and adding on the var-ious accessories that we've shown in past issues is halfthe fun of having a phone, something that Pa Bell just doesnot want to share with you. Many of you are probably alitue paranoid about doing anything to your phone and thisanojia is partially justified for Pa Bell does make unan-~. unced house calls to replace phone cords, dial plates andtransmitter mouthpieces as part of their "service" to theircustomers and how wauld it look if theycame into your homeand saw all kinds of goodies and wires coming out of yourphone?
-No. 30
-The obvious answer: INSTALL AN EXTENSION PHONEfor fun, profit and experimentation. And now that Pa Bellhas FORCED private lines on us, all you have to do to con-nect an extension phone is to connectit to the redandgreen phone line wires, For any kind of dial phone the linepolarity doesn't matter; the phone will work with the wiresconnected red to red, or red to green. However, on TouchTone phones, polarity is important because transistors inthe oscillator circuit must have the voltage of the correctpolarity or it will not work. In N J Pa Bell is very sneakyand the red phone wire must be connected to the green Tipline and the green phone wire must be connected to the redRing line for operation of a Touch Tone phone. In NJ thered Ring wire is positive and the green Tip wire is negative.The red Ring wire is also connected to ground at the Cen-tral Office. The phone wires usually go to the basementwhere they are connected to the lightning arrestors inhomes and panel junction boxes in apartments. While thisis a very nice easy access point to attach your extensionwires, it is also one of the key checkpoints for phone menand as such should be avoided. The wires then run up fromthe basement to the floor junction box from which the phonegets its connecting line.Pa Bell, ina feeble attempt to frustrate do-it-yourself-ers, {Ss now using clear vinyl covered wires, thereby elim-inating the old standard red and green wires. Don't let thisworry you. Remember, if your phone doesn't work one waySimply reverse the wires and call away. The best place tohook into the lines is between the basement and the floorJunction box. A good way to hide your splice is to coverit with a large carpet and then nail it down. Pa Bell ispretty cheap with his wire but if you can pull down a littleexcess from the basement, atlach your two extension wiresand then pull up the whole mess So that nothing shows,you're in. An excellent wire to use is the flat 300 ohm twinlead used for TV antennas. It's very easy to hide, and evenif it's Spotted it'l. look like a TV antenna lead-in wire. It'salso a good electrical impedance match to the phone line.Cnce you've got the extension lines run to where you wantthe phone located, terminate the extension line in a stand-ard 4 hole floor jack. You can now simply plug in your ex-tension phone, or if you want, plug in your various acces-Sories. One of the best ways to plug in accessories is touse a jJack-in-a-plug which is a standard 4 prong plug atone end and a Standard 4 hole jack at the other end. Withthis great device you'll be able to plug your accessoriesinto the floor phone jack and then plug your phone into theaccessory jack.© Youth Hot Line Reports, Inc. 1975-.Do not make checksout to Youth Hot Line Reports please. Movement groupsmay reprint without permission with TAP's address inclu-ded, and please send us a copy of reprinted work. Warning:We will prosecute violators.
-
-FORTRESS FUNbyfom edisonA Fortress makes an excellent extension store, Shouldyou come afross cne lying in the rzad or Sticking out of atrash barrel behind TrC's ofice, it is your public dur coremove -his hazard to prevent it from falling inte enemybands. Cree you have sneaked it safely into your home andare saus*ed that the men from Department "S" have notSeen you getdng a hernia as you carried it down the streetwrapped ina olanket, you may safely unwrap it for closerinspectica.There are four wires connected :o the Fortress. Forhome use, connect tre red Ring phone Lne to ‘ke red wire‘and the green Tip phone line to the green wire. The ringeris across the red and green wires so that ‘you can receiveincoming calls simply by lifting she receiver off the hcok.In order to make a call, however, you must deposit J0¢but Dave ao fear, since it’s your phone and you're playingoperator, Simply connect the output of a power supplycapable of generating a + 50 vic. at 40 ma. to the yellowground wire and the negative side of the power suppiy tothe green Tip or red Ring wire. This 50 vde. pulse (neg-ative with respect to ground) will drop the deposited -oinsinto the coin refurn slot. A positive 30 vic. pulse sentdown either the Tip or Ring wire will drop the coins intothe coin box, a definite no-no, especially if you don't hap-pen to have it open yet.Cne reader suggested carrying a regular phone into a payphone booth, splicing into the pay phone wires, and Gialingaway. This will not always work because Pa Bell does notput 48 vdc. battery on the line until you deposit money,When you deposit money, you trip a switch which Places alJkohm resistance bewween the yellow ground wire and thegreen Tip wire which completes a loop which operates arelay at the CO which then places 48 vdc. battery or. the Line.If you ever have to make a life or death emergenzy calland you don’t have any change >but you do have a \J¥samresistor and a portable telephone with you, trysplitdngopen :he pay phone wire and connecting the 10kohm resistorthat bas an alligator clip on each end between the yellowand green wires of the pay phone. This should get you bat-tery on the red and green wires. Connect your portablephone (also equipped with alligator clips) to the red andgreen wires and make your emergency call.If you ever have to make another emergency call and youforget to bring along your 10kohm resistor, you might trydepositing S¢ without picking up the receiver. This againshould get you battery on the red and creen wires. Fockup your portable phone and dial. To get your 5¢ back (youcheap bastard) you might try connecting a 50 volt battery+ terminal *o the yallow wire and - terminal to either thared or green wire. Remember to use these techniques onlyfor life or death emergencies, like :o order a pizza or toplace a bet with your neighborhood bookie (who, if e'sSmart, is using a cheese bax circuit shcwn in issue 620).
-ACHTUNG!Peginning in the next issue, we will feature a column"Ask Mr. Phelps". Send in your cuestizns and he will tryloanswer them. Mr. Phelps’ Sield :s mechanical devicesand metalworking - research and development - and con-Spiracy masterminding. Questions on electronics will begiven to Barney, If you send a deposit to his benx accountin Zurich, he will make an all-out, maximum effor: toanswer you.
-TELEPHONE LOCKSWe often fantasize about "picking be lock" or "getting amaser key'. ‘Vell, you can forget accutit, I don't like todiscovrage people, but it will Save ;cu irom wastnga lotOf time - time which car be put to better use (heh, beh). Lfthese were “the gocd old days", it would be different. Theold three slot:ars used a simple lever timbler "locker" or"mailsox” lock wiich could be picked with a couple of mod-ified Allien wrenches (accept no suostitutes). Cid timerstall me they hit two or three boxes every day. They alwayscontained at leas: $75 each, and ‘hat was back when the$was worth Something and the coins were silver.It was too good to last. Whatever else I thinkof ThePhone Company, I must admic that they learn from theirmistakes. TPC added a tubular lock. It was smaller indiameter that <he Standard Ace So one couldn’t use cherecular blank and kay machine. To pick Lt, one had to makea very special pick, instead of buying it“den TPC brought out che Fortress Pacne. The lockhas a hardened surface and the frame has harcened stair-less steel inserts. It is an eight lever type am highly pickresistant. Only Seven hundred have been picked in thecountry, according tc a report in an AT&T horse organacouple of years ago. Each of the eight levers bas fivepositions, so 58.390, 825 possible keys. There is no suchthing as a master key for this type of lock. It Ls difficultto pick because when you throw @ach lever, itis easy tothrow it too farand it jams and you have to startall over.The mest practical method Is *5 toain fleas to crawl insidethe locks andreadthe sizes of the leversandthen fitindi-vidual keys to each lock.One often sees Fortresses bearirg indications of unsuc-cessful assaults. Attacking :ne with a chisel or crowbaris a waste of time and energy, Tue picture of the back ofthe cover plate shows how formidable it is. You will notethat hardened s‘ainless stwel bolts lock into all ‘cur sides.Bu: like any safe, the Fortress has its vulnerable areas.When someone (I wonder who?) puts epoxy in the lock, TPCbas to open it someboy without destroying the whole thing,so they drill in the proper places through the cover and therotating plate, which are not bardened. Where dc TPC'semployees drill? Wali, I \magine they might drill out thestopatA!', drill amy punch out the pinatC', and drill awaythe four places marred D. This would permit -be one sidebalt to be retracted and permit the plate to rotate, retract-ing the other three. An alternative matheod might oe to drilland punch out the fouy pins, but the stops at A prevent thebolts from moving in tha guides B. [Lf they then drill outthe stops A, I believe the four bclts can be retracted man-ually. Gravity helps tha top one but hinders the bottom one.The extension on the side (left in picture) remains ineither case and may necessitate use of a crowbar.[fam not suggesting that anyone use a battery poweredelectric drill with quaiity cobalt bigh speed drill bits (notCanal Street Japanese :unk) to rob TPC, Whether theamount of work and riagk required is worth tt is somethingooly ‘he prospective perpetrator can decide. However, ifyou are determined to lead a life oi crime, itis advisabletc determine how much money is in «he box before proceed-ing. This will cost you :9¢ or a slug, Make a phone call2ad when the coin drops into ihe box, you can teli how fulljt iS by how it sounds, [/ it bounces orf the bottom, itisempty: if it quiedy slusres in, beh, heh...Cne still finds the old three slotters without Ace locksin Some rural areas. GTS, I believe, uses pin tumblerlccxs on the Jeft side ci the Fortress. Any info you haveabout these would be appreciated. Cfifhand, I would riess‘hey are reasonablyeas;to pick, though not as easyasissagown on TV,Mr. Phelps
-
-TCP
-Right side whenviewed from outside X G
-3 3/4"
-4 5/8" "Cotn's eye viewof Covar PlateDrawing may not be exact size due to alteration during printing processLetters From ReadersDear TAP,Theta the pay TV company has gotten wise to 2+8=Z (Issue#27) and put a scrambler on all ton-Z Lines. [t's a resis-tance filled white box on the telephone pole where the housescable jcins 14@ main line. Easy to remove or to bypass #8guts with a simple co-ax wire. So Z is still free if you canclimd a telemone pole.- CALIFORNTA-~ear TAP,Flow elaborate a design do you seek for a radio jammer?You may know ajready that it takes a signal only slightlystronger than the “bonafide” one to completely block anFM station. You know z3bout capture rado.,.So, if one issufficiently close to the victhm receiver with bis small FM
-oscillator, you can kill the legitimate broadcast (or evenutility) service’. I built a smali (singia) transistor ascil-lator, tunable, to kill the offending audio in the apartmentnext door. If you radiate a clean signal (no audio modn-lation) you can completely silence an FM set. I suspactthe effort required on an AM station, to be successful,would be too great, needing much more power, not tomention antennas. Here, we rely on the nuisance value ofheterodyning against the "Bonafide" signal; ‘t simply makesit difficult or unpleasant to bear. But, you don't wipe itout unless you're really hosing some power! Might agwell concentrate only on FM stations. HMMM... It surewould take a lot of jammers to put the NYC pigs out ofbusiness, burt it might be somewhat easier if one jammedtheir repeaters. Guess they bave a few.~SINBAD=
-
-Inflation Hits TAPYou know what that means, For four years we've keptthe price at $2, which isn't much. Compare that to yourmonthly phone bill. Starting Dec. 1, bulk rate 10 issuesubscriptions will be #4, the first-class sealed rate andCanada stapled rate will be $6, and the foreign surfacerate will be $7. An establishment newletter of equal valuewould cost at least 5 times as much. Unlike them, we willcontinue to send free subscriptions to indigent students,prisoners, and others who explain to us why they can'tafford to pay.So you won't think we're getting rich on it, here's whatthe money will be going for: Increased postage and printingcosts, office expenses, and tucreasing our bail fund at theinsistence of our more paranoid volunteers. Al Bell didn'twant to raise the rate but finally agreed to, when we agreednot to defenestrate him.Here is our revised Destructory Assistance list. Seeprevious issues for trading conditions.nes LawsBlack, Blue, &Red Boxes ElectronicsBell Reprints ChemistryBugs and Scramblers PoliticsInteresting phone #s Radio & TYTest numbers Credit CardsInstallation & attachmentsPayphonesDomestic & Foreign CodesLocks and SecurityVending MacaoinesSluqs and Foreiqn CoinsPersonal Survivalities i GasMiscellaneousWe need info on:Vending Macbjnes- locks, techniques for getting yourmoney's worth.Locks- code books, picking methods, safe manipulation,sources of supply.Radio~ pirate stations, jammers, etc.Cable TV- tapping into the Line.Utilities- info on N. J. Public Services’ round ceramicelectric meter Seals.Burglar alarms- Holmes & other central station systems.Printing- methods, magnetic ink used in printing checks, etc.
-Published for informational purposes only by Youth Hot Line Reports, Inc.TAP, ROOM S04, 152 W.42 ST., N.Y,N.Y. 10036 ‘@ Credit Card ScannerA holographic memory unit that can check acredw card holder's rating within three seconds isnow benrg manufactured in Cahfornia.The device—which spells doom to con men ofthose who utilize stolen credit cards—ia already beingrel by several hotel chains. In addition. somegambling casinos in Las Vegas have installed thexyxtem. °The miniaturized mechanism fs keyed to a laserbeam and permits as many as 700,000 credit ratingsw be put on a 30-foot strip of 35-millimeter film.The memory unit is usd only to keep track ofbad crecht risks. By inserting the credit card into thedevice, # can be determined whether or not the cardhobkicr is on the Hst of badrisks.The brternetionalTeamater
-BackIssues-Listed by feature articles50¢ each, 40¢ each if complete set is ordered.1-Extensions, Conierence Switches2-Blue Box Story and Abbie on Ripoffs3=Telecommand Story4-Pay Phone IssuePoe nex ——> Early Model7- Tuning your organ, 3-slot ripoffs8=Credit Card Calls/1972 Code910>>Black Hox1112 Blue Box Plans13 Int'l calls & Codes, Bluebox plans14 More codes, AT&T Papers, Ca, Test numbers15 1973 Credit Card Code, T network16 Red Box plans17 Red Box, Line Relay, Don't Get Busted18 Outgoing long distance call stopper19 Snoop light, Taping Fortress tones20 Cheese Box(Conference line, or loop-aroum)21 Automatic Phone Tap, Convention Report22 Answeroo, ‘How we catch Red Boxers"23 Free Electricity24 Fraud Detectors, Index of TAP issues, 1974 CC Code20 New Red Box, Free Gas26 New Bluebox, Con Ed key (also 23, 29)27 Free Electricity, Blue Box Correction28 Reading Computer bills, loop suffixes29 Improved Bluebox & Snooplite, Int'l codesFACT SHEETS -25¢ each1, Credit Card Calling Hints2. Receiving Long Distance Calls Free(Same as Issue 11 for General Telephone Co.Customers instead of Bell Telephone Co.)Displayed Red Box2600 WhistlePerfector =50¢ per set.Dual tone oscillatorAnti-Bell Button-50¢ 10/$3Steal This Book-$2. 25Monopoly - $1.20Courses-00¢ each: A-Basic Electricity, B-AlternatingCurrent, C- Basic Phone Cperation, D-Amplifiers.Send Check or Moneyorder only to TAPAddress: Room 504, 152 W. 42 St, New York 10036(This is a Mail Drop only)Office: 1201 Broadway, Rm. 608, Wed. 4-7 pm.NYC 10001
-BULK RATEU. S PCSTAGEAddress all mail and checks to - PAIOPermit! Ko, 209Greet Neck, N.Y.
+NOVEMBER 1975 
+THE PARTY’S OVER 
+by 
+tom edison 
+On Sept 29,1975, N J Bell discontinued all 4-party line 
+service. Bell customers were 
+given the choice of either 
+2-party line or private line service, at an increase in price, 
+of course. Bell stated in their propoganda ad that increased 
+costs of operating 4-party line service forced them to take 
+this action. We all know the real reason, however, namely 
+that Pa Bell wishes to squeeze its customers a little mo. 
+and force them to pay more money for the same lousy ser- 
+vice. But take heart, all you N J Bell customers- Pa Bell's 
+greed will only add to his defeat! By forcing us to use a 
+private line, Pa Bell has now 
+made it possible for everyone 
+to have a working Black Box on their phones. Previously, 
+it was risky to use a Black Box ona 4-party line because if 
+any one of the other three parties picked up their phone 
+while you were boxing a call, the box circuit would be in- 
+operative and the caller would be charged for the call. With 
+a private line this cannot happen. 
+Another problem that plagued 4-party line users was the 
+connection of extension phones, The extension ringer would 
+ring whenever any one of the other three partys' phones 
+were called. Due to the unique way the party line phones 
+were connected to the main Tip and Ring lines, all of the 
+party line phones had one side of the ringer going to ground 
+(yellow wire). The other side of the ringer w as connected 
+through a cold cathode tube (which acts like a 
+solid state 
+rectifier diode) to either the Tip(-) green wire or the Ring 
+(+) red wire. Phones A and B had the cold cathode tube 
+connected so that they passed only + pulses and phones C 
+Cand D had the cold cathode tube connected so that they 
+passed only - pulses. Thus a positive pulse on the Tip line 
+rang only phone A, + on Ring rang B, - on Tip rang C, and 
+- on Ring rang D. 
+Another way that ringing was done on 4-party lines was 
+by the use of frequency selective ringers. Each ringer 
+would then only respond to its own frequency. Frequencies 
+ranged from 16 Hz to 66 Hz. 
+‘And while we're mentioning extension phones, let's not 
+forget that playing with your phone and adding on the var- 
+ious accessories that we've shown in past issues is half 
+the fun of having a phone, something that Pa Bell just does 
+not want to share with you. Many of you are probably a 
+little paranoid about doing anything to your phone and this 
+paranoia is partially justified for Pa Bell does make unan- 
+nounced house calls to replace phone cords, dial plates and 
+transmitter mouthpieces as part of their "service" to their 
+customers and how would it look if theycame into your home 
+and saw all kinds of goodies and wires coming out of your 
+phone? 
+No. 30 
+The obvious answer: INSTALL AN EXTENSION PHONE. 
+for fun, profit and experimentation. And now that Pa Bell 
+has FORCED private lines on us, all you have to do to con~ 
+nect an extension phone is to connect it to the red and 
+green phone line wires. For any kind of dial phone the line 
+polarity doesn't matter; the phone will work with the wires 
+connected red to red, or red to green. However, on Touch 
+Tone phones, polarity is important because transistors in 
+the 
+oscillator circuit must have the voltage of the correct 
+polarity or it will not work, In N J Pa Bell is very sneaky 
+and the red phone wire must be connected to the green Tip 
+line and the green phone wire must be connected to the red 
+Ring line for operation of a Touch Tone phone. In N J the 
+red Ring wire is positive and the green Tip wire is negative. 
+The red Ring wire is also connected to ground at the Cen- 
+tral Office. The phone wires usually go to the basement 
+where they are connected to the lightning arrestors in 
+homes and panel junction boxes in apartments. While this 
+is a very 
+nice easy access point to attach your extension 
+wires, it is also one of the key checkpoints for phone men 
+and as such should be avoided. The wires then run up from 
+the basement to the floor junction box from which the phone 
+gets its connecting line. 
+Pa Bell, ina feeble attempt to frustrate do-it-yourseli- 
+ers, is now using clear vinyl covered wires, thereby elim- 
+inating 
+the old standard red and green wires. Don't let this 
+worry 
+you. Remember, if your phone doesn't work one way 
+simply 
+reverse the wires and call away. The best place to 
+hook into the lines is between the basement and the floor 
+junction box. A good way to hide your splice is to cover 
+jt with a large carpet and then nail it down. Pa Bell is 
+pretty cheap with his wire but if you can pull down a little 
+excess from the basement, attach your two extension wires 
+and then pull up the whole mess so that nothing shows, 
+you're in, An excellent wire to use is the flat 300 ohm twin 
+lead used for TV antennas. It's very easy to hide, and even 
+if it's spotted it'll look like a TV antenna lead-in wire. It's 
+also a 
+good electrical impedance match to the phone line. 
+Once you've got the extension lines run to where you want 
+the phone located, terminate the extension line in a stand- 
+ard 4 hole floor jack. You can now simply plug in your ex- 
+tension phone, or if you want, plug in your various acces- 
+sories, One of 
+the best ways to plug in accessories is to 
+use a jack-in-a-plug which is a standard 4 prong plug at 
+one end and a standard 4 hole jack at the other end. With 
+this great device you'll be able to plug your accessories 
+into the floor phone jack and then plug your phone into the 
+accessory jack. 
+© Youth Hot Line Reports, Inc. 1975-.Do not make checks 
+out to Youth Hot Line Reports please. Movement groups 
+may reprint without permission with TAP's address inclu- 
+ded, and please send us a copy of reprinted work. Warning: 
+We will prosecute violators.
+FORTRESS FUN 
+by 
+tom edison 
+A Fortress makes an excellent extension phone. Should 
+you come across one lying in the road or sticking out of a 
+trash barrel behind TPC's office, it is your public duty to 
+remove this hazard to prevent it from falling into enemy 
+hands. Once you have sneaked it safely into your home and 
+are satisfied that the men from Department "S" have not 
+seen you getting a hernia as you carried it down the street 
+wrapped ina blanket, you may safely unwrap it for closer 
+inspection. 
+There are four wires connected to the Fortress. For 
+home use, connect the red Ring phone line to the red wire 
+and the green Tip phone line to the green wire. The ringer 
+is across the red and green wires so that you can receive 
+incoming calls simply by lifting the receiver off the hook. 
+In order to make a call, however, you must deposit 10¢ 
+but have no fear, since it's your phone and you're playing 
+operator, simply connect the output of a power supply 
+capable of generating a + 50 vdc, at 40 ma. to the yellow 
+ground wire and the negative side of the power supply to 
+the green Tip or red Ring wire. This 50 vdc. pulse (neg- 
+ative with respect to ground) will drop the deposited coins 
+into the coin return slot. A positive 50 vde. pulse sent 
+down either the Tip or Ring wire will drop the coins into 
+the coin box, a definite no-no, especially if you don't hap- 
+pen to have it open yet. 
+One reader suggested carrying a regular phone into a pay 
+phone booth, splicing into the pay phone wires, and dialing 
+away. This will not always work because Pa Bell does not 
+put 48 vde, battery on the line until you deposit money. 
+When you deposit money, you trip a switch which places a 
+10kohm resistance between the yellow ground wire and the 
+green Tip wire which completes a loop which operates a 
+relay at the CO which then places 48 vdc. battery on the line. 
+If you ever have to make a life ordeath emergency call 
+and you don't have any change but you do have a 10kohm 
+resistor and a portable telephone with you, try splitting 
+open the pay phone wire and connecting the 10kohm resistor 
+that has an alligator clip on each end between the yellow 
+and green wires of the pay phone. This should get you bat- 
+tery on the red and green wires. Connect your portable 
+phone (also equipped with alligator clips) to the red and 
+green wires and make your emergency call. 
+Tf you ever have to make another emergency call and you 
+forget to bring along your 10kohm resistor, you might try 
+depositing 5¢ without picking up the receiver. This again 
+should get you battery on the red and green wires. Hook 
+up your portable phone and dial. To get your 5¢ back (you 
+cheap bastard) you might try connecting a 50 volt battery 
++ terminal to the yellow wire and - terminal to either the 
+red or green wire. Remember to use these techniques only 
+for life or death emergencies, like to order a pizza or to 
+place a bet with your neighborhood bookie (who, if he's 
+smart, is using a cheese box circuit shown in issue #20). 
+ACHTUNG! 
+Beginning in the next issue, we will feature a column 
+"ASk Mr. Phelps". Send in your questions and he will try 
+to answer them. Mr. Phelps' field is mechanical devices 
+and metalworking - research and development - and con- 
+spiracy masterminding. Questions on electronics will be 
+given to Barney. If you send a deposit to his bank account 
+in Zurich, he will make an all-out, maximum effort to 
+answer you. 
+TELEPHONE LOCKS 
+We often fantasize about "picking the lock" or "getting a 
+master key". Well, you can forget about it. I don't like to 
+discourage people, but it will save you from wasting a lot 
+of time - time which can be put to better use (heh, heh). If 
+these were "the good old days", it would be different. The 
+old three slotters used a simple lever tumbler "locker" or 
+"mailbox" lock which could be picked with a couple of mod- 
+ified Allen wrenches (accept no substitutes). Old timers 
+tell me they hit two or three boxes every day. They always 
+contained at least $75 each, and that was back when the $ 
+was worth something and the coins were silver, 
+It was too good to last. Whatever else I think of The 
+Phone Company, I must admit that they learn from their 
+mistakes. TPC added a tubular lock. It was smaller in 
+diameter that the standard Ace so one couldn't use the 
+regular blank and key machine. To pick it, one had to make 
+a very special pick, instead of buying it. 
+Then TPC brought out the Fortress Phone. The lock 
+has a hardened surface and the frame has hardened stain- 
+less steel inserts, It is an eight lever type and highly pick 
+resistant. Only seven hundred have been picked in the 
+country, according to a report in an AT&T house organ a 
+couple of years ago. Each of the eight levers has five 
+positions, so 5°=390, 625 possible keys. There is no such 
+thing as a master key for this type of lock. It is difficult 
+to pick because when you throw each lever, it is easy to 
+throw it too far and it jams and you have to start all over. 
+The most practical method is to train fleas to crawl inside 
+the locks and read the sizes of the levers and then fit indi- 
+vidual keys to each lock. 
+One often sees Fortresses bearing indications of unsuc- 
+cessful assaults. Attacking one with a chisel or crowbar 
+is a waste of time and energy. The picture of the back of 
+the cover plate shows how formidable it is. You will note 
+that hardened stainless steel bolts lock into all four sides, 
+But like any safe, the Fortress has its vulnerable areas. 
+When someone (I wonder who?) puts epoxy in the lock, TPC 
+has to open it somehow without destroying the whole thing, 
+so they drill in the proper places through the cover and the 
+rotating plate, which are not hardened, Where do TPC's 
+employees drill? Well, I imagine they might drill out the 
+stop at A', drill and punch out the pin atC!, and drill away 
+the four places marked D. This would permit the one side 
+bolt to be retracted and permit the plate to rotate, retract- 
+ing the other three. An alternative method might be to drill 
+and punch out the four pins, but the stops at 
+A prevent the 
+bolts from moving in the guides B. If they then drill out 
+the stops A, I believe the four bolts can be retracted man- 
+ually. Gravity helps the top one but hinders the bottom one. 
+The extension on the side (left in picture) remains in 
+either case and may necessitate use of a crowbar. 
+Tam not suggesting that anyone use a battery powered 
+electric drill with quality cobalt high speed drill bits (not 
+Canal Street Japanese junk) to rob TPC, Whether the 
+amount of work and risk required is worth it is something 
+only the prospective perpetrator can decide. However, if 
+you are determined to lead a life of crime, it is advisable 
+to determine how much money is in the box before proceed- 
+ing. This will cost you 10¢ or a slug. Make a phone call 
+and when the coin drops into the box, you can tell how full 
+it is by how it sounds. If it bounces off the bottom, it is 
+empty; if it quietly slushes in, heh, heh... 
+One still finds the old three slotters without Ace locks 
+in some rural areas. GTE, I believe, uses pin tumbler 
+locks on the left side of the Fortress. Any info you have 
+about these would be appreciated. Offhand, I would guess 
+they are reasonably easy to pick, though not as easy as is 
+shown on TV. 
+Mr. Phelps
+TOP 
+Right side when 
+viewed from outside 
+5 3/4" 
+4 5/8" 
+> 
+Coin's eye view 
+of Cover Plate 
+Drawing may not be exact size due to alteration during printing process 
+Letters From Readers 
+Dear TAP, 
+Theta the pay TV company has gotten wise to 2+8=Z (Issue 
+#217) and put a scrambler on all non-Z lines. It's a resis- 
+tance filled white box on the telephone pole where the house 
+cable joins the main line. Easy to remove or to bypass its 
+guts with a simple co-ax wire. So Z is still free if you can 
+climb a telephone pole. 
+-CALIFORNIA- 
+Dear TAP, 
+How elaborate a design do you seek for a radio jammer? 
+You may know already that it takes a signal only slightly 
+stronger than the "bonafide" one to completely block an 
+FM station. You know about capture ratio...So, if one is 
+sufficiently close to the victim receiver with his small FM 
+oscillator, you can kill the legitimate broadcast (or even 
+utility) service. I built a small (single) transistor oscil- 
+lator, tunable, to kill the offending audio in the apartment 
+next door. If you radiate a clean signal (no audio modu- 
+lation) you can completely silence an FM set, I suspect 
+the effort required on an AM station, to be successful, 
+would be too great, needing much more power, not to 
+mention antennas. Here, we rely on the nuisance value of 
+heterodyning against the "bonafide" signal; it simply makes 
+it difficult or unpleasant to hear, But, you don't wipe it 
+out unless you're really hosing some power! Might as 
+well concentrate only on FM stations. HMMM,,.It sure 
+would take a lot of jammers to put the NYC pigs out of 
+business, but it might be somewhat easier if one jammed 
+their repeaters. Guess they have a few. 
+-SINBAD-
+Inflation Hits TAP 
+You know what that means, For four years we've kept 
+the price at $2, which isn't much. Compare that to your 
+monthly phone bill. Starting Dec. 1, bulk rate 10 issue 
+subscriptions will be $4, the first-class sealed rate and 
+Canada stapled rate will be $6, and the foreign surface 
+rate will be $7. An establishment newletter of equal value 
+would cost at least 5 times as much. Unlike them, we will 
+continue to send free subscriptions to indigent students, 
+prisoners, and others who explain to us why they can't 
+afford to pay. 
+So you won't think we're getting rich on it, here's what 
+the money will be going for: Increased postage and printing 
+costs, office expenses, and increasing our bail fund at the 
+insistence of our more paranoid volunteers. Al Bell didn't 
+want to raise the rate but finally agreed to, when we agreed 
+not to defenestrate him. 
+Here is our revised Destructory Assistance list. See 
+previous issues for trading conditions. 
+Phones 
+Laws, 
+Black, Blue, &Red Boxes 
+Electronics 
+Bell Reprints 
+Chemistry 
+Bugs and Scramblers 
+Pol: 
+Radio 
+& TV 
+Interesting phone #s 
+Cuedit Cards 
+Test numbers 
+Installation & attachments 
+Payphones 
+Domestic & Foreign Codes 
+Locks and Security 
+Vending Macaines 
+Slugs and Foreign Coins 
+Personal Survival 
+Ui 
+ies (Electric & Gas) 
+Miscellaneous 
+We need info on: 
+Vending Machines- locks, techniques for getting your 
+money's worth, 
+Locks- code books, picking methods, safe manipulation, 
+sources of supply. 
+Radio- pirate stations, jammers, etc. 
+Cable TV- 
+tapping into the line. 
+tilities- info on N, J, Public Services' round ceramic 
+electric meter seals. 
+Burglar alarms- Holmes & other central station systems. 
+Printing- methods, magnetic ink used in printing checks, etc. 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to - 
+PAID 
+TAP, ROOM S04, 152 W. 42 ST., N.Y,N.Y. 10036 
+@ Credit Card Scanner 
+‘A holographic memory unit that can check a 
+credit card holder's rating within three seconds is 
+now being manufactured in California. 
+The 
+device—which spells doom to con men or 
+those who utilize stolen credit cards—is already being 
+used by several hotel chains. In addition, some 
+gambling casinos in Las Vegas have installed the 
+rized mechanism is keyed to a laser 
+beam and permits as many as 700,000 credit ratings 
+to be put on a 30-foot strip of 35-millimeter film, 
+‘The memory unit is used only to keep track of 
+bad 
+credit risks. By inserting the credit card into the 
+device, 
+it ean be determined whether or not the card 
+holder is on the list of bad risks. 
+The International Teamster 
+Back Issues-Listed by feature articles 
+50¢ each, 40¢ each if complete set is ordered. 
+1-Extensions, Conierence Switches 
+2-Blue Box Story and Abbie on Ripoffs 
+3-Telecommand Story 
+4-Pay Phone Issue 
+ceed 
+Early Model 
+7- Tuning your organ, 3-slot ripoffs 
+8-Credit Card Calls/1972 Code 
+9 
+10 Black Box 
+ir 
+12 Blue Box Plans 
+13 Int'l calls & Codes, Bluebox plans 
+14 More codes, AT&T Papers, Ca. Test numbers 
+15 1973 Credit Card Code, T network 
+16 Red Box plans 
+17 Red Box, Line Relay, Don't Get Busted 
+18 Outgoing long distance call stopper 
+19 Snoop light, Taping Fortress tones 
+20 Cheese Box(Conference line, or loop-arounu) 
+21 Automatic Phone Tap, Convention Report 
+22 Answeroo, "How we catch Red Boxers" 
+23 Free Electricity 
+24 Fraud Detectors, Index of TAP issues, 1974 CC Code 
+25 New Red Box, Free Gas 
+26 New Bluebox, Con Ed key (also 23, 29) 
+27 Free Electricity, Blue Box Correction 
+28 Reading Computer bills, loop suffixes 
+29 Improved Bluebox & Snooplite, Int'l codes 
+FACT SHEETS -25¢ each 
+1. Credit Card Calling Hints 
+2, Receiving Long Distance Calls Free 
+(Same as Issue 11 for General Telephone Co. 
+Customers instead of Bell Telephone Co.) 
+Displayed Red Box 
+2600 Whistle Berieci 
+50¢ per set. 
+Dual tone oscillator: 
+Anti-Bell Button-50¢ 10/$3 
+BOOKS 
+Steal This Book-$2, 25 
+Monopoly - 
+$1.20 
+Courses-50¢ each: A-Basic Electricity, B-Alternating 
+Current, C-Basic Phone Operation, D-Amplifiers, 
+Send Check or Money order only to ‘TAP 
+Address: Room 504, 152 W. 42 St, New York 10036 
+(This is a Mail Drop only) 
+Office: 1201 Broadway, Rm. 608, Wed. 4-7 pm. 
+NYC 10001 
+BULK RATE 
+U, S. POSTAGE 
+Permit No. 209 
+Great Neck, N.Y.

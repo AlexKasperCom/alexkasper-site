@@ -310,6 +310,18 @@ Example:
 local_file: 1995-04__en__Games-World_Return-Fire.pdf
 ```
 
+### `prefer_local`
+
+Optional. When `true`, the "Read/View" link on the single page always points at `local_file`, even when `source_url` (or an archive URL) is live.
+
+```yaml
+prefer_local: true
+```
+
+By default the link prefers the first live source in order: `source_url`, then `archive1_url`, then `archive2_url`, falling back to `local_file` only once all three are dead or unset. Set `prefer_local` when the local copy is the better reading experience than the live source — e.g. a periodical archive with its own corrected page order and OCR pass, like the TAP archive.
+
+This is a separate flag from `source_dead` / `archive1_dead` / `archive2_dead`, which track actual link health and should stay accurate. Don't mark a live source dead just to force the local file to surface — set `prefer_local` instead.
+
 ---
 
 ## Print-specific Fields

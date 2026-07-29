@@ -1,22 +1,610 @@
-TECHNOLOGICALAMERICANPARTY
-OCTOBER73
-BUILD THE ANSWEROO1 watt,1000 ohm, Relay 2ResistorAMA oyo — "A "W C taRelay 1 ontacts*—"B" ContactsTo red& greenphone line wires<-~-~ ee ee 9 Mfd/400 VoltCapacitorLamp
-SPIRO AGNEW- Its it really an anagrarm-GROW A PENIS???-CCR-TAP DA.Destructory Assistance has a new list of subjectsout, which you can find out about by sending us infoon that or another subject. If you don't have info totrade, don’t worry, we edit and condense the mat-erial and put it in TAP. To trade info with DA, justsend us a Stamped, self-addressed envelope _ largeenough to hold the info you want, which we'll try tofind for you. Wait a couple of weeks for us to dig thestuff out of our files. We've got different schematicsfor blue and black boxes, articles on bugs, a copy ofthe Bell memo on tandemstacking, newspaper articleson phone phreaks, Free electric and gas meters, andlots more. This is TAP's major source of info soplease help us out Our list of subjects is freewith an envelope as above. And if computers isyour thing, write to HEAD CRASH- DA‘s computerpasswo:'d and information exchange to trade info.And if you're a computer novice, write for HeadCrash's new Beginner's Course on Computers (50¢),More Head Crash Courses will be available soon.NEW RATES 1}!Bers Jssves are SY e+.MULSCTIOns - °% .ssues - US Bulk rate $b.US First Clasc in plaln sealed envelope $7.Cancdy & Mexico First Class $7.rT relma $A.RIPQRTAIIT| Include mailing label or Xer-x copywhen writing to TAP aboul your subscription.Bok - Monoly $1.20.ElectronicCovrses - £0C¢ach A - DC Basics,B- AC Basics, C - Prone asics, D- Amplifiers.TAF T-shirts $4. Specify sive: Small, Med., Large, X-Large.Send dnly check or money ord?r (No Cash)toTAP, Rowm 418, 152 West 42 Breet, New York, N.Y. 10056Thisisa malldrop 2aly,
-or,The Answeroo is a handy device offered by no one(yet) thet answers your phone before it rings. This isespecially useful to lovers who live in their parent'shomes and like to call each other late at night. Insteadof the phones in the house ringing, a light or other ap-pliance (radio, TV,etc.) comes on. You can then goto the phone, turn off the Answeroo, and talk,Relay 1 is the Line Relay(Issue #17). When the phonerings, it sends current to Relay 2 and the light. Contacts"B" lock Relay 2 on, and Contacts "A" put the phone onhold(not free), Using 9 56 volt zener diode in place of the1000 ohm resistor would give a "free" hold until you ans-wered the phone, unless you then answer with a BlackBox(Issue #11). The single-pole, single-throw on-offSwitch, two 115 volt ACrelays(one of them should bedouble-pole, the other single-pole, for relays 2&1 re-SpecHively), the 5 mfd. non-polar capacitor (200 voltsor more), and a resistor are all you need. Cost-under$15. Have fun!HELP IS NEEDEDWe need more information on the following topics forupcoming articles in TAP,To raud tectors and Detection », andespecially Black Box detectors(Hekiman Labs), Wealready have Teltronics info.t e Electricity -IMPORTANT-if you know anything about it please write in quick!Magnets- We'd like to know all esoteric uses formagnets that you know of.DEFENSE FUNDPlease send whatever you can afford to preventAbbie and his friends from being sent to jail for_ life (no parole for 15 Years), because cocaine isclassified as heroin (though it is non-addictive andshunned by junkies). Send your support to AbbieHoffman & Friends Legal Defense, 640 Broadway,N. Y.,N. Y, 10012, Please don't sand cash. Thanks.
-
-Ri-This may end some of the confision about the numberto call which gives you a compiuter-generated voiceteLuing you yourphone mumber: [In NYC there are 4roumbers-They are:73), 840, 953, 880. One will alwayswork{except in a few C.O. S) The numbers rotate eachmonth, Cther bores maylead or lag i: month,List isfor 1973 but[ think it will de Same next year.~ LH, NY-TAP-You mighttell PheDow Phreaks in NYCthat there arethree different J-dight numbers to dial for finding outthe number you're calling rom, and that they are _rpeg-jonal, What's more, Pa Bell Likes to switch 'em now &then to confuse us. That's the reasonithey're regional)that cone might work for one area bul no: another. Theyare, 959,311, and 221, If NY. C. telepnone subscribershave suspected that the number of “additional messagewits" they're being charged for on their monthly bill istoo high, it's probably true. I got it an good authority(a former operator) that NY Tel routinely overchargescustomers on additional m.u.'s every month. And theyget away with it since message units are not verifiable,because they are notitemized Like tollcalls. You havetotaketheir word,The paddingtakes place notinthecomputers dut in Accounting, where Pa Bell's nhard-working CPA's are under orders to pile on a beap ofextra message units because who'll be the wiser? Andwhen one complainsto the B.O. Rep. thathe keepstrack of his calls and coukin't possibly have made somany, we're told that they will’theck our equipment"@ ruse, a diversionary tactic, because that's ant wheretheskuliduggeryis being Gone. Get it?“H.R, Hoktifone-Dear TAP,There existed among the jang back in Vancquver somevery sick minds who delighted in setting vwrious partsof a payphoneon fire, Whal tbey woulddo ls openthephone bookup aroundthe middle, pourgasoline on same,nlaced a paper cup containing a particular mixture in itupon the soaked book andwalk away. In about two min-utes, thebook would be aflame and wouldparboil theplastic handset into submission and if the nooth liselfwas molded out of plastic, a cheerful blaze greetedthe pagsand other suchcarboncompacunds. The mix-ture in the cup was about half a heaping tes4poca ofPotassium Permanganate(chemical and hopby stores)and, to be added fust before an innocent deparnoire,one drop of glycerine(drugstores for ointment use).This pile of goodies usually erupts into a white hotflare capable of igniting almost anything, includinggas fumes. Thea reaction,by the way, takes from Wseconds on a hot day with finely ground Pot Per %6 minutes on a cold day with clunky Ccmpound P.Also ideal for quiet Little garbage cans at school ormaybe ever. Telco vehicle's gas tank ina small bag-gie or a gas sodden piece of construction thal youfeel is bad for the environment or simply remote &safe ignition of fireworks. Fagen Das Telefurxen Ges-elischaft!| Freundlicast,-BW, MANITOBA-We have scme inexpersive instructional plan sheetsfor the display models featured at the Convention. The2600 whistle perfector is a 2600 detector similar toexisting toll-fraud detectors. The Displayed Red Boxis Similar to Issue 618'3 circult with an improved ICtimer, LED Lights to demonstrate speration, andafew other improvements. The circuit can be used as& portacle with a few changes we explain, and is farmore reliable than the older circuit. The Dual ToneOscwWator is a circuit for demonstrating signallingtones, and can evenbe used aS a simple Dive box. Thesheets are 15¢ eachifree if you can': afford 10. Wealso have copies of tne Convention schedule(free),including Cap'n Cruach's and Joe Engreasia's ¢*s.
-YOU DECIDE:TAF wouLd LUKE TO MAKE.A T-SHIAT FOR You. Ber we.waar yout OPINION,SO WATE5"HERE ARE. THE CHOICES.
-Dear TAP,Whenusing a blue boxto call any country which is onthe IDDD list, Lf it has a 2-digit country code you canlaave off the zer> from infront of the country codeonce you have obtained a registerti, ¢, -KP31 22074 ST‘nabead of KPO8] 22974). It will be weated as a cust-omer-dialed call, which means you won't be able toreach the toward or cther >perators. If jt is a 3-digitcountry code then it will be automatically treated as@ customer-dialed call unless you use a gpecial "op-erator country code" which starts with 0 & bas no re-lation to the regular C. C.-H, GORDON LIDDY, NY-To Destructory ASsistance~-Two FOTC accessable areas are 202 and 713, Any WATSmunber such as 800-3¢2-KXor 400-424."K XKbo theseareas will work, Also 300-447-XXXX. (IOTC means youcan box KP 311 country code ST and you'll pe automaticallyrouted to the correct 18- sender).is there a direct route toMoscow off of the 182 sender?(White Plains) I've been qget-ting some overseas point by dialing KP1S2ST, APATLIZIST,It's usually a busy signal (distany and when I call Japan andask for “Moscow she says it's too eariy in the morning andthey don't answer.Dial KP713141ST or KP202 141ST and ask for"overseasrouting for Paris France please”, or whatever. Asx forIOTC. She'll give you all the routing instrucdons(ignore"Mark XXX...7). Call KP7LSLSIST. It's called '1St al-tempt failure desk" and it will record everytaing you sayto it, Playa radic newscast for them ortalkabout obonepareskin4: ~Sw, TEXAS-NOTE: You can reach a Moscow Test Center by usingoverseas sender KPISGST, (although it's suppoced to beserved by NY4, .83) of IOTC KPOLLOZIST, then KPO7)O95 080ST, when the trunk chirps play KPOL6ST. AMoscow tast board will answer. They cften speax someforiegn languages(including same poor English}. Also,try Israel, 772, or :ust 72. Here are some cities:2- Jerusalem 5S3-36378-Tul Karem 09-¢3854-Genin3-Tel Aviv 53-36373-Nablus 2-97-Hebron4~ Haifa o9Elat 2-922610~Auja§3-Natania 65-Afula, Nazareth
-
-yoluneter r
-Dear TAP,Did you kmow the restricted Line feature of many Cen-trex installations can be bypassed? One may usuallycalloutsicebydialing 9 for an externaldialtoneandthen dialing the number, provided tnat it Lies in thelocalarea.Lf more than 7digits aredialed a record-ing comes on. Bul this may be bypassedbydialing9then0followed Immediatelyby the first digitof the§then complete dialing of the number without the areacode. When the assistance operator comes on insistthat you have been having difficulty, reaching the localmimbereven though you've beendialingthe area code.Then you ask ber to ury the numberfor you, billing itto a credit cardor the centrexlina. Thisinfoshouldbe wery useful,-JA, NY-Dear TAP,Toll restrictors are usually used at motels that havedirect dial out typephones, A typicalonewillsay *Dial 8 for local’"Dial 9 for long distance". When youdial 8 or 9 you will get another dial tone and thenyoucan proceed to dial your own local qumber. SomePhones you candial infoand/or 800 withoutlheoper-ator coming on the line butthese are rareandonmoattypes, the operator comas on the line andmakes yourcall. The toll restrictor will not allow youtodial 71"in order to make your own long distance calls. HoweverSeveral of these restrictors only protect the first andsecond digits and canbe beatin the following way...Dialthe one digit shownon thephone to make localcalls (usually 8) thendial thefirst bwo digits of theexchange you're in plusthe digit 1 and you will findanéw dial tone and the world at your fingertips. Youmay dial direct and the motellineis chargedforthecall, or you may use your favorite box without worry,asSuming you have usedanother name attheregister.Sparky-Dear TAP,Tamanelectroning technicianbytradeanda past em-ployee of Pa Bell and Johnny General. I have been aphreak since 196d whenImade my firstfreecall,The resistance of the ringers is not the factor meas~ured when friendly test board "bridges” your line. Thecircuit{basically}chat they use is as follows:You will receqnize the circuit as a simple ohmmeter,but why is th: voltmeter connected in series?I don'tknow but Pa measures current with it, *100 volts ofShort” means 4 dead short on the line. Zero volts,anIn InPhone Building yourhomecahies 4| , 2650 oA lot of misc. junk100 voit testbattery cables0-100vers ow(DPDT Center Offopen. Now the {mportant part, the reversing switch. Thetestboardman fips it back and forth and the bounce of themete rthook an ordiniry chmmeter to a capacitor and re~verse the leadea and you'l see tha same effect) lets himestima:e the # of ringers. Cruddy insulation, temperature,and distance from the C. 0, affect readings. A key tele-~-phone may look {ixe 3 ringers, etc, Capacitance is mostimportant with the D.C. winding resistance next. At oneflip per second, «oll inductance us very important, too. Asor detecting phones vjthout ringers, Pa Bell can'tdojt., have 17 telephones and & hey systend!I use my own “onebel. simulator“, 36500hms and .47 mfd. in semes). Youcan Safely connec: as many ringerlesSs phones as you Like.Peace be wilh you on ihe tandems foreverlia-chirp).-Almon B. Strowger, CA, -NOTE: Connecting extra extensions is in Issue #1,
-NOW WE CRICW RED BOXERSby Milton Moritz, United Telephone SystemI personally viewthered daxas a muco less dan-gerous item to us than theblue box,The basisfor thisis am follows1. The red bax does not work onallpay phones. Thee@lectronic tones which it producesmatch those of ihenaw “singte slot” pay stations. Older pay phones stillusethe twointernal delis to register thacoins droppedInto thephone.2, Telepbone operators are trained the electronictones. Our pay stationsallproduce exaculy the samstones. Lf the redboxisslightly oul of adjustment, theoperator will normally recognize the toneas abnormalandreport the call for further inguiry or invesugation.3. Each tollcall, whetherfrom aresidence phone orpay station, Ls ratedand billedby our computer, Theamountofmoney collected from each pay stationis alsoreportedto data processing and a computer printoutcompares thecallsbilled tr that station aguinst themoney collected. Whena pay station starts going “short*we immediately checicto seeif thisis electromechanicalfailure, operator error, data processing problems, int-ernal theft, or external theft. Thieves andcheats ara,s us(our emphasis), creatures of habit,andtheir activities will form a patternin a fairly briefperiodof Ume, ”Security Latter is an anti-ripoff newsletter for corporations that 1s itself a ripoff at $48/yr., and wh at-tended our convention last year without permission torip us off and report on the convention in TEd, Robert McCrie's latest issue, we're told, ripsoff part of Ron Rosenbaum's excellent article fromthe Vilage Voice on our secondconvention. If youhappen to be receiving SL, you’re wasting your money.The articles are a waste and filledwith Stolenerrors.anyway. “TAP,Deay TAP,In a past issue, you told us about Security Letter,and [ sent off for a subscription. Why the fuck didn'tyoupeopletell me that they also charge $45 ayearfor 2 eubscription to their 4-page deal that comescut every 2 weeks. A little hint about sending tale-gramspy phone I sent one to FloridaonApril29,and ditin’t get the dill until September 1. A nice littlething to keep in mind... You mentioned this obliquelyin one issue, butIthought I'd clarify it. To geta callfor a rickel on a fortress phone: inserta nickel. Youwillhear a slight change in the background noise. Holddown the hook switch until you bear a wary faint clickLn the handset, about a second. Lat up the hookswitch,and you have a dial tone. Unfortunately, the dial willnot be connected, So you have to tap oul he numberonthe hookswitch, which takes practice.-CS, HOUSTON-Dear Persons,Under tha bank Secumty Act, passed Several yearsago, all banks that handle checking accounts mustmake paoto copies of al] cancelled checks and keepmicrofilm records in their central records dept. Thesecopies can ba inspected ondemandby Treasury Dept.agents, withoutany warrants whatsoever. When theFed snoops get around to harrassing radical liber-tarians(individualist anarchists) then [ll be understrong possibility that Big Srother is watohing myfinaccial wrancactions. Until when, however, ['m notgoing to give them a bead Start Over a miniscule SOFcheck to YIPL. (I'm not saying "I don't care until ithits me"), ACLU, Prexmure and others are fightingthe Act, but Chairman Patman of the House Bankingcommitte Ls for it and won't bold hearings on it.-RE, NY-NOTE: TAP suggests readers send money orders,whichneednot containyourreal nameoraddress.
-
-Pacific Telephone ('e .dhepiceacd over the giuw-ing gameemanship of iixcumerners who deliberate-ly won't mrt postageenvelopes used
-SF CHROWICLE
-Bamp game. company peo-ple sald. will certainly bepassedonto telephone cus-tomers.Here's what the phoneComnrpany has in store for thecustomers ft Getcribes as“postage offenders’:@ The Post Office.acting|on a phone company com-plant. wil! nowinterceptallma! fo Pacific Telephonethai Gees cot heave a postagestamp en il:@ If the envelope hasa re-turn sdetress, carriers willtake K back to the sender.collect eight cents for pos-lage ang ten cents tor han-diuny «aad the senvidet willheve lo pay another eightcents for a a@ew aslamp temiait his ball@ |f there 15 no returnac-dress. the Post Office willopen the envelope m an ef-tort io locate the sender,and, if it can't. postal offi-cials will destroy the checkser money orders or returnthem to issuing agencies toslop payment! on them.° If the paymemt i: {6cash and there is no returnaddress, the Post Office willeventually turh the moneyover to its general fund
-10/2/73Ma Bell's Ripoff Warning(used to pay olaims on Insured mail).Phone company officialssaid yesterday that in wherethe Post Office interceptsmatl and is unable to findthe sender. the customerswil be considered delin-quen? on {heir billsSune the aserie liowse-lidd iclephone full in theBay Area is $15 per month,the phone cemrpany efficialyadmit there is some risk ttthe company treasuryin thecrackdown.“Wa don't think we willbose a substantial amount inthe Mit place,” sald aspokesman.“In the second place, webelieve our warning willsolve theproblem.”Pacific Telephone. estt!-mating a 38 per cem in-crease this year in tho sostamp practice. is not alone.of course, in the field.Other utilities — al-ly Pacific Gas andCo. — along with banks, irsuraece and oil comparesaad meg depactment rteretath «oo get) os caught) =owthpowlege-due messages fromtheir most los al customers.Nothing mentioned about many EMPTY (or stuffedwith bill envelopes folded), Hal-CA LIFORNIA-CORRECTIONOLD INCORRECT
-q NEW CORRECT1OK
-One more correction to the Displayed Red Box sheet.Published for informational purposes only by the Technological American Party,
-is22
-BEGINNERS ONLY!You can now learn about Electronies easily andquickly with our new Correspondence Course, Thefirst one is on Basie Flerctrical Concepts and includesa few TAP-type projects and easy-to-read explana-tions of electricity. By reading this and others com-ing out each month you'll) learn how to build any ofthe projects that have n printed by uo In the past.You'l) learn how to read schematics, buy parts andmaterials cheap, safety, etc. You can no longer saythat whal we publish is above your head because anybeginner can learn from these courses, Women areespecially arged to take the course as thcy usuallyhave @ fear of electronic concepts and this coursewill be understood by all, Let's hear from you! It'slike a back isSue and is SOC, and free lf you can'tafford it{let us know).Dear TAP,Bell's PR dept. has free films available on varioustopics such as TASI, ESS, EDDD. Call up telco bus-=iness office, and say you would like to find out aboutrenting phone co. educational films, Put on your bestSunday School voice, and tell them that you're incharge of programming for your church youth group(that's how I found out), If they ask what church, havea name ready. They have a nice brochure, and someof the films are very informative. :Have you ever mentioned the fact that out-of-cityphone books can be obtained free from Pa? Just callthe business office and say you want to get a phonebook for another city, They'll switch you to the rep.for your exchange. Give her the info, and she'l(orhe'll) get your name & address. If they ask why youwant it, just say that you've just moved from thereand have a lot of friends there, When they ask if it'sa business or residence, say residence(they chargebusinesses more).Dear TAP,Just thought you might be interested in a few piecesof information. First of all, a guy named Dial hasinvented a lie detector that can be used over thephone. Fun, huh? It measures the streseé in a per-son's voice. He also said that he had sold them toP, D.'s, Gov't. agencies and Big Corporations!What corporation has more voices to deal with andis larger than our friend Pa? Don't get stressedwhen calling! Right!For you bugged phreaks, Samuel Line, Jr.,Vice-President of a Bell subsidiary in Penn., says,"We have been historically against wire-tapping".However, Bell provides a line to the FBI if neededdirectly from the_tapee's home,You can beat the simplest type of bug (A trans-mitter in the phone's microphone) by ripping a newmic.off from some other phone and replacing yourtransmitter with it. If you bang a payphone longenough, the mic. will loosen up, Keep up the goodwork,-P, ARIZONA-4 TAP, ROOM 418,152 W.42 ST., N.Y, N.Y,10036
+TECHNOLOGICAL 
+AMERICAN 
+PARTY 
+OCTOBER 
+‘73 
+—. 
+SPIRO AGNEW- is it really an anagram-GROW A PENIS??? 
+-CCR- 
+TAP DA. 
+Destructory Assistance has a new List of subjects 
+out, which you can find out about by sending us info 
+on that or another subject. Lf you don't have info to 
+trade, don't worry, we edit and condense the mat- 
+erial and put it in TAP. To trade info with DA, just 
+send us a stamped, self-addressed envelope large 
+enough to hold: the info you want, which we'll try to 
+find for you. Wait a couple of weeks for us to dig the 
+stuff out of our files. We've got different schematics 
+for blue and black boxes, articles on bugs, a copy of 
+the Bell memo on tandem stacking, newspaper articles 
+on phone phreaks, Free electric and gas meters, and 
+lots more. This is TAP's major source of info so 
+Please help us out. 
+Our List of subjects is free 
+with an envelope as above. And if computers is 
+your thing, write to HEAD CRASH- DA's computer 
+sword and information exchange to trade info. 
+Peand if you're a computer novice, write for Head 
+Crash's new Beginner's Course on Computers (50¢). 
+More Head Crash Courses will be available soon. 
+NEW RATES 1! 
+Basis James are 505 oct. 
+‘Bukperintions - *5 sesues - US Bulk rave $b, 
+US Firat Ciass In plain scated envelope $7. 
+‘Cantila & Mexie> First Class $7. 
+Firelyn $8, 
+LAPORTALT 
+Includo malltag tabol ar Xorcx copy 
+‘ate arity ta TAP abet your mbaeriptin 
+ig ~ Manapaly $1.20. 
+Courses 
+- SOF each A - DC Eusics, 
+Be baal, C= Sie 
+TAP Tesnirts 
+$4. Spe 
+Sond anly check or monoy 
+TAP, Room 418, 152 West ¢ 
+ai 
+fen, D- Amplifiors. 
+a 
+0991 
+BUILD THE ANSWEROO 
+1 watt, 
+1000 chm, 
+Relay 2 
+Resistor 
+AAA 
+To red & green 
+Phone line wires 
+"A" Contacts 
+<—"B" Contacts 
+Lamp 
+‘The Answeroo is a handy device offered by no one 
+(yet) thet answers your phone before it rings, This is 
+especially useful to lovers who live in their parent's 
+homes and like to call each other late at night. Instead 
+of the phones in the house ringing, a light or other ap- 
+pliance (radio, TV, etc.) comes on. You can then go 
+to the phone, turn off the Answeroo, and talk. 
+Relay 1 is the Line Relay(Issue #17). When the phone 
+rings, it sends current to Relay 2 and the light. Contacts 
+"B" lock Relay 2 on, and Contacts "A" put the phone on 
+hold(not free). Using a 56 volt zener diode in place of the 
+1000 chm resistor would give a "free" hold until you ans- 
+wered the phone, unless you then answer with a Black 
+Box(Issue #11). The single-pole, single-throw on-off 
+Switch, two 115 volt AC relays (one of them should be 
+double-pole, the other single-pole, for relays 2 & 1 re- 
+spectively), the 5 mfd, non-polar capacitor (200 volts 
+or more), and a resistor are all you need. Cost-under 
+$15. Have fun! 
+HELP IS NEEDED 
+We need more information on the following topics for 
+upcoming articles in TAP, 
+Toll Frau 
+tors and Detection’Methods , and 
+especially Black Box detectors(Hekiman Labs), We 
+already have Teltronics info, 
+ing Free Gas and Electricity -IMPORTANT- 
+if you know anything about it please write in quick! 
+Maqnets- We'd like to know all esoteric uses for 
+magnets that you know of. 
+DEFENSE FUND 
+Please send whatever you can afford to prevent 
+Abbie and his friends from being sent to Jail for 
+Aife (no parole for 15 Years), because cocaine is 
+classified as heroin (though it is non-addictive and 
+shunned by junkies), Send your support to Abbie 
+Hoffman & Friends Legal Defense, 640 Broadway, 
+N.Y.,N.¥, 10012. Please don't sand cash, Thanks.
+Hie 
+‘This may 
+end some of the confusion about the number 
+to call which gives you a computer-generated voice 
+. 
+telling 
+you your phone number: In NYC there are 4 
+numbers-They are: 730, 840, 958, 880. One will always 
+work(except in a few C,O,s) The numbers rotate each 
+month, Other boros may lead or lag 1 month. List is 
+for 1973 but I think it will be same next year. 
+-FLH, NY- 
+TAP- 
+. 
+You might tell Phellow Phreaks in NYC that there 
+are 
+three different 3-digit numbers to dial for finding out 
+. 
+the number you're calling from, and that they are _req-- 
+donal, What's more, Pa Bell likes to switch 'em now & 
+then to confuse us. That's the reason(they're regional) 
+that one might work for one area but not another. They 
+are; 958,311, and 221. If N, Y,C, telephone subscribers 
+have suspected that the number of “additional message 
+units" they're being charged for on their monthly bill is 
+too high, it's probably true. I got it on good authority, 
+(a former operator) that NY Tel routinely overcharges 
+customers on additional m.u. 's every month. And they 
+get away with it since message units are not verifiable, 
+because they are not itemized like toll calls, You have 
+to take their word. The padding takes place not in the 
+computers but in Accounting, where Pa Beli's hard- 
+working CPA's are under orders to pile on a heap of 
+extra message units because who'll be the wiser? And 
+when one complains to the B.O, Rep, that he keeps 
+track of his calls and couldn't possibly have made so 
+many, we're told that they will'theck 
+our equipment"= 
+@ ruse, a divérsionary tactic, because that's not where 
+the skullduggery is being done. Get it? 
+. 
+-H.R, Holdafone- 
+Dear TAP, 
+; 
+‘There existed among the gang back in Vancouver some 
+very sick minds who delighted in setting various parts 
+of a payphone 
+on fire. What they would 
+do is open the 
+phone book up around the middle, pour gasoline on same, 
+Placed a paper cup containing a particular mixture in it 
+upon the soaked book and walk away. In about 
+two min- 
+utes, the book would be aflame and would parboil the 
+Plastic handset into submission and if the booth itself 
+was molded out of plastic, a cheerful blaze greeted 
+the pigs and other such carbon compaounds, The mix- 
+ture in the cup was about half 
+a heaping teaspoon of 
+Potassium Permanganate(chemical and hobby stores) 
+and, to be added just before an innocent departure, 
+one drop of glycerine(drugstores for ointment use). 
+‘This pile of goodies usually erupts into a white hot 
+flare capable of igniting almost anything, including 
+gas fumes. The reaction, 
+by the way, takes from 30 
+seconds on a hot day with finely ground Pot Per to 
+6 minutes on a cold day with clunky Compound P, 
+Also ideal for quiet little garbage cans at school or 
+maybe even Telco vehicle's gas tank in a small bag- 
+gie or a gas sodden piece of construction that you 
+feel is bad for the environment or simply remote & 
+safe ignition of fireworks. Fagen Das Telefunken Ges- 
+elischaftI! Freundlichst, 
+-BW, MANITOBA- 
+‘We have some inexpensive instructional plan sheets 
+for the display models featured at the Convention. The 
+2600 whistle perfector is a 2600 detector similar to 
+existing toll-fraud detectors, The Displayed Red Box 
+is similar to Issue #16's circuit with an improved IC 
+timer, LED lights to demonstrate operation, and a 
+few other improvements. The circuit can be used as 
+a portable with a few changes wé explain, and 
+is far 
+more reliable than the older circuit, The Dual Tone 
+Oscillator is a circuit for demonstrating signalling 
+tones, and can even be uged as a simple blue box. The 
+sheets are 15¢ each(free if you can't afford it). We | 
+also have copies of the Convention schedule(free), 
+including Cap'n Crunch's and Joe Engressia's #'s. 
+YOU DECIDE-> 
+TAP WOULD LIKE TO MAKE. 
+‘A T-SHIRT FOR You. BuT WE. 
+war youR OPINION, 
+SO WAITE 
+US’ 
++ 
++ HERE ARE. THE CHOICES. 
+— 
+Dear TAP, 
+When using a blue box to call 
+any country which is on 
+the IDDD list, if it has a 2-digit country code you can 
+leave off the zero from in front of the country code 
+‘once you have obtained a register(i. 
+e.-KP6122074 ST 
+instead of KPO61 22074), It will be treated as a cust- 
+omer-dialed call, which means you won't be able to 
+reach the inward or other operators. If it is a 3-digit 
+country code then it will be automatically treated as 
+a customer-dialed call unless you use a special "op- 
+erator country code" which starts with 0-& has no re- 
+lation to the regular C. C. 
+-H, GORDON LIDDY, NY- 
+‘To Destructory Assistance- 
+Two IOTC accessable areas are 202 and 713. Any WATS 
+number such as 800-392-XXXXor 800-424-XXxXXto these 
+areas will work. Also 800-447-XXXX. (IOTC means you 
+can box KP 011 country code ST and you'll be automatically 
+routed to the correct 18- sender). 
+Is there a direct route to 
+Moscow off of the 182 sender?(White Plains) I've been get~ 
+ting some overseas point by dialing KP182ST, KP171121ST. 
+It's usually a busy signal (distant) and when I call Japan and 
+ask for Moscow she says it's too early in the morning and 
+they don't answer. 
+* 
+Dial KP713141ST or KP202 141ST and ask for"overseas. 
+routing for Paris France please", or whatever. Ask for 
+IOTC, She'll give you ail the routing instructions(ignore 
+"Mark XXX..."). Call KP713151ST. It's called "Ist at- 
+tempt failure desk" and it will record everything you say 
+to it, Play a radio newscast 
+for them or talk about chone 
+phreaking. 
+-SW, TEXAS- 
+NOTE: You can reach a Moscow Test Center by using 
+overseas sender KP188ST, (although it's supposed to be 
+served by NY4, 183) or IOTC KPO11071ST, then KPO71 
+095080ST, when the trunk chirps play KPO1 6ST. A 
+Moscow test board will answer. They often speak some 
+foriegn languages(including some poor English). Also, 
+try Israel, 972, or just 72. Here are some cities: 
+- 
+2-Jerusalem 53-08378-Tul Karem 65-23854-Genin 
+3-Tel Aviv 53-98373-Nablus 
+2-97-Hebron 
+4-Haifa 
+59-Elat 
+2-922610-Auja 
+§3-Natania 65-Afula, Nazareth 
+.
+Dear TAP, 
+Did you know the restricted line feature of many Cen- 
+trex installations can be bypassed? One may usually 
+call outside by dialing 9 for an external dial tone and 
+then dialing 
+the number, provided 
+that it lies in the 
+local area. If more than 7 digits are dialed a record- 
+ing comes 
+on, But this may be bypassed by dialing 9 
+then 0 followed immediately by the first digit of the # 
+then complete dialing 
+of the number without 
+the area 
+code. When the assistance operator comes on insist 
+that you have been having difficulty, reaching the local 
+mumber even though you've been dialing the area code. 
+‘Then you ask her to try the numberfor you, billing it 
+to a credit card or the centrex line. This 
+info should 
+be very useful, 
+“JA, NY- 
+Dear TAP, 
+Toll restrictors are usually used at motels that have 
+direct dial out type phones, A typical one will say " 
+Dial 8 for local""Dial 9 for long distance". When you 
+dial 8 or 9 you will get another dial tone and then you 
+can proceed to dial your own local number. Some 
+Phones you can dial info and/or 800 without the oper- 
+ator coming on the line but these are rare and on most 
+types, the operator comes on the line and makes your 
+call. The toll restrictor will not allow you to dial "1" 
+in order to make your own long distance calls. However 
+‘several of these restrictors only protect the first and 
+Second digits and can be beat in the following way. 
+Dial the one digit shown on the phone to make local 
+calls (usually 8) then dial the first 
+two digits of the 
+exchange you're in plus the digit 1 and you will find a 
+new dial tone and the world at your fingertips. You 
+may dial direct and the motel line is charged for the 
+call, or you may use your favorite box without worry, 
+assuming you have used another name at the register, 
+~Sparky- 
+Dear TAP, 
+Tam an electronics technician 
+by trade and a past 
+em- 
+Ployee of Pa Bell and Johnny General. I have been a 
+Phreak since 1956 when I made my first free call, 
+The resistance of the ringers is not the factor meas- 
+ured when friendly test board "bridges" your line, The 
+circuit(basically)that they use is as follows: 
+You will re 
+e the circuit as a simple ohmmeter, 
+but why is the voltmeter connected in series?I don't 
+know but Pa measures current with it. 100 volts of 
+short" means a dead short on the line. Zero volts, an 
+In 
+In 
+four home 
+Phone Building 
+x 
+A lot of misc. junk 
+47 
+OW WE CATCH RED BOXERS 
+by Milton Moritz, United Telephone System 
+I personally view the red box as a much less dan- 
+gerous item to us than the blue box. The basis 
+for this 
+is as follows: 
+1, The red box does not work on all pay phones, The 
+electronic tones which it produces match those of the - 
+new "single slot" pay stations. Older pay phones still 
+use the two internal bells to register the coins dropped 
+into the phone. 
+2, Telephone operators are trained the electronic 
+tones. Our pay stations all produce exactly the same 
+tones. If the red box is slightly out of adjustment, the 
+operator will normally recognize the tone as abnormal 
+and report the call for further inquiry or investigation. 
+3, Each toll call, whether from a residence phone or 
+pay station, is rated and billed by our computer. The 
+amount of money collected from each pay station is also 
+reported to data processing and a computer printout 
+compares the calls billed te that station against the 
+money collected. When a pay station starts going "short" 
+we immediately check to see if this is electromechanical 
+failure, operator error, data processing problems, int- 
+ernal theft, or external theft, Thieves and cheats are, 
+like the rest of us(our emphasis), creatures of habit, 
+and their activities will form a pattern in a fairly brief 
+period of time," 
+Security Letter is an anti-ripoff newsletter for corp- 
+orations that is itself a ripoff at $48/yr., and wb at- 
+tended our convention last year without permission to 
+rip us off and report on the convention in Telephony, 
+Ed. Robert McCrie'‘s latest issue, we're told, rips 
+off part of Ron Rosenbaum's excellent article from 
+the Village Voice on our second convention. If you 
+happen to be receiving SL, you're wasting your money. 
+‘The articles are a waste and filled with (stolen)errors. 
+anyway. -TAP, 
+Dear TAP, 
+In a past issue, you told us about Security Letter, 
+and I'sent off for a subscription. Why the fuck didn't 
+you people teli me that they also charge $48 a year 
+for a subscription to their 4-page deal that comes 
+out every 2 weeks. A little hint about sending tele- 
+grams by phone: I sent one to Florida on April 29, 
+and didn't get the bill until September 1. A nice little 
+thing to keep in mind... You mentioned this obliquely 
+in one issue, but 
+I thought I'd clarify it. To get 
+a call 
+for a nickel on a fortress phone: insert a nickel. You 
+will hear a slight change in the background noise. Hold 
+down the hook switch until you hear a very faint click 
+in the handset, about a second. Let up the hookswitch, 
+and you have a dial tone. Unfortunately, the dial will 
+~ 
+100 volt test 
+battery 
+0-100 
+voltmeter. 
+Polarity Reversing Switch 
+mfd. 
+not be connected, So you have to tap out the number on. 
+the hookswitch, which takes practice. 
+-CS, HOUSTON- 
+cables 
+Dear Persons, 
+(DPDT Center Off) 
+open. Now the important part, the reversing switch. The 
+testboardman flips it back and forth and the bounce 
+of the 
+meter(hook an ordinary ohmmeter to a capacitor and re= 
+verse the leads and you'll see the same effect) lets him 
+estimate the # of ringers. Cruddy insulation, temperature, . 
+and distance from the C, O, affect readings, A key tele- 
+Phone may look like 3 ringers, etc. Capacitance is most 
+important with the D, C. winding resistance next. 
+At one 
+flip per second, coil inductance is very important, too, As 
+for detecting phones without ringers, Pa Bell can't 
+do it, 
+Thave 17 telephones and a key system(I use my own “one 
+bell simulator", 3650ohms and .47 mfd, in series). You 
+can safely connect as many ringerless phones as you like. 
+Peace be with you on the tandems forever(ka-chirp). 
+~Almon B. Strowger, CA, - 
+NOTE: Connecting extra extensions is in Issue #1, 
+Under the bank Security Act, passed several years 
+ago, all banks that handle checking accounts must 
+make photo copies of all cancelied checks and keep 
+microfilm records in their central records dept. These 
+copies can be inspected on 
+demand 
+by Treasury Dept. 
+agents,_without 
+any warrants whatsoever. When the 
+Fed snoops get around to harrassing radical liber- 
+tarians(individualist anarchists) then I'll be under 
+strong possibility that Big Brother is watohing my 
+financial transactions, Until then, however, I'm not 
+going fo give them 
+@ head start over a miniscule 50¢ 
+check to YIPL. (I'm not saying "I don't care until it 
+hits me"). ACLU, Proxmire and others are fighting 
+the Act, but. Ghairman Patman of the House Banking 
+committe is for it and won't hold hearings on it. 
+RE, NY- 
+NOTE: TAP 
+sts readers send money orders, 
+which need not contain your real name or address.
+SF CHRONICLE 10/2/73 
+BEGINNERS ONLY! 
+' 
+e 
+. 
+e 
+‘You can now learn about Electronics easily and 
+Ma Bell's Ripoff Warning 222225 
+=- 
+samp 
+game. company peo- 
+ple said. will certainly be 
+passed onto telephone cus- 
+tomers, 
+Here's what whe phone 
+company 
+has in store for the 
+to pay. 
+thelr Bills, took customers. it describes 6 
+wrest taepe yenterd 
+“postage offenders": 
+stop “the ‘ghtcemt: Hp 
+© The Post Office.acting , 
+at company arsed yes: antl ow lfercept 
+al 
+ot, will now intercept: 
+cee amar eta, Sah hati ne 
+MYT 
+ib air Snlllion 
+exsto 
+hat does not havea postage 
+mp on 
+it: 
+4 
+if the envelope 
+has are- 
+address, carriers will 
+take it back to the sender. 
+colteet eight cents for pos- 
+tage, and ten cents tor han- 
+nd the sender 
+pay anciher eight 
+cents for a new stamp to 
+mail his bill 
+© If there is no return 
+aa- 
+dress, the Post Office will 
+open the envelope in an ef- 
+fort to locate the sender, 
+and, if It can't, postal off 
+Gials will destroy the checks 
+or money orders or return 
+‘them to issuing agencies to 
+‘stop payment on them. 
+© Wf ine payment 
+is in 
+cash and there is no return 
+address. 
+the Post Office will 
+eventuaily 
+turh the money 
+over to its general fund 
+i 
+fi 
+ay 
+z 
+(used to pay claims 
+on Io- 
+sured mail). 
+Phone company officials 
+said yesterday that 
+in where 
+the ‘Post Office i 
+mail and is unable to find 
+the sender. the customers 
+‘wil be considered detin- 
+jue: 
+on their bills, 
+ene teaver louse 
+hold 
+tetephone ball va the 
+Bay Area is $15 per month, 
+the phone company 
+officials 
+admit there.is some risk to 
+the company treasury inthe 
+crackdown, 
+“We don't 
+‘hin. the second place, we 
+believe our warning will 
+salve the problem.” 
+Pocific Telephone. e stl 
+mating 2 30 per cent in- 
+erease this year in the no- 
+stamp practice, is not alone, 
+‘of course, in the field. 
+‘Other ulilities — especial- 
+ly Pacific Gas and Electric 
+Co, — along with banks, in- 
+‘i hig deporte ores 
+and 
+‘stores 
+an get cough a 
+slage-due messages from 
+reir most oval customers, 
+Nothing mentioned about many EMPTY (or stuffed 
+with bill envelopes folded). Hal 
+-CALIFORNIA- 
+CORRECTION 
+NEW CORRECT 
+4 OLD INCORRECT 
+{ 
+8 
+i 
+15K 
+39K 
+One more correction to the Displayed Red Box sheet. 
+a few TAP-type projects and easy-to-read explana~ 
+tions of electricity. By reading this and others com= 
+{ng out each month you'll Learn how to build any of 
+the projects that have boon printed by us in the past, 
+You'll learn how to read schematics, buy parts and 
+mmaierials cheap, safety, ete. You cin no longer say 
+‘that what we publish is above your head beeause any 
+beginner can learn trom these courses. Wamon are 
+espectally urged to take the course as they usually 
+have fear of electronic concepts 
+and this cource 
+veill bo understood by’all. Low's hear trom you! It's 
+ike 
+a back issue and is £0°,and free 
+Hf you can't 
+afford itflet 
+ua know), 
+Dear TAP, 
+Bell's PR dept. bas free films available on various 
+topics such as TASI, ESS, EDDD. Call up telco bus- 
+iness office, and say you would like to find out about 
+renting phone co. educational films. Put on your best 
+Sunday School voice, and tell them that you're in 
+charge of programming for your church youth group 
+(that's how I found out), If they ask what church, have 
+a name ready, They have a nice brochure, and some 
+of the films are very informative. 
+Have you ever mentioned the fact that out-of-city 
+Phone books can be obtained free from Pa? Just call 
+the business office and say you want to get a phone 
+book for another city. They'll switch you to the rep. 
+for your exchange, Give her the info, and she'li(or 
+he'll) get your name & address. If they ask why you 
+want it, just say that you've just moved from there 
+and have a lot of friends there. When they ask if it's 
+a business or residence, say residence(they charge 
+businesses more). 
+Dear TAP, 
+. 
+Just thought you might be interested in a few pieces 
+of information, First of all, a guy named Dial has 
+invented a He detector that can be used over the 
+phone. Fun, huh? It measures the stress in a per- 
+son's voice. He also said that he had sold them to 
+P,D,'s, Gov't. agencies and Big Corporations! 
+What corporation has more voices to deal with and 
+is larger than our friend Pa? Don't get stressed 
+when calling! Right! 
+For you bugged phreaks, Samuel Line, Jr., 
+Vice-President of a Bell subsidiary in Penn., says, 
+"We have been historically against wire-tapping". 
+However, Bell provides a line to the FBI if needed 
+directly from the_tapee's home. 
+You can beat the simplest type of bug (A trans- 
+_ 
+mitter in the phone's microphone) by ripping a new 
+mic. off from some other phone and replacing your 
+transmitter with it. If you bang,a payphone long 
+enough, the mic, will loosen up. Keep up the good 
+work, 
+Published for informational purposes only by the Technological American Party. 
+-P, ARIZONA- 
+¢ 
+22 
+x 
+TAP, ROOM 418.,152 W.42 ST., N.Y. N.Y.10036

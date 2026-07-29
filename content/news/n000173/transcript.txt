@@ -1,23 +1,726 @@
-IT'S 4PM AT ELECTRO -WHAT'S ON "TAP" ?You're attending an electronics trade show, and you knowthat“at least 2% of the folks attending have got to be fellowphone pbreaks, but you don't know how to make contact.Well, now there is a Sure way of meeting your phellowphreaks! At 4PM, pbone phreaks are known to get verythirsty, so they all seem to head to the main refreshmentarea of the exhibit hall, turn their name badges around,and put their home area code on the back. If the conferencehas a bulliten board, put the area code of the hotel on thelitle 3 by 5 card, and where you want to gather (main lobby,bar down the corner,ect), and wear your name badge inthe usual manner,Now that you Know how to greet each other at othertrade shows and technical conferences, it’s time to tellyou about THE BIG ONE....TAP- CON ’79TechnologicalHobbyistConference
-presentsTHE
-THC-79The Technological Hobbyist Conference (THC-79) willbe held at the Diplomat Hote] in New York City on SundayApril 22, 1979 from 10AM to 7PMEST, People wishing togive talks on a number of Subjects are invited to submitan abstract to TAP by February 15, 1979. Include a contactmethod (mailing address or phone number) with your abstract.Registration will cost $5.00 by mail and $7, 00 at thedoor. This will generate the money we need to rent the room,rent projectors, PA's, ect. If you can't make it to THC-79,you can still get a Supporting Registration for $3.00. Thisentitles you to recieve any junk that gets put on the FreebeeTable which will be set up for anyone who wants to print upinformation for distribution. Anyone can put out a Freebeehandout. print up 700 copies of your goodie and send it toTAP in time for the conference (in care of the mail drop).In order to maintain security (and hold down postage),your regiStration materials will be beld at the entrance tothe Diplomat Ballroom, If you want to make certain you areregistered, enclose an addressed postcard (stamped) and wewill scribble some archane drivell on it (having wonderfultime, wish you were her).Last, but not least, if you don't know if you're goingto make it to New York for tbe conference, get a supportingregistration. We will upgrade you at the door at the $5, 00rate for only the additional $2.00! Otherwise it's 7 bucksat the door. Be sure you give us a recognizable name forwhen you show up at the door (Bilbo under the rock nearAlbuquerque would only be good if all your buddies don'tuse it).In case you are wondering, this conference is theSunday before Electro-79, the international conferenceof the IEEE. Tell your boss you need to visit a sick friendon the way to Electro.Dealers tables will be available if you have telephoneoriented paraphanailia to sell. We do expect the folkswith the funny initials, so take care. We will have peopleselling books, T-shirts, and, of course, back issues ofTAP. See you then. (PS: Dealers tables are $20.00)Please make all checks payable to TAP.
-SEPT.- OCT. 1978 NO, 53Coin Uk FHRAL-OYby The .sizardA nunber of letters have come to my atten-tion frem veople whe are interested in usin:microprocessors to create fur tones. In nynext couple of colunes J am yroing, to pe everweneral outlines cs methods of using yourmicrocomputer ac i blue vex. Lue to the widevaricty of computers and systems J can't cffermany specifics, cipecially when it comes toprogramming, vut 1'1]1 do the best Ll can. anyspecific questions can be tent to me care cfTAI, and 1'1]1 ancwer them in the next iscucout.In order to use a computer asi a blue bo«there are two topics that must be discussed.These are the hardware and the coftware necdcdfor producing the HF tones. J'11 discuss thehardware first.-There are two basic methods for ;roducin,:WPF tones with a computer that 1 have becomeacauainted with, These use two different typesof hardware. The first method requires switch-ing om and off two accumulators at differentrates for the two frequencies. This civesyou two streams of Square waves of two differentfrequenciec. These are then filtered downremovinj; the harmonicc to give you two sinewaves, ‘the sine waves are then added to;etherusing an op-amp for summing. 1 dont like thisnethod very much as it doesn't give you muchversatility for other functions. However, allyou need in the way of hardware would be threeOp-amps and a handful of external components.Two op-amps would be used for filters and oncwould be used for summing.The next metned hardware-wise, which wouldbe used with a number of coftware techniqucs,would be the use of a digital to analog:converter. ‘This circuit converts the dicsitaloutput from the computer to an analog sinewave( assuming the computers output is equi-valent to a sine wave). Cperational theoryand design tips can be gotten from issues ofKilobaud and Byte maj;azines, from the Digitalto Analoj; converter handbook put out by Hybridoystens Corp. and the Analog to DigitalConversion handbook by Analog Vevicee Inc.In closing this column i'd like to apologizefor not giving any specifics on D,“A convertersbut duc to the lary;e numoer of differentsystems available that is not possible . Inmy next column I'll discuss software techniquesthat can be used, and I'll try to make it asspecific as possible. This is a lot easier thanthe hardware, because the software theory is notas machine dependent. ‘See you next time folks,and keep those cards and letters coming.Youth Hot Line Reports, Inc, 1978 - Do not make checksout to Youth Hot Line Reports, PLEASE! Movement groupsmay reprint without permission if TAP's address is givenwith all credits. Please send us 9 copy of reprinted work.
-
-MELLO. «2 BET ALL sUN thee bE UST TTR fish eibekCALLCY EXCISE Abatee CHES. ARTE. C tiduitt ff voy MGT,wMIS 1S fO KE UALUURALE GLE ot role GU Peed THAT UbePHONE COnNPAN( Hit. mb WAaft, TO ai SURE WE TihaseAw.eersWELL» LET’ toot GET Ae. (' Co Sth.t over PATALTHOUGH THE BL tts MAC foot bba PP bad thaw TASOME CIVIC. Veli eb CPR. le titeob ba dtt $s Mus) TM GeUP HOME. Ce‘ Dea fPtUR TRE OROK CPELE Wht. Wes THF NEWOSCILI STO.SomeE ofr yor our THERE mor cor cet Ti WEShOm INSOME OF THE LCOCARALIS © am SituaT Ti KELOTEs I ANNUIGar t oo FITHER. CUT War ¢5 LONE [oS UOlEe FRE FAST ICSMEALe ANE fll, tHAT CRAPe SO [LL GET dN TO AMY TALE.1 WHS KOKN IN DETROIT, AlrOutGaNs ON FUGUST ~~ --WhHATwas JHAT?77 fTOO SOON? SO LRKS.LAST SUMMER 2: met aA PHAIPD NU WHO WAS AD AUCH APRAEAK AS [ WAL. THIS Wii INLIGHTRNING. FAR MY GUTHERERIENDT- oF <u Abe FMBEL8 Hit AuyvEerm TO THe LASTCOAST yy FALC GE URP FHP. We Dh) JT tkR.e AND HEF OREYOU KNCW Ltewi Whe GOING OUT NEGY TRAPTIWGs SURNENGPEL Lea INGe ONT TUR WLING’,» i © Ceobbeb (Te. Whe tbO 10OME LONSTRULTIVE VANWAL IS Lrdi OF A AIUD ULE tb btih_ 7CUTTERS l FOYE {MN laboadsi. | Chek WAY. tHEY WERKE JUGTMANGING ON *% RACK SO FORCURI? rintt ALak THA f SuUR THEMMOHE WITH Mt. Mh. AOEBULH Wits CTs 2249.90 FOR THEMsMT I GthLuAT HavVt IT ul Ae, FO 2 TUuUK DUP of PF RMANENT1O0°AN UN THEI. TCuMERTS ROE UO Nice VOU Chi¥ LONCLALJutetf vest cade FLUNG Lee Teekek 0? VOU AE TRitt CG AUUH.NATUR ALi rs We WERL UTING IN TR THE GOLYT CUTYES. OUT UuilCH TriatGy ,U At | «=6KEHOLDe OG ONT ROWE, Ky THE two OFTHe Wik sir Phe eb TG Ane A RY NECE COCLOET Tui OFMaanLEL FRU OhOUMR TOWN. WEL ELE I FO SAte WE NEVERHEY THE Sewik FHUME iWlCe. wl ties))6hOUDKk)6©6UFUULHSAADY, © OUTWEAC WO (CUHK, GINtER CXCURGIONS 6O THE DOWYTUUN firPROVIDER US WITH & LIMbiilith PR Oiurl ,<Cuariay Fob sey:LEAVE The PRUCI Usl OChEO PA TH Con vay PORN TWG LOT.»iis @SCIC BLY EGA FROG THE PRICY AOL CHART» A YERWILE ria a cA DULL TT! DEC). i KUM FRE UMNLYCARSTTYLIBRARYss (NY COMPONENTS FROoH KANTO silat (WE MARCWoEI.LY ‘MISTS, KUT ti HEOVI wv ANY TH dG..s2) KROSSHES UPHONE Ss, ETC. (OU WALD Gk aMacho sr JHE STUPIDITYOF SOMk Sed tS FPEOULE. UNEEs WP OL -RARTs WE Gohbte THENICE SALE SLADE TO SEE W Phas. TOONS «TRUSE MHIUKUWii KEE feLiLeS THeT ELHARLIED ANGI I 5 Uk) ONL SHE HASNLEDUrT TO US AND WALLED (O THE t RON OF THE GYTOnNE... {FHE WELL SH WS PULNUe BUT WE LEFT THEIHE FOCKE TCO.DONT ANQW WHOLSTORE FAST. WITH ILCCFHONE ORIENTEDwkKOUT TELCEHUNES.WENLH VISLIING ANUOW LEAUTANG IntoWE Weill Tis gib uit.t.MOITALYHea lidh ynATi otSINCE THIS 1SNEWSLETTER: [ VHeal L Tal feUPON ONE UEENSI OM, HW FRIENDPHONE STORE » NLD We. AOYICED THOT osTHE BACK KOON WAS DREN, [Ttiine ) foih,JT, AN WO Ul A WORKKENHOCH ANI LUMP TINE iT FAlbtet 4 POR YGRACK. BUT OUR STTENTION Wii ON THE ORFRK SRT OeSHELLS. Tht bl Wht BOACD DF TRL-M Tk Se WaDD bt. TIN lt.WF FAfLH sUIneoO ONE. UFUN LGILIs ExAdTa TIO THEPROVED (O bt QUTFE UNIUUL. PH. ab SO PANDARD ERIBLINEMANUGSETGe WITH AN Ud! TABI RO GOW ON FRONT, ThitLST TONS ARE COUARE» WA TH OM ab LALA HA) All. VicsSTRANGE. FUN UFENING THEM Ul WE tok THEY iby NULIGHT. WHO? FLUGOEO TN chey bbe uu SA fUNANE| DUSUPPLIED BY SHE AR IGHBUANOUN BAVLO Gaby 1) TINY LAT La106 06C OST 6CPECULIAW UCULIIU. Tlikse WERKE GhIrN- nb TicCLuUGLRK FE AAMINATION, oF) WAG Pilatihi oO THAT THCY WineORCC PLGA CML ELNG Ulotd tie und cet tet MAC CuiNivkethsWOT THE %.€& LIAL. mCbyal ae e bei oko NG) TROUT LON LisAY SORE tile Wt UO, of ty otal CI Pet ? OOCURKU WHENie bortGns Abe feo. THE Cit DOHA. | AAUTHORSTRANGE THIGG Ft. ilfe) Til HMoniecl los NOT FOL GNICEN.{T ELAS Lf hE Pkib IS ImcualWu CbANDAKOUI CCD. Pea Gewiki AGUCRED CALE FACO NUCHi df H.arVVI NGi StewTHI’. TVRE OF lietageteobrb Oi THb CllAsbkefab aabBLOR YET, SQ IAS LURE REY OnE PhRUROTIREL.Piel wo.Robert Neville,iG RUNG da Ca T. tleebulb Ab wtTile Forbin ProjectCoeecx FORGE BOWRCCEE AGlasgewbod~<heckarhetwhePhendad gusty oe Meelng©I AyCour remen'’) chéchbeehcouldret herve chesen @ werse Yetpel“te gil rere shape he weet wie.”bestowyerwed Pe cow? “hewes ordietety bembardedwhcompte ath.) pubbltt 06r=-ca.”
-IRDS PROSENYVS A RLVICH OFTHE us) PAPIR TRIPGY UARRY REID AIO COLI PRLOS STAFF
-The idiew Poper Trip ims a book that to cannotrecommend mora highly. I[t is a 160 paye manualon the ins aml outs of obtaining a new idontity.Many different ways of paper tripping are Closelyecaminod,Reid starts tho book with a fascinatingand frignteniny section called ‘Meet Lic brothar.'This section explains the present novenent -tovards a 1984 cype sociaty, one that nowhas over jJ.2 billion Piles on its’ citizeng. Ina world of vanishing privacy the reasons for analternace idantity becona clear.Raid then exaviinesa each possiblityfox chanying one’s identity. Aliases, Fake IDand the Law, Countorfeit ID, Classic Paper Tripring,and Legal tame Change (the paper trippor’slateat loophole in Big Qrother's not ofrepression) are all expounded upon clearly andinformatively. Othar topics covered are CirthCertificates, Drivers’ Licenses (includinghow the Soundex system for foruing license ésworka), S$ @a (how they are Cormed), NilitaryShi discharge codes, Paasports, and Mail PorwardingCSexrvicaos.This book is solid information. It tallsyou Firat why you should take a paper trip andthen in great detail explaina how, The [icwPaper Trip is $14.95 and worth cvery penny.Gut it und uo it now, before it's too late.Available from: Eden Press, PO Lox 9410,Fountain Vullay CA 32708* t a * @ = e «& e ® e @ @ ® ® ® aShockwave Rider by John runner (sci-fi writer),givos us a vood idea of what paper tripping andyovernment data colloctian will be like in thofuture. It's about tickia Haflinger, a conputerphroak who worms his way throuch gov't data bankain persuit of freedom and the American way.linfiingor's efforts in avoicing Lig Urothoer'scomputer assisted persuers are fascinating andentertaining. Your misgagion (apolojies to Mr.Chelps) is to find the reference to phone phreal:sin the hook,® ° * a a = * 2 e 2 a & e @ e a eIt’s che Information Rain DataService research project! tia have thought ofneat black Lox modification. The idea is toput the control of tha black box into the handsof the calliny party. Instead of usang time consumingand confusing ‘siynal calls’ to tall you to box thacall your friemis can now sinply bo: thenselvcsin! Uere's low it works, Have a tone decodor(or decoders, but more on that later) switchedacross the linea when the fone rings, These decddersthen check (between rings} for the tones angwhen Jotocted switch on the box (also sounding«x buzzer on the recicving end signaliny thatthe call has been boxed), Soma things you willwant to keer in mind: 1. You'll need a Filterto prevent the decouers from being{ried by tha ringing voltage. 2. The signalbetween rings will probably have to be anplified.3. ¢ of tones: it's probably desirable to havo 2simultaneous tones trigger the box for two reasons.First, to prevent accidental activation ofand secondly to prevent TPC from detecting it*by ringiny your line and applying 2a rising toné.
-Hey yangl
-There's the idea - now inplenent it!The first reader who sands in a working schenaticwill recieve a copy of Chockwave Rider autographedby the IRD atakf., ilave funtPlease send any comments, Criticiam, infoOr naterial to be raviswed to [RDS c/o TAP,
-
-ACOUSTING YOUR COUPLERbyNapoleon SoloAre you having trouble getting your tones into the phoneline? There is a way without directly connecting to the phoneline, It involves injecting your music magnetically and canbe done much cheaper than using a speaker not to mentionmuch quieter if someone is naxt to you,This magic involvaa a simple magnettc loop which is in-serted over the earpiece of the phone. The principle workslixe a Simple transformer. Since the earpiece is nothing buta cou of wire which causes a diaphram to vibrate causingsound, it acts like the secondary winding of a transformer.The primary winding is your magnetic coupler. Since theearpiece 1s directly connected to the phone line, you cantransfer audio into the line this way without causing a lot ofunnecessary distortion, thus causing your tones to meet themore stringent specs of the “Bull” System. See Fig. 1,To make one of these educational devices take a & inchpiece of cardboard cut into a strip about 3/4 inch wide. Bendthis cardboard around the earpiece of the phone and cut offthe extra piece. Then with plastic electrical tape secure theend so tha’ it makes a loop about 3/4 inches wide that justfits ove the earpiece. See Fig. 2. Take #26 wire and wrap00 turr «round the loopsecuringthe loose end with a pieceof tape. Before you gtart winding, it would be a good idea toStrip one endof the #26 wireand soldar it to one side of apiece of shielded wire, then secure it temporarily with theelectrical tape ani bagin winding the coil. Try to spreed outthe wire SO Unat it covers all of the 3/4 inch width, leavinga little space al each end 50 tbe wire won't spill over theedge. After about SO turns or 80, cut the excesswireandStrip the other end and solder it to the other end of the shield-ed wire. See Fig. 3.The finishedproduct looks like a loop with an audiocableHed to it, Not only doesthishandy toymakeagood trans-mitting davice, but it can also be used to record directly offihe phone as well, Instead of connecting it to your speakeroutput of your tape recorder, you can plug it into the “mike”input and record off the phone. It takes about ] watt of audioto Send a reasonable levelinto the line so if yourtone gen-erator cannot adequately generate at least 1 watt of audio intoa 3.5 ohm load, your device probably won't work.There are commercial pick-up loops available but theyaren't as effective because they have many more turns andthe wire they use is too thin, thus havingmore resistance.If your generating device cannot “cut the mustard", you canadd on to it any small 1 watt audio amplifier with a 3,5 ohmoutput, The distortion can be leas than 1% and in moat casas,will meet any or ali IM (inter-modulation) distortion specsand is the secretof how phone phreaks cangenerate guardband signals effectively.So, this hande dandy little device can be used to recorddirectly from tha phone line or send audio directly into thelina without removing the loop. Just plug the loop into the"mike" jack to record off the phone line or plug into the ex-ternal speaker jack Of the racorder or tone generating devicetO Send into the phone line, This way, if the mouthpiece hasbeen rotting out in the weatber you won't have to search for& payphone that works. In fact the tones can be generatedwithout the phone even being connected and you can still hearthe tones through the earpiece, Touch Tone anyone?TransformerSecomaryColl In TelephoneYour Loop Coil earpieceFigure l,
-8 Temporarily3/4" by 6" secure endCardbsara with tape tobold downwhile inding.A 6B& ‘\ Strip end 4 aBSecure A to B solder to end ofal with electrical audio cabletape.pe Figure 3.Figure 2. $ Suter braidShielded audio cableOl ne wirea Edison's EmporiumPlease let me apologize for the long delay between issues49, 50, 51,52, 53, & §4. I had a helluvalotta problems withthe lazy bastard responsible for doing cur mailing labels.He bas fucked me and you forthe last time! [ amnow doingthe mailing labels myself and I can guarantee that all futureissues of TAP will be mailed like clockwork. TATM will bepublished bi~monthly with two issues sent in each mailing.So look for your copies of TAP in the mail on January Lat,May lst, and September lst.TAP ts looking for new writers. You know the kind of shitI'm looking for. I don't think that I have to draw you a diagram.Don't worry about spelling, grammar, or censorship. TAPis not the damn New York Times. TAP prints all the newsthat's NOT fit to print! [f possible please type your articleon a good typewriter using a column width of 5 inches. It'svery important that the column width be 5 inches. If youdon't have a typewriter or know how to type then send inyour article in longhand but please write clearly. Better yetprint it. Many of our best articles were sent in longhand andwere typed up by the TAP staftI try to make esch issue of TAP the bestthat I can vithwhat ]’ve got to work with. [don’t try to make it the worstthat I can, a8 some of you have accused me of doing. Lf youreaders send me dynamite artictes, I print ‘em. [f you sendshit, that's what you get in return!Sorry people, but it's time to bitch again! Now you all wentto public skool so you must have some basic background in theEnglish language {ya can't pull the wool over our eyes).When you are a subscriber to a publication and yer sub runsout, you RE-SUBSCRIBE. You don't SUBSCRIBE, ENTERASUBSCRIPTION, or anything else] You either let the sub ruaout or RE-SUBSCRIBE! Please use this word.A mumber of people have gotten on the shit list by trying toSUBSCRIBE to TAP when they have a sub! What happans istheir names are ona list of current subscribers and toen theirnames are added toa list of new Subscribers, So our com-puter reads. FRED HEAD, 22 MAIN ST. twice and lt cancelsBOTH of them|When you write in to re-subscribe, please state :A) that you are re-subscribing,B) your COMPLETE mailing label, exclude nothing! Pastean old label on for convenience.These 2 steps will make it infinately easier fcr us at “AP.And finally a work to all you morans who sub to TAP underone name and address and write to TAP about your sub usinganother name and address. How the fuck do you think I canprocess your inquiry if I don't know who the nell you are?//!I bave gone through our entire mailing list looking for "lost"readers for the LAST TIME!!!‘C: Any reader vho subs underone name and writes w TAP sing another name will redropped from oir mauling lists! If you wanna use a peonyTame to Sub under, that's all right with me, but Godcammityou'a better use that name shenever you write to TAF ontilHeli freezes overt iI LURE EEEIIEVIETEIESAPSTERLUESTEOI
-
-Your Mission: Join Radio Free AmericaI moved to Fun City after the First Blackout and left be-fore the Second Blackout. During the F B, many of us Liber-tarians fantasized about, hoped to, hear John Galt's speechfrom Atlas onreges It tells what is wrong with The Systemand what can one about it.During the Second Blackout, I mentally kicked myself be-cause WE COULD HAVE DONE IT! Guerrilla radio is happeningright now in England (see TAP #43), It would take little“tort to sct up an easily moved, or even a portable, trans-mitter and broadcast over a "temporarily unused” frequencyduring a Blackout. A mobile transmitter would make it prac-tically impossible for the Federal Communications Gestapo tolocate the unit. Although they'd probably be too buay withmore urgent matters to even try. People would listen (onbattery-powered transistor radios) unless they were busy"liberating" merchandise from stores,There will be a Third Slackout. And a Fourth, a Fifth,etc. until the Final Blackout - when The System collapses ofits own technological complexity and interdependence, Youdon't believe it? Read The Coming Dark Age by Roberto Vaccaand The Machine Stops, a classic OFshort story written inthe T9Zu%s by E. WM, Forster.We have the technology (Where have I heard that?). ITCOULD BE THE MOST UNFORGETTABLE BROADCAST SINCE ORSON WELLES’WAR OF THE WORLDS FORTY YEARS AGO. We can do iti Are wegoing tor ~— ~~Jim PhelpsPov po re ete,gulch: rps Pace = Ut Balk rote $e, 1SUS biert tae oan phon sealed envel pe BY, \\v Aaruba th Pde s Fiemt chan £4. <Forevin QQIE RTANTI In‘lude nailiny intel or Aer x cipywhen atart PARA at yaar cobserigt nyRlectpomos Clurces - 0 Peanch, A - [! Paisics,N- AC Eoewcs, C- Phun Bisk:s, D- Amplifiers,TAP waas - F400,TAL T-thirty - $4.5) Spacily sive and cdor: Small,Kiedium, Large, Extra Large. Black or red T-shirtwith white TAP Dwza,TAY "AiO Rell [kp A Cheap Mother” J-shirts, - $4.50,Specify sive amdrolsr> Medium, Large, Extra Large,Rue, tin, -r yellow.cend CNLY check or money order (No Cash) to:TAP, Bu am ata, Lie We at 42 Street, New York, N.Y. 10039This jr pelletop rly.CEFICE.): bir adway, Room 8, New York, N.Y, 1000!HOURS»WEONESDAY, fh - 0 pur,
-Lawyers Answer Na/‘ure’s CallSi. George, Utah (UPI) — For on the {olke(, the phone wouldseveral werks, the phones in the ring.effice of a group of attorneys here Mountain Bell technicians werewoud rat bat nobody would be = called and they found that theon other end.Finally, one of the office staff telephone system in the office wesmoliced that every time somebody grounded to a water pipe on therent fo the restroom, the “phan floor below. When semeone sat onthe commode, the circuit would betow” would call. Closer inspectionrevealed that when someone sat broken and the phone would ring.
-33
-Campus PoliceWarn Against TapThe campus policereport that an advertise-ment for TAP, a NewYork based undi-rgroundnewspaper, has recentlyen citculating on theUTC/Provo Campus.The activities describedin TAP are illepal,.TAP describes — indetail how to stcal ser-vices from the telephonerompany.Mountain licl! advisesthat using thix equip-ment is a Viulation ot thetheft of service statute inthe Ural) Crirninal Code.Using electronicdevices tu imake tongdistance culls is a viola-tion oof Fevleral Law.punishable by as much
-and/or up to 15 years inil,” The Bell Company nowhas equipment which willdetect electronk devicesillegally tapping to phonelines to steal services.Security Agents at BellTelephone advise thatTAP is currently underinvestigation by the NewYork City District Arttor-ney’s Ke.With this in = mind,there is an excellentchance that TAP maysoon discontinue publica-tron, according tocampuspolice.‘Purchasing a sub-scription to TAP may notbe a wise investment atthis time, or anytime,”
-TAP, 152 W.42 ST, ROOM 418, NY 10036
-ys $10,000 in finex OfficerThad Swank said.TAP WARNS AGAINST CAMPUS POLICETAP, a New York based information newsletter,has recently been informed that campus police at UTC/Provo have been circulating malicious informationconcerning the newsletter. TAP advises thatMountain Bulli, a division of the Bull system, has beentaking unfair advantage of subscribers. TAP hasSeen fit to distribute information and data which maybe interesting to ripped-off subscribers. TAP advisesthat security agents of the Bull system arecurrently under investigation as well as the New YorkCity District Assholes Office. With this in mind, TAPadvises you to tell the campus police and securityagents to fuck off and subscribe to TAP. Purchasinga Subscription to TAP may be the best investment ofyour life,Thieves undauntedPORTLAND,Ore. —Policedecised a grocerystoreonthe city'ssoutheestsidewas a candidateforan armedrobbery, so officersinstalled 2 surveillance cameraim thestore last month. A policeman_ went by to chackon the camera this week. The camerahadbeenstolesPublished for informational purposes only by Youth Hot Line Reports, Inc.Address all mail and checks to:
-Bulk RateU.S. POSTAGEFAITIDPeemi No 3Keasbey, NJ,
-Ta4
+It'S 4PM AT ELECTRO - 
+WHAT'S ON "TAP" 2 
+You're attending an electronics trade show, and you know 
+that “at least 2 of the folks attending have got to be fellow 
+phone phreaks, but you don't know how to make contact. 
+Well, now there is a sure way of meeting your phellow 
+phreaks! At 4PM, phone phreaks are known to get very 
+thirsty, so they all seem to head to the main refreshment 
+area of the exhibit hall, turn their name badges around, 
+and put their home area code on the back. If the conference 
+has a bulliten board, put the area code of the hotel on the 
+little 3 by 5 card, and where you want to gather (main lobby, 
+bar down the corner, ect), and wear your name badge in 
+the usual manner. 
+Now that you know how to greet each other at other 
+trade shows and technical conferences,.it's time to tell 
+you about 
+THE BIG ONE.... 
+TAP- CON '79 
+Technological 
+Hobbyist 
+Conference 
+presents 
+THE 
+THC ~- 79 
+The Tex 
+Hobbyist Conference (THC-79) will 
+be held at the Diplomat Hotel in New York City on Sunday 
+April 22, 1979 from 10AM to 7PMEST, People-wishing to 
+give talks on a number of subjects are invited to submit 
+an abstract to TAP by February 15, 1979. Include a contact 
+method (mailing address or phone number) with your abstract. 
+Registration 
+will cost $5.00 by mail and $7.00 at the 
+door. This will generate the money we need to rent the room, 
+rent projectors, PA's, ect. If you can't make it to THC-79, 
+you can still get a Supporting Registration for $3.00. This 
+entitles you to recieve any junk that gets put on the Freebee 
+Table which will be set up for anyone who wants to print up 
+information for distribution. Anyone can put out a Freebee 
+handout, print up 700 copies of your goodie and send it to 
+TAP in time for the conference (in care of the mail drop). 
+In order to maintain security (and hold down postage), 
+your registration materials will be held at the entrance to 
+the Diplomat Ballroom. If you want to make certain you are 
+registered, enclose an addressed postcard (stamped) and we 
+Seribble some archane drivell on it (baving wonderful 
+time, wish you were her). 
+Last, but not least, if you don't know if you're going 
+to make it to New York for the conference, get a supporting 
+registration. We will upgrade you at the door at the $5.00 
+rate for only the additional $2,001 Otherwise it's 7 bucks 
+at the door. Be sure you give us a recognizable name for 
+when you show up at the door (Bilbo under the rock near 
+Albuquerque would only be good if all your buddies don't 
+use it). 
+In case you are wondering, this conference is the 
+Sunday before Electro-79, the international conference 
+of the IEEE. Tell your boss you need to visit a sick friend 
+on the way to Electro. 
+Dealers tables will be available if you have telephone 
+oriented paraphanailia to sell. We do expect the folks 
+with the funny initials, so take care. We will have people 
+selling books, T-shirts, and, of course, back issues of 
+TAP. See you then. (PS: Dealers tables are $20.00) 
+Please make all checks payable to TAP. 
+y aa 
+% 
+a 
+SEPT.- OCT. 1978 
+NO. 53 
+CCRFULER FHREAK-CUT 
+by The Wizard 
+A number of letters have come to my atten- 
+tion from people who are intorested in using 
+microprocessors to create hF tones. in my 
+next couple of columns J am going to go over 
+General outlines cf rethods of using your 
+microcomputer as u blue box. 
+Lue to the wide 
+variety of computers and systems 1 can't offer 
+many specifics, especially when it comes to 
+programming, but 1'l1 do the best I can. 
+any 
+specific questions can be sent to me care of 
+TAP, and 1'11 answer them in the next iscuc 
+out. 
+In order to use a computer as a blue box 
+there are two topics that must be discussed. 
+These are the hardware and the software needed 
+for producing the MF tones. 
+['1l discuss the 
+hardware first.- 
+There are two basic methods for producing 
+KF tones with a computer that I have become 
+acquainted with. These use two different types 
+of hardware. The first method requires switch- 
+ing on and off two accumulators at different 
+rates for the two frequencies. This gives 
+you two streams of square waves of two different 
+frequencies. These are then filtered dow 
+removing the harmonics to give you two sine 
+waves. The sine waves are then added together 
+using an op-amp for summing. I dont like this 
+method very much as it doesn't give you much 
+versatility for other functions. However, all 
+you need in the way of hardware would be three 
+op-amps and a handful of external components. 
+‘two op-amps would be used for filters and one 
+would be used for summing. 
+The next method hardware-wise, which would 
+be used with a number of software techniques, 
+would be the use of a digital to analog 
+converter. This circuit converts the digital 
+output from the computer to an analog sine 
+wave( assuming the computers output is equi- 
+valent to a sine wave). Cperational theory 
+and design tips can be gotten from issues of 
+Kilobaud and Byte magazines, from the Digital 
+to Analog converter handbook put out by Hybrid 
+Systems Corp. and the Analog to Digital 
+Conversion handbook by Analog Devices Inc. 
+In closing this column i'd like to apologize 
+for not giving any specifics on D/A converters 
+but due to the large number of different 
+systems available that is not possible . 
+in 
+my next column I'll discuss software techniques 
+that can be used, and I'll try to make it as 
+specific as possible. This is a lot easier than 
+the hardware, because the software theory is not 
+as machine dependent. “See you next time folks, 
+and keep those cards and letters coming. 
+Youth Hot Line Reports, Inc. 1978 - Do not make checks 
+out to Youth Hot Line Reports, PLEASE] Movement groups 
+may reprint without permission if TAP's address is given 
+with all credits. Please send us ¢ copy of reprinted work.
+HELLO. 
+4 
+BET ALL YOU PEQPLE OUT THERE ARE ARE 
+ALLY EXCITED ABOUT THIS ARTICLE. 
+I KNOW 
+I 
+AM NOT. 
+WIS IS 
+TO RE-ENCOURAGE ALL OF YOU OUT THERE THAT THE 
+PHONE COMPANY HAS, MORE WAYS TO BE SCREWED 
+THAN 
+Aces WELLe 
+LET’S NOT GET NABTY. 
+I4LL JUST SAY THAT 
+ALTHOUGH THE BLUEDOX YAY HAVE SEEN ITS LAST, YEAR IN 
+BOME CITIES» THOSE LIVING IN THOSE CITIES MUST NOT GIVE 
+UP HOPE. 
+BESIDESs YOUR*REDBOX STILL WORKS WITH THE NEW 
+OSCILLATOR. 
+SOME OF YOU OUT THERE MAY NOT SEE THE WISDOM IN 
+SOME OF THE ESCAPADES I AM ABOUT TO RELATE,’ I 
+CANNOT 
+SAY I DO EITHER. 
+BUT WHAT IS DONE I8 DONE, THE PAST IB 
+DEADe AND ALL THAT CRAP» SO ILL GET ON TO MY TALE. 
+I WAS BORN IN DETROIT? MIGHIGANs ON AUGUST <----WHAT 
+WAS THAT??? TOO BOON? SO SRRY. 
+LAST SUMMER 
+2 
+MET A PHRIEND WHO WAS AB MUCH A 
+PHREAK AS I WAS. 
+THIS WAS ENLIGHTENING: FOR MY OTHER 
+FRIEND-~EXCUSE MEr PHRIEND-- HAD MAVED TO THE EAST 
+COAST THE FALL BEFORE THAT. 
+WE HIT IT OFFe AND BEFORE 
+YOU KNEW ITPWE WERE GOING OUT NIGHTLY *RAPINGs GURNING? 
+PILLAGING: AND STEALING", AS I CALLED IT. 
+WE ALSO DID 
+GOME CONSTRUCTIVE VANDALISM CARE OF A NICE SET OF ROLT 
+CUTTERS 
+I 
+FOUND 
+IN SEARS ONE DAY. 
+THEY WERE JUST 
+HANGING ON A RACK 80 FORLORN AND ALONE THAT I TOOK THEM 
+HOME WITH ME. 
+MR. 
+ROEBUCK WAS ASKING -2814.95 FOR THEM? 
+BUT I DIUNT HAVE IT ON MEr SO I TOOK QUT 
+A_ 
+PERMANENT 
+LOAN ON THEM. T-SHIRTS ARE SO NICEr YOU CAN CONCEAL 
+JUST ABOUT ANYTHING IN THEM IF YOU RE THIN ENOUGH. 
+NATURALLY» WE WERE DYING TO TRY THE BOLT CUTTERS QUT ON 
+SONETHING. LO AND BEHOLD» © PAYPHONE. 
+BY THE END OF 
+THE WEEK MY FRIEND AND f HAD A VERY NICE COLLECTION. OF 
+HANNSETS FROM AROUND TOWN. NEEDLESS TO 8AYs WH NEVER 
+HIT. THE SANE PHONE TWICE. WE MAY DR FOOLHARDY, 
+OUT 
+WERE NOT DUNG. 
+OTHER EXGURSIONS TO THE DOWNTOWN AREA 
+PROVIDED US WITH A LINEMAN’S TESTEET (COMPANY POLICY 
+LEAVE TNE TRUCKS UNLOGKEN IN THE CONPANY PARKING LOT.) 
+AN ASGTII KEYBOARD FROM THE FRIENDLY RAATO SHAFT) A VERY 
+NICE TEAC A-1705 CASSETTE DECK FROM THE UNIVERSITY 
+LIBRARY® MANY COMPONENTG FROM RAUIO SHAFT (WE MAKE 
+WEEKLY VISITS. 
+BUT WE NEVER buw ANYTHING. .+s) KOSS 
+HGADPHONESr ETC. YOU WOULD BE AMAZE AT THE STUPIDITY 
+OF SOME GALES PEOPLE.’ ONCE» AT KMART? WE ASKED THE 
+NICE SALESLADY TO SEE A POLKETCOM 
+CTHOBE 
+—-MIGRO 
+WALKIE=TALKIES THAT CHARLIES ANGELS URE) ANI GHE HANDED 
+IT TO US AND WALKED TO THE FRONT OF THE STORE... 
+1 
+DONT KNOW WHAT THE HELL SHE WAS NOINGs BUT WE LEFT THE 
+QTORE FAST. 
+WITH THE POCKETCOM, 
+SINCE 
+THIS 
+IS 
+A 
+MAINLY TELEPHONE ORIENTED 
+NEWSLETTER? 
+I 
+SHALL TALK MAINLY ABOUT TELEPHONED. 
+UPON ONE OCCASION: 
+MY FRIEND AND I WEREM VIGTTING A 
+PHONE STORE, AND WE NOTICED THAT A DOOR LEADING INTO 
+THE BACK ROOM WAS OPEN. TIAKe TAK. 
+WE WENT TO CLOSE 
+ITs AN WE SAW A WORKBENCH AND COMPONENT FILLES STORAGE 
+RACK, 
+BUT QUR ATTENTION WAS ON THE OTHER SET OF 
+GHELVES. 
+THERE WERE BOXES OF TRIMLINE HANDAETS ON IT, 
+WE GACH AQUIRED QNE. UPON LATER EXAMINATION THEY 
+PROVED TO BE QUITE UNIQUE, 
+THEY ARE STANDARD TRIMLINE 
+HANDSETS, WITH AN UNSTANDARY KEYBQARD ON FRONT. 
+THE 
+BUTTONS ARE SQUARE* WZTH AN ALUMINUM BACKPLATE: VERY 
+STRANGE. 
+UPON QPENING THEM UPs WE BAW THEY HAD NO 
+LIGHT. 
+WHEN PLUGRED IN (THEY UBED MODULAR CUNNECTORA 
+SUPPLIED BY THE NEIGHBORHOND RADIO SHAFT) THEY LIT IN 
+THE MOST PECULIAR COLOUR. 
+THEY WERE GREEN. AFTER 
+GLOSER EXAMINATION, 
+IT WAS UISCOVERED THAT THEY WERE 
+GREEN LIGHT EMITTING DIQUEAs RUN OFF THE TALK  GURRENTs 
+NOT THE AG LINE. APPARENTLY BELL NOES NOT TRUST CON EN 
+ANY MORE THAN WE DO. 
+A MQST UNTOUE EFFECT OGCURRS WHEN 
+THE RUTTONS ARE PRESSED. 
+THE LEDs BLINK, ANOTHER 
+STRANGE THING 18 THAT THE HANISET ‘16 NOT POLARIZED. 
+7 SEEMS LIKE BELL If NECOMING QTANDARDIZED. THESE 
+WERE AQUIRED LAST FALL (NOVEMBER 77) 1 
+HAVE NUT EEN 
+THIS TYPE OF HANDSET ON THE COMMERCIAL MARKET YET, 80 
+ABHUME THEY ARE PROTOTYPES. 
+TIME I8 RUNNING SHORT. 
+UNTILL NEXT TIME. oes 
+COUNTERFRITERS 
+Robert Neville, 
+SASHINGTON 
+A male counts 
+Forbin Project 
+‘documents has been spaw 
+CHICK 
+SuPa 
+age G500 color copying mashing, 
+oiqon 
+tacenecierniene. 
+‘federal invent! 
+here aay, 
+guilty to stealing 
+@ city 
+‘The copicr—which can be Icased for 
+‘counciiman's checkbook could 
+$225 a month—is capabie of accursicly 
+fat have chosen © woree victim, 
+money 
+ehecks 
+tn ql nine shope ke went into,” 
+sccutitics. 
+his lawyer told the court, “he 
+wa 
+bombarded with 
+ry 
+songicinn 
+1 publie servis 
+IRDS PROGENTS A RCVILW OF 
+TUB WEW PAPER TRIP 
+BY BARRY REID NID EDEN PRESS OTAFP 
+The New Paper Trip is a book that we cannot 
+recommend more highly. 
+It io a 160 page manual 
+on the ins and outs of obtaining a@ new identity, 
+Hany diseoront wayo of paper tripping are clescly 
+examined, 
+Reid starts tho book with a fascinating 
+and frightening seotien called ‘Meet big Lrather.' 
+Thia section explains the present rovement 
+. 
+towards a 1964 type sociaty, one that now 
+has over 3,2 billion fileo on its’ oiticens., 
+In 
+a world of vanishing privacy the reanens fer an 
+alternate identity 
+hecone clear. 
+Reid then axanines each ponsihlity 
+for chanying one's identity. Aliaens, Fake ID 
+and the Law, Counterfeit ID, Classic Paper Tripping, 
+and Lagal Wame Change (the 
+paper tripner's 
+latest jjoophele in Big Brother's nat of 
+repreasion) are all expounded upon clearly and 
+informatively, Othor topies covered are Dirth 
+Certificates, Drivars' Licenses (including 
+how tho Soundex system for forming license ts 
+works), 86 #s (how they are formed}, Military 
+ep Gischarge codes, Passports, and Mail Porwarding 
+jervices. 
+This book is solid information, it tells 
+you firat why you should take a payar trip and 
+then in yreat datail explains hew. Tho lew 
+Papor Trip io $14,959 and worth avery penny. 
+Get it and do it new, before it's too late, 
+Available from: Eden Pross, PO Lox 0410, 
+Fountain Valley CA 92700 
+e 
+8 
+# ee 8 eh ee ke 
+Shockwave Rider by vohn Urunner (aci=fi writer) 
+gives us a good idea of what paper tripping and 
+government data collection will be like in the 
+future, It's about Nickie Haflinger, a computer 
+phraak whe worms his way through gev't data banks 
+D perause of freedom and the American way. 
+Naflinger's efforta in avoiding big Brother's 
+computer ageieted pereuers are faacinating and 
+gneertaining. Your mission (apoloyies to Mr. 
+phen 0) to 0 find the reference to phone phreaks 
+A 
+the 
+hook. 
+ee 
+ey ano! It's the Information Rain Data 
+service research pre ject! io have thought of & 
+neat black Lox modification. The idea 
+is to 
+put the control 
+of tho black box inte the hands 
+of the calling party. Inetead of using time conauming 
+and confusing ‘gignal calls’ to tell you to box the 
+gall your friends can now einply box themselvos 
+int Hero's how it works, lave a tene decoder 
+(or deceders, but more on that later) switched 
+aoroas the line when the fone rings. These deceders 
+then check (betwoen ‘rings) for the to: 
+and 
+when detected switch on the box (also sounding 
+@' bugeer on the 
+recioving ond signaling that 
+been boxed). Some things 
+you will 
+jp in mind) 1. You'll need a filter 
+to prevent the decodera from 
+being 
+fried by the singing voltage. 2, The signal 
+between rings 
+will’ probably have to be amplified, 
+3. § of tones: i 
+probahly desirable to have 2 
+simultaneous tones 
+trigger the box for two reasons. 
+Firat, to prevent accidental activation of 
+and secondly to prevent TPC from detecting it 
+eby ringing your line and opplying a ricing tone, 
+the idea = now implement iti 
+The first reader who sends in o working schematic 
+will recieve a copy of Shockwave Rider autographed 
+by the IRDD staff, lave fun! 
+Please send any comments, oritician, info 
+or material to ba reviewed to IRDD o/o TAP. 
+There!
+ACOUSTING YOUR COUPLER 
+by 
+Napoleon 
+Solo 
+Are you having trouble getting your tones into the phone 
+line? There ig a way without directly connecting to the phone 
+line. It involves injecting your music magnetically and can 
+bo done much cheaper than using a speaker not to mention 
+much quieter {f someone is next to you. 
+Thio magic involves a simple magnetic loop which is in- 
+serted over the earplece of the phone. The principle works 
+dike a simple transformer, Since the earpiece is nothing but 
+@ coil of wire which causes a diaphram to vibrate causing 
+sound, it acts like the secondary winding of a transformer. 
+Tho primary winding ie your ‘magnetic coupler, Since the 
+earpiece is directly connected to the phoné line, you can 
+transfer audio into the line this way without causing a lot of 
+unnecessary distortion, thus causing your tones to meet the 
+more stringent specs of the "Bull" Gystem, See Fig. 1, 
+To make one of these educational devices take @ 6 inch 
+piece of cardboard cut into & strip about 9/4 inch wide. Bend 
+this car'board around the earpiece of the phone and cut off 
+the extra piece. Then with plastic electrical tape secure the 
+end 80 the’. it makes 8 loop about 3/4 inches wide that just 
+tits ove’ the earpiece, See Fig, 8, Take #26 wire and wrap 
+60 turr around the loop securing the loose end with a piece 
+- of tape, Before you start winding, it would he a good idea to 
+trip one end of the #26 wire and aolder it to one side of a 
+plece of ahielded wire, then secure it temporarily with tho 
+electrical tape ani begin winding 
+the coll, Try to opread out 
+the wire ao that it covers all of 
+8/4 inch width, leaving 
+@ little space at each ond so the wire won't epill over the 
+edge. After about 60 turns or go, cut the excesa'wire and 
+strip the other end and solder it to the othor end of the shield: 
+ed wire. Seo Fig, 3. 
+Tho finiohod product looks like a loop with an audio cable 
+tied to it, Not only dees this handy toy make 8 good trans= 
+mitting device, but it can also be uged to record directly off 
+the phono a6 well. Instead of connecting it to your opeakor 
+output of your tape recorder, you can plug it inte the "mike" 
+input and record off the phone, It takes about 1 watt of audio 
+to send a reagenable level inte the line so tf your tone 
+gen- 
+erator, cannot adequately 
+generate at least 1 watt of 
+audio into 
+a 8.6 ohm load, your device probably won't work, 
+‘There are commeroial plokeup loops available but they 
+aren't as effective because they have many more turns and 
+the wire they use is too thin, thus having more resistance, 
+If your generating device cannot "cut the mustard", you can 
+add on to it any small 1 watt audio amplifier with a 9,6 ohm 
+output, The distortion can be less than 1% and in most cases, 
+will meet any or all IM (inter=modulation) distortion specs 
+and {s the seoret’of how phone phreake can generate guard 
+band 6! 
+is effectively, 
+&o, 
+hande dandy little device can be used to record 
+directly from the phone line or send audio directly into the 
+line without removing the loop, Just plug the loop into the 
+"mike" jack to record off the phone line or plug into the ex= 
+ternal speaker jack of the recorder or tone generating device 
+to send into the phone line. This way, if the mouthpiece has 
+been rotting out in the weather you won't have to search for 
+@ payphone that works, In fact the tones can be generated 
+without the phone even being connected and you can still hear 
+the tones through the earpiece, Touch Tone anyone? 
+Transformer 
+Primary 
+Secondary 
+: 
+Coll In Telephone 
+Your Loop Coil 
+earpiece 
+Figure 2, 
+Temporarily 
+9/4" by 6" 
+secure end 
+Cardboard 
+with tape to 
+hold down 
+walle windings $ 
+As 
+“a 
+AtoB 
+Sttip 
+ond ee 
+FP to ond of 
+with electricsl 
+dio eable 
+sal 
+Figure 9. 
+Figure 8, 
+= outer braid 
+Shielded audlo cable 
+¢ 
+nner wire 
+Edison’s Emporium 
+plug 
+Please let me apologize for the long delay between issues 
+49, 60, 51,62, 63, & 54, I had a heljuvelotta problems with 
+the lazy bastard responsible for doing our mailing labels, 
+He has fucked me and you for the last time! Iam now dojng 
+the mailing labels myself and J can quarantee that all future 
+issues of TAP will be mailed like clockwork, TA® will be 
+published bi-monthly with two issues sent in each mailing, 
+So look for your copies of TAP in the mail on Janyary Ist, 
+May ist, and Septembor ist, 
+TAP 1g looking for new writers, You know the kind of shit 
+T'm looking for. I don't think that I have to draw you a diagram. 
+Don't worry 
+about apelling, grammar, or consorchip. TA 
+is not tho 
+damn New York Times. TAP prints all tho newg 
+that'a NOT fit to print! If possible please type your article 
+on 8 good typowriter using a column width of 6 inches. It's 
+very important that the column width be 6 inches, If you 
+don't have a typewriter or know how to type than sond 
+in 
+your article in longhand but plonse write clearly. Bottor yot 
+print it, Many of our boat articles wore cont in longhand and 
+woro typed up by the TAP ataft, 
+T try to make each isaue of TAP the best that I can with 
+what I've got to work with, I'don't try to make it the worat 
+that 
+I can, as some of you have accused me of doing. If you 
+readers send me dynamite articles, J print 'em, Tf you gend 
+shit, that's what you get in return! 
+Sorry people, but it's time to bitch again] Now yeu all went 
+to public skool so you must have some basic background in the 
+English language (ya can't pull the wool over our eyes), 
+When you are a subscriber to a publication and yer sub rung 
+out, you 
+RES! 
+TBE. You don't SUBSCRIBE, ENTER A 
+SUBSCRIPTION, or anything else! You either let the sub run 
+out or RE-SUBSCRIBE! Please use this word, 
+A number of people have gotten on the shit lst by try! 
+SUBSCRIBE to TAP when they have a sub] What happens is 
+their names are on a list of current subsoribers and then their 
+names are added to a Hat of new subscribers, So cur com- 
+puter reads FRED HEAD, 22 MAIN ST, twice and it cancels 
+BOTH of them! 
+: 
+When you write in to re-subscribe, please state : 
+A) that you are recaubsoribing. 
+B) your 
+mailing 
+label, exclude nothing! Paste 
+an old 
+on 
+for convenience, 
+Those 2 steps will make it infinately easier for us at TAP, 
+And finally a work to all you morons who sub to TAP under 
+one name and address and write to TAP about your cub using 
+another name and address, How the fuck do you think I can 
+process your inquiry if I don't know who the hell you are? II! 
+Thave gone through our entire mailing Het locking for "lost" 
+readers for the LAST TIME!!! 
+EEFECTIVE IMMEDIATELY 
+: Any reader who subs under 
+one name and writes to TAP using another name will be 
+dropped from our mailing lista! If you wanna use a phony 
+mame te sub under, that's all right with me, but Goddammit 
+you'd better use that name whenover you write to TAP until 
+Holl freezes overt I TTUESTESUTULTEVIVETUEITUUTEED 
+EEE
+Your Mission: Join Radio Free America 
+I moved to Fun City after the First Blackout and left be- 
+fore the Second Blackout, During the F B, many of us Liber- 
+tarians fantasized about, hoped to, hear John Galt's epeech 
+from Atlas 
+ed. It telle what is wrong with The System 
+and what can 
+about it. 
+During the Second Blackout, I mentally kicked myself be- 
+cause WE COULD HAVE DONE IT! Guerrilla radio is happening 
+Eight now in England (see TAP #43). It would take little 
+Stfort to set up an easily moved, or even a portable,- trans: 
+mitter and broadcast over a "temporarily unused" frequency 
+during a Blackout. A mobile transmitter would make it prac- 
+tically impossible for the Federal Communications Gestapo to 
+locate the unit, Although they'd probably be too busy with 
+more urgent matters to éven try. People would listen (on 
+battery-powered transistor radios) unless they were busy 
+"liberating" merchandise from stores. 
+There will be a Third Slackout. And a Fourth, a Fifth, 
+ete. until the Final Blackout - when The System collapses of 
+4ts ow technological complexity and interdependence. You 
+don't believe it? Read The Goning Dark Age by Roberto Vacca 
+and The Machine Stops, @ classic S¥ short 
+story written in 
+the 
+3 ty 
+£. 
+W. 
+Forster. 
+We have the technology (Where have I heard that?). IT 
+COULD BE THE MOST UNFORGETTABLE BROADCAST SINCE ORSON WELLES* 
+WAR OF THE WORLDS FORTY YEARS AGO. We can 
+do iti Are we 
+going toy OS 
+Jim Phelps 
+Back Isques are +09 each. 
+= 19 lewues ~ US Bulk rate $5. 
+is 
+US First Claes in plain sealed erve!-po. 37. 
+ND 
+4 
+Canada & Mexico First Class $7. 
+<~' 
+Foreign $8, 
+@ 
+DMPORTANT) Include mailing label ur Xerve enn 
+‘when writing ty TAP about y-air subseriptiva, 
+< 
+Courses - »/f each, A - DC Basics, 
+B- AC Basics, C - Pine Busics, D- Amplifiers, 
+= 
+AB muqs - $4.50, 
+TTAP T-shirts - $4.50. Specify size and cular : Small, 
+Mediam, Large, Extra Large. Black or red T-abirt 
+with white TAP logo. 
+TAP 
+"Ma Bell ip A Cheap Mother T-shicts - 
+$4.50. 
+HAE 
+a tad cist sedans tage re Large, 
+Blue, tan, or yellow. 
+ONLY cack oF moony order (NO Coat 
+ay. 
+pies wall drepenl, 
+- 
+QEEICE : 1291 Broadway, Room 008, New York, N.Y, 1000} 
+HOURS; WEDNESDAY, 5-9 om, 
+ERE 
+Lawyers Answer Na‘ure’s Call 
+St. George, Uish (UPI) ~- For 
+on the tollet, the phone would 
+several weeks, the phones, 
+in the 
+rin 
+Silice of's group of attorneys here" 
+"Hountain Belt technlctans were 
+wae Zins bat, nobody ‘would be 
+called and they found that the 
+OO ely’ one of the office statr — ‘elerhane 
+system in the alfice was 
+noticed that every 
+lime somebody sounded 
+to « water pupe on the 
+vent to the restroom, 
+the “phan- floor below. When someone sat on. 
+the commode, the elreult would be 
+tom" 
+ld call. Closer inspection 
+Fereaie® that when someone sat 
+broken and the phone would ring. 
+53 
+TAP, 152 W. 42 ST, ROOM 418, NY 10036 
+Campus Police 
+Warn Against Tap 
+The campus police and/or up 
+to 18 years 
+in 
+report that an advertise- jail, 
+ment for TAP, a New | The BellCompany now 
+York based un 
+has equipment which will 
+newspaper, 
+detect electronic devices 
+been circulating on the illegally capping to phone 
+UTC/Provo 
+Campus. lines to steal services. 
+‘The activities described Security Agents at Bell 
+in TAP ard illegal. 
+‘Telephone advise that 
+TAP 
+describes 
+in TAP is currently under 
+detail how to steal ser- investigation 
+by the New 
+vices from the telephone York 
+City 
+District Auor- 
+company. 
+ney's 
+Office. 
+Mountain Iell advises 
+ith this in mind, 
+thar using this 
+equip- there is an excellent 
+ment is a violation of the chance that TAP may 
+theft 
+of service statute 
+in soon discontinue publica- 
+the Utah Criminal Code. tion, 
+according 
+to 
+Using 
+electronic 
+i 
+devices wv 
+distance call 
+tion of 
+| Feleral 
+Law, 
+inist 
+le 
+as mut 
+9 310,000” in fines 
+‘TAP WARNS AGAINST CAMPUS POLICE 
+TAP, a New York based information newsletter, 
+has recently been informed that campus police at UTC/ 
+Provo have been circulating malicious information 
+concerning the newsletter. TAP advises that 
+Mountain Bull, a division of the Bull system, has been 
+taking unfair advantage of subscribers. TAP has 
+seen fit to distribute information and data which may 
+be interesting to ripped-off subscribers. TAP advises 
+that security agents of the Bull system are 
+currently under investigation as well as the New York 
+City District Assholes Office. With this in mind, TAP 
+advises you to tell the campus police and security 
+agents to fuck off and subscribe to TAP, Purchasing 
+a subscription to TAP may be the best investment of 
+your life, 
+Thieves undaunted 
+PORTLAND, Ore. — Police decided a grocery store on the city’s 
+‘southeast side was a candidate for an armed robbery, so officers 
+Installed a surveillance camera In the store last month. A policeman 
+‘went by to check on the camera this week. The camera had been 
+stolen. 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to:

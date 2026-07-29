@@ -1,18 +1,812 @@
-Blue Bex Equipment And UsagebyFred SteinbeckFor all you blue box fans out there, here are aoumber of parts and part sources for your littledevices that you may be {interested in. Also In thisarticle are some comments on Nick Haflinger and TedVail’s blue (green) box in issue number 68, and theuse of blue boxes in the Bay Area.SpeakersMany phreaks are fond of using telephoneearpieces as speakers for their boxes. This haesome advantages, as the high resistance (7100 ohms)causes less power to be drawn. However, getting thelittle SOB‘sm out of pay phones is close toimpossible.Fortunately, Trinetics, Inc. (55807 Currant Road/ Mishawaka, Indiana 46544 / (219) 259-8535 (yes,they accept phoned COD orders)) makes what theycall the PC-48 Inductive coupler. This is a thingwhich fits around the earpiece of your phone, andwith a four foot cord to an I/8" phono plug, getshooked up to your box. Tones are then played intothe phone with little ar no fuss or muss. The PC-4Bcan also be used to record calls, and costs $10.00.As some of you may remember, this was firstmentioned in an earlier issue of TAP.There 1s, however, a problem with the inductivecoupler.In order for it to be loud enough to beheard, you need a great deal of power. This isprobably just because inductive couplers are not asefficient as speakers.KeyboardsFor me, finding a good 4x4 matrix keypad waa abit of a problem. However, Advanced ComputerProducts, Inc. {P.0. Box 17329 / Irvine, CA / (800)854-8230 or (714) 55A-8813 t[nside CA (No CODorders)) has solved my problems, if onlytemporarily. They offer, for $10.00, a FlexSwitch4x4 keypad (black with white unmarked keys) whichIs anlty 0.03 Inches thick! Unfortunately, thebeastte measures 4" on a side. Too large, in myopinion.Another solution may be on the horizon, however.Grayhilt, Inc. (569 Hillgrove Ave. / La Grange,Ittinois, 60525 / (31?) 354-1040) manufactures anumber of 4x4 (and other) keyboards which are only2" on 8 side. A vast {fmprovement. I don't know ifGrayhill sells directly, as I haven't talked withthem yet, but T am sure they would be happy to tellyou who you could buy thelr products from.The Green Box in $68In issue number 68, Nick and Ted's article onthe green box was printed, along with a set ofschematics for such a creature. There are a fewcomments I would like to make on this schematic.The LM 747 Output PinIn the schematic, one of the outputs of the LM747 op-amp is not numbered on the diagram (i.e.,there ts no pin number golng with that output).Just to set the record straight, it should be plnnumber l2. If you have tssue #68, you might want tomake the correction now, to save time later.Op-samups In GeneralFor my verston of the the green box, I'm usingan M386 op-amp. This produces 400 milliwatts, whichIs ‘more than the LM747 can produce, The LM386,however, nas 8&8 problem when [tt comes to biasingcorrectly. Why, I don't know.Parts Por ItI have had trouble finding 40103's around here.AgasSn, Advanced Computer Products (address above)saved my neck. They carry 40103's, they just don'tadvertise them. They cost $4.25 each. If someonecould find a better {pronounced "“cheaper"TM) place,please let us ail know. ,
-TAPRoom 603147 W. 42 St.New York 10036NOVEMBER 1982No. 79Fred Steinbeck IssueI managed to get a couple 27C16 CMOS PROM's froNational Semiconductor. I think these might he theonly PROM's that would take a sma)] enough am intof current to make the project practical. My follyassembled green box takes 42 ma standby current,and 47 ma when producing tones.For those of you who don't like wiring crystals(me - I hate buying capacitors), Jameco Flectronics(1355 Shoreway Road / Belmont, CA 94002 / (41 °%592-8097 (COD's accepted)) makes a little pPaokaywhich has four pins, but fits ina 14 pin tock.Give it +5 VDC on one pin, ground on trother, aridthird will produce & 1 MH2 square wave. Tt ones$9.95, part number OSC 1.000. The only problem w:this device is that fit draws 20 ma typical. *the conventional circuit and you just about hale:the current consumption.Plea Por PartsThe places I have mentioned ahove are cotatiexpensive...I know that there are che-spee pircceeout there. However, having more money thar tan.I'm too lazy to find them. If someone elu viait might make a good article.Boxing From The BayIn using @ blue box Around here fEys! Pays, Weenumbers and information don't scem to wortwell. Or more accurately, at all. So, the reti.have been using is this: call a lang @lrtuoc:number, one that you know can be hleesed -fEL 6 oe,as the phone on the other end starts to ri -, ,off. Unfortunately, if the number you go oursyour money witli be gobbled at the ered ct eleAlso, I boxed off of a 415 number tlhe countbut when I played my tones, every time ;ipm reorder signal. Does anyone know i' the 2.use automatic equipment? YY ky w thi ro pee acecorrect ({.e., {t works from othec area © De -Another possibility is Roxing Frow te oydoxes. Park your car next t) one, open .- Seyour handset (you do have a Jinvwrer oe bt,don't you?) to find a working tair. The oo20' of wire (which the terminal tex miryboxes have a big spool] of wire ins:te’ t- Teline to your car. Hook up the hasacet sr bo. eg!This brings up the point of “Why toe at os,just dial with my handset now?" In my 4... )-putting ‘em through yourself is more :: v..+ -'swhy|Comments, Suggestions, biteh)es, wera: ateShould be sent to Fred Steinbeck, + fc TAI,Cheats won’t ring Bell any moreThe telephone company is cracking down on cheaters why tackslong-distance calis from pay phones and bill them to someun: ayes!pumberOperatora in some parts of the nation are now required tu verits wemumbert given for billing by calling the referred to phone numb: «confirming with whomever answers that Lhe caller lives or work: '' ieHf no obe answers at the number to be billed, or Uf someone wir aeitand says the person Yalling !s unknown to them, the call is reve. 4Tricksters using the confidence game cost American Telej tous +Telegraph Co more than $44 million Inst year. the company se:!
-~~
-
-The ARPARET(Pact I: Am lLatreduation)by Fred SteinbeckWiest It IeTne ARPANET, also referred to waa the Arpanet, isene ef the largest governmental computer networksin existence. It wan astadliahed In the late 1960'spurely aa an sxperimental network. It was s@successful, however, that sore and more cosputerswere added to lt, and now it is the maln governmentcomputer networh. [t was ariginally sponsored bythe Defenae Advanced Research Projects Agency(DARPA - the peeple who brought you the Alé rifle),but now it ia cum and sponsored by the DepartmentOf Oefense (DOD) and the Defenses CommunicationsAguncy (DCA - Mete that their allitary counterpart,the Defense Communicationa Command, of DCC, are thefolks who brought you AUTOVON and AUTOOIN),Access to the ARPAMET ia givan only to peoplewho “need® access. That is, if a person has agoverngent project which would require use of thenet, they would be granted access. Ag it ia now,many inatitutionea have access to the network viacomputers known as TAC’s and TIP‘'s. Mose (if notall) TAC's and TIP's have dlalup ports {withoutpazawords, «< might add). Because of this, JoeMobody can get aato the network - #ll it tekes fa alittle know how.Wnat It's Geed FurThere are basically two things you can do withthe network. First, if you Kave acceaa ta acomputer connected to the AAPANET, you Can probablysend electronic mail over the network. This ia fun,but not truly anything to get overheated about.The second thing you can do with the ARPAMET isuge it ta connect with remote computers, calledbests. This ia much iLixe Telenet (see PaulMontgomery's article in faaue 74). Once yeu casconnect to the remote computer through your dielup,you can attempt to login (not that you'd ever dethat, of course...)Thece are two basic ways of getting acceas tothe network, The first method is to (ind the dialupnueder of a TIP or TAC in your area. Then call thenumber and use 12 to cannect to the computer thatyour Inteceated in (I realise that's not veryspecific, Parts If and Ifrr of thia series wil?cuver doing just that...)Tne second method ia just as good, but it worksonly If you already Nave access to a computerconnected to the ARPANMET. If you do, look for @Program Called, curiously enough. *tip’. This is eaprogram which allows your computer to simulate aTIP. Because the program “TIP” ia dlfferenct analmost every wachine, { can’t explain exactly bowto use {¢ - you'll have to look up che informationin the computer's menual.Getting A TIP Or TAC MamberMost mejor universities and collages araconnected to the ARPANET. Also, large corporsatiansor companies dolng buainess with the government maybe connected. Here are some apecific places thathave T]P'm or TAC‘a:Gunter Alr Force Station, AL: Hanscom Air ForceBase, CO; Andrews Alc Porce Base, Washington;Kirtland Aic Force Base, NM; Aray CommunicationsKlectronics Command, Fort Monmouth, NJ; Bolt,Beranek and Newmen, {tac., Cambridge, MA}Massachusetts Institute Of Technology. MA: MITRECorp., WA; Moffett Field, CA) National Bureau OfStandards, Washington; Rockwell Intl., Richardson,TX; SAI International (aur favoritel)., Menlo Park,CA; Stanford University, CA; The Aand Corp, SantaMonica, CA; Univacaity Of Southern Califernia; andthe University Of Uteh.My, oll thope Air Porce Basan. While’ you'tethere, perhaps you could ask about AUTOVOW, too! Inany cane, ap far as getting TIP/TAC numbers, uneeoumen sense and bellanitting techniques. Firat,ask computer ecience atudenta at the university orcollege tn questien - they'll probably know, andwen't ming giviag thea out. As fac a8 governmentplaces {i.e., Air Basan), well, juat have a goodeatery. I sew the a.ntc day et a Nationel Guard
-Armory @ nocice ubout how a guy posed aa ea militaryintelligence officer and walked into the Arma roopof the armory and took an MIGAI rifle. The silitaryfen’t all that Cough...So, For now, you sission is {if Jims Preipa wi))aliow me to borrow hia line) tao Lind aut the TIPand TAC numbers in your area. Later issues willlheve pacts II end III, which cover actuelly usiagthe net. Stay cool ‘till then.The ARPAET(Part II: tee O€ The Bot}by Fred SteinbeckDialing The BetOk, now you’ve got a TIP or TAC number andyou're just waiting to find out how to screw withthe ARPAWET, right? Well, firsae thing im to carlthe TIP/TAC number. Ie will glve an answer tona, uoyour modem (presumably 300 baud) should be get fororiginate.Mothing bappenal Wothing ia printed an theacreent Fantastic. The TIP or TAC la waiting for «@bent character, @ charactec which will tell it wharspeed you are running at.Tf you have the dialup for a TAC, type acentrol-Q. Yau should then get the message..- -<Sitename> TAC <version #> <port @>If you don't. or {if the message is garbled, hitthe break key (fer people without "break" keys, Cryhitting the *°#* sign button an a touch-tone phone)and then type another contro!-Q. If ‘this doesn'twork, let me know by mail, and I'll see if I can’tfigure something out for you.TIP's are anotber story entirely. They are agenecal pain in the ase to work with. The huntcharacters for TIPF's vary depending an the baudrate and the device thet you are using to connectto the TIP.If yeu are ASCII 110, 150. or 300 baud. the huntcharacter ia "E" (upper-case). If you transmitASCIL 300 baud, but ceceive at 1200 baud, thecharacter ia “DD”. ASCYL 1200 baud doesn't need abunt character. Anasuging you get the hunt characterta TIP ok, you should see the TIP signon message,which fa like the TAC signon. Note that ASCII 1200baud people don’t get a algnon message.Gaing The HetThece are two commands we arcs concerned with.The first is “@o host/iap”, which tells the TIP?/TACto open a connection to the specified host and impaddress. The second command is "@c" which standsfor "close"’, and {s used for (surprise!) closingthe connection. Phe "o"% and "c* do not necessarilyHave to be in lower-case,A host/imp addrese specifiwsa the computer thetyou wish to connect with. The computer you willmost probably want to connect with first its theNetwork Information Center at SRI International.The bost/imp address for this is "0/73", go thecommand to connect to it is:@o 0/73The Metwork Information Center (SRI-NIC) willrequire an account - when it types "@", type either"WICGUEST" of "WICTM and Alt retucn.The MIC syetem is pretty straightfarward, butobnoxious to use. It allows you to get informationon other computers on the net, how to arder (byU.S. Mail) manuals from SRI, internet protocols,etc, In shore, after acrewing with it for a while,you will learn enough about the net to go off onyour merry way.Ob, when you get ciced of a connecrian, simplytype "@c”" and hit return. This will close theconnection and oring you back te the TiP/TACcenmand sede.Thie is really a Bare-bones ceurcas on theARPANET, Sut (t Bhould Be enough ta get you outthece, nethacking to your heart's content. Mextgenth wlll be pact III, general netnotes. If, inthe meanwhile, you have questions ofr comments, sendthem to Pred Steinbeck, c/e TAP.
-
-GibbecishbyFred Sra@inbeckThis coluan of mlne will cover many topics, some ofwhich ft have dealt with defore - itn short, it's apotpourri of various things...or, gibberish,Beeks to get: An excellent book IT have justTinisahed looking over 18 Slgmallisg Ia Tale-commenications Metworks by Samuel Welch. This book,although rather technical, covers SF signalling, FP{ntearoffice signalling, CCIS (common channelinteroffice Bignalling, also known as plain ol'common channel signalling, CCS), and sany othertopics. Highly recommended.Books I‘d like te get: In issue number G8, TheMagician wrote about the Bell book Netens OnDistance Dialing, mentioning that it used to cost$12.95. He alzo said to send a SASE for more infoon geatting [{t. Would it not be esnler to tell howin TAP? Or is it ane of those things that ia betterleft to a limited raaderahip?how Goes one get a copy ofthe CCIT? Green book, o¢ the Sell 160 Series TestCodes? I'd like to gut these, but = have Not Seensuccessful yet...perhaps somabady will take pityand send some info in, huh?Along the Bame lines,
-Articles: The July Penthouse magazine haa anarticle on computer crime. Belleve lt or noc, thisacticle mantianga aur goad fclend Dann Parker, aswell ag Susan Thunder, the 8685S, and the COSHNOsScomputer symstem...worth reading, perhaps.Serine: In the last issue, number 76, there was aList of Sprint dialups across the nation. However,one { used to use in Oekland, (425) 832-5615, waeomitted. While If appreciate the effarct that wentinte compiling such a list, ia it possible thareare mocu additions?Gacbage: Garbegs can provide an excellent source ofinformation..-dialups, passwords, compucer logins,etc. Try going through your local ESS dumpster lateat night and see what's there. Or perhaps a etockmarket place, Of dank (be careful, theugh)- I thinkyou'll be surpriged at what you'll get (besidesEleasa and the plague)!Mawslines: Here are a couple in the Pac Tel area,from Bell's own newspaper, Updarea:(415) 545-8600 San Prancisco (or)>-!(@00) @82-1061 (from California)<¢-={(408) 491-7777 Sen Jose(714d) 237-3111 San Biago(714) 835-5111 Orange-Inland EapireThe Sen Jouse nusber in fague numbar 65 isdisconnected.I talked with another guy, this ane anI got the followingAUTOVOM:electronics tech with the Navy.from hig.AUTOVON is sponsored by the Defense CommunicationsCommand (DCC). They ace the military countecpart ofthe Oefense Communicatlons Agency. Tra Alr Forceace the main AUTOVON users, and the Navy uses !t »@good deal too. There ia another service similar toAUTOVON callad AUTODIN, which stands for AUTOmaticDigital information Network, [tt is used only forconnecting computers together.At any given time, the mllitary controls / uses 3%to 7% of the nation's long distance lines. However,In an emergency, at the Ppreas of a button, acomputer called SCAN in Omaha will grab onto 968% ofthe civilfan long @istance iines for allitary use.Could be cute co get the dialup ta SCAM!Last. Bore and more AUTOVOM traffic {a being putthraugh government computerl® Called STEAMVALVESs,which are easentially cver-grownm voice encryptere.I aeem to have run out of things to write absur.Comments or questions should be directed te me c/aTAP. Or, like < aald, write an artiélelfae Fact Sheet 4d =- $.50.| Bplayed Box, & 2602 Whistle Perfector plana.{ Send CASH, check. Or money ordar ta 1TAP, Room 60), 147 Weat 43nd Street, New York,ny. 10636.
-Back Iseves ace $. 75“each.
-Gibbeciahm IIbyFrad StainbeckWelcome again to a collection of oddities andabizzareness in the phone phield. Much af thissonth*’s material comes astraight from the horse'sass, so to speak (i.e, the Sell System).ESS ‘sAh, yes, the infamous EIS, ofr EleeteonicSwitching System. The very word atrikes terror Intothe heart of a phone: phreak. Firat the bad news, Iguese. I was ceading a few days ago in the May /June "62 issue of Sell Lab's Recerd magazine, andfound that S18 of all switching centers across theU.S. ere mow ESS's. It took Bell 17 yeara ta getthe First half done, and it is expected to takesanother 16 years to £inieh the jeb. 1992, pariends.# Sigh *Sew Payphosee?tn the March "B82 jauus of Record, { sew thatBell ia working on o naw pay phone. This one iaknown #8 the “electronic” model (as opposed toe theold one?) In any case, the thing is a little betterarmored, and is allagad by 3e1l Laba to produce the2200 4 1700 Hx wore accurately. It's slso supposedto detect slugs and fareign colns better. We seal]Sea, a5 it is supposed ro appear in 1983.Autoaated Cein Tell Service (ACTS)Around here (Bay Area), we have a new computercalled ACTS. This computer runs under stationswhich have TEPS, and desically tries to impersonatsan operator. ACTS {gf used with pay phones, far longdistance ceils. Por example, you put in your dimeand dial a long diatance call. You hear «a voice(with an 60 word vocabulery, n& lesa) come on andsay, “Thirty five cents pleama. {2 Becond pause)Please deposit thirty five cants for che next threeminutes." If you talk for more than the threeminutes, and then Bang up, ACTS will call back anddemand your money...Morea bad news ~ ACTS, being a computer, candetecc coln toll fraud {i1.@., red boxes) Betterthan operators, I would sssume {it would seasure theduration and frequency of the tones. You can flashthe switchook, however, or dial "6" and get theoperator. Why you'd want to do that, I don't know,She'd probably juste rurn you over to ACTS again.If you waat a document on ACTS (a@ promotional /qua@i-technical one), ar have any questions orcomments about this arcicle, send a SASE to PredSteinbeck, C/o TAP.Ifyou wantto cut yourphonebills,cut outthischart.Tsmgue @50 (a $1,50.
-Joe Engresaia & Bell Security Chief John Ooherty.TAPTAP Fact
-Subscriptions - 10 issues per year. {US Bulk Envelope Rate $8.US First Class in plain sesled envelope $10. jCanada & Mexico Pirst Class $10.Poreign Surface $9. - Poreign Air Mail $12. |IMPORTANT} Pleabe include your mailing lebel or aXerox copy whenever you write to TAP about your |subacription. iElectronic Courses - $.75 each. A - OC Rasica,A - AC Basics, C - Phone Basics, D = Amolifiers. !TAP "Ma Bell” Patch - 51.50.TAP *TSeh nivecsarcy” Pen - $.50. jTAP Canseatte 4-30. Hear Cape Crunch, Al Sell;Sheet #1 + $.55. Credit card call hints.act Sheec TZ = $.50. Free BELL phone calls.ET — $.50. Pree GTE phone calla.Dual Tone Ogeillator.Fact 'Fect sheet [tdJ
-
-WHIX WizardrybyFred SteinbeckIn this column, I shall try to show a few tricksI bave picked up while hacking on the UNIXoperating system. This {= not meant to be atutorials I assume you are relatively familiar withUNIX. Enough to know what I'm talking about, in anycase.I use the UNIX systems here at U.C. Berkeley, soa few notes ebout them: Pirst, they run Version 7UNIX, and generally run under the C-shell. I thinkthat most systems around use the C-shell today,though, and are version 7, so that shouldn't be anyproblem.Directories & Terminals: Some good directoriesto mess with are /etc, /usr/doc, /usr/spool, and/dev. This last directory, /dev, contains all thedevices (peripherals) on the system.UNIX treats all] I/0 devices as Files, whichmeans that there are some special things you can dowith them. First, all terminals hooked into thesystem have a file associated with them. At UCB,most of the terminals are /dev/dzti, /dev/bxtté, orf/dev/mxti. The "#" signs are digits,In any case, the "who command prints out thenemes of the terminals people are on. 50, let's saythat a friend of yours has logged on, usingterminal "dz28". Well, the filename whichcorresponds to terminal “d4228" isa /dev/dz28.Following this to it's logical conclusion, If wetypecat /usr/dict/words > /dev/dzr28ané hit return, we will cause the entire 50,000word dictionary (in the fille "/usr/dict/words”) tobe printed on his terminal. If he happens to be ona 300 baud dialup, well, so much for him.You can probably see the difference between thisand the “write” command. "Write”TM prints "messagefrom 80-and-s0" (your name where it says»"so-and-#o0") on his screen. Well, "cat*ing Intoother people's terminals doesn’t reveal youridentity to them, so it is less likely that theywill be able to retaliate.Another good command, when used in conjunctionwith terminal filenames, is "stty” (set tty). Thecommandstty 0causes you to be logged off. But, if we specify aterminal to send this command through, it willeffect the user of that terminal. Therefore,stty 0 > /dev/dz28will logout your aforementioned friend (boy, yousure treat your friends rotten, don't you?)Well, it’s 2 in the morning right now, so I'dbest leave you to your UNIX wizardry, and me to mysleep. But there's more...80on: anonymous messagesin the system bulletin board program.
-1SCAGE A GRCR WEEEbi tbVOGNE.”79
-ACTS Updateby Fred SteinbeckI wish to apologize for some misinformation in aprevious column of mine (Gibberish II). In thiscolumn, I mention ACTS, the Automated Coin Tol]Setvice computer which is replacing operators foraccepting money at pay phones. I gave theimpression that ACTS would be hard to use red boxeson, as it, being a computer, would be able todetect timing differences between red boxes and thepay phone.I have newer been more wrong. I have witnessedsuccessfully boxed calls using a manusl red box -one where the length of the tone is determined byhow long the switch is held down. In other words,the button is pressed twice to simulate a dime.ACTS happily accepts this, so I conclude that itdoesn't know so milisecond from a hole in theground.I should mention another possibility, however.It could be (and I have no proof of this at aj})that if ACTS suspects toll fraud, it allows thecall to go through, and then notifies an operator.This probably isn't so. Occasionally &n operatorwill come on the line and ask for money, but thisonly seems to happen when the "money" is depositedtoo fast,On @ related subject, I have found what seems tobe the best way to blue box from the Bay Area. Cal)a number you know can be blue boxed off of, from apay phone, using your red box. Then disconnect andre-route your cali with your blue box. The most itwill cost you is a nickel,I know a girl who did this the other day. A fewdays later the person she called got 4 call fromBell Security. They knew the number she called, thenumber she called from (which is why you should usea pay phone), the time of day the call was placed,and the length of the call. So it might be prudentonly to do this when scanning for operator codes,ete., unless you know the person you are callingwon't talk.Q. tn Ais fascinating book “Russia,” Robert Karen ws 4calmsthatthereareno telephoneswitchboardsin- &Russian hotels Hthat s true, howdo telephone cats sget through?—Mildred Davis, Austin,Tex. zA. Each hotel room in the newest Moscow hotels +has itsown phone, its own separate phone number,its own outside kines. In creature comforts the SovestUnion kags 50years behindtheU.S.
-C4%m>0MOTTACurling up in front of the fireBook Reviewby Cheshire CatalystAB a Phone Phreak, we are all called upon fromtime to time to explain to our less technicalfriends “How it all Works.“ Now there is a bookyou can hand them, (or tel] them to get) calledAll About Telephones, by Van Waterford. The bookglosses over the history of telephone service inthe U. 8., and then explains the workings of theinsides of the phone, His explanation of the net-work inside the phone left much to be degired, andhe didn't explain fully why there were so manyharmonics available from the ringer. Then again,that wasn't what the book was really about.Most of the book seems to discribe what tele-phone hardware is out there in the marketplace,and how to hook it up. It goes into modular con-nectorgs, cordless telephones, decorator phones,repertory diallers, caculator phones, scramblers,security alarms, facsimile, and mobil radiophones.It includes a glossary, which is pretty goodfor the new comer. Most important, it has a listof suppliers, including addresses, of all thecompanies mentioned in the book,The blurbs on the back of the book Alsomention The Handbook of Telephones & Accessories($9.95 paper, Order 48557) which T hope to reviewin a future issue.All About Telephones (order number 1097) isavailable For $5. rom Tab Books, Pept Tap, BlueRidge Summit PA, 17214.
+Blue Box Equipment And Usage 
+Pred Steinbeck 
+Por al] you blue box tans out there, here are 
+a 
+aumber of parts and part sources for your little 
+levices that 
+you 
+may be interested in. Also in this 
+rticle are some comments on Nick Haflinger and Ted 
+11's blue (green) box in issue number 68, and the 
+use of blue boxes in the Bay Area. 
+Speakers 
+Many phreaks-are fond of using telephone 
+earpieces as speakers for their boxes. 
+This has 
+some advantages, as the high resistance (“100 ohms) 
+causes less power to be drawn. However, getting the 
+little SOB's out of pay phones is close to 
+impossible. 
+Portunately, Frinetics, Inc. (55807 Currant Road 
+/ Mishawaka, Indiana 46544 
+/ (219) 259-8535 (yes, 
+they accept phoned COD orders)) makes 
+what they 
+call the PC-48 inductive coupler. 
+‘This is a thing 
+which fits around the 
+earpiece of your phone, and 
+with a four foot cord to an 1/8* phono plug, gets 
+hooked up to your box. Tones are then played into 
+the phone with little or no fuss or mu: 
+‘The PC-48 
+can also be used to record calls, and costs $10.00. 
+As some of you may remember, this was first 
+mentioned in an earlier issue of TAP. 
+There is, however, a problem with the inductive 
+coupler. In order for it to be loud enough to be 
+heard, you need a great deal of power. This is 
+probably just because inductive couplers 
+are not as 
+efficient as speakers. 
+Keyboards 
+For me, €inding a good 4x4 matrix keypad 
+was a 
+bit of a problem. However, Advanced Computer 
+Products, Inc. (P.O. Box 17329 / Irvine, CA / (800) 
+854-8230 or (714) 558-8813 inside CA (No COD 
+orders)) has solved my problems, if only 
+temporarily. They offer, for $10.00, a FlexSwitch 
+4x4 keypad (black with white unmarked keys) which 
+is only 0.03 inches thick! Unfortunately, the 
+beastie measures 4" on a side. Too large, in my 
+opinion. 
+Another solution may be on the horizon, however. 
+Grayhill, Inc. (569 Hillgrove Ave. 
+/ La Grange 
+W1linois, 60525 / (312) 35. 
+number of 4x4 (and other) keyboards which are only 
+2" on a side. A vast improvement. I don't know if 
+Grayhili sells directly, as I haven't talked with 
+them yet, but I am sure they would be happy to tell 
+you who you could buy their products from. 
+The Green Box in #68 
+In issue number 68, Nick and Ted's article on 
+the green box was printed, along with a set of 
+schematics for such a creature. There are a few 
+comments I would like to make on this schematic. 
+The LW 747 Output Pin 
+In the schematic, one of the outputs of the LM 
+747 op-amp {5 not numbered on the diagram ({.e., 
+there is no pin number going with that output). 
+Just to set the record straight, it should be pin 
+number 12. If you have issue #68, you might want to 
+make the correction now, to save time later. 
+Op-anps In General 
+For ay version of the the green box 
+an LM386 op-amp. This produces 400 milivatts, 
+which 
+is‘more than the LM747 can produce. 
+The 
+LM386, 
+however, has 
+a problem when it comes to biasing 
+correctly. Why, I don't know. 
+I'm using 
+Parts For It 
+I have had trouble finding 40103's around here. 
+Again, Advanced Computer Products (address above) 
+saved my neck. They carry 40103's, 
+they just don't 
+advertise them. They cost $4.25 each. If someone 
+could find a better (pronounced “cheaper”) place, 
+Please let us 411 know. 
+TAP 
+Re Fh a 
+New York 10036 AP 
+wT” 
+NOVEMBER 1982 
+No.79 
+Fred Steinbeck Issue 
+I 
+managed to get a couple 27C16 CMOS PROM's from 
+National 
+Semiconductor. I think these might be the 
+only PROM's that would take a small enough amount 
+of current to make the project practical. My fully 
+assembled green box takes 42 ma standby current, 
+and 47 ma when producing tones. 
+For those of you who don't like wiring crystals 
+{me = I hate buying capacitors), Jameco Electronics 
+{1355 Shoreway Road / Belmont, CA 94002 / (415) 
+592-8097 (COD's accepted)) makes a little package 
+which has four pins, but fits in a 14 pin socket. 
+Give it +5 VDC on one pin, ground on another, and 
+thied will produce a 1 Miz square wave. It costs 
+$9.95, part number OSC 1.000. The only problem with 
+this device is that it draws 20 ma typical. So ui 
+the conventional circuit and you just about halve 
+the current consumption. 
+Plea For 
+Parts 
+‘The places I have mentioned above are relatively 
+{ 
+I know that there are cheaper places 
+ever, having more money than brains, 
+I'm too lazy to find them. If someone else would, 
+it might make a good article. 
+Boxing From The Bay 
+In using a blue box around here (East Bay), WATS 
+numbers and information don't seem to work too 
+well, Or more accurately, at all. So, the method I 
+have been using is this: 
+call a long distance 
+number, one that you know can be bleéped off. Then, 
+as the phone on the other end starts to ring, bleep 
+off. Unfortunately, if the number you call sup 
+your money will be gobbled at the end of the call. 
+Also, I boxed off of a 415 number the other day, 
+but when I played my tones, 
+every time I got a 120 
+ipm reorder signal. Does anyone know if the 415 NPA 
+use automatic equipment? I know the tones are 
+correct (i.e., it works from other area codes). 
+Another possibility is boxing from terminal 
+boxes. Park your car next to one, open it, and use 
+your handset {you do have a lineman's handset, 
+don't you?) to find a working pair. Then use about 
+20' of wire (which the terminal box may have - MS 
+boxes have a big spool of wire inside) to bring the 
+line to your car. Hook up the handset and box away! 
+This brings up the point of 
+“Why box when I can 
+just dial with my handset now?" In my opfnion, 
+Putting ‘en through yourself is more phun, that's 
+why! 
+Comments, suggestions, bitches, ideas, etc., 
+should be sent to Pred Steinbeck, c/o TAP. 
+Cheats won't ring Bell any more 
+The telephone company Is crecking down on cheaters 
+who make 
+longdistance calls from pay phones and bill them to someone else's 
+umber, 
+A 
+‘Operators in some parts of the nation are now required to verify any 
+umbera given for billing by ealling the referredto phane number and 
+‘confirming with whomever answers that the caller lives or works there. 
+If no one answerg at the umber to be billed, or if someone answers 
+‘and says the person ealling is unknown to them, the eall.is rejected, 
+‘Tricksters using the configence game cost American Telephone & 
+‘Telegraph Co. more than $4 million last year, the company éaid,
+‘The ARPANET 
+-(@art I: An Introduction) 
+by Pred Steinbeck 
+What It Is 
+‘The ARPANET, also referred to as the ArpaNet, is 
+one of the largest governmental computer networks 
+in existence. It was established in the late 1960° 
+ntal network. It was so 
+. 
+and more comput. 
+nd now it is 
+the main government 
+computer network. It was 
+originally 
+sponsored by 
+the Defense Advanced Research Projects Agency 
+(DARPA - the people who brought you the 
+M16 rifle), 
+but now 
+it 1s run and spo! 
+tl 
+partment 
+Of Defense (DOD) 
+and the 
+De: 
+Communications 
+Agency (DCA - Note that their military counterpart, 
+the Defense Comaunications Command, or DCC, are the 
+folks who brought you AUTOVON and AUTODIN). 
+purely 
+an expert 
+Access to the ARPANET is given only to people 
+who "need" access. That ia, if a person has a 
+government project which would require use of the 
+net, they would be granted access. As it is now, 
+many institutions hav 
+network via 
+computers known 
+« Most (1£ not 
+all) TAC's 
+and T: 
+dialup ports (without 
+pasawor 
+I might add). Because of this, 
+Joe 
+Nobody can 
+get onto the networ 
+1 it tekes is a 
+little know how. 
+What It's Good For 
+There are basically two things you can do with 
+the network. First, if you have access to a 
+computer connected to the ARPANET, you can probably 
+send electronic mail over the network. This 1s fun, 
+but not truly anything to get overheated about. 
+The second thing you can do with the ARPANET is 
+called 
+use it to connect with remote computer: 
+hosts. THis is much like Telenet 
+Montgomery's 
+article in issue 74). Oni 
+connect to the remote computer through your dialup, 
+you can attempt to login (net that you'd ever do 
+that, of course...) 
+There are two basic ways of getting access 
+to 
+the network. The first method is to find the dialup 
+number of @ TIP or TAC in your area, Then call the 
+number and use it to connect to the computer that 
+your interested in (I realize that's 
+not very 
+specific, Parts II and III of this.series wil} 
+cover doing just that...) 
+The second method is just 
+good, but it works 
+only if you already have access to 6 compute: 
+connected to the ARPANET. If you do, look'for a 
+program called, curiously enough, "tip". This 
+is a 
+program which allows your computer to simulate a 
+TIP. Because the program "TIP" is different on 
+almost every machine, I can't explain exactly how 
+to use it - you'll have to look up the information 
+in the computer's manual. 
+Getting A TIP Or TAC Mumber 
+Most major universities and colleges are 
+connected to the ARPANET. Also, large corporations 
+or companies 
+doing business 
+with the government may 
+be connected. Here are 
+some specific places that 
+have TIP'g or TAC's: 
+Gunter Air 
+Air Force 
++ Washington; 
+Arwy Communications 
+Electronics Command, Port Monmouth, NJ; Bolt, 
+Beranek and Newman, Inc., Cambridge, MAr 
+Massachusetts Institute Of Technology, MA) MITRE 
+Corp., VAy Moffett Pield, CA; National Bureau Of 
+Standards, Washington; Rockwell Intl., Richardson, 
+‘TX; SRI International (our favorite!), Menlo Park, 
+CA; Stanford University, CA; The Rand Corp, Senta 
+Monica, CA; University Of Southern California; and 
+the University Of Utah. 
+My, all those Air Porce Ba 
+While! you're 
+there, perhaps you could ask about 
+AUTOVON,’ too! In 
+tting TIP/TAC numbers, 
+wi 
+itting techniqu 
+rat, 
+ts at the university or 
+college in question - they'll probably know, 
+and 
+won't mind giving them 
+out. As far as 
+government 
+Places ({.e., 
+Air 
+Bases), well, just have a good 
+story: I saw the other 
+day 
+at @ National Guard 
+Armory @ nocice about how @ guy 
+posed as 2 
+intelligence officer and 
+walked into the A 
+of the armory and took an M16Al rifle. 
+The military’ 
+isn’t all that tough... 
+So, for now, you mission is {if Jim Phelps will 
+allow me to borrow his line) to find out the TIP 
+and TAC numbers in your area, Later issues will 
+have parts It and III, which cover actually using 
+the net. Stay cool ‘till then. 
+by Pred Steinbeck 
+Dialing The 
+met 
+Ok, now you've got a TIP or TAC number and 
+you're just waiting to find out how to screw with 
+the ARPANET, right? Well, first thing is to call 
+the TIP/TAC number. It will give an answer tone, so 
+your modem (presumably 300 baud) should be set for 
+originate. 
+Nothing nappensi Nothing is, printed on the 
+screent Fantastic, The TIP or TAC {s waiting for 8 
+hunt character, a character which will tell it what 
+speed you are running at. 
+If you have 
+the dialup for a 
+control-Q. You should then get the me 
++ type a 
+coe 
+<Sitename> TAC <version #> <port #> 
+Tf you don't, or if the message is garbled, hit 
+the break key (for people without "break" keys, try 
+hitting the "4" sign button on a touch-tone phone) 
+and then type another control-Q. If this doesn't 
+work, let me know by mail, and I'll see 1£ I can't 
+figure something out for you. 
+TIP's are another story entirely. They are a 
+general 
+pain in the ass to work with. The hunt 
+ch. 
+ters for TIP's 
+vary depending on the baud 
+rate and the device that you are using to connect 
+to the TIP. 
+If you are ASCII 110, 150, or 300 baud, the hunt 
+character is "E" (upper-case). If you transmit 
+ASCII 300 baud, but receive at 1200 baud, the 
+character {s "D". 
+ASCII 1200 baud doesn’t need a 
+hunt character. Assuming you get the hunt character 
+to TIP ok, you should see the TIP signon messa 
+which is like the TAC signon. Note that ASCII 
+1 
+baud people don't get a signon message. 
+Using The wet 
+The 
+re two commands we are concerned with. 
+The first is "@o host/imp", which tells the TIP/TAC 
+to open 
+@ connection to the specified host and imp 
+address. The second command is "@c" which stands 
+for “close", and is used 
+for 
+(surprise!) closing 
+the connection. The "o" and 
+do not necessarily 
+have to be in lower-case. 
+A host/imp address specifies the computer that 
+you wish to connect with. The computer you will 
+most probably want to connect with first is the 
+Network Information Center at SRI International. 
+The host/imp 
+address for this is "0/73", so the 
+command to connect to it is 
+@o 0/73 
+The Network Information Center 
+require an account - when it types 
+* 
+“NICGUEST" or "NIC" and hit return. 
+SRI-NIC) wil) 
+type either 
+The NIC system is pretty straightforward, but 
+obnoxious to use. It allows you to get information 
+on other computers on the net, how to order (by 
+U.S. Mail) manuals from SRI, internet protocols, 
+etc. In short, after screwing with it for a while, 
+you will learn enough about the net to go off on 
+your merry way. 
+Oh, when you get tired of a connection, simply 
+type 
+"@c" 
+and hit return. This will close 
+the 
+connection and bring you back to the TIP/TAC 
+command mode. 
+This {s really a bare-bones 
+course on the 
+ARPANET, but it should be enough to get you out 
+there, nethacking to your heart's content. Next 
+month wil] be part III, general netnotes. If, in 
+the meanwhile, you have questions or comments, send 
+them _to Pred Steinbeck, c/o TAP.
+Gibberish 
+by 
+teed Steinbeck 
+This colunn of mine will cover many topics, some of 
+which I have dealt with before ~ in short, it's a 
+potpourri of various things...or, gibberish. 
+Books to get: An excellent book I have just 
+finished looking over is Signalling In Tele- 
+communications Wetworks by Samuel 
+Welch. This book, 
+although rather technical, covers 
+SF 
+signalling, MF 
+interoffice signalling, CCIS (common channel 
+interoffice signalling, also known as 
+plain ol' 
+common channel signalling, CCS), and 
+many other 
+topics. 
+Highly recommended. 
+Bo 
+I'd like to get: In issue number 68, The 
+Magician wrote about the Bell book Notes On 
+Distance Dialing, mentioning that it used to cost 
+$12.95. He also said to send a SASE for more info 
+on getting it. Would it not be easier to tell how 
+in TAP? Or is it one of those things that is better 
+left to a limited readership? 
+Along the same lines, how does one get a copy of 
+the CCITT Green book, or the 
+Bell 100 
+Series Test 
+Codes? I'd like to get 
+th 
+,» 
+but TI ha 
+not been 
+successful yet...perhaps somebody will take pity 
+and send some info in, huh? 
+Articles: The July Penthouse magazine has an 
+article on computer crime. Believe it or not, this 
+article 
+mentions our good friend Donn Parker, as 
+well as Susan Thunder, the 8BBS, and the COSMOS 
+computer system...worth reading, perhaps. 
+Sprint: In the last issue, number 76,, there was @ 
+list of Sprint dialups across the nation. However, 
+one I used to use in Oakland, (415) 832-5015, wa 
+omitted. While I apprec 
+the effort that went 
+inte compiling such a list, is it possible there 
+are more additions? 
+Garbage: 
+Garbage can provide an excellent source of 
+information...dialups, passwords, computer logins, 
+etc. Try going through your local ESS dumpster late 
+at night and see what's there. Or perhaps a stock 
+market place. Or bank (be careful, though). I think 
+you'll be surprised at what you'll get (besides 
+£1 
+and the plague)! 
+Newslines: Here are a couple in the Pac Tel area, 
+from Bell's own newspaper, Update: 
+(415) 45-8800 San Francisco (or)>-1 
+(800) 882-1061 (from California)<--1 
+(408) 491-7777 San Jose 
+(714) 237-3111 
+San 
+Diego 
+(714) 835-5111 Orange-Inland Empire 
+The San Jose number in {ssue number 65 is 
+disconnected. 
+AUTOVON: I talked with another guy, this one an 
+slectrenios tech with the Navy. I got the following 
+‘rom 
+him. 
+AUTOVON is sponsored by the Defense Communications 
+Command (DCC). They are the military counterpart of 
+the Defense Communications Agency. The Air Force 
+are the main AUTOVON users, and the Navy uses it a 
+good 
+1 too. There is another service similar to 
+AUTOVON called AUTODIN, which stands for AUTOmatic 
+Digital Information Network. It is used only for 
+connecting computers together. 
+At any given time, 
+the military controls / uses 3% 
+to 78 of the nation's long distance lines. However, 
+in an emergency, at the pr 
+of a button, a 
+computer called SCAN in Omaha will grab onto 908 of 
+the civilfan long distance lines for military use. 
+Could be cute to get the dialup to SCANI 
+Last, more and more AUTOVON traffic is being put 
+through government computers called STEAMVALVEs, 
+which are 
+essentially over-grown voice encrypters. 
+I seem to have run out of things to write about. 
+Comments or questions should be directed to me c/o 
+TAP. Or, like I 
+said, write an article 
+Gibberish It 
+by 
+Pred Steinbeck 
+Welcome again to a collection of oddities and 
+bizzareness in the phone phield. Much of this 
+month's material comes 
+straight from the horse's 
+ass, so to speak ({.e., the Bell System). 
+Ah, yes, the infamous ESS, or Electronic 
+Switching System. The very word strikes 
+terror into 
+the heart of a phone-phreak. First the bad news, I 
+igo in the May / 
+ra magazine, 
+and 
+found that 518 of all switching centers across the 
+U.S. are now ESS's. 
+It took Bell 17 years to 
+t 
+the first half done, and it is expected to take 
+another 
+10 years to finish the job. 1992, phriends. 
+* 
+Sigl 
+Mew Payphones? 
+In the March ‘82 issue of Record, 
+If saw that 
+Bell is working on a new pay phone. This 
+one is 
+known as the “electronic® model (as 
+opposed to the 
+old one?) In any case, the thing 
+a little better 
+armored, and is alleged by Sell Labs to produce 
+2200 & 1700 Hz more accurately. Tt's also supp 
+to detect slugs 
+and 
+foreign coins better. We shall’ 
+see, as it {s supposed to appear in 1983. 
+Automated Coin Toll Service (ACTS) 
+Around here (Bay Area), we have a new computer 
+called ACTS. This computer runs under stations 
+which have TSPS, and basically tries to impersonate 
+an operator. ACTS is used with pay phones, for long 
+distance calls. For example, you put in your dime 
+and dial a long distance call. You hear a voice 
+(with 
+an 
+80 word vocabulary, no less) come on and 
+say, 
+“Thirty five cents p: 
+(2 second pause) 
+Please deposit thirty five cents for the next three 
+minutes." If you talk for more than 
+the three 
+minutes, 
+and then hang up, ACTS will call back and 
+demand your money... 
+More bad news - ACTS, being a computer, can 
+detect coin toll fraud (i.e., red boxes) better 
+than operators. I, would assume it would measure the 
+duration and frequency of the tones. You can flash 
+the switchook, however, or dial "0" and get the 
+operator. Why you'd want to do that, I don't know. 
+She'd probably just turn you over to ACTS again. 
+€ you want a document on ACTS (a promotional / 
+quasi-technical one), 
+or have any questions or 
+comments about this article, send a SASE to Pred 
+Steinbeck, ¢/o TAP. 
+to cut your phone bills, 
+cut out this chart. 
+Vasck Issues 
+ace $.75 each. Tesue #50 is $1.50. 
+| Subscriptions - 10 issues per year. 
+Us Bulk 
+Envelope Rate $8. 
+ed envelope $10. 
+' US First Cl. 
+in plain s¢ 
+Canada & Mexico First Class $10. 
+| Poreign Surface $9. - Foreign Air Mail $12. 
+IMPORTANT! Please 
+include your mailing label or a 
+{ Xerox copy whenever you write to TAP about your 
+subscription. 
+| Electronic Courses - $.75 each. A - DC Basics, 
+B - AC Basics, 
+C - Phone Basics, D - Amplifiers. 
+(rae 
+Bell* 
+th - $1.50. 
+( 
+' 
+' 
+' 
+' 
+| 
+FAP "10th Anniversary" Pen 
+- $.50. 
+‘ 
+| Tae Cassette Tape 
+~ 
+“$4.50: Heac 
+Cet crunch, Al Bel 
+essia & Bell Security Chief John Doherty 
+' 
+i) 
+4 
+| 2ee Eng 
+TAP Pact Sheet #1 - $.50. Credit card call hints. 
+TAP Fact Sheet #2 - $.50. Pree BELL phone calli 
+TAP Fact Sheet §3 - $.50. Free GTE phone call: 
+FAP Fact Sheet $4 - $.50. Dual Tone Oscillatoi 
+Displayed Red Box, & 2600 Whistle Perfector plan 
+I 
+[ Send CASH, check, or money order to : 
+l 
+Room 603, 147 we: 
+ind Street, New York, 
+10036
+on eerdcy 
+Pred Steinbeck 
+In this column, I shall try to show a few tricks 
+I have picked -up while hacking on the UNIX 
+operating system. This is not meant to be a 
+tutorial; I assume you are relatively fantifer with 
+UNIX. Enough to know what I’m talking about, in any 
+case. 
+I use the UNIX systems here 
+at U.C, Berkeley, so 
+a few notes 
+about them: Pirst, they run Version 7 
+ally run under the C-shell. I think 
+8 around use the 
+C-shel) today, 
+nd are version 7, so that shouldn't be any 
+tories & Terminals: Some good director! 
+swith are /etc, /usr/doc, /usr/spool, and 
+/dev. This last directory, /dev, contains all the 
+evices (peripherals) on the system. 
+UNIX treats all 1/0 devices as files, which 
+means that there are some special things you can do 
+with them. Pirst, all terminals hooked into the 
+system have a file 
+jociated with them. At UCB, 
+most of 
+the terminals 
+(dev/az 
+/dev/bxi 
+/iev/axt 
+signs are digits. 
+In 
+any 
+the “who" command prints ou! 
+nat 
+of th 
+rminals peopl. 
+ire on. So, let: 
+YY 
+that a friend of yours ha 
+terminal "éz28". Well, th 
+corresponds to terminal “dz2 
+Following this to it’ 
+type 
+eat /usr/dict/words > /dev/dz28 
+legged 
+on, using 
+flename which 
+8 /dev/dz28. 
+logical conclusion, if we 
+and hit return, we will cause the entire 50,000 
+word dictionary (in the file */usr/dict/words") to 
+be printed on his terminal. If he happens to be on 
+a 300 baud dialup, well, 
+(yeu 
+*) on his screen. Well, “cat"ing into 
+other people's terminals doesn't reveal your 
+identity to them, so it is less ilkely that they 
+will be able to retaliate. 
+Another good command, when used in conjunction 
+with terminal filenames, is "stty" (set tty). The 
+command 
+stty 0 
+causes you to be logged off. But, If we specify a 
+terminal to send this command through, it will 
+effect the user of that terminal. Therefore, 
+stty 0 > /dev/d228 
+will logout your aforementioned friend (boy, you 
+sure treat your friends rotten, don't you?) 
+Well, 
+it's 2 in the morning right now, so I'd 
+best leave you to your UNIX wizardry, and me to ay 
+sleep. But there's 
+more...s0on: anonymous messages 
+in the system bulletin board program. 
+79 
+ACTS Update 
+by Fred Steinbeck 
+1 wish to apologize for some misinformation in a 
+Previous column of mine (Gibberish II). In this 
+column, I 
+mention ACTS, the Automated Coin Toll 
+Service computer which is replacing operators for 
+accepting money at pay phones. I gave the 
+impression that ACTS would be hard to use red boxes 
+on, 
+it, being a computer, would be able to 
+detect timing differences between red boxes and the 
+Pay.phone. 
+I have never been more wrong 
+successfully boxed calls using a 
+manual red box - 
+one where the length of the tone 
+is determined by 
+how long the switch is held down. In other words, 
+the button {s pressed 
+twice to simulate a dine. 
+ACTS happily accepts this, 
+so I conclude that it 
+doesn't know a milisecond from a hole in the 
+ground. 
+1 have witnessed 
+I should mention another possibility, however. 
+It could be (and I have no proof of this at all) 
+that if ACTS suspects toll fraud, it allows the 
+€all to go through, and then notifies an operator. 
+This probably isn't so. Occasionally 
+an operator 
+will come 
+on the line and ask for money, but this 
+only seems to happen when the *money" is deposited 
+too 
+fast. 
+On a related subject, I have’ found what seems to 
+be the best way to blue box from the Bay Area. Call 
+a number you know can be blue boxed off of, from a 
+pay phone, using your red box. Then disconnect and 
+re-route your call with your blue box. The most it 
+will cost you is a nickel. 
+I know a girl who did this the other day. A few 
+days later the person she called got a call from 
+Bell Security. They knew the number she called, the 
+number she called from (which is why you should use 
+@ pay phone), the time of day the call was 
+placed, 
+and the length of the call. So it might be prudent 
+only to do this when scanning for operator codes, 
+unless you know the person you are calling 
+won't 
+talk. 
+.tn his fascinating 
+book “Russia,” Robert Karses 
+1s 
+‘Shim tht there ee no telephone otchoards 
+> Sc, 
+Russian hoteh. tf dat is tue, how do telephone calls 
+a 
+‘get Urough!—Mildred Davis, Aust, Tex. 
+< 
+S$ 
+‘A. Lach hotel room in the newest Moscow hotels 
+2 
+‘has its own phone; its own separate phone number, 
+ts own outside lines. In creature comforts the Samet 
+Union lags 50 years behind the US. 
+HOTS 
+Curling up in front of the fire 
+Book Review 
+by Cheshire Catalyst 
+As a Phone Phreak, we are all called upon from 
+time to time to explain to our less 
+technical 
+friends “How it all Works.” 
+Now there is a book 
+yee gan pane them, (or tell them to get) called 
+1 
+Ou 
+ephone: 
+by van Waterford. The book 
+Glosses 
+Svar eheehiseory 
+of telephone ermice Ts 
+the U. S., and then explains the workings of the 
+insides of the phone. His explanation of the net- 
+work inside the phone left much to be desired, and 
+he didn't explain fully why there were so many 
+harmonics available from the ringer. Then again, 
+that wasn't what the book was really about. 
+Most of the book seems to discribe what tele- 
+Phone hardware is out there in the marketplace, 
+and how to hook it up. It goes into modular con- 
+Rectors, cordless telephones, decorator phones, 
+repertory dialers, caculator phones, scramblers, 
+security alarms, facsimile, and mobil radic— 
+Phones. 
+It includes a glossary, which is pretty good 
+for the new comer. Most important, it has a list 
+Of suppliers, including addresses, of all the 
+companies mentioned in the book. 
+The blurbs on the back of the book Also 
+mention The Handbook of Telephones & Accessorie: 
+{$9.95 paper, order @557) whicl 
+hope 
+evier 
+in a future 
+issue. 
+All About Telephones (order number 1097) is 
+available for $5. 
+‘rom 
+Tab Books, Dept Tap, Blue 
+Ridge Summit PA, 17214.

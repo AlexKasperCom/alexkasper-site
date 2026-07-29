@@ -1,25 +1,892 @@
-‘Viva La Muerte!'by Oz Y. Mandias“ This column is dedicated to the H-Block IRAmartyrs ('God save the gueen, the fascistregime...') and to the assasin of 'Maximum' JohnWood Jr. (named after the type of sentence hehung on drug defendants), the first federal judgeto suffer that fates a .243 deer snuffer thatblew his chest open (S&W Model 1500?: as they sayin Belfast, 'God made man, Armalite made ‘emequal").‘Death is the greatest kick of all, that's whythey save it for last.’ -- graffitoJulie's In The Drug Squad According to the Chris-tian Science Monitor (4 Sept/80,p.8), the DEA hasformed hit teams to nail clandestine drug-makinglabs in ano. of cities including N.Y., Chicago,Houston, Atlanta, Boston and Wash.DC. You cannow pretty well assume that buying any hot prec-ursors will rate an easy bust for the narcs;always make sure your equipment and chems. gothrough a no. of trusted (and separate) hands bef-ore you cook. Also, let the chems. ‘cool off'for a month or 2 (or longer), move around a lotend be prepared to start dating your lawyer.Stings are as common-place as corrupt and/orperjuring narks. Buckeye, Precision Organic andMerrill Scientific (See High Times,March/81},Just to name a few, offered'flagged'chems.andturned in customers,Anyone interested in either buying or sellinganything should write me c/o TAP.Since the "Better Living Thru Chem.’ article,2 new legal analogues have hit the streets (thoughthey'II soon be illegal, of course): the methy]analog of fentanyl, sold as China White Heroin,and N-ethylamphetamine, sub'ing for the N-methylderiv., commonly known as ‘speed’ or ‘crystalmeth." They both originated in Calif., the latterundoubtedly via the Angels, according to informedsources."Psychedelic Chemistry’, which I've mentionedin past articles is back in print. It's $15 fromLoompanics (Box 264, Mason,MI,48854), with somenew materfal, but still with a no. of errors, andstill far from exhaustive or complete. It's stillehowever, the best by far available (at leastabove-ground, anyway)if you have the background toanderstand advanced 'chemspeak,'Media ‘The Poor Man's Armourer'’ is also availableFrom Loompanics for $17. It is definately worth-while acquiring if you're into 'rock 'n roll'(full auto) and other facets of improvised, cheapweaponry. Fuck the boys from BATF."The Falcon and the Snowman' (Pocket Books,$3)is the true story of a couple of young guys , onea coke dealer, who became Russian spies. Theprotagonist is currently a federal fugitive facing40 years hard time for his impertinence, andreportedly dealing coke in New England. A fascin-ating look at the corrupt and evil spooks in theCIA.Underground Physicist's Corner 'The Secret ThatExploded’ (Random House,$16)is the story of theattempt to suppress the H-bomb secret by the auth-our of the infamous ‘Progressive’ article, HowardMorland. There's a lot of good info here, includ:ing the original article. A triumph for the FirstAmendment in these dismal times of fascism's rise."Basement Nukes' (Loompanics,$7)is O.K., but farless a book than Morland's. There's also far toomuch B.S. political clap-trap added by the authourand not enough technical detail.Send in your plans & info.;UCRL 4725 where areyou? Come on Rotow, cough it up!Hea Scene? If your neighbourhood is like mine,you can get bullet proof vests (Kevlar) for $85and up from either: CWS Enterprises, 3824 Kidd Dr,Honolulu,HI 96818 or Survival Equip.Sales,60 Madison S8t.,Geneva,NY 14456 .Feedback Yeah, how about some? It'd be nice fora change to get some interesting mail instead ofjust a letter or 2 asking for something. Evenif you don't want me to publish it, send it infor ‘selective distribution’. There's alwaysa lot of info that wide-spread distr'n would negat-e the useful of, or that's a trade secret. Ican dig; I’ve got some pretty good tid-bit myselfthat go to the highest bidder. So how's about it;want to trade? L.A. & Bay area TAPers are partic-ularly urged to write; I'm currently in your area.Send all mail to TAP c/o Oz Y.Mandias.Long live outlaw chemistry!
-TAPRoom 603147 W. 42 St.New York 10036No. 69COMPUTER PHREAK-OUTbyThe WizardHight It's been a while since I wrote anythingpo XY figured I'd keep you up to date on the workdown here at Kuppet Labs here in The Bronx. I knowI promised Tom an article on an auto-dial blue boxfor your home computer ( I own a TRS-80 but I'))give enough info for you to modify it for anyhene computer) but due to a lack of time that project46 on the shelf. HOWEVEK,here’s the idea I've beenworving on lately. It’s a microprocessor controlledbrown box. As your handy pocket guide to coloredboxes shows, a brown box is a combination of anytwo or more boxes. thie will be a combination blue(of course),red and white(rerular 16 key TouchTone pad), as well as being a calculator. So youcan carry it around without being conspicuous,Right now it's just on the drawing board buthere's what I have so far. The box will be designedarourmd the NSC800 microprocessor from National Semi-conductor. This is a new CKOS (low power), processorwhich will run Z-80 instructions, This is reallynice, as I can develop the software on my Trash -80,Nationa] aleo has a new CEOS version of the 2716EPROM. That's what the prorram will be stored on',assuming that it draws low enogh current. I'm waiteing for National to send me prices and specs now,Otherwise, a regular 2716 EPROM will be used, Inthis case, when the unit is turned on, the programwill relocate itself into CMOS RAM and then dis-connect the 2716. Scratchpad RAM and 1/0 areprovided on one chip for the NSCR00,. Decoding thekeyboard wil] be done by a 740923 20 key decoder chip.The t2 digit output wil) be done using a multiplexed74cgi2 6 digit driver chip to drive 2 gix digitmultiplexed LED sticks.The audio output can be achieved in two ways.Fither two output bits on a port can be toggled togive different frequenci’s or 8 resistors can beattached to an output port to create a D/A converter,This would give you a sine wave output,From a software standpoint, the program wouldhave to provide four major functions. These arekeyboard input, LED output, sound generation andtiming, and math functions,.I havent done any development on software yetbut I have some ideas. First, on power-on the Aigh-est priority interrupt will clear all reristers andworkspaces and then dump you to the keyboard inputroutine. Numbers which are entered are outputteto the LED display. In order to use the box togenerate tones, a especial sequence of keys are pushed.different sequence is pushed for each function, i.e.white, blue or red box. There only has to be one’key different for each function so that many sequencesGo not have to be memorized.The sound generation will probably be done usingthe D/A mepproach. A table of values will be storedin PROM memory(i.e. the 27016) to approximate a sinewave, Two inters will be indexed throgh the tadleat different rates for the different frequencies,The results will be averaged together output tothe DAC. This will be output (probably through a714 op-amp) to the battery charger input, using @capacitor to block the DC from flowing into the out-put. This method can be used to produce any tonesneeded so that special combinations or single freqencytones can be produced using the same method,Development can be done on the TRS-80,. JI planto design and build a shared memory board so the soft-ware can be developed on the TKS-80, loaded intoshared memory and the NSC80O system can be run offof the rame memory,That’s all I have so far. If you.have any questions,comments or suggestions send thex to TAP and Tom —will pass them on to me, Stay high and stay happy.
-
-THE *OVTMULY *TLSSACLBy ‘teassencer R.t1.A.This in ths ‘ eqinning of a new column here atTAP. I will do my damndest to answer reader en-quirlie# on any and avery wwdject that TAP Nay sverdealt with. I["ll slso report on various OUSTresa@arch findinos, developments, and rallucina-tions aa they occur.Bitch & ‘wan Dep't.; ‘thy not start off withtha Dad news, right? fell, I juse put che Finaltouches Of my new bDlua box... and found that itwouldn't been off $00 nums, thvugh at would baenoff other lona-diat nums. “‘luts:,” says [, "Atlooks like the dirty dDugagers put in a notchfilrer that absorbs 2600 and only orks on ATSlines...”The next day, I was on lunch break and deci-dea t nay a Visit to tne local ¢,5, ti cavethe switchman a ration af anpro%riata JS by vayof introductions, then oracerded to 28+ 2 fewquaations apout electronic awitching. Lo aadBahold, he tells me that all In-JATS trafficcoming from Connecticut ia now cmindg througha #€2 mwitcn. (In cate 7yQu're wondering, I livein 4 wmedivue-siread city in CT.) Anyvay, the hadnews continued a1 nh told se that the entirelong-dist ty3ter in CT waa about to O cut ovarto 4£ that Friday: 1 could*we nad a shitfitright there, but instead fnigned enthusiasr andarranged for a CO tour, ‘Yhict you will readabout if Cie maxt i3sue,If you don't already know, 4F stands for‘lumber $6 C255, Dell's new comnuterised re rl.ice-meat for tre ald 4A Crossbar longq-diast switchthat us oOnreaks know & love & whistlo sweetsomethings at. 4b uves a type of out-of-bandsignalling called CCIS, in which calls are notactually aasigned a voloe channel until tecalled party answers, and in which 41] infor-mation needed to »rocays calls (and traca thanav well) is carriad down a separate channel tirtRas no direct connexion to the voice channel.Whet this means is asimply the end of Diack andblue boxes. You can whistle and beso ‘til yourheart's content, but if it’s 4£ you'll cataxactly noshere. fhich it why [I could ba heardcussing all the way horn that nicrt.HOFTEVER,... like wa say, old oNreax never die,they just build a different color box. ity nextone vill Se rad.....ALSO... it’s now five days xaat due for cut-over of the main switcher, which hasn't hanonenedyet, sO Ciere mey 9til) he some time. 11356, rastassured that we're all vorkinge ‘ard on new ap-proaches to the new problem of 4Ff and when wehit cay cirt you'll read it first rirht here.WATS -New Oep't.: Plenty «of interesting reasearchto report. One: Some outooing '-ATS lines use SFgsignalline with 2600. The one I know of ite froma cértain institution in py town to a nearby biacity, wheih is othervise a long-dist call. Onthis ?IATS. you can dial calls in that city butif yau try dlaline the dleiec 1 Phrat, to callbeyond that city, tha fADX act tha inatitutionwhose JATS line it ia, will duep you back to aPABX dfsxt 45a. IOSEVER, this will not ha+? you beep a 2600 nulse ‘tuickly, which the PABXdoesn't recognise but the VATS line takes as adigit 1, and then you can dial-oulse out therest of the number with no hassle.llare are some interesting nums that a friendand I found in february. I don't know what‘ye useful “or, Dut if you study the liseyou'll notice a certain oattern to things. Thepattern may give the basis for future hackingthat might yield some very interesting nurs.Also, most of these recordines identify thecity they are iA, so they might be useful forutacking tandewa, maybe even for gettina aroundthe 4Z proble#. All of the following start withthe 800 area code.6}8-0022; 800 tast ling for "301 VPA" (Saltimore)§25-0056: ditea for *}0) YPA* (Denver?)345-0055: New ‘exico soecial inWATS teat293-9035: 600 avoe. tut. line for 217 4PA inSoringfield (Maeg.} ¢A inward WATS test, 228,443,831, O43, this is a rec., 402-2C,325-9999; three tones, then “The num you havereached... (readbaeck) is being checked fertrouble, Please try egain later... (thishey said thet since January and atill does!)$33-00455: #4255 Minneapolis office, this is arecording 612~}-4P-..332-0058; ditto$23-90561 "nWATS tast line for Filthydelphia4285 machine, 215-3C.
-325-0055 and 2066 ara exactiy tne sare thaac.446-905x (xm0~9)} 899 service test lines ‘or@O¢ IPA. (Racnrond VA)393-0055: The nun vou have reached, 637-0555,ig not in svce in Araa Codes 614. PLeasecneck tha nun...828-3955; 800 svce test line for 7165 ‘IPA(thials in Buffalo ‘VY on a 4A)433-0077: an’ VES taste SLI-3C (Fort vorthless,Texas)3362-97151 rings, than @ ranid heacs, then ‘fastSusy giqnal. a click, silence, back to dialtone,362-5799; fact busy, silence, more fast busy,move Silence, dumo back to dialtone.362-5755; ring, 8 peens, busy, dumm back todial tone.It s@ems that 800-J62-xwxx in general nakeaood scanning. I[f you dacid@ to mhreak aroundwith any of this, lease keen careful recordsof all your results and report them to “'‘essaen-fear R.A.” c/o TAP. Even if you dial somethinaand get nothing interesting, lat me know soOthers can be informed not to bother tryingthat num. ALSO: if you hit on somethingreally intense (like a direct line to thewhita-white Whitehouse), olease don't measwith iC too much until we all gee a chante tolook into it and figure out if it nas anyreally soecial uses.Uncle Sam ‘ants You, Oep't.: What Uncle Samreally wants you to do is to Keep your noseout of Ais AUTOWO! circuits. Out then again,he also wants a lot of us to register for thedraft,and do we obay? Helllll to;For a couple of years, a debate hag beenFoing around in phreak circles about what tonesarea used on AUTOVON. Three currently quotedguesses include the 4th column = 1633) hz guess,and the two other quase6s that were printedin TAP §#60. Take your choice and take yourcGhencas. Anyone who hag access to raalliveAUTOVON phones is anceuraged to let his/herfingers do the walking over the keypad, whiletaping the tones. Use a small recorder and aninduction pickuo. Remember tO also get therow and columm tones individually by oressingtwo horizontal, om two vertical buttons at 4time, going down from top to bottom and thenfrom left to right. He can figure out thefrequencies from what's on the tape,Once wa figure aut how to get deeo intoAUTOVON, we can try calling our fiends inths Pentagom and talling them exactly whatwe think about tha neutron bomb and the armsrace in general. Have fun & don't get caught.General topix Dep't.:A good BS story to use on switchman in ordarto get into CO's ia thie: "Hi there, I'm curerently working for an interconnect companylnatalliag business phone systems, and I da-cided xX want to move on to bigger & better thingslika working on Inzyidw Plast stulfd for Sell.I'm reelly into all thie new digital stuff...I know you give tours of the works for angin-eering students, #0 how sbout...7” Also, byway af “needing to study up for before youaoply for che job,” you might be able to gethold of some Practices manuals. Send Xeroxcopies to TAP, ¢/o llessenger R.N.A.If you're into installing phones for yourselfand friends, do not buy ITT or Stramberg-Carison. ‘opt nhonea nowadays are made likeehnit but these two companies ara raally shoddyworkmanshio. Besides, Stromberg Carlson is atantacle of General DynamixxKka, a large weaconescompany. And {TT (which stands for InternationalTyrrany 6 Torture) ‘.0. dane everything from bull-ding weapons for the Vazis in ‘WII, to engin-@éring the end of damocracy in Chile in "7}-'74,Tha best nade cXhonsa around are tha old Auto-matic Clectric #80, If you can still find any.In any case, it's best to buy reconditionedor used ohdnas than new ones, as the ferwer weremade in the days when they were supnosed to beahle to survive being @ronvuved out a window,...A good company for all af this and more is 3200,BOhnsack Equipment Comoany, in Cermantown VY.If you go to the warehouse direct, they'll sellyou “as-is” for dirt cheep, and the stuff isgenerally in need on only «a cleaning up, and@® new line cord.
-
-PEANBS » SILYLR BOOKSBY THE MAGI CLAM...The "“*mOn.torinoy” twarerepping) of alPolitax: [ Know most phraax aren't into this Cndiviluals telepnone line without their consent,too Ruch tiexe daya,vut sare things need w Or without & Tourt ofdar 18 3 vaOlation of faderalDe said, ne of than is that the bicgast Law and punishable by iepcisomsent for five years,danyer of fascism right now comes from furtrer a $90,000 £in*, or dorh.to tha right than even Jonald Ray-qun. I'n ae only exceptions to the sbove, are policereferring to Jerry Falwell and the ‘oral (sic) iim some states), apd govoi 3) we Bell.Majoraty (sic). Jrar-less Jerry 18 2 psuedo= Some of you pay nave ceacd of devices callesChristien version of the Ayacollah <nomeini and 22n0 85 which stands for Senote Observation Svate...if you think Iren is an uptight laces to live, “Nev are alsO) sonetisem Called “SILVER 80x'S*.check out Falweli’s slans for ths U.S. af A. “nese devices allo« easposedly Maurthor) :e4"Falwell rans a collece, with a nane iike the relephose esployern to dts iate ther ftroaLiberty BSartist Colleae, and the rlace is like anywhere, and them using 28 ordinary tomch torea concentration camp. (Jo rock-n-roll, jazz, fone, tap jato a customers line AECEIVE OwLr !country-western, or “olk music. Guys must (YF. The soathpiece ins not bouhel, wp ThHE 18 iswaar their hair above tieir ears and above treir cotally silent) asd listes to aay conversationcollars. Oress code more intense Cian many takiad place. [* vould alzo be possible for ANYOREmilitary acadaries, Strice autsority anc no a>) aial into FF*On, vey in tbe proper acceas codestudent inzut into deacasion makina, ‘lo smokino and tab rones !1 (Thonam VPRT iitlejal).drinkine drues or dancinr. Siolom classes trat SKNOB works af rollows;teach that the wor]d beean 10,000 y@ars ano, Cial the ember of a PPPOR unit. (Agpacently BellEtcetera, Etocetara, occasionally ute them in “SS ,arocmationYou can rast assured that if Falwell and 516 archamies CF. YtaSSS- 417th A tone wall then ofband of mercy masanthroses gain any sienificane neard foc approximarety *so seconde and thenpower, that most of the thincs You go in your Silence. [rt igs then netee@acy ta key LR turthfree time will be varhoten, with Suni tment roach tome} a 2 ta % digit sensrity code, holdingconsisting of “spiritual re-education..." mach digit down at least one second. If the codeWe az technovhreax can dG a lot to subvert is not entered Within Live of six meconds, theFalwell and hig ilk. Fucking up their shone RAHOD will digconeect, ani must De dialed again.service, remotes Wiretao via verification, rf the cote ia properly antered, chee agorckec toreqerw warfare in the form of airborne VD in will be heard. A Seven J491t subscrider fo00the right Places, LSD in their food/water, Bunker can then he enteret (the EXNOd Cah oalyand $0 On. Ideas are welconsa. Practical handle certain "exchanden” which aCe previted, seideas that can be used. A let of this modem unvally one machine Canaot sonitor an entire FPA).racist, Cascisc shic te sublinated Southam ZBROG will then cunnect cornaect wp to aresentment against the ‘lortn for having been wubscribecs line. “he listener sill hear the lowdefeated in the Civil ‘lar. And it capitalises lewsl idlv tone. “hen as the aonmitoced party dialsOn economic woe like unemployment (Dlane the frotacty oc torgca tone} the iinten=r vould bear theNiggers?: and $0 on) The Ku Xlux Xroeps are number bring dialed, then the ative conversation!back in Connecticut and spreading Like cancer. nll without detection. then the Listener isThink of it as Civil ‘lar II and you won't be finigsheil with the gonitoriny of that pacticelarsurprised. You might be intarwsetsd to Know that Customec, he can thea kay 4 wingle “reset digit”the right wing is slanning to call for a Censti- (usually the last digat of the ec=bmam code ) trixtutional Convention, wherein the entire Constitu- 4isconaec*s him froe tte @onitored line andtion can bé rewritten. This nove is gaining ceturas nim to the tone so that he can kay iaanother F digit fone auaber. When the linstanec isBUDPOXt... YOu can imagine the kind of thingsthat will be on the agenda... changing the bill totally fimsshed with Rasp Le heyt & singleof rights so it starts with "The right of all "Aigoconnact digitTM which dimssonuects hia from thefatusee to kaap and bear amms will not he abridgq- Line being Basitored, and discomsecta bia froaed..." Seriously: Remember: Apathy today brings BEROB so that the device cam reset and ba ceadytotalitariangim tomorrow. Enouch said. for akothar caller.FINALLY.... An urgent avpeal for all af you out Because of PENOBS potential for abuse, boththere to duse off your typewriters and start by paceaka and more likuvly by Bell enployeen, Sellsending stuff in to TA®. If you don't like my has kept 2FROR YEEY low bey. Up seeil 3978, Bellpolitical editorialiaing and sould nrefer more denied sastirely that REMNO@S existed, The davicestech staff, fine: make my editorials di sa onoear azyistaacs wao ficat sade public ducing hOaring st onby filling the space with schenetix, numer "“"eleprone RoaLtoOriag Prictices by PederalLists, and #o on. Anything will do. Richt Kgeacies*® before a gubcomeitaa of the commitee onpow, the Urgent Topix listings include tne yowermaat opwratioss, AGOUSe of Fepresentattves,follewing: info on ESS and eapecially 4£.,; ¥inety-Tkird Congress June $74, Xt has siacetalco internal nume: ¢cannings of 800 nucwe been stated by Bell that the SLESOD devices arebased on the stuff in this column: info on essed = RBXYCLEUSYTVELY Cor soeitoriag Rell aaployerrareas using comouters for coin-collect stull wuch as Operators, information OCperatorz etc. teaon payphonas; info on verify and autoverity keep tab? on *hAir Performance.and how-b0-use; Chemistry: Pyrotechnix: 1a MUM ?Pgychotechnix, and so on..... ALSO! if you're Yé any ceeder showld Aiscover a REROR duriaginto “radical aoplications,”~ and are not & hig foc her) scanniag travels, please kwep in mindFed or other vigay, contact ne C/o/ TAP. the BRT eEtrict federal laws Ceqarding wiretappingUntil next month... SLECCEE? ...ker=-coink-. if vow were to be caugnt upiag RFROB ta tap--H- RRA peoples fones,'S Followisy are two pictures of prepestly usedKeyed up eh pmel CO Reno5s.& 4 Any queations, comprata etr- rice to THELUMPUR (AP! —~ MehhtarAhmedbought qx en RAGICTIABR c/o TAPanew carafter begfrst onewaastolen 4 Manth age Y>eben carhad = "oheuiquerters. he found bus mew cat ae «car aan repeciedihe of the second. Orne
-fi1i!i)1tf
-hehtrfatHlHylap33{3:|AFH(Hf|ii("|}|:
-[j
-i
-||i}4}'ulHit
-1
-1|{jloo peee eeie
-ngMiHiHiatry}kitq|i
-!iftyiI::{
-
-DR, ATOMIC'S UNDERGROUND DRUG NEWSLIFE EXTENTION: SOD, super-oxide dismutase. Anatural enzyme that eliminates free oxygen radicals.Available over-the-counter at many health foodstores. May increase lifespan by one third.OTc: Alpha-ethyl-tryptamine (AET) is a relative ofthe drug DMT and is also psychotropic. A speed likeeffect was reported at 75mg, a trip at 150mg, and athree day bummer was experienced by the jerk who tooka gram dose. AET is available over-the-counter or bymail from chemical supply houses, and it's legal andinexpensive.UNTESTED: Intravenous self-administration of nomi-fensine in rats--implications for abuse potentialin humans, Reported that CNS stimulation is sim-jlar to cocaine. (Science, Vol. 212, 6/81, p. 1167.)CUT: "The ideal coke cutter, in terms of snoothealth, is a Yittle-used, esoteric and nearly in-detectable fine-powder version of silica oxide,which is, incidentally, a popular homeopathic rem-edy for nasal irritation." (OUI, August 1980,page 15--Dr. Hip.)BOOK: Pleasures of Cocainc by Adam Gottlieb, 1978,And/Or Press, P.O. Box 2246, Berkeley, CA $4.95.Highly recommended. An excellent reference on sol-vent and colormetric tests to determine kinds ofdrugsz and common cuts.MARKET PRICES: Since the precursor phecnyl-2-pro-panone became a Title 21 controlled substance overa year ago, the price has skyrocketed up to $1000or more a liter. Because of the high price andgeneral unavailability, home production is thriving.Also, let the buyer beware because cases are turn-ing up in the law literature where the DEA is sell-ing P-2-P to find clandestine drug manufacturers.The usual synthcsis of the ketone is the Magidsonand Garkusha method, Chem Abstracts, vol. 35, page5868, para. 5. Chem Abs are found at better Col-lege libraries.BETTER TO RENT: A Falls Township, PA, man was ar-reated with 7 lbs. of methamphetamine. FederalAgents confiscated the house and the surrounding35 acres. An agent at the Philadelphia office ofthe DEA said they seized the farmhouse and propertyas a new approach to drug enforcement in which thegovernment seizes assets it believes were acquiredthrough illegal sales of drugs, (Courier Times,PA, reported by Patricia Wandling, Staff Writer.)
-DR, ATOMIC'S UNDERGROUND DRUG NEWSGOVERNMENT ATTACKS FIRST AMENDMENT RIGHTS! GaryBarnett, owner of United News Service (UNS), acompany that aella drug manufacture formulae tocounter culture chemists, was arrested for aidingand abetting the illegal manufacture of PCP becausehe sold a drug formula to a would-be chemiat (see507 F.Supp 670, for the details).The case survived the preliminary hearing and Jurytrial was set for March 24, 1981, in the Tenth cir-cuit Court; a continuance is expected,Unlike the publication of pornography, the very pub-lication of which is a crime, drug manufacture forsm-ulae are legal to publish and sell: however, thegovernment contends that an act of criminal conspir-=acy happens when someone tries to manufacture con-trolled substances using the formula. (The UNS ad-dress is: P.O. Box 333, Bay Station, Brooklyn, NY)CHEMICAL COMPANY EMPLOYEES ARE DEA INFORMANTS: Ithas been published in the Federal Reporter thatcertain employees of Buckeye Scientific Co. had anagreement with the DEA to alert them of suspiciouschemical purchases, The FR, however, didn't statewhich Buckeye employees had the agreement or if theproprietor of Buckeye, the late Dick Ha]l, had anyinvolvement. Also reported was that Precision Or-ganic Chemicals in Alsop, IL, was a DEA sting op-eration. (See U.S, v. Gentry, 642 F2d 385, for thedetails.)NEW BOOK: Michael V. Smith's new book PsychedelicChemistry is now being sold by Loompanica Unlimited,P.O. Box 264, Mason, Michigan 44854, Loompanicswill send price and information with a request anda5.8.8.@. This information may be sent with theirGeneral Catalogue, $2.00.DRUGS OF INTEREST:Longevity —— DHEA, dehydroepiandrosterone, an ad-renal steroid, reportedly increases lifespan by 35to 40 years and prevents cancer and obesity. (St.Paul Pioneer Press, 1-11-81, 8F.)Legal Analogue -- methyl of Fentanyl. Morphinelike in action and being sold as China White heroin.C(22)H(2B)N(2)0, N-1-Phenethyl-4-piperidyl-propio—nanilide, (See Newsweek, Jan. 5, 1981, "A DeadlyNew Drug Passing as Heroin.” Note that the abovemolecular formula and chemical name is for fentanyl,not for the methyl analogue.)Crusty thieves Chicago Jewelry Store $50,000RewardforNewBombselec? Thr. broke“ mine Mar re Neer hone Is Looted of $1 Million bore has boon preat deal ot contin | bigheres burktings aad freewass but dewhale te: was away. Inek a pazea aaa the: refrigerate CHICAGO. —Burpiars Nery rm rece Sears abot the pare / pe harnt « Radsods cr fr humans. anemia“noha and ate H. aad ploerd two chety plaics neath onthe onkAnd. she told pebor. they plocked all the lemexsfrarna Margyana ptt
-According tou rehable serie | thivad had ils phomes ringing—m “foanteen Bei letephons, | with call of peniest. [1 seemsThis Christmas,he’s givingher the photoeretry c'arm.pher inadver-tenily placedthose tancharming bells.which bear aWtrORR Lesem.-bhlancr tm tts.divecih ww Sronlof the model'ssienitar apparal:us. After the adran in sechnewspapers asthe AricaanRepublic andDenver's RevdrMeountats News,phone cals be-NA gan mM Hreram‘lim with com:plaints aboutthe ad's sap-posedty sexistmature. Thephowe companyquickly with-drew the ad.Well, we neverexpected MaBell be have anyballs saryhow.
-wong sophisticated lonls took an estrmiated $$ millron im Sirs and eectyami $30,000 im cash today from a NolSide jewelry store, polwe and xioreOffnials said.The poloe said the burglars used a“black box" electronic device (o bypaceslarms st the Harry A. Leviatnd jow-clry sore, then cul laroueh sicelwindow bare with pewerfid cuifingtorches. aside (he store, they uscd thekevhes in ope (hree vaulls
-posed dev clopment of the newnon bomb,whack designed to halls mont poo& posuble without damaging buiklengsMesnwhie. the Sun Franco Fool:ogy Center hay od kered a $50.00rew ardfo the fist person who creales the op:Bowie Of the acutnin bonb—the vivg-trom honThe sivatrom bomb wowld destron
-and plants. The mew bore woakl causcomer. Mee! aad asphalt to deere.Taw— hut ata ow enoegh rate 1 allowPoop bo vacuaic salchEnts should be sent to.VIVATRON BOMBSan Francisco keodogs Center“02 Columbus AveSan Froaciwo, Cal, M41!)TAP, Room 603, 147 W. 42 St., NY 10036“Pebhe moar ic hikebeh water EvrrvonehelpsAnon
-rset!—69
-Butt AaleUS POSTAGEPAIDPocant No JMendey, MJ
+‘viva La Suerte!' 
+by Oz Y, Mandias 
+* 
+This 
+column is dedicated to the H-Block IRA 
+martyrs ("God save the queen, 
+the fascist 
+regime...') and to the assasin of ‘Maximum’ John 
+Wood Jr. (named after the type of sentence he 
+hung on drug defendants), the first federal judge 
+to suffer that fate: a .243 deer snuffer that 
+blew his chest open (SéW Model 1500?; as they say 
+in Belfast, ‘God made man, Armalite made ‘em 
+equal’) 
+Death is the greatest kick of all, that's why 
+ve it for last.' -- graffito 
+they 
+Julie's In The Drug Squad According to the Chris- 
+tian Science Monitor 
+(4 
+Sept/80,p.8), the DEA has 
+formed hit teams to nail clandestine drug-making 
+labs in ano. of cities including N.¥., Chicago, 
+Houston, Atlanta, Boston and Wash.DC. You can 
+now pretty well assume that buying any hot prec- 
+ursors will rate 
+an 
+easy bust for the narc: 
+always make sure your equipment and chems.: go 
+through a no. of trusted (and 
+separate) hands bef- 
+ore you cook. Also, let the chems. ‘cool off’ 
+for a month or 2 (or longer), move around a lot 
+and be prepared to start dating your lawyer. 
+Stings are as common-place as corrupt and/or 
+perjuring narks. Buckeye, Precision Organic and 
+Merrill Scientific (See High Times,March/81), 
+just to name a few, offered’ flagged’ 
+chems.and 
+turned in customer: 
+Anyone interested in either buying or selling 
+anything should write me c/o TAP. 
+Since the ‘Better Living Thru Chem.’ article, 
+2 new legal analogues have hit the streets (though 
+they'll soon be illegal, of course): the methyl 
+analog of fentanyl, sold as China White Heroin, 
+and N-ethylamphetamine, sub'ing for the N-methyl 
+deriv., commonly known as ‘speed’ or ‘crystal 
+meth.' They both originated in Calif., the latter 
+undoubtedly via the Angels, according to informed 
+sources. 
+‘Psychedelic Chemistry’, which I've mentioned 
+in past articles is back in print. It's $15 from 
+Loompanics (Box 264, Mason,MI,48854), with 
+some 
+new material, but still with a no. of errors, 
+and 
+still far from exhaustive or complete. 
+It's 
+still 
+showever, the best by far available (at least 
+above-ground, anyway)if you have the background to 
+anderstand advanced ‘chemspeak.' 
+Media ‘The Poor Man's Armourer’ is also available 
+from Loompanics for $17. 
+It is definately worth- 
+while acquiring if you're into ‘rock 'n roll' 
+(full auto) and other facets of improvised, cheap 
+weaponry. Fuck the boys from BATF. 
+‘The Falcon and the Snowman’ (Pocket Books, $3) 
+the true story of a couple of young guys , one 
+a coke dealer, who became Russian spies. The 
+Protagonist is currently a federal fugitive facing 
+40 years hard time for his impertinence, and 
+reportedly dealing coke in New England. A fascin- 
+ating look at the corrupt and evil spooks in the 
+CIA. 
+Underground Ph 
+‘The Secret That 
+the story of the 
+the H-bomb secret by the auth- 
+our of the infai 
+‘progressive’ article, Howard 
+Horland. ‘There's 
+a lot of good info here, includ~ 
+ing the original article. A triumph for the First 
+Amendment in these dismal times of fascism's rise. 
+‘Basement Nukes’ (Loompanics,$7)is 0.K., but far 
+less a book than Morland's. There's also far too 
+much B.S. political clap-trap added by the authour 
+and not enough technical detail. 
+Send in your plans & info. ;UCRL 4725 where are 
+you? Come on Rotow, cough it 
+up! 
+Heavy 
+Scene? If your neighbourhood is like mine, 
+Fou ban Get 
+bullet proof vests (Kevlar) for $85 
+and up from either: 
+CWS Enterprises, 3824 Kidd Dr, 
+Honolulu, 
+HI 96818 or Survival Equip.Sales, 
+60 Madison St.,Geneva,NY 14456 . 
+Feedback Yeah, how about some? It'd be nice for 
+@ change to get some interesting mail instead of 
+just a letter or 2 asking for something. Even 
+if you don’t want me to publish it, send it in 
+for ‘selective distribution’. 
+There 
+always 
+@ lot of info that wide-spread distr'n would negat 
+the useful of, or that's a trade secret. 
+I 
+‘can dig; I've got some pretty good tid-bit myself 
+that go to the highest bidder. So how's about it; 
+‘want to trade? L.A. & Bay area TAPers are partic- 
+ularly urged to write; I'm currently in your area. 
+Send all mail to TAP c/o Oz Y.Mandias. 
+- Long live outlaw chemistry! 
+Corner 
+attempt to suppre 
+TAP 
+' 
+Room 603 
+147 W. 42 St. 
+New York 10036 
+No. 69 
+COKFUTER 
+EAI 
+SOLTURER PHREAK=OUT 
+The Wizard 
+Hight It's been a while since I wrote anything 
+so I fipured I'd keep you up to date on the work 
+down here at Kuppet Labs here in Th= Bronx, I know 
+I promised Tom an article on an auto-dial blue box 
+for your home computer ( I own a THS-80 but I'l) 
+give enough info for you to modify it for any 
+hene computer) but due to a lack of time that project 
+de on the shelf. HOWEVER,here's the idea I've been 
+worting on lately. It's a microprocessor controlled 
+brown box. As your handy pocket guide to colored 
+boxes shows, a brown box is a combination of any 
+two or more boxes. 
+this will be a combination blue 
+(of course),red 
+and white(regular 16 key Touch 
+Tone pad), as wel! as being a calculator. So you 
+can carry it around without being conspicuous 
+Right now it's just on the drawing board but 
+here's what I have so far, The box will be designed 
+around the NSC800 microprocessor from National Se 
+conductor. This is a new CKOS (low power), processor 
+which will run 2-80 instructions. This is really 
+nice, as I can develop the software on my Trash_-80. 
+National also has a new COS version of the 2716 
+EPRON. That's what the program will be stored on:, 
+suming that it draws low enogh purrent, I'm wait- 
+ing for National to send me prices and specs now. 
+Otherwise, a regular 2716 EPRO: will be used. In 
+this 
+case, 
+when the unit is turned on, the program 
+will relocate itself into CNOS RAX and then di 
+connect the 2716. Scratchpad RAK and 1/0 are 
+provided on one chip for the NSCAOO. Decoding the 
+keyboard will be done by = 746923 20 key decoder chip. 
+The 12 digit output will be done using a multiplexed 
+76C512 6 digit driver chip to drive 2 six digit 
+multiplexed LED sticks. 
+‘The audio output can be achieved in two ways. 
+Either two output bits on a port can be toggled to 
+give different frequenci-s or 8 resistors can be 
+attached to an output port to create a D/A converter. 
+‘This would give you a sine wave output. 
+From a software standpoint, the pro 
+have to provide four major functions. 
+The: 
+keyboard input, LED output, sound generation and 
+timing, and math functions. . 
+I'havent done any development on software yet 
+but T have some ideas. First, on power on kere ene 
+est 
+priority interrupt 
+will 
+clear a. 
+Z 
+Sorkepaces and then dump you to the keyboard input 
+routine, Numbers which are entered are output 
+to the LED display, 
+In order to use the box to 
+generate to 
+pecial sequence of keys are push 
+differant sequence is pushed 
+for each function, 4 
+white, blue or red box. There only has to be one" 
+key different for each function so that many sequences 
+do not have to be memorized. 
+The sound generation will probably be done using 
+the D/A approach. A table of values will be stored 
+in PROM memory(i.e. 
+the 27C16) to approximate a sine 
+wave. 
+Two pointers 
+will be indexed throgh the table 
+different rates for the different frequencies. 
+results will be averaged together and output to 
+the DAC. This will be output (probably through @ 
+714 
+op-amp) to the battery charger 
+input, using 4 
+capacitor to block the DC from flowing into the out- 
+put. This method can be used to produce any tones 
+pecded so that special combinations or single fregency 
+tones can be produced useing the same method. 
+Development can be done on the TRS-80. I plan 
+to design and build a shared memory board 66 the soft- 
+ware can be developed on the TRS-80, loaded into 
+shared memory and the NSC800 system can be run off 
+of the rame memory. 
+That's all I have so far. If you-have any questions, 
+or suggestions send then to TAP and Ton 
+them on to me, Stay high and stay happy.
+THE MONTHLY NESSAGE 
+By Hessenger R.:1.A. 
+This is the 
+:.eginning of a new column here at 
+TAP. I will do my damndest to answer reader en- 
+quiries on any and every aubject that TAP has ever 
+dealt with. 
+I'11 also report on various other 
+Fgsearch findings, developments, and hallucina- 
+ions as they occur. 
+Bitch & Hoan Dep't.: 
+Why not start off with 
+the bad news, right? ‘ell, 
+I just put the final 
+touches on my new blue box... and found that it 
+wouldn't beep off 800 nums, though it would beep 
+Off other long-dist numa. 
+“uts!," says I, “it 
+looks like the dirty buggers put in a notch 
+filter that absozbs 2600 and only vorks on “ATS 
+lines..." 
+The next day, I was on lunch break and deci- 
+ded to pay a visit to the local C.0. 
+I gave 
+the switchnan a ration of appropriate BS by vay 
+of introductions, then proceeded to ask a few 
+questions about 
+electronic switching. Lo and 
+Behold, he tells me that all in-wATS traffic 
+coming from Connecticut is nov going through 
+switch. 
+(In case you're wondering, I live 
+in a medium-sized city in CT.) Anyvay, the bad 
+News continued av 
+he told me that the entire 
+long-dist syster in CT was about to b> cut over 
+to 4f that Friday! 1 could've had a shitfit 
+right there, but instead feigned enthusiasr and 
+arranged for a CO tour. ‘which you will read 
+about in the next issue. 
+Tf you don't already know, 4m stands for 
+number 4 06S, Dell's new computerised reolice- 
+ment for the old 4A Crossbar long-dist switch 
+that us phreaks know & love & whistle sweet 
+somethings at. 
+4E uses a type of out-of-band 
+signalling called CCIS, in which calls are not 
+actually assigned a voice channel until the 
+called party answers, and in which all infor- 
+mation needed to process calls (and trace them 
+as well) is carried down a separate channel taat 
+has no direct connexion to the voice channel. 
+What this means is simply the end of black and 
+blue boxes. You can whistle and Leen ‘til your 
+heart's content, but if it's 4£ you'll get 
+exactly nowhere. “thich is why I could be heard 
+cussing all the way hone that nicht. 
+HOILVER... like we say, old 
+phreax never die, 
+they just build a different color box. 
+ily next 
+one will be red..... 
+ALSO... it's now five days past due for cut- 
+over of the main switcher, which hasn't happened 
+yet, so there may still be some time. 
+Also, rest 
+ured that we're all working hard on new ap- 
+aches to the new problem of 4£ and when we 
+Rit oay dirt you'll read it first riche here. 
+WATS-New Dep't.: Plenty of interesting research 
+to report. One: Some outgoing 
+ATS lines use SF 
+ignalling with 2600. The one I know of is from 
+@ certain institution in my toxn to a nearby big 
+city, whcih is Gthervise a long-dist call. On 
+this "IATS, you can dial cells in that city but 
+you try dialing the digit 1 first, to call 
+beyond that city, the PASX at the institution 
+whose "ATS linc it is, will dump you back to a 
+PABY dial 
++ 
+HONEVER, thio will not happen 
+‘© you beep a 2600 pulse quickly, which the PABX 
+doesn't recognise but the WATS line takes as a 
+digit 1, and then you can disl-pulse out the 
+rest of the nunter with no hassle. 
+- 
+Here are some interesting nums that a friend 
+and T found in February. 1 don't know what 
+they're useful ‘or, but if you study the list 
+you'll notice a certain pattern to things. The 
+Pattern may give the basis for future hacking 
+that might yield some very interesting 
+nuns. 
+Also, most of these recordings identify the 
+eity they are in, so they might be useful for 
+stacking tandems, maybe even for getting around 
+the 4£ problem. All. of the following start with 
+0 area coda. 
+800 test line for "301 NPA" (Baltimore) 
+525-0056: ditto for "303 NPA" (Denver) 
+545-0055: New Mexico special inWATS test 
+283-0055: 800 svce. tst. line for 217 NPA in 
+Springfield (Mass.) 4A inward WATS test, 226, 
+445,831, 843, this is a rec., 402-2C. 
+525-9999: three tones, then "The num you have 
+reached... 
+(readback) is being checked for 
+trouble. Please try again later... 
+(this 
+has 
+said that since January and still doe 
+$33-0055: #4ESS Minneapolis office, this is a 
+recording 612-3-sP-1. 
+533-0058: ditto 
+523-9056: InWATS test line for Filthydelphia 
+#4ESS machine, 215-3¢. 
+525-0055 and 0066 are exactly the sare thinc. 
+446-005x (x=0-9) 800 service test line for 
+804 :IPA, (Richrond VA) 
+393-0055: The nun you have reached, 687-0055, 
+is not in svce in Area Code 614. 
+flease 
+check the n 
+9055: B00 svce test line for 716 HPA(this 
+3 in Buffalo ‘IY on a 4A) 
+433-0077: inswTS test 817-3C (Fort Northless, 
+Texas) 
+then 
+362-5715: ring, then 8 rapid beep: 
+it 
+tone. 
+362-5799: 
+busy, 
+silence, nore 
+more silence, dump back to dialtone. 
+362-5755: ring, @ peeps, busy, dump back to 
+dial tone. 
+It seems that 800-362-xxxx in general make 
+good scanning. If you decide to phreak around 
+with any of this, please keep careful records 
+of all your results and report them to "Hessen- 
+ger R.W.A." c/o TAP. Even if you dial somethina 
+and get nothing interesting, let me know so 
+ethers can be informed not to bother trying 
+that num. ALSO: if you hit on something 
+really intense (like a direct line to the 
+White-White-Whitehouse), please don't mess 
+with it too mich until we all get a chance to 
+look into it and figure out if it has any 
+really special uses. 
+Uncle Sam Wants You, Dep't.: what Uncle Sam 
+really wants you to do is to keep your nose 
+out of his AUTOVON circuits. But then again, 
+he also wants a lot of us to register for the 
+draft,and do we obey? Hell111 to! 
+For a couple of years, a debate hes been 
+going around in phreak circles about what tones 
+are used on AUTOVOY. Three currently quoted 
+guesses include the 4th column = 1633 hz guess, 
+and the two other guesses that were printed 
+in TAP #60. Take your choice and take your 
+Anyone who has access to reallive 
+phones 
+is encouraged to let his/her. 
+fingers do the 
+walking over the keypad, while 
+taping the tones. Use a small recorder and an 
+induction pickup. Remember to also get the 
+row and column tones individually by pressing 
+two horizontal, ox two vertical buttons at a 
+time, going down from top to bottom and then 
+from left to right. We can figure out the 
+frequencies from what's on the tape. 
+‘Once we figure out how to get deep into 
+AUTOVON, we can try calling our fiends in 
+the Pentagon and telling them exactly what 
+we think about the neutron bomb and the arms 
+race in 
+general. Have fun & don't get caught. 
+General topix Dep't.: 
+A good BS story to use on switchmen in order 
+to get into CO"s is this: 
+“Hi there, I'm cur- 
+rently working for an interconnect company 
+installing business phone systems, and I de- 
+cided I want €o move on to bigger & better things 
+Like working on Inside Plant stufé for Bell. 
+I'm really into all this new digital stuff. 
+I know you give tours of the works for engin- 
+xing students, so how about...?" Also, by 
+way of "needing to study up for before you 
+apply for the job," you might be able to get 
+hold of some Practices manuals. Send xerox 
+copies to TAP, c/o Hessenger R.N.A. 
+If you're into installing phones for yourself 
+and friends, 
+do not buy ITT or Stromberg- 
+Carlson. 
+‘lost phones nowadays are made like 
+shit but these two companies are really shoddy 
+workmanship. Besides, Stromberg Carlson is a 
+tentacle of General DynamixXKs, a large weapons 
+company. And ITT (which stands for Internation: 
+Tyrrany & Torture} 
+done everything from bui: 
+ding weapons for the Vazis in NWII, to engin- 
+ring tha end of democracy in Chile in *73 
+‘The best made phones around are the old Auto- 
+matic Electric #80. If you can still find any. 
+In any cave, it's best to buy reconditioned 
+or used phones than new ones, as the former were 
+made in the days when they were supposed to be 
+able to survive being 4ropved out a window.... 
+A good company for all of this and more is BECO, 
+Bohnsack Equipment Comeany, in Germantown NY. 
+I£ you go to the warehouse 
+direct, they'll 
+you “as-is” for dirt cheep, and the stuff 
+‘ally in need on only a cleaning up, and 
+a new line cord. 
+t busy, 
+AL
+* Politix: I know most phreax aren't into this 
+too much these days,but sone things need to 
+be said. One of then is that the bicgest 
+danger of fascism right now cones from further 
+to the right than even’Ronald Ray-gun. I'n 
+eferring to Jerry Falwell and the 
+‘ioral (sic) 
+‘ajority (sic). Jisn-less Jerry is a psuedo= 
+Christian version of the Ayatollah Khomeini and 
+if you think Iran is an upticht place to live, 
+check out Falwell's plans for the 
+U.S. of A. 
+Falwell rans a collece, with a nane like the 
+Liberty Baptist College, and the place is like 
+a concentration camp. 
+‘No rock-n-roll, 
+jazz, 
+country-western, or ‘olk mus 
+Guys ‘nust 
+wear their hair above their ears and above thair 
+collars. Dress code more intense than many 
+military acadanies. Strict authority and no 
+student inout into decision maki 
+Mo snokine 
+@rinking drugs or dancin. Biolocy classes that 
+teach that the vor¥d 
+becan 10,000 years ago. 
+Etcetera, Etcetera. 
+You can rest assured that if Falwell and his 
+band of merry misanthropes gain any sienificant 
+power, that most of the things you do in your 
+free tima will be verboten, with punishment 
+consisting of "spiritual 
+re-education...” 
+We as technophreax can do a lot to subvert 
+Falwell and his ilk. Tucking up their shone 
+service, remote wiretap via verification, 
+germ warfare in the form of airborne VD in 
+the right places, LSD in their food/water, 
+and soon. Ideas are welcome. Practical 
+ideas that 
+can be used. A lot of this modern 
+racist, fascist shit is sublinated Southern 
+resentment against the ‘lorth for havin: 
+defeated in the Civil tiar. 
+And it capitalises 
+on economic woe like unemployment (Blane the 
+iggers?? 
+and so on) The Ku Xlux Kreens are 
+back in Connecticut and spreading like cancer. 
+‘Think of it as Civil ‘lar II and you won't be 
+surprised, You might be interested to know that. * 
+the right wing is planning to call for a Cons 
+tutional Convention, wherein the entire Constitu- 
+tion can be rewritten., This move is gaining 
+support... you can imagine the kind of things 
+that will be on the agenda... changing the bill 
+of rights so it starts with "The right of all 
+fetuses to keep and bear arms will not he abridg- 
+ed..." 
+Seriously! 
+Remember: Apathy teday brings 
+totalitariansin tomorrow. 
+Enough said. 
+FINALLY.,.. 
+An urgent appeal for all of you out 
+there to dust 
+off your typewrtters and start 
+sending stuff in to TAP. If you don't like ry 
+political editorialising and would nrefer more 
+tech staff, fine: make my editorials disappear 
+by filling the space with schematix, number 
+lists, and so on, 
+Anything will do. Richt 
+now, the Urgent Topix listings include the 
+following: info on ESS and especially 4E 
+telco internal nums; scannings of 800 nuns 
+based on the stuff in this colum; info on 
+areas using computers for coin-collect stuff 
+on payphones; 
+info on verify and autoverify 
+and how-to: 
+Chemistry: Pyrotechni: 
+Paychotechnix, and so on. 
+into “radical applications, 
+Fed or other piggy, contact ne c/o/ TAP. 
+Until next month....SLECEEEP ...ker-chink. 
+-~M-RNA 
+Keyed up 
+KUALA LUMPUR (AP) — Mokhtar 
+Ahmad bought 
+‘anew car after his first one was stolen a month ago. 
+4 
+lice told 
+stolen cor 
+‘been found. 
+When he tefl his 
+Tolee henge 
+a 
+Sanltephet el 
+seevce nox 
+Susecnenarey 
+pt 
+on 
+‘et be asaresnen. 
+Oe LD. of he ta | 
+Koon a 
+=< 
+teat, sont me 
+Tie 
+te moe ores 
+Sao 
+ee meee 
+Seas RS! 
+— 
+Stier Rew 
+se 
+See ceeere Ramee mete 
+oe itd tr to 
+fanth 
+aan 
+nt 
+Peethines ied 
+Sher teed oe eee 
+Resccrpesaee 
+Somer ees 
+Sncegitees Sometan mesma 
+ae Pe 
+Ses 
+Ss 
+rid 
+See 
+eset seis coe 
+Sees “oss: 
+Sasi Sarees 
+PENOBS ¢ SILVER BOX'S 
+BY THE BASIZIAN... 
+The 
+“monitoring* 
+(wiretapping) 
+of 
+an 
+individuals telephone line vithout their consent, 
+or without a court order is a violation of federal 
+lav and panishable by imprisonaent for five years, 
+a $10,000 fine, or bot! 
+‘The only exceptions to the shove, are police 
+(in soae states), and good ol fe Bell. 
+Some of you may nave heard of devices calles 
+RENOBS which stands for Beaote Observation Syste.. 
+They are also sometines called SILVER BOK'S*. 
+These 
+devices allow 
+supposedly 
+"authori:ed" 
+telephone employees 
+to dial into 
+thea fron 
+anywhere, and then using an ordinary touch tone 
+fone, 
+tap into a customers line RECEIVE ONLY 
+f 
+(IF. the méuthpiece is not hooked, up thus it is 
+*otally silent) and listen to any conversation 
+taking place. 
+would alco be possible for ANYONE 
+“9 dial iate 
+RRYOR, key in the proper access code 
+and tap gones !! (Though VPRY illegal). 
+REMOB vorks as follovs: 
+Dial the nuaber of a 
+PYNOR 
+unit. (Apparently Belk 
+occasionally 
+puts 
+them 
+in 
+£55 
+information 
+exchanges IF. 
+XXt-S55-Xxxtt A 
+tone will ther 
+heard for approximately two seconds and 
+silence. It is then nessesary to key in (with 
+touch tone} a 2 to § digit security cola, holding 
+each digit down at least one second. If the code 
+is not entered within five or six seconds, the 
+ReBKHOD will disconnect, ani aust be dialed again. 
+If the code is properly entered, then another tone 
+will be heard. A seven digit subscriber fone 
+nusber can 
+yn be entered (the REAO8 can only 
+handle certain "exchanges" which are prewired, so 
+usually one machine cannot sonitor an entire ¥PA). 
+@ENOB 
+vill then 
+connect connect 
+up to 
+a 
+subscribers line. 
+‘The listener will hear the low 
+level idle tone. Then as the sonitored party dials 
+{rotary or toucn tone) the listener would hear th 
+nuaber being dialed, then the entire conversation: 
+all without detection. 
+when the listener is 
+finished with the monitoring of that particular 
+customer, he can then key a single “reset digit" 
+(usually the last digit of the access code) tkis 
+isconects 
+hia 
+froa the 
+aonitored line and 
+returns 
+him 
+to the tone so that 
+can key in 
+another 7 digit fone number. 
+When the listener is 
+totally finis! 
+with TEH9B he keys a single 
+“Aisconnect digit" which disconnects him from the 
+line being monitored, and disconnects hin from 
+RFMOB so that the device can reset and be ready 
+for another caller. 
+Because of AEROBS potential for abuse, bott 
+by phreaks and sore likely by Bell employees, Bell 
+has kept RENOB VERY low key. Up until 1974, Bell 
+denied entirely that REMOBS existed. The device: 
+existance vac first 
+made public during hearings o: 
+vrelephone 
+Monitoring 
+Practices 
+by 
+Fadera 
+Agencies" before a subcompitee of the cousitse on 
+goverment operations. flouse of Representati: 
+inety-Third Congress June 1974. 
+It has since 
+been stated 
+bv Bell 
+that the KENOB devices are 
+used EXCLUSIVELY for monitoring Bell employees 
+such as operators, information operators etc. to 
+keep tabs on their performance. 
+"H HOH ? 
+If any reader should Jiscover a RENOB during 
+his (or her) scanning travels, please keep in sind 
+the VERY strict federal lavs 
+g wiretapping 
+if vou vere to be caught using REMOB to tap 
+peoples fones. 
+a 
+Folloving are two pictures of presently u: 
+RENOBS. 
+Any questions, comments ete. 
+AAGICIAN c/o TAP 
+write to THE 
+A Tale Told Out of School 
+eartog, The Incident oceured ut the 
+fof the student. Robert 
+Newnan, 1 ooe day last eosuaer, 
+Clark maintained that “the 
+:
+ATOMIC: 
+ERGROUND DRUG NEWS 
+LIFE EXTENTION: SOD, super-oxide dismutase. A 
+natural enzyme that eliminates free oxygen radicals. 
+Available over-the-counter at many health food 
+stores. May increase lifespan by one third. 
+orc: Alpha-ethyl-tryptamine (AET) is a relative of 
+the drug DMT and is also psychotropic. A speed like 
+effect was reported at 75mg, a trip at 150mg, and a 
+three day bummer was experienced by the jerk who took 
+a gram dose. AET is available over-the-counter or by 
+mail from chemica) supply houses, and it's legal and 
+inexpensive. 
+UNTESTED: Intravenous self-administration of nomi- 
+fensine in rats--implications for abuse potential 
+in humans, Reported that CNS stimulation is sim- 
+ilar to cocaine. (Science, Vol. 212, 6/61, p. 1167.) 
+cur: “The ideal coke cutter, in terms of snoot 
+health, is a little-used, esoteric and nearly in- 
+detectable fine-powder version of silica oxide, 
+which is, incidentally, a popular homeopathic rem- 
+edy for nasal irritation." 
+(OUI, August 1980, 
+page 15--Dr. Hip.) 
+BOOK: Pleasuren of Cocainn by Adam Gottlieb, 1978, 
+And/Or Press, P.O. Box 2246, Berkeley, Ch 
+$4.95. 
+Highly recommendnd. An excellent reference on sol- 
+vent and colormetric tests to determine kinds of 
+drugs and conmon cuts. 
+MARKET PRICES: Since the precursor phenyl-2-pro- 
+Panone became a Title 21 controlled substance over 
+a year ago, the price has skyrocketed up to $1000 
+or more a liter. Because of the high price and 
+general unavailability, home production is thriving. 
+Also, let the buyer beware because cases are turn— 
+ing up in the law literature where the DEA is sell- 
+ing P-2-P to find clandestine drug manufacturers. 
+‘The usual synthesis of the ketone is the Magidson 
+and Garkusha method, Chem Abstracts, vol. 35, page 
+$868, para. 5. Chem Abs are found at better Col- 
+lege libraries. 
+BETTER TO RENT: A Falls Township, PA, 
+man was ar- 
+rested with 7 lbs, of methamphetamine, Federal 
+Agents confiscated the house and the surrounding 
+35 acres. An agent at the Philadelphia office of 
+the DEA said they seized the farmhouse and property 
+as a new approach to drug enforcement in which the 
+government seizes assets it believes were acquired 
+through illegal sales of drugs. (Courier Times, 
+PA, reported by Patricia Wandling, Steff Writer.) 
+DR,_ATOMI! 
+GOVERNMENT ATTACKS FIRST AMENDMENT RIGHTS: Gary 
+Barnett, owner of United News Service (UNS), a 
+company that 
+sells drug manufacture formulae to 
+counter culture chemists, 
+was arrested for aiding 
+and abetting the illegal manufacture of PCP because 
+he sold a drug formla to a would-be chemist (see 
+507 F.Supp 670, for the details). 
+‘The case survived the preliminary hearing and Jury 
+trial was 
+set for March 24, 1981, in the Tenth Cir~ 
+cuit Court: a continuance is expected. 
+unlike the publication of pornography, the very pub- 
+lication of which is a crime, drug manufacture form 
+ulae are legal to publish 
+sell: however, the 
+government contends that an act of criminal conspir- 
+acy happens when someone tries to manufacture con- 
+trolled substances using the formula, 
+(The UNS ad- 
+dress is: P.O. Box 333, Bay Station, Brooklyn, NY) 
+CHEMICAL COMPANY EMPLOYEES ARE DEA INFORMANTS: It 
+has been published in the Federal Reporter that 
+certain employees of Buckeye Scientific Co. had an 
+agreement with the DEA to alert them of suspicious 
+chemical purchases. 
+The FR, however, didn't state 
+which Buckeye employees had the agreement or if the 
+Proprietor of Buckeye, the late Dick Hall, had any 
+involvement. Also reported wa 
+Precision Or- 
+ganic Chemicals in Alsop, IL, was 
+a DEA sting op- 
+eration. (See U.S. v. Gentry, 642 P24 385, for the 
+details.) 
+NEW BOOK: Michael V. Smith's new book Psychedelic 
+Chemistry is now being sold by Loompanics Unlimited, 
+P.O. Box 264, Mason, Michigan 44854. Loompanics 
+will send price and information with a request and 
+as 
+. This information may be sent with their 
+General Catalogue, $2.00. 
+DRUGS OF INTEREST: 
+Longevity —— DHEA, dehydroepiandrosterone, an ad- 
+renal sterols, repartedly increases lifespan by 25 
+to 40 years and prevents cancer and obesity. 
+(st. 
+Paul Pioneer Press, 1-11-81, 8F.) 
+Legal Analogue -- methyl of Fentanyl. 
+1ike in action and being sold 
+€(22)H(28)N(2 
+N-1-Phenethyl~4-piperidyl~propio- 
+nanilide, 
+(See 
+Newsweek, Jan. 5, 1981, 
+Deadly 
+New Drug Passing 
+Heroin," Note that the above 
+molecular formula and chemical name is for fentanyl, 
+not for the methyl analogue.) 
+Morphine 
+China White heroin, 
+Crusty thieves 
+Chicago Jewelry Store 
+$50,000 
+Reward for New Bomb 
+sae IRITLARD, 
+Ore A 
+The ere 
+Is Looted of $1 Million 
+hone has Reve 
+a great deal of conn | highense borkdings and freeways bot do 
+hike dhe wax away. nok a pura from the eeirgeraor, 
+sone and ate and plored tea duty plates at wt 
+the sink 
+plucked all the heaves 
+froma marguana 
+Nothine 
+rlae wae tert 
+Ma Boll Shows Her Stuff 
+According to a reliable wurce 
+had 1 phones rmpng— 
+Mountain Bell ‘Ielephone, 
+cof protew. Ue seems 
+the photagra- 
+“Peblie money is ke 
+sole water: Evercone hops 
+umseit 
+"— Anaosmowe 
+poredly sexit 
+nature. The 
+expected Ma 
+Bell 
+ws have any 
+‘bath anyhow. 
+‘The police sand the burglars used a 
+“black baw eleetrome device to 
+bypass 
+alarms ot the Harry A, Levinson’ 
+iry" store, “thea Cut” through ciced 
+window ‘bare ‘with, powerful: cutting 
+The 
+ewches. tnnde the stare, they uaed the 
+tuncbee to open tree vaults, 
+Sens 
+an revent Sears abut the pro- | no harm whahwever 
+te humans, annals 
+Paved detcopment uf the neutron bomb. | and planks, The new boenb would cause 
+sshuch designed 
+to kill us many people 
+and avphalt wo deieno- 
+¢ withyat darnaging bung. 
+sh enough 
+rate it allow 
+the San Francisco Fuk | people to evacuate wifey. 
+10g) Cemier 
+has wifered a $80.00 rewand |" ntricy should 
+be Sent 
+10 the first person 
+who creates the ag 
+NIVATRON BOMB 
+ove of the neutnm bomb—the vine | 
+San Frunensc 
+fon tomb 
+Fema ee 
+tron bumb would devin 
+San Francisco, Cal. 93011 
+TAP, Room 603, 147 W. 42 St., NY 10036

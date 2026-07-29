@@ -16,16 +16,17 @@ tags:
   - watergate-at-and-t
 author:
 publisher: "TAP (YIPL)"
-source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
+source_url: "https://www.computerhistory.org/collections/catalog/600000568/record/102734878/?media=262806"
 access_date: 
-source_dead: true
-archive1_url: 
+source_dead: false
+archive1_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 archive1_date: 
-archive1_dead: false
+archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
 local_file: "tap-019.pdf"
+prefer_local: true
 pages: "3"
 isbn: 
 time: 
@@ -44,9 +45,9 @@ feature_article: "Snoop Light, Taping Fortress Tones"
 people: ["Robert McCrie", "John D. deButts", "Clarence M. Kelley"]
 topics: ["parking meter defeat methods", "tape-recorded red box tones", "line-tap/extension detector circuit", "Watergate-AT&T connections"]
 
-scan_quality: poor
+scan_quality: good
 ocr: true
-ocr_date: "2026-07-22"
+ocr_date: "2026-07-28"
 page_count: 3
 
 source: "Internet Archive"

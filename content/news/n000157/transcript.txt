@@ -1,16 +1,549 @@
-CORRECTION!The Red Box circuit of Issue 36 is incorrectly drawn,The two emitters of the transistors should be Hed to-gether and connected to pin 1 of the XR-2240 timer. Theyare incorrectly tied to ground in Issue 36. Please correctthe schematic in your issue, even if you don't plan to makethe Red Box immediately, It will save you time later on,REPORT FROM END OF THE EARTHDear TAP and Freaks,Yam a lone freak living in a small town in northern Canada.Tam familiar with electronics but not with phones, Thistown is a long way from anywhere and does not have a realtelephone company. JY get my phone trom the CanadienNational Railroad. This has possibilities but standard tech-niques don't work. CN's system is tled.into AGT in Albertaand also into the military phone system.Didyou know thatthemilitary makes theirown BlueBoxes?Y often talk to the military guy in charge of their System. Hetests their system every Tuesday. Some of the buttons onhis Blue Box control priorities. Qne of these buttons willeven take priority overthePresidentoftheUS, Perbapseven a call for a pizza should take priority over Ford, butthat's irrelevantAnyway, one of the phones where I work has a habit ofautomatically connecting you to the military system due toSome smaii defect in the exchange (possibly deliberate?)What J have in mind is the development of a facility whichwould enable freaks to call into here (a Black Box couldmake tbat toll free) and then they could dial out of here intothe military system. If they had a Blue Box with five additional buttons for the extra tones that the military uses,then they could use any priority they needed to interrupt anymilitary or government cal) in any NATO country. What isneeded here is some pecple who know about auch things,A few people here have experimented successfully withcommunicating direct to the Anik satellite. They used 4foot dishes made of wire mesh and assorted old microwavegear, but they left town. I think they were liquidated,The phone company here has changed their equipmentaround so that it is not possible to call a toll-free numberfrom anywhere in the western half of the NorthWest Terri-tories. So even though they have in-band signalling, BlueBoxes no longer wark, Hewever, f am trying to devise anew type box which f think might work anywhere. The logicis as follows:1. Dial O for operator. This sets things up so that youare connected to a common wire which passes thru severaloperator's boards and causes all of them to ring. When oneof the operators is not busy and has finished inspecting herfingernails, she answers. This usually happens after 180rings. When she answers, her board puts an audible toneon the line which causes the other operators’ stations toStop ringing since one of the operators has answered. Shethen asks who you are and writes a little note to remind theorganization to bill you. Then she dials your long distancecall for you using a touch tone board,2. So, before any operator answers, put this tone onto theline the same as if one of the operators answered and istelling all the other operators' boards to stop ringing.3. Dial the number yourself using Blue Box without usingthe 2600 cycle "on hack" tone.INFORMATION WANTED{f anybody there knows the frequency ofthe "operator hasanswered" or "receiving attention” (or whatever they call it)tone, I would like to know.} have discovered that the phone company cum railroadcompany uses 2 very old signalling system on their orderwire, If you djal some number and talk to the guy at thetest board, you can ask him to dial for you to certain othertest boards in other cities. He uses a system of beeps ofaBingle tone. For example, 55 is just 5 beeps followed by aSpace and then 5 more beeps. Iam going to try sending thebeepe mySelf because, if I can hear them going out, theequipment can probably hear any beeps that I make.
-TOPeeJULY-AUG 1976 NO.37Has anyone ever tried this? How do you find out thenumber of the test board so you can do it before the guyanswers? Y think if you reach the test board ina distantcity you can dial 9 and get back into the regular phoneSystem. Do southern, Bell style phone systems havetest boards like that? Can the phone company find outwhodunnit?Another thing, kind of scary, the Mounties have twocables from their shop to the exchange with maybe 50pairs each. Rumor has it that their latest toy is a bigbox with a dial on it, a handset with a snooper button anda speaker, a bunch of jacks for tape recorde rs, andapen recorder for dial clicks. The story goes that theycan dial any number with this thing and listen in. It lookslike it is a standard qadget made by Western Electric (7)and it works only in towns with a type of exchange calledan SP - 3. Part of this town has SP - 3 and the rest hasSomething made by a quy named Watson. Dnes anybodyknow about this cop equipment? How do you fuck it up?The CN exchange includes a computer which dialseverybody's number once a day and does a whole seriesof checks on it automatically. If you have an illegal ex-tension and were dumb enough to leave the bell connected,the computer dials your number and does a "condensercheck" by putting a pulse of DC down the line. The extracondenser will lengthen out the time for the pulse to decayand the computer prints out your name and number andwhat your crime is, The phone men and the RCMP thencome in like the Marines and arrest you. I would like toknow what else the conmmputer is sensitive to. So far]have discovered "condenser trouble" (illegal extension)and "foreign battery on line" (this means that you calledSomebody who has "called party priority" and they leftit off the hook so you couldn't get disconnected and theytried to get the phone company to tracé the call. Whenthis happens, you apply a shot of DC to your phone line(experiment to get the right polarity and use about 40v)and you get the dial tone back, However, the exchangeprints out "foreign battery on line" with your phone #,You don't want to be the only fbol that day, So you zap40v DC onto all the phone terminations in 3 or 4 apart-ment buildings. That way nobody knows whodunnit.We used to talk over the Telex until CN got wise andchanged the teletype machine for a modern one, Theold one had a switch marked VOICE and TYPE and ajack to plug a handset into, Very economical! I thinkthe voice facility is for their own staff when testingthe equipment. They go home at 5 pm and if you dial% on the Telex after dialing the number for the city youwant, then you get connected to the regular phone sys-tem in that city and just dial the number. No bill!Continyed —>(c) Youth Hot Line Reports, Inc. 1976 - Do not make checksout to Youth Hot Line Reports, PLEASE! Movement jrcupsmay reprint without permission with TAP's address givenwith all credits. Please send us a copy of reprinted work,WARNING: We will prosecute copyright violators.
-
-WARMING! PAY PERCHES HAVE AUTCMATIC SILEN,SURGLAR ALARMS: J read Tom Edison's CperSecame and he dlur't mention we fact nat, at leas: inConada (I'm aot tabesg about here in the far sosth) paypicnes have an extra pair going “. chem, for an alasr.They seem °o Sometimes carry 4 2.al tone LU you Noka regular phone across it but aS 5005 as you take +t offhook and hearthe dia. tcna, the alarm ringsat the ex-cnange. To Sind out which wires are me talking wiresand wincharethe alaro. wires, take a pair cf £50 opmearphones with a capacitor in series (aircraf-typeearphones are 600 obm but please don't rip them offout of Srrall cloth covered 20 mile per gallon airplanes)and listen across eatno pairas ycu take the pay phoneoff hock. Cnoce you nave identified the talxing pair,the cther pair is the alarm pair. Some pay phoneshave 3 wires ‘o the talking circuit. Twoare for acualtalking and the other is for callecting money cut Ithink this is rare.The alarm will be tripped if you do anytniny violent onthe body of the phone: drilling, hammering, ever openingwith a key. So...cannecta capacitor and an old ringerin sertes across the alarm pair and then cut che wirescarefully without shortung them together as you would ifyou cut them both at the same time with metal cutters.Cut them betseen your extra ringer and the pay phone.THEN SPLIT! The alarm may have gone cf anyway,-hase phone company people are not to be crusted. Waita long time, andif you do not see the phone truck withthe twin.50 cal, Browninggunscnit,then you can pro-ceed as in OpenSesamee (April 1976)AS for a petter way cf opening pay phones, I recom-mendakey. A simple inserting and turning action is allthatis required. [Apparently Canadian phores use pintumbler locks, unlike Western Elecuric which uses levertumbler Locks. TAP 6307 When somebody cpens the firstpnone in your area, make sure hey note which hola theyget eachpin in the lock out of. It -s easy to make A Key.Someuse tubularkeys andthesecanbe dificult to make.Find an old key to a Coke machine and reshape the endto fit your lock. Add metal to the key by putting on dlobsof brazaino rodand then fie i: downtosize, You willthen have a key that ‘its all the phones in your neighbor-hood, [have heard that in high crime areas the pbonegare ind.vidually keyed. /They are in the US, The enureccuntry is a “high crime areat/ You can tell whather oroct they are keyed tc fit your key by lockingat thé Littlemumber cn the lock which tells the telephcne man, aodyou, which key to use.i would Like to get mn tcuch with some peoples interesiedin these uung¢s. However, this is a straigat sort of town.T) reach mé, call The News of the North 1-403-873-4088and take cut one of their free classified ads. dave the adsay something Like “Kilgcre Trout or anyone knowing hiswhereabouts, call home" anc include your number.Yours truly,Kilgcre TroutHO - HUM, WHC'S APATHETIC? (yawn,Asking TAP readers tc send money to anyone is probablyeven more futile than asking them bb makeinguaries whichcost ‘usta postcard. Only about .& (CNE PERCENT) of~or readars have bothered to inquire about va-ious ocfersand activities mentioned is TAP. Fat chance you'll sendmoney tc NCRMLI So it serves you right if. oa get bustedfor grass, you lazy, cheap pastaras| Reme:-per, a lawyeresets a LOT more than ie R5 NOANL is r-:uesting.is neededOnceand for all.Natu Oe. Tae bet tet bPOmedVS wend:A OMA, aeiy’ TRENT Ww WACTon Of
-Join NORML.fo finish the |NORTE
-ODDS & ENDS by Tom EdisonTot economic chrunch nas got us all by the calls and it hurts!In tae past we were just managing ft Stay in te black (Scx?)but wilh che recent increases in the cost of pricting, sffice rent,postage, and the very recent outlay of cash for he TAP T-shirtswe're Slowly moving towards the red (Box!). Anc since it'svery unlikely that the Big Brother Esmblishment is going tooffer us a subsidy, there are just 2 alternatives lef. Wecould raise the price cf a subscription wbich sucks as faras ycu're concerned, I know! Or wecould get more people tosub to TAP. That's where you come in. We need you to helpspreadthe word and getussome oew substo TAP. Since [folned the TAP stat on July 5, +975, I've watched as 90% ofour readers saton their 24at assesand profited from Lhe ideasof the other contributing 10% |! Now is the timeforall yousilent do nothings to make some noise! Get oul there and getall your hip friends tc sub t& TAP! Tell them you're not goingto let them read yourcopy anymore! Lf they want to be "HipTo Yip" they'll have to sub for themselves! And if your friendsare all cheap bastards just remind chem chat if they orly use1/16 of the ideas presented in TAP, that alone will save themmore than the cos: of a subscription!If a sufficient number of new subscriptions are not forthcoming,we willbeforced to increase cur sub rates! Help us Sight thewolf at our door] As an added incendve, any TAP veader whobrings us 5 new subscribers will be offered the choice ofeither a free TAP T-shirt or a one year extension of his ownsubs¢ripton,When ordering your TAP T-shirt PLEASE specify size:S-34-38, M-38-40, L-42-44, XL-46-48, Cost 3A.I've tad a request from a San Clemant reader who wishestc remain anonymous {[ wonder why?) to show the varicustechniques for tape recormiing pnone conversations. There are4 basic mathocs capacitor, transformer, inductor, and direct.In the capacitor methodtwo 1 MFD 100wvdc capacitors areconnected to the Ring & Tip phone Lines. { See Fig. 1) Non-polarized capacitors are dest to use tut if you are forced touse polarized capacitors be sure > observe polarity. Thesecapaciters will dblcck out the DC line voltage but will pass cheaudiy signals. Tha capacitors should be connected with 4shielded cable to the mike input of your ‘ape recorder.Capacitors larger than ] MrD will give silghUy larger volumewhile capacitors smaller than 1 MFD wil give slightly lessvolumeé.RING+O
-erTOFONEi+zm COTPFig. 1The transformer method uses ejther an audio mutput trans-former ora 2-12 volt filament trangtormer. The low voltageor secandamy wincing of ine trans‘crmer is connected directlyinto cae side of your pucne Line. ( Sea Fig. 2) Because thiswinging consists of only a few turns cf wire, {thas practicallyno DC resistance and will not either load dcwn your phoneline, Which 18 real important to us some experimenters whhave too many “srodves” sn their l.re, or be detected by PaBeli. You also jet the advartage cf not only electrical isclationfram the phone line bul because 7° the way the transformeris Ocnoectad you jet a Step up in wuci5 signal voltage.
-
-+ ONE >TOFONE- oe ;
-T
-TOTAPEREC ORDERFig. 2Both the capacitor and transformer methods have a seriousdisacvartage however, The audio voltage level of your voiceis much i.arger thanthat of your friend at the otherendofthephone line. This results from the fact that you've probablygota bell of a lot Digger mouth thanyour friendandalsofrom the fact that your voice current generated Locally tsmuchlarger thanthat of your friend's generateddown theother end of the phone lina!The inductor methodscives this problem by picking up theaudio signal voltage from your phone's earplece. Bacause ofthe sidetone network and varistor circuits which help to reducethe large locally generatedaudio signal,the phoneearpleceis fairly balanced for both ands of the conversation, Theinductive pick up is slippadonoverthe earpiece. [t is nothingmore thana coil of wire that picksupandio voltage. The out-put wire is piugged into the mike input of your tape recorder.The disadvantage of this method is two fold: good inductivepick ups are expensive and because the pick up coil is locateda distance from the electromagnet in the earpiece, the availableaudio output voltage is low.The direct method solves all of these problemsandis by &rthe best method to use. It givesa balancedaudic levelandmaximum voltage sutput due to the direct connection. The 2terminals on tbe phone earpiece are excellant places to taperecord trom using a shielded cable, [f you do not want to havewires attached to your phone earpiece, you may use terminalsR & S on thenetworkbox. These two terminals arethe onesthat go to the prone earpiece. Since Pa Bell will not let youtape record directly from your phona, let me warn you notto use this mewod which produces excellent tape recordingsof conversations|!I've received several recent requests for any informationon tha Silver Box. All available info is verylimitedbut wedo know from 5ur usually unreliable sources that it's a devicethat costs $1, 200 and lets anyone with a knowledge of a dialingcode to listeninon calls. The code consists of a 7 digit mimberthat activates the box and a 2 digit number that allcws theUstener to select the line that be wants te monitor. Pa BellClaims that mney use it only to monitor calls made to its ownbusiness offices to maintain high quality service. ( It alwaysintrigues me that Bell feels that they must spy on their ownemployees tc maintain "serviceTM]} And if you believe thatBell 1s only snooping on its own employees, then I've gotSome choice Swamp land in New Jersey for you! Bell alscClaimsthat theSiiver Box system is sacure because only afew Ssnoops ........ er Bell supervisors have access to thecodes andthey are changedperisdically ( the codes ortheSupervisors?) Ln any event, we bave learned thal these codesARE avallatle to non- Bell personal if whe price is right! Ifany 2f our readers have additional information on the SilverBox and its codec, I would appreciate hearing from you, ferpurely scienlific reasons, 2f course.In response (2 my request fcr infsrmaticn on the ways thatDperatcrs 2re checkir..: on Rea Box users I received thefollcwing letter-from Jnicags, OL.:
-Dear Tom LdigsonRegnrding red bax users having difficulty witheperatars placing thecr calls (Tar 5). [ nerannal-ly solved thet problem myself 2 years age here byputting im .10¢ first and then *dbeeping* in therest. Hevewer a recent exprrience should be paasedom to your re@ box readers who have fallen intocomplacency abnut perwial security,Recently | red boxet a friend in a distantstate. The operator put the call thraugh alright,but after I Aumg up, the chief operator :amediatelycalled my friend wanting to knee eho had fust cal~led him. In other sords, am operator (Kaowmg yaurwsing » red bex) wall pat your call trough, andthem call the purty sith seow you fuct talked, try~img te get them to identify you. In«<tunt entrapte Worals Talk oaly with instant amnesiaca.a @iffaremt experience 1& southers [adianawas even mare frightesing. after I bersed im someBondy, tie operator suid that, eee 10 dida’t reZister.", 20 she requested that | redenerit themoney again but ta da it very slonely, at her coa-mand. im other vords, she rantet me te depasit aoquarter, so the cirenit is clased, them she soul:immediately deposit the quarter into the hopper,circuat 18 open agsia, request anether quarter,circuit is clesed again, deposit the quarier intethe hopper, atc. Of course { split, Callectingmoney this way is very time consuming for the phoneco, beat of course it prevemt? red boxing. any sel-wutinns te thie?You forgot to mention ia your article that ifome talks ower the initial 3 nanete period aad theoperuter comes om for your overtime charges, beeure to put im a slug or dime that registers first,etharvisa the relay is open again amd you mighthave te anmar same PebarPass Sulstions.3.C.FO Oe eer mis monthis EDENNEWS S Ze,@ Box3419,1G631 A, VALLEY, CA.22708. Eden Press Service is published bi-weeklyand theyfee) that "allthe news that’s fit to print” makes fora veryGull newspaper so all items that they print will never befound in ihe New York Times! If you need a new set of IDthey have the new 1976 Revised Edition of "The Paper Trip”plus another book on getting new credit. All articles are verythought provoking and interesting. All I can say is that if youdigwhat we say in TAP, you'll dig what they say in EdenUnderground Newspaper Service. Subscriptions are $15 for1 year, $18 for 2 years, $25 for 3 years, and $10 for a charterone year subscription. Enjoy!This month's columa is dedicated te the Litchfeld Larcenists,Sam and Charles, witha special thanks t Samwhohelped uslay out this issue.Dear TAP,Toe phone company wants to make us happy] They saythey will give credit if you get a pad connection or wrongmunber. [ called ----- for 15 minutes, tben bung up,called the operator, andsaid chat we had tried for a fewminutes to have a conversation out that tha phone keptgeting fuzzy, and that finally we couldn't bear eaca other.I sounded very irritated ard asked ber not to have mecharged for the call, that I refused to pay for such service,and wouldsheput thecall thruherself, She saidyes, tovkmy mumber, and put the call thru. We had finished ourconversation, 20 we just talked again for less than oneminute and hung up. I don't think they will credit the firstcall unless you have it reconnected.A triend called Alaska legitimately, then when he talkedionger than se expected, said gocd bye, left the phone 22the hook, and left it ike that fcr three days. He refsec topay for a threeday call, said it was a2 minute call andSome failure cn their parcNITt would be necessary for both parues to leave theirpr. nes off ue hook. Ctherwise, there is a cc probatil:ctyvian automatic disconnect 30 secands after the calledParty hangs up,
-
-BELL’S BOXIN’ US IN?by Tom EdisonEnjoy your Black & Blue Boxes while you can because inthe next few years (and even sooner if you live in certainareas!) they're all going to be obsolete! On May 15, 1976Pa Bell put its new C.C.1.8. system into operation betweenChicago, I. and Madison, Wisc. This Common ChannelInteroffice Signaling system uses high speed data pulsesinstead of the usual audio MF tones and since the audiotalking circuits are not connected until the called phone hasanswered, you cannot Black Box the call! Previously, al!information Such as MF tones, 2, 0 Ha, ring back, busysignal, etc. was done over the audio Ring & Tip phone lines.With C,C.I.S, all of this information is converted into highspeed data pulses and is multiplexed onto one common datachannel leaving the audio lines free to be used for other calls.Long distance calls will now be processed in 2 seconds ascompared to the 10 seconds it now takes,This new system will take 10 years to complete nation-wide and will cost US $250 million, Cities that will haveC.C.1 8S. systems this year besides Chicago and Madisonare Kansas City, Dallas, Jacksonville, and Waukesha, Wisc.By the end of 1977, there will be 87 other cities with C.C_.I.5,Pa Bell is uSing its new ESS #4 and a modified version of its#4-A Crossbar in their C. C.I.S. Central Offices. By the end
-PEN PALS WANTEDIt Should come aS no surprise that some of our readersare in the pen. Here's part of one letter:"Finished reading Big Brother Game and am disturbedby the diagrams. He left out connections and parts. |would be glad to help anyone trying to construct these -for instance, I have a page of instructions for the con-struction of a drop-in transmitter. Many of his circuitscame from Sams publications and Popular Electronics.The infinity transmitter will not work as Shown. He leftout 5 (count them) connections to the Signetics PhaseLocked loop in the IC infinity and also on the AF Amp IC.I really would get off on writing to some phreaks - if youknow of anyone that shares my interest. Hip them to thefact that I'm in here - but they can say virtually anythingthey want, "' Don HarboltBox 1000 (30682)Leavenworth, KS 66048AS you can Bee, Don's very knowledgeable (No cracksfrom you Smartasses about "then what's he doing there?")He's a veteran of the Mexican air freight industry, import-ing our favorite flower. If you need any tech info, we'dappreciate it if you'd write to him, inStead of, or in add-ition to, us. He has a lot more spare time than we do.Write legtbly! But don't include a self addressed stampedenvelope (stamps are contraband) and anyway, the Dept.of 1977, about 30 of the nation’s 281 #4-A Crossbar exchanges, of Justice (sic) pays his postage. TPwill be C.C. LS, and by the end of 1978, about 21 ESS #4exchanges will be in operation.But before you all reach for the crying towel, just rememberthat a phone is simply an electronic device and Like ary otherelectronic device IT CAN BE DEFEATEDI|1| The neededtechnology may get very sophisticated but it's a challengethat the united fone freaks-will meet and eventually beat! TheBox of the future will no doubt be a cross between a smallcomputer and a data switching center. Remember, old Boxersnever die, they just build another color Box! And the Red Boxwill still be around toolSTEAL THISBOCK 19 SOLD OUTWe don 't know when we'll get more copies So please don'torder itlMA BELLGETS JOLLIES(ZNS) A telephone opera.tor has testified that manyphone company employeesare commonly entertainedby having the intimate sexconversations of tclephonecustomers broadcast byloudspeakers = throughoutthe offices.Christina Huggins, a phoneoperator in Mill Valley,California, told the PublicUtilities Commission inCalifomia that “plant men 3 7would go through the circuitry” looking for privatephone conversations deatingwith sex. Huggins said thatthe more interesting per-sona) calls were then playedaloud, purely for amuse-ment. osThe phone company, inresponse, says that suchpractices “are against com-pany policy.”Eden UndergrourmNews Service
-Back Issues are 50f¢ each, 40¢ each if you order 30 ormore. See previous issues for list of feature articies,r - 10 issues - US bulk rate $4.US First Class in plain sealed envelope $6.Canada & Mexico stapled $68 Foreign $7.IMPORTANT! Include mailing label or Xerox copywhen writing to TAP about your subscription.Book - Monopoly $1.20Courses - 0O¢ each A - Basic Electricity B- A.C.C - Basic Phone Cperation D - AmplifiersSend only check or money order (NO CASH) toTAP, 152 W 42 Street, Room 418, New York 10036This is a mail drop only.Office: 1201 Broadway, Room 808, New York 1000Hours: Wednesday, 4 - 7pm,Published for informational purposes only by Youth Hot Line Reports, Inc.Address all mail and checks toTAP,152 W. 42 ST, ROOM 418, NY 10036BULK RATEU. S. POSTAGEPAIDPermit to. 209Great Neck, N.Y.
+CORRECTION! 
+‘The Red Box circuit of Issue 36 is incorrectly drawn, 
+‘The two emitters of the transistors should be tied to- 
+gether and connected to pin 1 of the XR-2240 timer, They 
+are incorrectly tied to ground in Issue 36, Please correct 
+the schematic in your issue, even if you don't plan to make 
+the Red Box immediately. It will save you time later on. 
+REPORT FROM END OF THE EARTH 
+Dear TAP and Freaks, 
+Tam a lone freak living in a small town in northern Canada. 
+lam familiar with electronics but not with phones. This 
+town is a long way from anywhere and does not have a real 
+telephone company. I get my phone from the Canadian 
+National Railroad, This has possibilities but standard tech- 
+niques don't work. CW's system is tied.into AGT in Alberta 
+and also into the military phone system. 
+Did you know that the military makes their own Blue Boxes? 
+I often talk to the military guy in charge of their system. He 
+tests their system every Tuesday. Some of the buttons on 
+his Blue Box control priorities. Qne of these buttons will 
+even take priority over the President of the U.S, Perhaps 
+even a call for a pizza should take priority over Ford, but 
+that's irrelevant. 
+Anyway, one of the phones where I work has a habit of 
+automatically connecting you to the military system due to 
+some small defect in the exchange (possibly deliberate?) 
+What I have in mind is the development of a facility which 
+would enable freaks to call into here (a Black Box could 
+make that toll free) and then they could dial out of here into 
+the military systém. If they had a Blue Box with five add- 
+itional buttons for the extra tones that the military uses, 
+then they could use any priority they needed to interrupt any 
+military or government call in any NATO country. What is 
+needed here is some people who know about such things. 
+A few people here have experimented successfully with 
+communicating direct to the Anik satellite. They used 4 
+foot dishes made of wire mesh and assorted old microwave 
+gear, but they left town, I think they were liquidated. 
+‘The phone company here has changed their equipment 
+around so that it is not possible to call a toll-free number 
+from anywhere in the western half of the NorthWest Terri- 
+tories. So even though they have in-band signalling, Blue 
+Boxes no longer work. However, I am trying to devise a 
+new type box which I think might work anywhere. The logic 
+is as follows: 
+1, Dial O for operator. This sets things up so that you 
+are connected to a common wire which passes thru several 
+operator's boards and causes all of them to ring. When one 
+of the operators is not busy and has finished inspecting her 
+fingernails, she answers. This usually happens after 180 
+rings. When she answers, her board puts an audible tone 
+on the line which causes the other operators! stations to 
+stop ringing since one of the operators has answered. She 
+then asks who you are and writes a little note to remind the 
+organization to bill you. Then she dials your long distance 
+call for you using a touch tone board. 
+2. So, before any operator answers, put this tone onto the 
+line the same as if one of the operators answered and is 
+telling all the other operators' boards to stop ringing. 
+3. Dial the number yourself using Blue Box without using 
+the 2600 cycle "on hook" tone, 
+INFORMATION WANTED 
+If anybody there knows the frequency of the "operator has 
+answered" or "receiving attention" (or whatever they call it) 
+tone, I would like to know. 
+have discovered that the phone company cum railroad 
+company uses a very old signalling system on their order 
+wire. If you dial some number and talk to the guy at the 
+test board, you can ask him to dial for you to certain other 
+test boards in other cities, He uses a system of beeps of a 
+single tone. For example, 55 is just 5 beeps followed by a 
+space and then 5 more beeps. Iam going to try sending the 
+beeps myself because, if1 can hear them going out, the 
+equipment can probably hear any beeps that 
+I make. 
+=~. 
+ZT 
+JULY-AUG 1976 
+NO.37 
+Has anyone ever tried this? How do you find out the 
+number of the test board so you can do it before the guy 
+answers? I think if you reach the test board in a distant 
+city you can dial 9 and get back into the regular phone 
+system. Do southern, Bell style phone systems have 
+test boards like that? Can the phone company find out 
+whodunnit? 
+Another thing, kind of scary, the Mounties have two 
+cables from their shop to the exchange with maybe 50 
+pairs each, Rumor has it that their latest toy is a big 
+box with a dial on it, a handset with a snooper button and 
+a speaker, a bunch of jacks for tape recorders, anda 
+pen recorder for dial clicks. The story goes that they 
+can dial any number with this thing and listen in, It looks 
+like it is a standard gadget made by Western Electric (?) 
+and it works only in towns with a type of exchange called 
+an SP - 3, Part of this town has SP - 3 and the rest has 
+something made by a guy named Watson. Does anybody 
+know about this cop equipment? How do you fuck it up? 
+The CN exchange includes a computer which dials 
+everybody's number once a day and does a whole series 
+of checks on it avtomatically. If you have an illegal ex- 
+tension and were dumb enough to leave the bell connected, 
+the computer dials your number and does a "condenser 
+check" by putting a pulse of DC down the line. The extra 
+condenser will tengthen out the time for the pulse to decay 
+and the computer prints out your name and number and 
+what your crime is. The phone men and the RCMP then 
+come in like the Marines and arrest you. I would like to 
+know what else the computer is sensitive to. So far I 
+have discovered "condenser trouble" (illegal extension) 
+and "foreign battery on line" (this means that you called 
+somebody who has "called party priority" and they left 
+it off the hook so you couldn't get disconnected and they 
+tried to get the phone company to trace the call. When 
+this happens, you apply a shot of DC to your phone line 
+(experiment to get the right polarity and use about 40v) 
+and you get the dial tone back. However, the exchange 
+prints out "foreign battery on line" with your phone #, 
+You don't want to be the only fbol that day, so you zap 
+40v DC onto all the phone terminations in 3 or 4 apart- 
+ment buildings. That way nobody knows whodunnit. 
+We used to talk over the Telex until CN got wise and 
+changed the teletype machine for a modern one. The 
+old one had a switch marked VOICE and TYPE and a 
+jack to plug a handset into. Very economical! I think 
+the voice facility is for their own staff when testing 
+the equipment. They go home at 5 pm and if you dial 
+9 on the Telex after dialing the number for the city you 
+want, then you get connected to the regular phone sys- 
+tem in that city and just dial the number. No bill! 
+Continyed —> 
+Youth Hot Line Reports, Inc. 1976 - Do not make checks 
+Out to Youth Hot Line Reports, PLEASE! Movement jroups 
+may reprint without permission with TAP's address given 
+with all credits. Please send us a copy of reprinted work. 
+WARNING: We will prosecute copyright violators.
+WARNING! PAY PHONES HAVE AUTOMATIC SILENT 
+BURGLAR ALARMS! I read Tom Edison's Open 
+Sesame and he didn't mention the fact that, at least in 
+Canada (I'm not talking about here in the far north) pay 
+phones have an extra pair going to them, for an alarm. 
+‘They seem to sometimes carry a dial tone if you hook 
+@ regular phone across it but as soon as you take it off 
+hook and hear the dial tone, the alarm rings at the ex- 
+change. To find out which wires are the talking wires 
+and which are the alarm wires, take a pair of 600 ohm 
+earphones with a capacitor in series (aircraft-type 
+earphones are 600 ohm but please don't rip them off 
+out of small cloth covered 20 mile per gallon airplanes) 
+and listen across each pair as you take the pay phone 
+off hook, Once you have identified the talking pair, 
+the other pair is the alarm pair. Some pay phones 
+have 3 wires in the talking circuit. Two are for actual 
+talking and the other is for collecting money but I 
+think this is rare. 
+The alarm will be tripped if you do anything violent on 
+the body of the phone: drilling, hammering, even opening 
+with a key. So... connect @ capacitor and an old ringer 
+in series across the alarm pair and then cut the wires 
+carefully without shorting them together as you would if 
+you cut them both at the same time with metal cutters. 
+Cut them between your extra ringer and the pay phone. 
+THEN SPLIT! The alarm may have gone off anyway; 
+these phone company people are not to be trusted. Wait 
+a long time, and if you do not see the phone truck with 
+the twin .50 cal. Browning guns on it, then you can pro- 
+ceed as in Open Sesamee (April 1976) 
+As for a better way of opening pay phones, I recom- 
+mend a key. A simple inserting and turning action is all 
+that is required. /Apparently Canadian phones use pin 
+tumbler locks, unlike Western Electric which uses lever 
+tumbler locks. TAP #307 When somebody opens the first 
+phone in your area, make sure they note which hole they 
+get each pin in the lock out of. It is easy to make a key. 
+Some use tubular keys and these can be difficult to make. 
+Find an old key to a Coke machine and reshape the end 
+to fit your lock. Add metal to the key by putting on blobs 
+of brazing rod and then file it down to size. You will 
+then have a key that fits all the phones in your neighbor- 
+hood. Ihave heard that in high crime areas the phones 
+are individually keyed. /They are in the U.S, The entire 
+country is a "high crime area"7 You can tell whether or 
+not they are keyed to fit your key by looking at the little 
+number on the lock which tells the telephone man, and 
+you, which key to use. 
+I would like to get in touch with some people interested 
+in these things. However, this is a straight sort of town. 
+To reach me, call The News of the North 1-403-873-4088 
+and take out one of their free classified ads. Have the ad 
+say Something like "Kilgore Trout or anyone knowing his 
+whereabouts, call home" and include your number. 
+Yours truly, 
+Kilgore Trout 
+HO - HUM, WHO'S APATHETIC? (yawn) 
+Asking TAP readers to send money to anyone is probably 
+even more futile than asking them to make inquiries which 
+cost just a postcard, Only about 1 (ONE PERCENT) of 
+our readers have bothered to inquire about various offers 
+and activities mentioned in TAP, Fat chance you'll send 
+money to NORMLI So it serves you right if you get busted 
+for grass, you lazy, cheap bastards! Remember, a lawyer 
+costs a LOT more than the $15 NORML is requesting. 
+is needed 
+once and for all. 
+2317 
+M STREET. NW. WASHINGTON, 
+DC. 
+Join NORML. Mone’ 
+to finish the 
+NORDL 
+ODDS & ENDS by Tom Edison 
+‘The economic chrunch has got us all by the balls and it hurts! 
+In the past we were just managing to stay in the black (Box?) 
+but with the recent increases in the cost of printing, office rent, 
+postage, and the very recent outlay of cash for the TAP T-shirts 
+we're slowly moving towards the red (Box!), And since it's 
+very unlikely that the Big Brother Establishment is going to 
+offer us a subsidy, there are just 2 alternatives left. We 
+could raise the price of a subscription which sucks as far 
+as you're concerned, I know! Or we could get more people to 
+sub to TAP, That's where you come in, We need you to help 
+spread the word and get us some new subs to TAP. Since I 
+joined the TAP staff on July 5, 1975, I've watched as 90% of 
+our readers sat on their fat asses and profited from the ideas 
+of the other contributing 10% ! Now is the time for all you 
+silent do nothings to make some noise! Get out there and get 
+all your hip friends to sub to TAP! Tell them you're not going 
+to let them read your copy anymore! If they want to be "Hip 
+To Yip" they'll have to sub for themselves! And if your friends 
+are all cheap bastards just remind them that if they only use 
+1/16 of the ideas presented in TAP, that alone will save them 
+more than the cost of a subscription! 
+Ifa sufficient number 
+of new subscriptions are not forthcoming, 
+we will be forced to increase our sub rates! Help us fight the 
+wolf at our door! As an added incentive, any TAP reader who 
+brings us 5 new subscribers will be offered the choice of 
+either a free TAP T-shirt or a one year extension of his own 
+subscription, 
+When ordering your TAP T-shirt PLEASE specify size: 
+S-34-36, M-38-40, L-42-44, XL-46-48, Cost: $4, 
+I've had a request from a San Clemente reader who wishes 
+to remain anonymous (I wonder why?) to show the various 
+techniques for tape recording phone conversations. There are 
+4 basic methods: capacitor, transformer, inductor, and direct. 
+In the capacitor method two 1 MFD 100 wvde capacitors are 
+connected to the Ring & Tip phone lines. ( See Fig. 1) Non- 
+polarized capacitors are best to use but if you are forced to 
+use polarized capacitors be sure to observe polarity. These 
+capacitors will block out the DC line voltage but will pass the 
+audio signals, The capacitors should be connected with a 
+shielded cable to the mike input of your tape recorder. 
+Capacitors larger than 1 MED will give slightly larger volume 
+while capacitors smaller than 1 MFD will give slightly less 
+volume. +0 RING 
+SC 
+|___» 
+TAPE 
+To 
+RECORDER 
+FONE 
+INPUT 
+— 
+ARC 
+TIP 
+Fig. 1 
+The transformer method uses either an audio output trans- 
+former or a 6-12 volt filament transformer. The low voltage 
+or secondary winding of the transformer is connected directly 
+into one side of your phone line. ( See Fig. 2) Because this 
+winding consists of only a few turns of wire, it has practically 
+no DC resistance and will not either load down your phone 
+line, which is real important to us home experimenters who 
+have too many "goodies" on their line, or be detected by Pa 
+Bell. You also get the advantage of not only electrical isolation 
+from the phone line but because of the way the transformer 
+is connected you get a step up in audio signal voltage,
++O RING 
+> 
+To 
+FONE 
+-~-o7e. 
+. 
+To 
+TAPE 
+RECORDER 
+Fig. 2 
+Both the capacitor and transformer methods have a serious 
+disadvantage however. The audio voltage level of your voice 
+is much larger than that of your friend at the other end of the 
+phone line, This results from the fact that you've probably 
+got a hell of a lot bigger mouth than your friend and also 
+from the fact that your voice current generated locally is 
+much larger than that of your friend's generated down the 
+other end of the phone line! 
+The inductor method solves this problem by picking up the 
+audio signal voltage from your phone's earpiece. Because of 
+the sidetone network and varistor circuits which help to reduce 
+the large locally generated audio signal, the phone earpiece 
+is fairly balanced for both ends of the conversation, The 
+inductive pick up is slipped on over the earpiece. It is nothing 
+more than a coil of wire that picks up audio voltage. The out- 
+put wire is plugged into the mike input of your tape recorder, 
+‘The disadvantage of this method is two fold: good inductive 
+pick ups are expensive and because the pick up coil is located 
+a distance from the electromagnet in the earpiece, the available 
+audio output voltage is low. 
+The direct method solves all of these problems and is by far 
+the best method to use. It gives a balanced audio level and 
+maximum voltage output due to the direct connection, The 2 
+terminals on the phone earpiece are excellent places to tape 
+record from using a shielded cable. If you do not want to have 
+wires attached to your phone earpiece, you may use terminals 
+R & § on the network box. These two terminals are the ones 
+that go to the phone earpiece, Since Pa Bell will not let you 
+tape record directly from your phone, let me warn you not 
+to use this method which produces excellent tape recordings 
+of conversations! 
+I've received several recent requests for any information 
+on the Silver Box, All available info is very limited but we 
+do know from our usually unreliable sources that it's a device 
+that costs $1, 200 and lets anyone with a knowledge of 2 dialing 
+code to listen in on calls. The code consists of a 7 digit number 
+that activates the box and a 2 digit number that allows the 
+listener to select the line that he wants to monitor. Pa Bell 
+claims that they use it only to monitor calls made to its own 
+business offices to maintain high quality service. (It always 
+intrigues me that Bell feels that they must spy on their own 
+employees to maintain "service"!) And if you believe that 
+Bell is only snooping on its own employees, then I've got 
+some choice swamp land in New Jersey for you! Bell also 
+claims that the Silver Box system is secure because only a 
+few SnOOps ........ er Bell supervisors have access to the 
+codes and they are changed periodically ( the codes or the 
+supervisors?) In any event, we have learned that these codes 
+ARE available to non-Bell personal if the price is right! If 
+any of our readers have additional information on the Silver 
+Box and its codes, I would appreciate hearing from you, for 
+purely scientific reasons, of course. 
+In response to my request for information on the ways that 
+operators are checking on Red Box users I received the 
+following letter-from Chicago, ILL: 
+Dear Tom Edison 
+Regurding red box users having difficulty with 
+operators placing their calls (TaP 35). I personal— 
+ly solved that problem myself 2 years ago here by 
+putting in .10¢ first and then "beeping" in the 
+rest. However a recent experience should be passed 
+on to your red box readers who have fallen into 
+complacency about peronal security. 
+Recently I red boxed a friend in a distant 
+state. The operator put the call through alright, 
+but after 1 hung up, the chief operator immediately 
+called my friend wanting to know who had just cal- 
+led him. In other words, an operator (knowing your 
+using a red box) will put your call through, and 
+then call the purty with whom you just talked, try- 
+ing to get them to identify you. instant entrap- 
+ment. Moral: Talk only with instant amnesiacs. 
+“a 
+different experience in southern Indiana 
+was even more frightening. After I boxed in some 
+money, the operator said that, "ss. it didn't re— 
+gister.", so she requested that I redeposit the 
+money again but to do it very slowely, at her com- 
+mand. In other words, she wanted me to deposit a 
+quarter, so the circuit is closed, then she woul” 
+immediately deposit the quarter into the hopper, 
+circuit is open again, request another quarter, 
+circuit is closed again, deposit the quarter into 
+the hopper, etc. Of course I split. Collecting 
+money this way is very time consuming for the phone 
+co-, but of course it prevents red boxing. any sol— 
+utions to this? 
+i 
+You forgot to mention in your article that if 
+one talks over the initial 3 minute period and the 
+operator comes on for yonr overtime charges, be 
+sure to put in a slug or dime that registors first, 
+otherwise the relay 1s open again and you might 
+have to answer some embarrassing questions. 
+8c, 
+My reading recommendation for this month is EDEN 
+UNDERGROUND NEWS SERVICE, P,Q, Box 8410, 
+16881 EVERGREEN CIRCLE, FOUNTAIN VALLEY, CA, 
+92708. Eden Press Service is published bi-weekly and they 
+feel that "all the news that's fit to print" makes for a very 
+dull newspaper so all items that they print will never be 
+found in the New York Times! If you need a new set of ID 
+they have the new 1976 Revised Edition of "The Paper Trip" 
+plus another book on getting new credit, All articles are very 
+thought provoking and interesting. All I can say is that if you 
+dig what we say in TAP, you'll dig what they say in Eden 
+Underground Newspaper Service. Subscriptions are $15 for 
+lyear, $18 for 2 years, $25 for 3 years, and $10 for a charter 
+one year subscription. Enjoy! 
+This month's column is dedicated to the Litchfield Larcenists, 
+Sam and Charles, with a special thanks to Sam who helped us 
+lay out this issue. 
+Dear TAP, 
+The phone company wants to make us happy! They say 
+they will give credit if you get a bad connection or wrong 
+number. I called ----- for 15 minutes, then hung up, 
+called the operator, and said that we had tried for a few 
+minutes to have @ conversation but that the phone kept 
+getting fuzzy, and that finally we couldn't hear each other. 
+I sounded very irritated and asked her not to have me 
+charged for the call, that I refused to pay for such service, 
+and would she put the call thru herself, She said yes, took 
+my number, and put the call thru. We had finished our 
+conversation, so we just talked again for less than one 
+minute and hung up, I don't think they will credit the first 
+call unless you have it reconnected, 
+A friend called Alaska legitimately, then when he talked 
+longer than he expected, said good bye, left the phone off 
+the hook, and left it like that for three days. He refused to 
+pay for 2 three day call, said it was a 2 minute call and 
+some failure on their part, 
+NI 
+It would be necessary for both parties to leave their 
+phones off the hook. Otherwise, there is a 90% probability 
+of an automatic disconnect 30 seconds after the called 
+party hangs up.
+BELL’S BOXIN’ US IN! 
+by Tom Edison 
+Enjoy your Black & Blue Boxes while you can because in 
+the next few years (and even sooner if you live in certain 
+areas!) they're all going to be obsolete! On May 15, 1976 
+Pa Bell put its new C,C.1.S, system into operation between 
+Chicago, Ill. and Madison, Wisc. This Common Channel 
+Interoffice Signaling system uses high speed data pulses 
+instead of the usual audio MF tones and since the audio 
+talking circuits are not connected until the called phone has 
+answered, you cannot Black Box the call! Previously, all 
+information such as MF tones, 2, 600 Hz, ring back, busy 
+signal, etc. was done over the audio Ring & Tip phone lines. 
+With C,C, 1,8, all of this information is converted into high 
+speed data pulses and is multiplexed onto one common data 
+channel leaving the audio lines free to be used for other calls, 
+Long distance calls will now be processed in 2 seconds as 
+compared to the 10 seconds it now takes. 
+This new system will take 10 years to complete nation- 
+wide and will cost US $250 million. Cities that will have 
+C.C.LS, systems this year besides Chicago and Madison 
+are Kansas City, Dallas, Jacksonville, and Waukesha, Wisc. 
+By the end of 1977, there will be 37 other cities with C.C.1.S, 
+Pa Bell is using its new ESS #4 and a modified version of its 
+#4-A Crossbar in their C,C.1.S, Central Offices, By the end 
+of 1977, about 30 of the nation's 181 #4-A Crossbar exchanges. 
+will be C,C. 1.8, and by the end of 1978, about 21 ESS #4 
+exchanges will be in operation, 
+But before you all reach for the crying towel, just remember 
+that a phone is simply an electronic device and like any other 
+electronic device IT CAN BE DEFEATED!!! The needed 
+technology may get very sophisticated but it's a challenge 
+that the united fone freaks-will meet and eventually beat! The 
+Box of the future will no doubt be a cross between 2 small 
+computer and a data switching center. Remember, old Boxers 
+never die, they just build another color Box! And the Red Box 
+will still be around too! 
+We don 't know when we'll get more copies so please don't 
+order itt 
+MA BELL 
+GETS JOLLIES 
+(ZNS) A telephone opera- 
+tor has testified that many 
+phone company employees 
+are commonly entertained 
+by having the intimate sex 
+conversations of telephone 
+customers 
+broadcast by 
+loudspeakers 
+throughout 
+the offices. 
+Christina Huggins, a phone 
+operator in 
+Mill’ Valley, 
+California, told the Public 
+Utilities 
+“Commission — in 
+37 
+California that “plant men 
+would go through the cir- 
+cuitry” looking for private 
+phone conversations dealing 
+with sex. Huggins said that 
+the more interesting per- 
+sonal calls were then played 
+aloud, purely for amuse- 
+ment. 
+The phone company, in 
+response, says that such 
+practices “are against com- 
+any policy.” 
+Eden Underground 
+News Service 
+PEN PALS WANTED 
+It should come as no surprise that some of our readers 
+are in the pen, Here's part of one letter: 
+"Finished reading Big Brother Game and am disturbed 
+by the diagrams. He left out connections and parts. I 
+would be glad to help anyone trying to construct these - 
+for instance, I have a page of instructions for the con- 
+struction of a drop-in transmitter. Many of his circuits 
+came from Sams publications and Popular Electronics. 
+The infinity transmitter will not work as shown, He left 
+out 5 (count them) connections to the Signetics Phase 
+Locked loop in the IC infinity and also on the AF Amp IC. 
+I really would get off on writing to some phreaks - if you 
+know of anyone that shares my interest. Hip them to the 
+fact that I'm in here - but they can say virtually anything 
+they want. " 
+Don Harbolt 
+Box 1000 (30682) 
+Leavenworth, KS 66048 
+As you can see, Don's very knowledgeable (No cracks 
+from you smartasses about "then what's he doing there? ") 
+He's a veteran of the Mexican air freight industry, import- 
+ing our favorite flower. If you need any tech info, we'd 
+appreciate it if you'd write to him, instead of, or in add- 
+ition to, us, He has a lot more spare time than we do. 
+Write legibly! But don't include a self addressed stamped 
+envelope (stamps are contraband) and anyway, the Dept. 
+of Justice (sic) pays his postage. 
+IP 
+Back Issues are 50¢ each, 40¢ each if you order 30 or 
+more. See previous issues for list of feature articles. 
+Subscriptions - 10 issues - US bulk rate $4. 
+US First Class in plain sealed envelope $6, 
+Canada & Mexico stapled $6 Foreign $7. 
+IMPORTANT! Include mailing label or Xerox copy 
+when writing to TAP about your subscription. 
+Book - Monopoly $1.20 
+Courses - 50¢ each A - Basic Electricity B- A.C. 
+C - Basic Phone Operation D - Amplifiers 
+Send only check or money order (NO CASH) to 
+TAP, 152 W 42 Street, Room 418, New York 10036 
+This is a mail drop only. 
+Office: 1201 Broadway, Room 608, New York 1000: 
+Hours: Wednesday, 4- 7pm. 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to 
+TAP,152 W. 42 ST, ROOM 418, NY 10036 
+BULK RATE 
+U. S. POSTAGE 
+PAID 
+Permit Ne, 209 
+Great Neck, N.Y.

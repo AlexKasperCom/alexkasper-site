@@ -46,6 +46,6 @@ Still, it’s cool to see how this kind of information was discussed and passed 
 
 **The archive**
 
-Click any title below to see and download a scan of the original newsletter.
+Click any title below to see and download a scan of the original newsletter. Most of the scans come from the [Computer History Museum](https://computerhistory.org/)'s collection, [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/).
 
 {{< back-issues "tap-archive" >}}

@@ -1,18 +1,605 @@
-PAY AND DIE?It is often said that death and taxes are inevitable. HumanSheep repeat this platitude the same way parrots unthinkinglyrepeat anything they bear. Until now death has been neces-Sary because people insisted on breeding and we'd be standingon each other's heads in no time if it weren't for death. Youknow, of course, that it fs not necessary to have children.You may NOT know that our technology is only a few years(100? 50? less?) away from eliminating death. Read TheImmortalist by Harrington, The Second Genesis by Rosen-feld, Here Comes Immortality by Tuccille, and Heinlein'sI Will Fear No Evil and Time enough for love: the lives ofLazarus Long. (Borrow them FREE from your library)If you could live forever OCR haye chjldren, which would youchoose’? Have you had your So: yet?As for taxes, many Shrewd individuals are "WorkingWithin the System" TO DESTROY ITI They claim that the16th Amendment is unconstitutional. Rene Baxter (4045East Palm Lane, Phoenix, AZ 85008) is one of the manyknowledgeable advocates of tax refusal. Here's his plan."According to Federal law, a dollar is a silver coin contain-ing 412 1/2 grains of Standard silver" Did you receive 750or more dollars in income last year? Ofcourse not. Allyou got was "fiat dollars" - printing press money. Thereforefore file a W4E with your employer. It states that you areexempt from taxation. ¥...the IRS is 9% bluff. Theyhave successfully violated our rights only because we al-lowed them to do so. Our fear is bised on our own ignor-ance of our rights under the ConStitution and under Federal]law, The factis, a very large number of people are suc-cesSfully defying the IRS. They aren't being charged; theyaren't being tried; and they aren't being convicted. Equallyimportant, they aren't paying any taxes. The IRS admitsthat there are now over 5 million tax resistors in the U S.,Many are uSing dubious or illegal tax avoidance methods.A growing number, however, are basing their non-compli-ance on the Constitution and on Federal law, There is nowoverwhelming evidence that these methods are not onlysuccessful but completely legal. In fact, they are based ona strict obServation of the law."BE SURE to cross out the "Under penalties of perjury..."Statement at the end of the 1040. One of the AdvisableMissions Force's informants, WITHIN THE IRS, says theyare terrified of people who plead the Fifth and FourthAmendments, You have Big Brother by the BALLS! SoSqueeze bim like he's been squeezing you!Baxter's Tax Revolt is $2. He publishes a fortnightlyeconomic newsletter (expensi. e) and "Freedom Today"(monthly, inexpensive) and sells several books, amongthem Tax USA | by Martin Larson $5. The covershows a 1040 being burned. Remember when burning draftcards was a popular activity? Has anyone been draftedlately?Don't ask for the info free because "you can't afford it".If you don't pay taxes, like those of us who collect welfareor unemployment insurance (which insures unemploymentwhy work?) or have your income deposited directly inZurich or elsewhere, you don't need the info. If you do paytaxes, you can certainly afford to learn how to STOP payingthem! A popular recent saying is "Eat the Rich", Whetheryou choose to or not, stop feeding Big Brother with $.Mr. Phelps©Youth Hot Line Reports, Inc. 1976- Do not make checksout to Youth Hot Line Reports, PLEASE. Movement groupsmay reprint without permission with TAP's address givenwith all credits, and please send us a copy-of reprintedwork, Warning: We will prosecute violators.
-FEB—=MAR 1976 No. 33ODDS & ENDSbyTOM EDISONThere has been some new response to the TAP "T" Shirt.So far people writing in want shirt #1. The choices areShov-n in the Cctober 1973 issue # 22. Keep those cards andletlers coming in folks]There have also been Some off-hook currents sent in byTAP readers. A chart listing all off-hook currents will bein next month's issue, Please continue to send in off-hookcurrent values.We've had a number of letters from the New England areaespecially Mass. informing us of a larye crash program touncover illegal extension phones and answering devices.Shame on you---for getting caught!) 1,I wouldn't dream oftelling you that if you put a SPST switch in series with eachof your freebees and leave the switch in the off positionthere's no way in hell that Pa Bell can find out when theyvery sneakily "test" the line at 3 AM with a signal that'sStrong enough to register on their meter but not strongenough to ring your phone. Remember also that when youconnect a phone answering device to your line it can bedetected So if you have any friends who have an illegalphone answering device make sure that you don't tell themhow to avoid detection by putting a SPST switch in serieswith the device and shutting off the legal phone when theanswering device is in use so only one "phone" shows on thedetection equipment.I've received two other off-hook currents - 275 ma and9.1 ma. I don't know what the hell to make of these readings,One looks too high and the other too low] Phone resistanceand the 48 volt DC battery at the local CO are pretty standardSo there shouldn't be such a wide variety of values. Pleaserecheck your milligmmeter and note the on and off-hookline voltages.For you underground record freaks let me recommendPerfect Pitch, P.©. Box 136, Hallowell, Maine 04347.They bave an extensive catalog of great underground andimported underground records by such artists as: Beatles,Stones, Dylan, Who, Dead, Zeppelin, Hendrix, Clapton,CSNG&Y, Bowie, Deep Purple and many more. Senda selfaddressed stamped envelope for their free catalog. Theyoffer fast service and the records come shrink wrappedwith inner protection sleeves. Their catalog also rates thesound quality so you know in advance what to expect. Creditan Amberst, Mass. Yippie for the tip about Perfect Pitch.Thanks again Scott!
-
-OOPS!byTOM EDISONIt had to tappen so ner cr later! Inmy zeal to get my articlelaid out for the Jaruary issue the WRCNG diasram was usedfor Fig. 4. The schematic showed a DPST swi:ck which isincorrect. LY this DPST switch ‘3 uzed the 126 vott AC 23 Heringing voltage will have a icw resis:ance path through uePox RC network amd the dicdes will effectively be acrcssthe ting atall times. This means that Ue circuit will aucto-~maticaly “answer” your mone all the time! To correct thisSituation Change thea OPST switeo 7o a DPOT switsh andconnect aS shown below:RING+ 6 —O +
-ATal ZENER=56 velit 5 wattHEP Z@ 2537Phcore DICDE= 100 volt @1 ampLinsFREE ToPhoneLt p2{. trDPDT 3 | | 4SWITCHTTP s| Jel | .} qFig. 4 Re LOK OHML/2 wattNCRMAL caiMid ® 100 wvdeTerminals 3&4 are connected tocether as are 548 but thereis no connecuion between terminals 1&2, With tha DPDTswitch in the normal position the r! aging voltage is acrosstha phone ringer and nt across the “answering” diodes.Cn'y when the switch {s put in the "*ree” position are shediodes placed across the line to momenwrily "answer" thepoone fora sew milliseconds. I cannot thinx of a moreappropriate cme to build this improved automatic Black BorNOTICE TOTELEPHONE CUSTOMERSWe are planning changes
-te M@ re ch or op ot never tian. ote nines trim AT#:TLTE i.s ‘hl 2.8 “AIS eRe Wns fs es une alingG.cl TOMSUGAlTS'6S. lime nA SL resto ivllas eh.sciieriig the bever cersynreib we Oublic - AT2T Ur TAPII!TARIS CIAL-CIRECT NEVER I4CRE THAN THREEMEIUTES ATA TRS BLACK BOX RATESMILEAGE DAY NIGHTCF CALL RATES RATES1D OP IFMILES199-1, 900 Ble OFWIT ESANYWHERE O¢> OFADDITICNAL MINUTES ARE ALWAYS LESSRATES QUCTED INCLUDE TAXAS an ais to you do-it-yourselfers let me offer to ycu theTOM EDISON HCME EXPERDMENTORS PHONE CHART:VCLTS| Mal o ums | FREQ | THECN-3COK 48 Oo |INFINITE | po -OPF-HCoK | 8 40 | 190-200 -RINGING 105 23 - 20 -BUSY SIG - - - [480+ |8 DEM} e2o |space nex! 45 [4.5 | asoKeaa| - -RESISTOR |DIAL TCNE| - - - «| 380+ -449
-in the rates for most out-of-state calls.Thefollowingexamples#ustratethe new interstateLongDistance ratesia three sample miieagebands:~ aq! reerstateCxet-Dereet One-Aiirnte Assen \4 stere.ste Ougryter-Aagueies Threwttente Assestinge | Iu Pare | AOren | 00% Omenene { ineenge Persea PoryanCan ' fey poste | a Cott | at A Vee a fn Tom |~ = apr 43-30 =~e8 73 XC mae | }(mettions Come » aa iz | pagesiaretone "00 &¢00Be nwarid Vaee , serene Mage++h -473 owen | aes |(ene Ovtwne | 4 os x aoa (aoeOmeem, 2+ 52 OO} wsMeche wen!OOO ~ews ro! JOO wow| wercoe >ae ee Pas | Pegren Vora me 12am hwLon AngetenCom - Loe Annes +aT etna, meen =e, ewes erg, warecul44060°68 c“ergud
-WE NEED INFCCB Radio - Thouga itis a wolaucr cf FCC regulations, it{gs possible to acd an encoder - Jeccder systen. ts existingCB radios and nave a telepticne {n your car at no monthlycharge. Besides, a CB ric costs arcund $209, far less thanine FM or VAS equipment used by Mctorola- Bell systems.It requires an automalic phc7e paica and sendir.: touch-toneover tne AM signal. We would like a design for Such a sys-term,Alsa we would ilke plans for a Suitable bi-li:z.ear amp-lifer for mobile CB radio (and home base) use to get thruwoen Unings are crowced and margiral,Aiarm Sys - cr “How to unprotect Bly BrotherTM. Weit S possiola witb ycur heip, Lf you send in whalever infyou may have in ine way of Scaematucs, operation, ormeubods of carcumventin; from local to Grace AA CentralCffice Alarms.neimisic + Triesrant SRCV résipes for psychopharma-cecuocals, Infc abtul memory drugs, e.g, MaynesiumPem olin?.
-~
-
-ASK Mr. PHELPSSeuaan tur teStor? and ne vu ory it answer hem. HfWow Sena a ceplsit to hs Lank account in Zurite, he willmake an all-cut, maxumom effort@ Wat are you coing (3 do about ‘hose new Supermarketlatels? Is there some way to add Some Lines and lowerthe price?A. What maxes you think we would do anything like that?All we do at TAP is distribute information and report thecrews. Like the NY Times. Sortof. Us cheat honestbusinessmen providing people with necessities at com-peuitive prices? Nc way! But if someone rips me off, Irip right back] Cne chain has a new slogan which REALLYmears: "We take PRIDE :n charging the highest PRICE wecan get away with”. The Shadcw said: “The weed of crimebears bittar fruit.” Well, I think free food tastes GREATRemerber that no matter how much you rip them off,you'll barely break even unless you buy wisely. Fully half- nell. probably 3/4 - of the stuff in marxets is a tozalripoff. Cigarettes; soda and sugared, flavored, cannedwate>, Oreaxtast cereals (with & few exceptions); white bread;Sterilized cream; and medicinals are ali shit] One breakfasrcareal executive once saict "If they'd buy it, we'd sell thempackaged shit." That's ok, if it's properly labeled, but whenthey call it "food", that's FRAUD, and the perpetratorsshould be liquidated, As for “medicinals": first they sellyou the Shit, then they sell you more shit for when yourstomach and guts rebel, then more shit $o you can get rid ofit, then mcre shit to Straighten out your head, and finallymore shit to keep you from smelling like shit, which youwouldn't if you ate right.Do you know what unit pricing is, and how to calculatetoe price per ounce when tbe u.p. label is, as usual, missingor obsolete? Lf not, you'll cflten get ripped off. You'll buy"large economy sizes" which are no bargain at alll Sobring along your pocket calculator, if you’re too lazy to dothe math ir, ,our head.In some sates, there is STILL no law preventing mar-kets from -;,creasing prices of items already on the shelves.In Some Staves, the sheep are even charged SALES TAX onfood. The; just shrug. Get rid of politicians (preferablywith tbe bujiot, not the pulled who don't represent you. TheLibertarian Party is probably your best alternative.The iabel is known as the Universal Product Code. Anexcellent article appeared in Barron's, May 19, 1974. Manymarket are besitating, wondering if the "benefics” are worththe system's $200,000 cost. Department store .wners arewaiting tor Cptical Character Recognition systams, IBM'srequires that price tags be printed in magnetic ink. (NOWCo you see the reason for our DA info request?) Supermar-kets would like to avold marking (the prices on everything sothey car REALLY rip you off. Legislators are workdng onbills to require prices on everything. Let them hear fromyoul UPC is now being tasted in Fairport, NY, wherecustome; said checking out is NCT quicker or easier. [t'sjust another gimmick, but one you can profit from.QO! | QAd HHCan yo: wi. the difference? Neither can the cash:er.But ne cor; ter can, and we all know that computersnever make «. .S8takes, right? (The label 3.n the left i: cofa l4¢ item, tie one on the rigntis rif 4 gl. ds item)[t nas Deer, said that every revoluticnary saucula own orhave access : printing equipment, or know a criendlyOrincver (the mre you pay vim, the friendlier be‘ll be)“In every - up a‘etat, ‘tho re comes a moment whenSuccess ir allure depenaus in whether or act an appre-priate Set of mbber stamps is availaple. "The Jovi Oick Ave, By Riberto Vacca"A printing press is worth mere thar |S) rites"Kur Of Sang
-twos ce aletil cs reat) spply new sammea cr zal.Sucking CPC lasels snttp ciche crtoinals. And mestLmwisé to ry Sucking dem on irczen peceazes, slipperyplastic containers, sr sver zslosed labels. Ard it-vonteloox rightif you Day a cartful 2/ food ard "he tsral is 33. 71,wil) it? You'll get an iter iced bill $9 you can't se ‘ustone -abei several Umes. Yow would it look, a receio: for10 packages of ld¢ salt, when you've gor only delicacies bikeSmoked oysters and caviar in vour cart? You would needan assortment of labels,BOOK CF THE MONTThe Big Brother Game by Scott French $7.95 from (rzPublishing, Box c820, San Pranctsco, CA 94101A most entertaining and -nformative book about suc-cil-lance, surreptitious entry, and ccuntermeasures. EvenI learned a great deal. Probably the most compretensive,readily available of its type. Included are many pages trommanufacoirers' catalogs, and Schematics for thase whowish to make their own low cost equipment. The chapteron locksmithing itself is worta many times the price cf theenuire book. Techniques are tescribed in the author'slramitable style. Get this bock before itis outlawed] Inavolume containing 4s muca material as this one does, afew minor errors and omissions are inevitable. Yourmission is to find them.The End of TAP?It COULDhappen - ifS- 1 passes. Yeah, I know -"What's S- 17" You willget all the datails if it doespass. It is known in some circles as "Instant 1964".Check it out and let your "duly elected representatives”(bab) hear bow you feel about it.Must Mean-Peny ExpressWashington, Fee 17 (AM~~ Althowgh wad tervire is
-Dhstrict Cotrt Jabervy Burkart deferre, . .yieeded grelty to meando mest pated pert Jannary, *actoteses earelc im the tee teenagers apretd ‘a -.have bean orderrd by fram frome streaking duri-te clean um ther act and de thee predationam return -am TRCOre HEX! yeat tie tame se.ghberhead mr:Cei-ryee te Jp careeiog, f°theta time je peeperaixtey.
-are 50¢ each, 40¢ each :{ you order a ful!Back suesset (numbers | - 32) See previous issues for List offeature articles.- 10 issues- US bulk rate #4,US First Class in plain sealed envelope $6.Canada stapled $4 Foreign $7.IMPCRTANT:Include mailing label or xerox copy when writing to TAP202xut y cur Sucser:ption.B--<¢ ~- Steal Ttis Book Sz.55 0 Menspely 31.23Gxurses ~ SO¢ each A-Basic Electricity B- &.C,C - Basic Phone Cperatisn D - Amoplivierssen oly check or miney order (NC CASH) tpTAP, lal W 42 Street, Room U4, Nes York LC:This :s a mall drep only.Cifice: 120i Broacway, Room 70°, New York '330lHours Wednesday, i-Torr..
-
-PAY ATTENTION!WHEN WRITING TAP, WRITE LEGIBLY! Or print! Bestofall, TYPE! Don't be like the idiot who scrawls ona pieceof toilet paper in magic marker or crayon amd then wormderswhy his address label is misspelled. ALWAYS include oldaddress when sending ina change. Bulk rate subscriptionsMUST include Zip Code, Subscriptions start with the nextissue we publish, whenever that is. No exceptions! Sub-scriptions are pro-rated if you didn't know about the newrate and sent in the old amount.Try to keep each item you send in ona different sheet orindex card. Subscriftions, back issue orders, DA info andrequests, MEAT, etc. all are processed separately. Besure to tell us what you want - not like the guy who sent ina check with nothing else - no address, nothing! We had towaste time and postage sending the check back to his bank.His reply: I thought you'd have my address in your subscrip-tion file." Well, sure, but do you think we're going to wastetime looking for it? You think it's posted on the wall soeveryone can see it? And how do we know you wanta renew-al? Maybe you want back issues and forgot to include theorder sheet. Would you send an order to Sears, Roebuckand expect them to know what you want? .Be patient! We may be temporarily out of an issue andare getting it reprinted. After two (2) months send usaphotocopy of yor canceled check and tell us what you didn'tget.Keep each DA topic on a SEPARATE sheet, one side only,preferably typed. Remember, it may be getting photocopied.Use black or dark ink. For lengthy articles, use 81/2x ll,single spaced. Include source and date of articles. It usual-ly isn't necessary to ask: Do you need info about -----7Just send ‘t in, unless it is bulky (high postage) or requiresextensive and expensive photocopying. Don't put your nameand address on anything that could get you in trouble. Init-tals or code name are ok, We have finally gotten the photo-copier working and are sending out DA info. If you sent insomething and haven't gotten anything back, tell us (again)exactly what you sent and what you want. In some categorieswe have practically nothing because nobody sent in anything.In some cases the info is a 200 page book and we can't affordto copy the whole thing. Or afford to mail it - copy paper isheavy! We'll work something out with you. Be patient.If you've written to MEAT and haven‘t heard from anyone,it's because we haven't heard from anyone else in your area.We have noticed there are a lot of people in the same towns,so if you want to meet others, let us know. There 15 sornerisk - we might unknowingly introduce you to an undercover,agent. But you run that risk every time you buy a nickel
-Postage rates are getting So high that it hardly pays youto order and us to Ship only one item, but we will continueto do so at Al Bell's insistence. Books are sent separatelyfrom back issues at lower cost "Book Rate".Some people have expressed concern about our security.Our mailing list is as safe as possible, What are youworried about anyway? You're probably already ona halfdozen of Big Brother's other shit lists] All,incoming mai)is shredded after processing (occasionally, it may getshredded without processing), Someon¢ asked: "Do youthink Pa Bell has a Subscription under an alias?" We assumehe does, but we've infiltrated him far deeper than he's infil-trated as.Courses & & F and Head Crash (computers) will be finish-ed someday, If you ordered them, we probably have yourname and address and will send when available. If youhaven't gotten something else you ordered, it might be yourfault, Make sure we have your current address or give thePostal Monopoly your change of address (unless you don'twant bills forwarded). Our outgoing first class mail has noreturn address and we have never gotten anything back fromthe Dead Letter Cffice. If something is our fault, we'llcorrect it, but if it's your fault, TOUGH! Occasionally, somemasochist sends cash which never arrives. When he com-plains, we have to waste time and postage telling him TCUGH!Or some smartass says "There's no way anybody could stealthis money’ and doesn't include any, so we'll think it wasstolen. TOUGH!It so happens that we are all males here, and it seemsthat most readers are, but some people don't like the sexistgreeting "Dear Sirs" or "Gentlemen", Personally, I prefer"Dear People", |Regarding a convention: I think we have one here everyWednesday. If you wanta fancy one ina big hotel, TANSTAAFL(There ain't no such thing as a free lunch) It will cost MCNEY!IIam not at all enthusiastic about reducing our treasury forthis purpose. If readers want to contribute enough... HEY,where did everybody go?We try to answer all questions (unless they are rhetorical)even if the answer is "We don't know", but a self-addressed,Stamped envelope (put the stamp at least 1" lower and youmay be able to recycle it) will speed up the reply. Then wedon't put your letter in the "Answer if we ever get a chance"pile. If you didn't get an answer, write again, it may havegotten lost in the shuffle,Remember, we sre doing the best we can. This is a laborof love (and hate) and we're not making any money on it. Ifyou can do better, come on in.bag from a new dealer. Mr. PhelpsPublished for informational purposes only by Youth Hot Line Reports, Inc.Address alt mail and checks to-N.J. Bell sued .over fire-call delay TA P, ROOM 504, 152 W, 42 ST., NY 10036 u.'S. POSTAGEBACKENSACK (AP) — A couple PAIDuit New Jersey BeilTelephone with ing to pet them are eythromph to the firedepartmentwhen heir = SShome caught on fire three years agoPagew ater fedUbe wll Buperior Courteobere Friday.
-School phones used improperlyNEW YORK (AP)— Anime Switzerland, Argentina,Greece, Italy and Leraelshow-ed almcs{ enethird of themwerepersonalandpotof hicial.tencefrom the city's schools toplaces such as Fraace,From The News Tribune
+PAY AND DIE? 4 
+It fs often said that death and taxes are inevitable. 
+repeat anything they hear. ‘Until now death has been neces- 
+Sary because people insisted on breeding and we'd be standing 
+You 
+on each other's heads in no time if it weren't for death. 
+know, of course, that it is not necessary to have children. 
+You may NOT know that our technology is only a few years 
+(100? 50? less?) away from eliminating death. Read The 
+Immortalist by Harrington, The Second Genesis by Rosen- 
+feld, Here Comes Immortality by Tuccille, and Heinlein's 
+I Will Fear No Evil and Time enouah for love: the lives 
+of 
+Lazarus Long. (Borrow them FREE from your library) 
+If you could live forever OR hay 
+jldren, which would you 
+choose? Have you had your for 
+yet? 
+As for taxes, many shrewd individuals are "Working 
+Within the System" TO DESTROY IT! They claim that the 
+16th Amendment is unconstitutional. Rene Baxter (4045 
+East Palm Lane, Phoenix, AZ 85008) is one of the many 
+knowledgeable advocates of tax refusal. Here's his plan. 
+“According to Federal law, a dollar is a silver coin contain- 
+ing 412 1/2 grains of standard silver" Did you receive 750 
+or more dollars in income last year? Ofcourse not. All 
+you got was "fiat dollars" - printing press money. Therefore 
+fore file a W4E with your employer. It states that you are 
+exempt from taxation. "... the IRS is 90®bluff. They 
+have successfully violated our rights only because we al- 
+lowed them to do so. Our fear is based on our own ignor- 
+ance of our rights under the Constitution and under Federal 
+law. The fact is, a very large number of people are suc- 
+cessfully defying the IRS. They aren't being charged; they 
+aren't being tried; and they aren't being convicted. Equally 
+important, they aren't paying any taxes. The IRS admits 
+that there are now over 5 million tax resistors in the US. 
+Many are using dubious or illegal tax avoidance methods. 
+A growing number, however, are basing their non-compli- 
+ance on the Constitution and on Federal law. There is now 
+overwhelming evidence that these methods are not only 
+successful but completely legal. In fact, they are based on 
+a strict observation of the law." 
+BE SURE to cross out the "Under penalties of perjury..." 
+statement at the end of the 1040. One of the Advisable 
+Missions Force's informants, WITHIN THE IRS, says they 
+are terrified of people who plead the Fifth and Fourth 
+Amendments. You have Big Brother by the BALLS! So 
+squeeze him like he's been squeezing youl 
+Baxter's Tax Revolt is $2, He publishes a fortnightly 
+economic newsletter (expensi.e) and "Freedom Today" 
+(monthly, inexpensive) and sells several books, among 
+them Tax Revolt:USA 
+! by Martin Larson $5. The cover 
+shows a 1040 being burned. Remember when burning draft 
+cards was a popular activity? Has anyone been drafted 
+lately? 
+Don't ask for the info free because "you can't afford it", 
+If you don't pay taxes, like those of us who collect welfare 
+or unemployment insurance (which insures unemployment 
+why work?) or have your income deposited directly in 
+Zurich or elsewhere, you don't need the info. If you do pay 
+taxes, you can certainly afford to learn how to STOP paying 
+them! A popular recent saying is "Eat the Rich", Whether 
+you choose to or not, stop feeding Big Brother with $. 
+Mr. Phelps 
+@Youth'Hot Line Reports, Inc. 1976-Do not make checks 
+out to Youth Hot Line Reports, PLEASE. Movement groups 
+may reprint without permission with TAP's address given 
+with all credits, and please send us a copy of reprinted 
+work. Warning: We will prosecute violators. 
+Human 
+sheep repeat this platitude the same way parrots unthinkingly 
+FEB=MAR 1976 
+No. 33 
+ODDS & ENDS 
+by 
+TOM EDISON 
+‘There has been some new response to the TAP "I" shirt, 
+So far people writing in want shirt #1. The choices are 
+shown in the October 1973 issue #22. Keep those cards and 
+letters coming in folks! 
+‘There have also been some off-hook currents sent in by 
+‘TAP readers. A chart listing all off-hook currents will be 
+in next month's issue. Please continue to send in off-hook 
+current values, 
+We've had a number of letters from the New England area 
+especially Mass. informing us of a large crash program to 
+uncover illegal extension phones and answering devices. 
+Shame on you---for getting caught! ! 1,1 wouldn't dream of 
+telling you that if you put a SPST switch in series with each 
+of your freebees and leave the switch in the off position 
+there's no way 
+in hell that Pa Bell can find out when they 
+very sneakily "test" the line at 3 AM with a signal that's 
+strong enough to register on their meter but not strong 
+enough to ring your phone. Remember also that when you 
+connect a phone answering device to your line it can be 
+Getected So if you have.any friends who have an illegal 
+phone answering device make sure that you don't tell them 
+how to avoid detection by putting a SPST switch in series 
+with the device and shutting off the legal phone when the 
+answering device is in use so only one "phone" shows on the 
+detection equipment. 
+T've received two other off-hook currents - 275 ma.and 
+9.1 ma, I don't know what the hell to make of these readings. 
+One looks too high and the other too low! Phone resistance 
+and the 48 volt DC battery at the local CO are pretty standard 
+so there shouldn't be such a wide variety of values. Please 
+recheck your milliammeter and note the on and off-hook 
+line voltages. 
+For you underground record freaks let me recommend 
+Perfect Pitch, P.O. Box 136, Hallowell, Maine 04347, 
+They have an extensive catalog of great underground and 
+imported underground records by such artists as: Beatles, 
+Stones, Dylan, Who, Dead, Zeppelin, Hendrix, Clapton, 
+CSN&Y, Bowie, Deep Purple and many more. Senda 
+self 
+addressed stamped envelope for their free catalog. They 
+offer fast service and the records come shrink wrapped 
+with inner protection sleeves. Their catalog also rates the 
+sound quality so you know in advance what to expect. Credit 
+an Amherst, Mass. Yippie for the tip about Perfect Pitch. 
+Thanks again Scott!
+Here are the proposed never ending rate hikes from AT&T. 
+Compare this with TAP's inflation fighting never increasing 
+OOPS! 
+ever constant rates. I think that it's very obvious who's 
+offering the better service to the public - AT&T or TAPII! 
+- 
+by 
+TOM EDISON 
+TAP'S DIAL-DIRECT NEVER MORE THAN THREE 
+It had to happen sooner or later! In my zeal to get my article 
+laid out for the January issue the WRONG diagram was used 
+MINUTES AT 
+A TIME BLACK BOX RATES 
+for Fig. 4. The schematic showed a DPST switch which is 
+OF ee, 
+mats 
+Be 
+incorrect, If this DPST switch is used the 105 volt AC 20 Hz 
+ringing voltage will have a low resistance path through the 
+0-100 
+o¢ 
+o¢ 
+Box RC network and the diodes will effectively be across 
+MILES 
+the line at all times. This means that the circuit will auto- 
+— 
+mati 
+““answer" your phone all the time! To correct this 
+100-1, 000 
+o¢ 
+o¢ 
+situation change the DPST switch to a DPDT switch and 
+MILES 
+connect as shown below: 
+RING 
+ANYWHERE 
+o¢ 
+| 
+o¢ 
++o 
+? 
+0 * 
+ADDITIONAL MINUTES ARE ALWAYS LESS 
+RATES QUOTED INCLUDE TAX 
+Atel 
+ZENER=56 volt 5 watt 
+HEP Z 2537 
+- 
+As an aid to you do-it-yourselfers let me offer to you the 
+‘TOM EDISON HOME EXPERIMENTORS PHONE CHART : 
+Phone 
+DIODE 
+= 100 volt @1 amp 
+Line 
+— 
+FREE 
+Feone 
+vours] 
+mal 
+omms 
+|rReq | me 
+ON-HOOK 
+48 
+0 
+|INFINITE | DC { - 
+- 
+OFF-HOOK | 8 
+40 | 100-200 
+- 
+TIP 
+” | RINGING 
+105 
+23 
+- 
+20 
+| - 
+Fig. 4 
+R=10K OHM 
+7 
+_ 
+7 
+1/2 watt 
+BUSY iG 
+480+ 
+60 IPM 
+NORMAL czimfd @ 100 wvde 
+}+—— 
+BLACK BOX] 45 
+14.5 | 10Kohm]| 
+- 
+- 
+‘Terminals 3&4 are connected together as are 5&6 but there | RESISTOR 
+is no connection between terminals 1&2. With the DPDT 
+switch in the normal position the ringing voltage is across 
+DIAL TONE} 
+- 
+- 
+- 
+350+ 
+- 
+the phone ringer and not across the "answering" diodes. 
+[oo 
+—_t 
+4 
+Cn'y when the switch is put in the "free" position are the 
+diodes placed across the line to momentarily "answer" the 
+phone for a few milliseconds. I cannot think of a more 
+appropriate time to build this improved automatic Black Box: 
+NOTICE 
+TO TELEPHONE CUSTOMERS 
+_: Weare planning changes 
+in the rates for most out-of-state calls. 
+The following examples illustrate the new Interstate Long Distance rates 
+in three sample mileage bands: 
+WE NEED INFO 
+(CB Radio - Though it is a violation of FCC regulations, it 
+is possible to add an encoder - decoder system: to existing 
+CB radios and have a telephone in your car at no monthly 
+charge. Besides, a CB rig costs around $200, far less than 
+the FM or VHF equipment used by Motorola-Bell systems. 
+It requires an automatic phone patch and sending touch-tone 
+over the AM signal. We would like a design for such a sys- 
+tem. 
+Also: we would like plans for a suitable bi-linear amp- 
+f 
+Interstato Dia!-Diroct Ono-Minuto Rates 
+Intersiste Oporstor-AssisiedThree-MinutoRstes | lifier for mobile CB radio (and home base) use to get thru 
+‘Mileage 
+Sisco | 
+xwenton | Pomsrwresn | when things are crowded and marginal. 
+wee 
+.| cates |“eano™ |“Rewe" 
+|| “text 
+| arse | “stir” | alarm systems - or "How to unprotect Big Brother". Well, 
+73.90 moe 
+230 moe 
+it 18 possible with your help, if you send in whatever info 
+Cea ect 
+me 
+heed 
+Snaps te 
+bined 
+hated 
+you may have in the way of Schematics, operation, or 
+429-025 mates 
+431-925 mics 
+0 
+methods of circumventing from local to Grade AA Central 
+(sesatrccnn | 
+= 
+= b= 
+iad 
+Office Alarms. ed and 
+nopharma 
+1011-9000 jus. 
+yeit-2000 mien 
+- Tried 
+and 
+PROVEN recipes for psycl 
+- 
+ee 
+ee 
+se 
+ne 
+ule Kegetos Cae 
+an 
+oe 
+ceuticals. Info about memory drugs, e.g. Magnesium 
+Geant 
+eaneeasmeees. | Pemoline.
+ASK Mr. PHELPS 
+Send in your questions and he will try to answer them. If 
+you send a deposit to his bank account in Zurich, he will 
+make an all-out, maximum effort. 
+Q. What are you going to do about those new supermarket 
+labels? Is there some way to add some lines and lower 
+the price? 
+A, What makes you think we would do anything like that? 
+All we do at TAP is distribute information and report the 
+news, Like the NY Times. Sort of. Us cheat honest 
+businessmen providing people with necessitities at com- 
+petitive prices? No way]! But if someone rips me off, I 
+rip right back! One chain has a new slogan which REALLY 
+means: "We take PRIDE in charging the highest PRICE we 
+can get away with", The Shadow said: "The weed of crime 
+bears bitter fruit." Well, I think free food tastes GREAT! 
+Remember that no matter how much you rip them off, 
+you'll barely break even unless you buy wisely. Fully half 
+~ hell, probably 3/4 - of the stuff in markets is a total 
+ripoff. Cigarettes; soda and sugared, flavored, canned 
+water; breakfast cereals (with a few exceptions); white bread; 
+sterilized cream; and medicinals are all shit! One breakfast 
+cereal executive once said: "If they'd buy it, we'd sell them 
+packaged shit," That's ok, if it's properly labeled, but when 
+they call it "food", that's FRAUD, and the perpetrators 
+should be liquidated. As for "medicinals": first they sell 
+you the shit, then they sell you more shit for when your 
+stomach and guts rebel, then more shit so you can get rid of 
+it, then more shit to straighten out your head, and finally 
+more shit to keep you from smelling like shit, which you 
+wouldn't if you ate right. 
+‘Do you know what unit pricing is, and how to calculate 
+the price per ounce when the u.p. label is, as usual, missing 
+or obsolete? If not, you'll often get ripped off. You'll buy 
+"large economy sizes" which are no bargain at alll So 
+bring along your pocket calculator, if you're too lazy to do 
+the math in your head. 
+In some states, there is STILL no law preventing mar- 
+kets from increasing prices of items already on the shelves. 
+In some states, the sheep are even charged SALES TAX on 
+food. They just shrug. Get rid of politicians (preferably 
+with the ballot, not the bullet) who don't represent you. The 
+Libertarian Party is probably your best alternative. 
+‘The label is known as the Universal Product Code. An 
+excellent article appeared in Barron's, May 13, 1974. Many 
+market are hesitating, wondering if the "benefits" are worth 
+the system's $200,000 cost. Department store owners are 
+waiting for Optical Character Recognition systems. IBM's 
+requires that price tags be printed in magnetic ink. (NOW 
+do you see the reason for our DA info request?) Supermar- 
+kets would like to avoid marking the prices on everything so 
+they can REALLY rip you off. Legislators are working on 
+bills to require prices on everything. Let them hear from 
+you! UPC is now being tested in Fairport, NY, where 
+customers said checking out is NOT quicker or easier. It's 
+just another gimmick, but one you can profit from. 
+' 
+. 
+° 
+C) 
+| 
+1S600°001 
+: 
+1 
+Can you tell the difference? Neither can the cashier, 
+But the computer can, and we all know that computers 
+never make mistakes, right? (The label on the left is off 
+@ 14¢ item, the one on the right is off a $1. 69 item) 
+It has been said that every revolutionary should own or 
+have access to printing equipment, or know a friendly 
+printer (the more you pay him, the friendlier he'll be) 
+"In every coup d'etat, there comes a moment when 
+success or failure depends on whether or not an appro- 
+priate set of rubber stamps is available." 
+‘The Coming Dark Age, by Roberto Vacca 
+"A printing press is worth more than 1000 rifles" 
+Kim 1 Sung 
+It would be illegal to neatly apply new gummed or self- 
+sticking UPC labeis on top of the originals. -And most 
+unwise to try sticking them on frozen packages, slippery 
+plastic containers, or over colored labels. And it won't 
+look right if you buy a cartful of food and the total 
+is $3. 71, 
+will it? You'll get an itemized bill so you can't use just 
+one label several times. How would it look, a receipt for 
+10 packages of 14¢ salt, when you've got only delicacies like 
+smoked oysters and caviar in your cart? You would need 
+an assortment of labels. 
+BOOK OF THE MONTH 
+The Big Brother Game by Scott French $7.95 from Gru 
+Publishing, Box 6820, San Francisco, CA 94101 
+A most entertaining and informative book about suz-.uil- 
+lance, surreptitious entry, and countermeasures. Even 
+1 learned a great deal. Probably the most comprehensive, 
+readily available of its type. Included are many pages from 
+manufacturers’ catalogs, -and schematics for those who 
+wish to make their own low cost equipment. The chapter 
+on locksmithing itself is worth many times the price of the 
+entire book. Techniques are described in the author's 
+inimitable style. ‘Get this book before it is outlawed! Ina 
+volume containing as much material as this one does, a 
+few minor errors and omissions are inevitable. Your 
+mission is to find them. 
+‘The End 
+of TAP? 
+It COULD happen - ifS- 1 passes. Yeah, I know - 
+"What's S- 1?" You will get all the details if it does 
+pass. It is known in some circles as "Instant 1984". 
+Check it out and let your "duly elected representatives" 
+(bah) hear how you feel about it. 
+Must Mean-Pony Express 
+Washington, Feh. 17 (APD 
+Although" mail “rervice ts 
+‘yproving, the Vestal Servier 
+Full does ‘not prexide os good 
+‘rvice an the old Pest Off 
+re 
+Hrevartment once 
+did, 
+the 
+Honeral 
+Accounting, 
+Office 
+postal reormanication — tn 
+terms of timeliness of delivery 
+and other services provided by 
+the Postal’ Sercice,” the com 
+srersional auditing agency 
+aid, 
+‘The GAO sald that a si 
+nt cause of delays 
+malsdireeted by, 
+- letter 
+sorting machines, + 
+Fervice today tem 
+ta 
+ene totore 
+Dresses Up His Decision 
+Mount Clemens, 
+Mich. 
+Jan, 
+fail, 
+District Court Jodce 
+TAP) — 
+who 
+Harry Burkert doferrel juin. 
+guilty 
+io 
+ment ontil next January, 
+‘hristmas carols in. 
+arfered 
+“Gili anda 
+iNe_cunxinvom 
+—Ghvtstnas to do cavlie 
+“asda the_quaximom 
+Christmas 
+, 
+penalty Gf-$100 or 0 tine in 
+thistle in proper aires 
+Back 
+are 50¢ each, 40¢ each 
+if you order 
+a full 
+Set (numbers 1 - 32) See previous issues for list of 
+feature articles. 
+Subscriptions - 10 issues - US bulk rate $4. 
+US 
+First Class in plain sealed envelope $6. 
+Canada stapled $4 
+Foreign 
+$7. 
+IMPORTANT: 
+Include mailing label or xerox copy when writing to TAP 
+about your subscription. 
+Books - Steal This Book $2.25 Monopoly $1.20 
+Courses - 50¢ each A-Basic Electricity B- A.C, 
+C - Basic Phone Operation D - Amplifiers 
+Send Only check or money order (NO CASH) to 
+TAP, 152 W 42 Street, Room 504, New York 10036 
+This is a mail drop only. 
+Office: 1201 Broadway, Room 608, New York 10001 
+Hours: Wednesday, 4-7pm.
+PAY ATTENTION! 
+WHEN WRITING TAP, WRITE LEGIBLY! Or print! Best 
+ofall, TYPE! Don't be like the idiot who scrawls on a piece 
+of toilet paper in magic marker or crayon and then wonders 
+why his address label is'misspelled. ALWAYS include old 
+address when sending in a change. Bulk rate subscriptions 
+MUST include Zip Code. Subscriptions start with the next 
+issue we publish, whenever that is. No exceptions! Sub- 
+scriptions are pro-rated if you didn't know about the new 
+rate and sent in the old amount, 
+‘Try to keep each item you Send in on a different sheet or 
+index card. Subscriptions, back issue orders, DA info and 
+requests, MEAT, etc. all are processed separately. Be 
+‘sure to tell us what 
+you want - not like the guy who sent in 
+a check with nothing else - no address, nothing! We had to 
+waste time and postage sending the check back to his bank. 
+His reply: I thought you'd have my address in your subscrip- 
+tion file." Well, sure, but do you think we're going to waste 
+time looking for it? You think it's posted on the wall so 
+everyone can see it? And how do we know you want 
+a renew- 
+al? Maybe you want back issues and forgot to include the 
+order sheet. Would you send an orfier to Sears, Roebuck 
+and expect them to know what you want? | 
+Be patient! We may be temporarily out of an issue and 
+are getting it reprinted, After two (2) months, send us a 
+photocopy of yor canceled check and tell’ us what you didn't 
+get. 
+Keep each DA topic on a SEPARATE sheet, one side only, 
+preferably typed. Remember, it may be getting photocopied. 
+Use black or dark ink. For lengthy articles, use 81/2x ll, 
+single spaced. Include source and date of articles. It usual- 
+ly isn't necessary to ask: Do you need info about -----' 2 
+Just send it in, unless it is bulky (bigh postage) or requires 
+extensive and expensive photocopying. Don't put your name 
+and address on anything that could get you in trouble. Init- 
+ials or code name are ok, We have finally gotten the photo- 
+copier working and are sending out DA info. If you sent in 
+something and haven't gotten anything back, tell us (again) 
+exactly what you sent and what you want. In some categories 
+we have practically nothing because nobody sent in anything. 
+In some cases the info is a 200 page book and we can't afford 
+to copy the whole thing. Or afford to mail it - copy paper is 
+heavy! We'll work something out with you, Be patient. 
+If you've written to MEAT and haven't heard from anyone, 
+it's because we haven't heard from anyone else inyour area. 
+We have noticed there are a lot of people in the same towns, 
+so if you want to meet others, let us know. There IS some 
+risk - we might unknowingly introduce you to an undércover, 
+agent. But you run that risk every time you buy a nickel 
+bag from a new dealer. 
+Postage rates are getting so high that it hardly pays you 
+to order and us to ship only one item, but we will continue 
+todo so at Al Bell's insistence. Books are sent separately 
+from back issues at lower cost "Book Rate", 
+Some people have expressed concern about our security. 
+Our mailing list is as safe as possible, What are you 
+worried about anyway? You're probably already on a half 
+dozen of Big Brother's other shit lists] All:incoming mail 
+is shredded after processing (occasionally, it may get 
+shredded without processing). Someone asked: "Do you 
+think Pa Bell has a subscription under an alias?" We assume 
+he does, but we've infiltrated him far deeper than he's infil- 
+trated us. 
+Courses E & F and Head Crash (computers) will be finish- 
+ed someday. Ifyou ordered them, we probably have your 
+name and address and will send when available, Ifyou 
+haven't gotten something else you ordered, it might be your 
+fault. Make sure we have your current address or give the 
+Postal Monopoly your change of address (unless you don't 
+want bills forwarded). Our outgoing first class mail has no 
+return address and we have never gotten anything back from 
+the Dead Letter.Office. If something is our fault, we'll 
+correct it, but if it's your fault, TOUGH] Occasionally, some 
+masochist sends cash which never arrives. When he com- 
+plains, we have to waste time and postage telling him TOUGH! 
+Or some smartass says "There's no way anybody could steal 
+this money? and doesn't include any, so we'll think it was 
+stolen. TOUGH] 
+It so happens that we are all males here, and it seems 
+that most readers are, but some people don't like the sexist 
+greeting "Dear Sirs" or "Gentlemen". Personally, I prefer 
+"Dear People", 
+: 
+Regarding a convention: I think we have one here every 
+Wednesday. If you want a fancy one in a big hotel, TANSTAAFL 
+(There ain't no such thing as a free lunch} It will cost MONEY! 
+Tam not at all enthusiastic about reducing our treasury for 
+this purpose. If readers want to contribute enough... HEY, 
+where did everybody go? 
+We try to answer all questions (unless they are rhetorical) 
+even if the answer is "We don't know", but a self-addressed, 
+stamped envelope (put the stamp at least 1" lower and you 
+may be able to recycle it) will speed up the reply. Then we 
+don't put your letter in the "Answer if we ever get a chance" 
+pile. Ifyou didn't get an answer, write again; it may have 
+gotten lost in the shuffle. 
+Remember, we are doing the best we can. This is a labor 
+of love (and hate) and we're not making any money on it. If 
+you can do better, come on in, 
+Mr. Phelps 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+Address all mail and checks to- 
+N.J. Bell sued 
+over fire-call delay 
+HACKENSACK (AP) ~ A couple 
+has filed suit 
+New Jersey 
+Bell 
+‘Telephone with failing to put them 
+‘through to the fire department 
+when their 33 
+School phones used improperly 
+NEW yong tap) sfine: 
+‘month sam; 
+long.di- 
+(ance telephone calls made 
+from ‘the cliy's schools to 
+places such as Prance, 
+Switzerland, Arg 
+‘were persona 
+and oot oltictal, 
+From The News Tribune 
+TAP, ROOM 504, 152 W,42 ST., NY10036 
+BULK RATE 
+U.S. POSTAGE 
+PAID 
+coated a.

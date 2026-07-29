@@ -1,28 +1,908 @@
-BATS zrerspersBy: The MagicianHany people think cf phone phreaks as sliue,out to rip off Bell for all she is worth. Nothingcould be further from the truth ! Granted, thereare some who get their kicks just by making freecalls, however they are not true phone phreaks.Real p hone Phreaks sare "te lecommonicationshobbyists" who experiment, play with and learnfrom the phone system. Occasionally thisexperimenting, and a need te commonicate withother phreaks (without going broke), leads to freecalls. the free calls are but a small subset of aTPUP phone phreaks activities.Ontil several years ago, The phreaks saintool for free calls was the Blue Box. In recentyears however, Bell has sade GREAT strides intheir security and detection of Blue Box's. PthileBox’s still work, their use is hecoming EXTRFMELYdangerous. With the advent of CCIS, the placeswhere a Blue Box will werk are rapidly decreasing,and within several years the Box will he totallyobsolete.Thus for their cosmunications needs, phreakshave tarned to other wsethods, one being: WATSEYTEWDER SE.Hany comvanies thrcnqhout the Mnited Stateshave salesman in the field that must contact alarge amcunt of customers long distance by phone.To pay for these calls, generally the salesman use’the companies Bell credit card (Now called a"Calling Card”) this is quite expensive to thecompany.Several years aqo, foreone case up with aneat money saving idea. Since the company alreadyhas an JWRATS (800) nusber fcr salesman to call inorders to the wain plant, and since the compnayhad a flat rate OU*RATS line to call customersAvring the day. Why net couple them together afterhou s so that the salesman calls the companiesIVWATS 600 nuwber, then gets connected op toQUTWATS. This would mean he could call anywhere inthe United States, from anywhere at no charge tohim! This arrangement weuld save the companytremendous amounts cf long distance charges sincethey had the WATS lines anyway, and the WATS was alot wore cost efficient than Credit Cards.This arrangement was exactly how early "WATSFYTFNOFFS”TM worked.* During WATS (800) scanning (For how to 40this, read "Napolean Solots"® EXCELLEFT article inissue 55) phreaks discovered these WATS FXTERDERS,and found they could call anywhere in the ccuntryjust by calling the exteniers 800 nuaber, ‘then(Using "ouch Tone of covrse) dial the number thewanted.The companies socn realized that theirextenders were being messed with and decided toadd some security tc prevent tampering.It was set up sc that when a salesman dialedthe WATS SXTEMNER, he would here what sounds likeadial tone. The salesman then keyed in a fourdigit Touch Tone secret access code. If the codewas incorrect a high-low tone vould resolt, andthe extender would have tc be re-dialed. If thecode was correct, a fecond internal PBY dial tonewould result. The salesman would then access thecoupanies OUTWATS line by hitting an 8 or 9{usually) and dial wherewer he wanted.The four digit access code posed a probles toDhreaks since only 1 out of 9999 possible codesworked, and the 800 nuster had to be re-dialedeach tise to try another.Many a Phone Phreak spent long nightsbreaking the four digit codes and then using theextenders themaselves! Most companies change thecode every few months so the phreaks would have tostart over again. (Also company employees thatwere not euthorized to know, but found ont from"leaks"TM).Hany of you have frebably heard of theinfapous computer "Charlie". Por those vhohaven't, several years ago Charlie was brought tolife ly Capn Crunch (Wow retired frop thecommunications service) Charlie was an APPLE Itcomputer with a special board which allowed it toTouch Tone dial nusbers extremely rapidly (f/A)then "listen"TM to the results (A/D).Charlie was fot to use calling a given WATSEXTEMDER, trying an access code, if the high-lowtone was heard (seaning apn fincorrect code),Charlie hung op and dialed again, trying the nextsequential code. Charile would sit working forhours, and when it fcund the code, it would printit on it's display screen. VERY Bftfective !}
-a 1S 44«vitzTHeTAPRoom 603147 W. 42 St.New York 1003611th ANNIVERSARY ISSUE No. 75MAY-JUNE 19872Unfortunately the only problem with Charliewas that he was very noticeable to Bell. Everytime an BOO number is called, an ABA record ispunched at the C.o. thus it looks real phunny toBell to see that you have called pry dock orangeshippers 800 number in Florida 3,750 tises at 2:00AB with each call lasting 1 second t Since Charliewas not very easily pertable to pry, phones thiswas a reel probles.There are many WATS EXTENDERS reportedlypresently in service. Most working as described,with some taking wore then a four digit code, anasome even respondinn tc voice input |It should be pointe4 out however, that shouldany of you crack any WATS EXTERDER accegey codesand attempt to use thes, you are quilty of Theftof communications services from the company whoowns it, and Bell is very willing and able to helpthem nail you ! WATS EYTFNDERS can qet you inavery bit as Buch trouble es a Blue Box should yoube caught.Most WATS EXTPNDERS slso record all numberscalled from them on ONTWATS. If the companyGetects the extender being sis-used, they willusually ficst try to change the access code. Ifthe abuse continues and they get sad enough theywill contact Bell who will help thes investigateali the namhers you called !Thes, as in post things those of yon who aredetermined to play vith WATS EXTENDERS, do so froea pay phone and only to institutionalsvitchboards, or people with short memories. Bythe way, On some “Money First" payphones {asopposed to "Dial Tene First") the Touch Tone padis cut off after the WATS call is cosplete.(Because Of polarity re versa1) Tt can here-activated by depositing a dime after theconnection is made, which you will get back afteryou hang up.Also please remember the opening of thisarticle. DO WOT use WATS PXTEMMERS Just to makefree calls all the tinme!, experiment with them andlearn what they can do amd how they work. Y thinkyou will learn a lot IISend any comments etc. to: TAP c/o The Magicianyouwantto cut your phone bills,cutoutthis chart.—_n «aDPack Issues are §.75 each. Issue #50 is $1.50.Subscriptions - 10 issues - US Bulk Rate $7.I US Bulk Envelope Rate $8.US Pirst Class in plain sealed envelope $10.| Canada & Mexico First Class $10.Foreign Burface $8. - Foreign Air Mail $12.i IMPORTANT! Please include your mailing label or aXerox copy whenever you write to TAP about your| subscription,Rlectronic Courses - 8.75 esch. A - DC Basics,B - AC Basics, C = Phone Basics, D - Amplifiers.TAP "Ma Bell" Patch - $1.50.TAP "10thAnniversary® Pen - $.50.TAP Cassette Tape $4. Hear Capt Crunch, Al Bell,c gS LD 8Joe Engressia ecurity Chief John Doherty.|{ rar Pact 1 - $.50. Credit card call hints. |TAP Fact - $.50. Free BELL phone calls.\ TAP Pact - $.50. Free GTE phone calls.Tar Fac = $.50. Dual Tone Oscillator,| Displayed » & 2600 Whistle Perfector plans.|Send CASH, check, or money order to :znre Den 603, 147 West 42nd Street, Mew York,[ee ee
-
-—ALAIES_pr I @ure samy of you Rave reed etout derglarsripping off a jewlry excheage Or much an€ bypassing@be slarw with @ blaekbox (not in our terms ). Inthe follewing series of articglew I will explainshew (te the last detail) theas alarms work aadhew they are fucked by the pros. This first artialeis about sensors,Semeors are loested in 2 rureral places.ence wayu ond in frequently travled aresa,lets take ms leok at decors. Ome tyve of doorsemacr ia the magmetio avitoa, which is locatedom the side or tep of the ¢oor.Thee ililustraticone shewtue basic wwithes and theirPlacesent. To bypaes thenyee must detersine tether1% ie a slowed or spenCireut. Take a FOR and
-In entPiret
-theas > |
-~~Switah&(Yaternal Door 3xith! s,
-“NA
-teet the tersinals ferWever teat with on obmas range first becanss ifout ame wire, ‘If tt’asome af thes are magmeticaly, otthe inside of parage decors.The second type of rwitch puch type)Switoh Placementand ie umed to hold the swith down ag the door is
-® current flow. If youdott get a reading theait ip om Open ociromt you will eset it off. Al: aysuse a veltage range first,normaly olosed akort the a-wires, Kawver attempt tobiaged and you will setthem off. RFagmetics are also placedThe bert way te cheok for Swit thmagnetic swithes is s neadi fiedis a push buttom loeated in the frameof the door. To dyxasa thes ao Ptiff pulceecened. By the way, thie ie ales used in lavatoriante automaticaly flues the urinals.
-teat fer all cloeed eirout.If it im morwaly cpem justbypass them with a sarpnat as /ingide door fremes amd onmotal detector, (rerularof metal Ls slid between the frame and door
-diudewe are the next tepic. They are uaualyprotected against breatare scaly. This <ais ¢one by placing a loop of thia . -If itteeetallio foil on tha wincow,eceahed the fot] is broken and thealarm im sounded. (Te fuck it Bptake a rasor blade aad out a lineaeroans it, It is invisible and thealarn sounds om soon a8 it'r turnedom,) Just use a rlees cutter andowt a section out of the dass. Thenreach in and skort the contacta. An in-teresting vay to breek windos is tocevuer the gWimas with taes. Thea thewindow is ventiy tapped with a hamverwoti]) all the glear is droken, Thenpall the tape off in aw sinvle Pheetand the broken crhane will remain stuckte it. The Latest is window anéwall orotection ia the vibration sensor,Tuere ia no fool crufe way te foolthen (yet). Vibratiom sensors are alsoweed om fences to detect olinbineg.If roepidle it ia always beat toeimply avoid the senaer than to tryto bypese it. Another type of deviceie the old pressure ast, They srepeed under carpets or an door mater.Placement is in halls,,atairyaye,Protects Walls & Ceslingsander windows aad in freat @ef doers.The only way te p~veid them is to walkalong the edce of a mapected ball and : ‘aveid all welocus mats. Lirvht deem detectere une a beam of lipkt that sete an alarea off if the beam is dbrekes. They weerm, UV aad visible lirtt. Look foreuall boxes with windows at about tbirhlevel. They are now mounted in estherfixtures euch as sockets and books, Thbeat way to losate @ Visible light. beamie te get a cam af Gry pewter devdsrantgud cpreg it in ibe direction you aregoing. The beem will shew up, justiftkxe a Clasblight im a dusty rece. PorBV gvt a “empty”epreycan ( 4 can thateam be filled with amy substance youq@hotee ) nad f11l it with floureecentpaint ( at amy sevelty More or BinundGcieut{rie ).
-Vibastioan Sensor,Vibration Detector. . -
-Boat places use IF.to IR is a IR soope which is vrpen—Bive and bulky. There ia anothertype of IR sensor called passiveIR sensor.in TR anarry in an are® ,4auch agthe introduction of a Auman boCy(live),vwentm or accketa.microwave datectora use tha dopplereffact to detect motion,wonar, The only dafference is thatultragonios are pore rons to falaealarme due ta chanres in weather andair ourrente.¢mble radioge with a larrytwo amall holes,om wall mounting brackets as shown insicture.
-Bispy Passive InfraredThe only way Diappearn Inta WondwortiIt notices a increaseThay are disguised as wal]Ultragenic andjust likeThey look like esal\yYent oFThey are also ~t .
-“he Stainless Steal NatIBM YIAE SWARING OPTION (T30)- Mick Haflinger _Y AAve sean articles about Computer nsocessbut X mimoest never see anything about the GIANTIRM mainframe copputers sillow theof computing.xXnowledgabla user to do almost anything hedasiras. Thase huge sachines ave usad by mostMBaAJOY COcporatians and naarly all utalities.ANBULeNCe companies. and newer Social Securitoffices. Almost every computer has at leastdial-in port which can be called by senyone thatknows the number. Some evan have am Inwets line.CEPIYALIZED warda are keaywordsec Keyad in bythe usgex, that’s you. 411 systee xesponses wallbe capitalized and anclosed in gueteas. A datasetnama on IBN wysteme muxt be eneloagd in singleapostopheas (° Ox baleng te the user. Get em notepad ready and lat’s go.JOH systems have a RPOnitor Program CaliadThas is what we will be accessing. Aftauc(110-3606 bawd) has emda iteYou shouldro.your terminalconnection type in LOGOM or /s¢LOGOX.be promptad tor USERID. PASSHQORD, and maybaACCOUMTY MUNBER. If you know all the info justtype LOGON USERID/ PASSWORD ACCOUNT MOD. Someymctallations allow the use of nonsense likeLASTWAMESFIRSTMAMNE OF Similac constructs forUSERID/ PASSWORD. Try calling the company andebtaanin the names of soma programmers undersome pretaxt. Try these nawex Of us@ BOERsophisticated wiretap procedures to obtainectual. userid’s.Leat’s agsuma thet you Aave gotten logged on.The system will reply with some aeszages andaventually say “READY”. You are in! Here area &feu commands thet you can wse to g@#t yourbearings. Copy down the reply to every commandyou try. If you heave no experience with I3Mcommand syntan the NELP command will be useful.You may want to route this output to a printer.Entaxr HELP MELP to get more information on thehelp command. Entar HELP by itself to gat a listof available commands. Enter HELP COMMAKOMANE togat Tpecitic into for a command. ag. HELP EDITwall tall you abeut tha edit cammand.Mow on tao the real goodies. When you gotlogged on tha system may have lasted romedutasetgz that belong to your userid. Wa want touse theme an a tool for breaking the systean.Study the commands below and then we willdiscuss a foc wEing theganeral atratesyrintarmation that thay wi give us.‘ BLISTCAT - Lasts all the datasets owned byyour use@Erid. The syzxteam will alse#ll you what cataleg thea datasetseke in.LISTOS ‘dsname' - Get the dsnamw from theabhove command and thiswall t#11i yeu thecharactaristacs of thedataset.This if a good one. When youlogged om the system allocatadteverel datasets to yourtecminal. They may containanything so thay are thestarting pornt. Copy down allef CAia. f you gaa "SYS1.UanS*am yeur list you hat thaJacxpot. S¥51. BRythang iF osystem dataset and usuallywaluabla.STATUS - This wall last any jebs that may deexecuting wnder your userid. reilenwith mo» * for more into.PROFILE - This wall display thecCRharascteriatics oo Our userid.These can be change €uZing yeuwrLogon session but should ba changedback befera you loges#. It will behalpfiul to Aave ¢ options PRONFTand MSOISB. If you den't hava theswet set them up by entexingROFILE PROMPT. ate.
-LISYALC $7 ~1fYy 4a€x
-‘¥ ime
-That's all fer this menth. fry out thoueeemmands and if yeu can, get a ilstany ef theecumand syaten via the HELP compand. In Zutucefeauns I wall introduce aexa connands and taachyeu hew te enter presrens arate the system. Ourywentwa} yeni Will be te guin asosens te thepacuwer ataset and ethar gesdioan.
-
-Kew Boonosioa PolicyAired of all that bullahit the sovernment basbeem giving sdout how to reduse inflation? Wellhere is the real way @6 cut your billa,.YT Super—MerketeThe next time you visit your lecal food rippercunter thet GClaima to have the lowest prices intown, you can make mure that they keep their promim.Whes you catch an emoloyse loafing on the jabborrow (peareanently) his or her little price tagpun. after several minuets of examination andtrial vou cas stamp your own prices just likesthe pro. Keed I go further? Of course. Justfor good relations take all those funay Littlerolle of stickers that are ured to show vhenthere iwa epecial and ali the blank rolle forthe tag yon. Beware. Jake ware that the productyou utamgp vith your fun is the same ae the tagfee Some tare are pre labled: Crecery, Candy,milx ttem, ete. EKake wure the tag matbhee theitem. Hever remark itees thet are common. Maaytimen the cashiers know the orice. Alao, withyour wpecitar stikers be carsful. Many times theyare distributed by the manufacturer of the produat,If you ere in a brry just take the price tagoff the chencest bargin brand and put it om thebest cnality bramd. This cum Be triaky if netimpossible because some 2laces hava price tagethat are pre-cut, Fro they fall wpart if you trythia.Il Counter Septorare and Other TricksPor all you that shoplirt ( or about to beria)here are some tifa,— mntay eavay from larre Falls and Shovping Centers4t's like nare city. The narce like 1% therebecause thay cas dust little kida for szopliftingcandy.- keep your ayes open for mirrors, two way sirrors,Cemerms and nosey clerke.— rf yo are with a Cartner keep your mouth shutThey have hidden aicm tn those tall coluame thatseem to hold up the roof.~ Avoid nll larewe silvered objects. In ome olaceI know they out smell] cameras in larre ailyerChrietmaa balle ( Merry Chrintmas, buh? )—- Look for paovle that you aslvays use in thesame utore an¢ for people xvho welk around Likesombies and pay mare attention to the people isthe estore than the oraducts.— avoid all pwcpie with 2-vay redice, They aramoat definitly not hame with their 2 sster.If you decides to shonlift (naughty you), remeaberell you have te do ia remove the item from itspackage aad take off all store magkines and taguand they cannot prove the ttem im yours. Usedicolay models if nomsible, because you can ficdlewitd thea without mumpigion. If you think the riskof retting ceuget ig too rraat or you cannot~st it because of ite size { Y mow s guy wheshoplifted a *O" crock pot ) you can still evtit at a sreatly reduced price, Many places usefelt tip markers or pens to show reductionz, hena store hax a clearance sale just cus on in andmake your own reductions ( not too outraaous pleang),Sometine the cashier vill be suepioious and go andchek your items price againat one om the shelf.The only vay to beat thie ia to mark ali the itemsdown, Phis way you casa alao buy eeveral and youdo a publil: service fer their regular oustomers,My last trick (u to wee a hich quality eraserand erase the first difit af the price. I havedone this one several timea with chipe and otherexpensive parte, Some of those clerks are aswiind as riveted bulkheads. The real price wasstamped om the package right next te the erasedprice tag. I #etill saved 10 Amirikso (worthless)-dollars.Rappy budget ontting |The Stainless Steal RatATTENTION “—-~ ATTENTION --—— ATTENTIONThe 8BBS dial-up syetes mentioned inTAP @72 Ls no longer in operation. Casesummer while the SYSOP was away anvacation his placa was raided by the PBI,police, Telco securiry end others, The8585 disk packs, user log printouts and «@modem that some Philadelphia area usershed sent out were seized as evidence andare being used to prosecute some peoplein the Los Angeles and Philadelphia area.
-In issue #7. I talked about the four majoralternate nets serving the country..! recieved someletters froa readers with info and commants. ['d 1like to thank “t. Bill and you others for writingto me. You were Bll helpful. SP Sprint, .ICI, ITTciticmll. and Weatern Union aren’t the only nets,there are &@ lot of others, Jut they are the fourBajor ones that sarve the public. Sinca theyserve the putilc, they are much easier for theaverage phreak to get access cumbers and codesfor, 3ut thers are many other nets, as was pointedout to me in a letter. If you have info on anothernet, send it dat ‘Also, I was told that I gave the impressionthat Sprint covered moet arena, All the alt. netsare the same, in that they only cover ths largewetropolitan cities, and sometimes local suburbs.Thatg where all the money ig, and thats why theycan gell line time che&per than .'a Bell. “a Bellhas to charge higher rates in the cities to sutsi-Gize all the rural places where there ta only oneone in 10 square xlles. The alt. neta only servee high volume sarese, that ia, large aities.Still, Sprint covers more cities than anyone alsa.I nave spent time since my last articlevbreaxing into various neta, and can report that“CY ia ty far the easiest. In fact. I wag ableto crack 3 codes in 30 minutes by hand, whiletalking to my rocemate and listening to Pink Floyd.I had very little luck with Sprint, getting onlyone code. ITT ia a little easier than sprint,but I didn't get much there either. Weetern Unioncovers so few cities, its hardly worth breakingnto.If you have a computer with an autodialmodem, you can program the computer to break codes.But there ia no modem that I know of that cantell whether a phone is ringing or not, that is,whether the call went through or «cot stopped.But I got a great tdea froma friend. Insteadof sitting ty your phone and listening as yourcomputer runa through poeaible codes, program itto dial other computers through the net, and letit wait about £5 seconds after it finishes dialingeech time, and see if 1t geese a carrier, Then thscomputer can tell ty itself whether or not it haehit a good code, and you can go drop acid or whateever you do in your spare time.But whenever you are dreaking codes, Berkeaure that the number you t in is a recording ora dig company computer (like TELENET). not yourairlfirenda house, as the neta may wonder whatall this activity is and try to call the numberyou aye using, to see who lives there, who woulde calling them illegally, and generally hasslethen.I algo wouldn't worry t.o mucn adout the neastracing you, unless you are in their exchange. [call in from home aometimea, What I would worryatout ig them paying a little visit to the personyou have called, and asking who they know thatwould be calling them at @ large discount. So anlycall ingtant amnesiacs, and not your grandmother.If you really want to be safe, call throughone nat to another net in the city you want, thesgo through the second net to make a local callto your friend. The second net will only be makinga local call, and go won’t worry much adout it.The first net will only be able to trace to thesecond net, ‘Sake the pigs work to find out who'sscrewing them over! But be gure not to use thegame net twice in s row. Setting up various linksof the call through various nets, sort of in series,is a great way to make alt nets safer. Unfortunately,it seriously degrades the quality of the finalline you have to talk over.To ¢ e the eubject, I have noticed thatsome fire engines have dig strobe lights mountedin the front, near the cherry lights. I found outthat thia is so that they can turn stop lightsgreen: “any stop lights have photocelle that sensencoming light to see if it ia flashing at theproper frequency. If it im, then all lights on thepide the atrote is comi froa are turned green ane@ll others are turned red. Anywhite atrobe lightghould work, ite the frequncy of the flashes thatpatter, I don’t know what they are. But I do knowat you need an awfully big strobe t. aboutthe sise of an airplane ing lightitseemed tome. They are probdbatly expensive. though you maybe able to get them cheap in a eurplus store. I'veseen this system in Anchorage, Jan Jose. and SanDiego. I'm eure that many other cities have in-etulled it on their ma JOr lighta too, bUt check teMake sure your city hae it before buy a ligkt..dave phen phresking and are
-
-COMPUTER SECURITYand the breaking thereofBy Simon JesterPLASHIEPEEEEPEUREEL leaeabigianaThere is a new method to break into computers,and it hag professional security consultantsshitting in their pants! In september 81, somestudents at UC Berkeley discovered a way to breakinto UNIX systems. One of them must have been areal asshole, becwuuse he told the system operatorwho told the system manager, who hired SRI to lookinto it. SRI is Stanford Research Institure Inter--national, and among other things they specializein computer security. At SRI Donn Parker lookedinto the matter. Donn Parker is one of the topsecurity experta in the world. He looked into thematter, and promptly realized that it compromized#11 security on the UNIX. He also speculated tnatthe method could be adapted to work on othersystems, as well.UNIX is an operating system for DEC computers.I’m not sure if it works on other machines, but Ihave heard that tia Bell uses a lot of UNIX systems.The scam goes like this. On large computers, theyuse @® technique called time-sharing to. let a lotof people use terminals all hooked up to one cent-ral computer all at the same time. Each person igassigned a portion of on-line memory (as opposedto disk memory), which is called his work space.The system saves a work space for itself, too.Thy students discovered a way of having one termi-nal take over control of another terminal and theworkspace that goes along with the second terminal.The good part comes in here. ‘ost atudents andhackers have low security accounts, But when youtake over another workspace, the person logged onmay have a high security account. If 60, you couldgo through his account and access all the highsecurity stuff he has access to that you're notsupposed to have access to,Only a few technical details on how to dothis are known.It is known that you somehow sendcontrol and/or escape characters from your terminalthrough to the other persons terminal and/or work-space to take over control. This will work on UNIXsystems, and there is some very similair methodthat may work on many other systems. Parker hassaid that the only effective ways of fighting thisscem are to either remove the control/escape keysfrom all terminals or to insert software filtersto filter out control/escape keys before theyreach the OS. These are pretty lame solutions.
-Con game in the cards?A New Jersey man was ladikcied yeslerday on charges of spending morethan $27 900 fer eands sad sevrices (through illeral ese ef credit cards ebtcin.ed while in jarl The Indictment by a federal eixm! perv in Newsrk charmedReber{ Lee Johnsen with four cownts of mail fraud and iwe counts ofinderstale use of fraudulently obtained credit cardsThe gevernment charged tha! Jowmson had S credit cards from 72compenies between Oct 14. 1974 and Marek 6, 1978. while in jailThe applications Iulsely alated that the defendsnt was emploved bycertain companies, making oo subslynial salary and receiving ciedil fremseveral] other sources, the indictment charged. The defendant save the ad.dresses of the Mercer end Unien cowaly jails. bul claimed ewneiship of thebulldtngs on several credit card apelications. accerding ie ihe indiciment,TAP, Room 603, 147 W. 42 St., NY 1003675EXXON)
-“We have @ serieveolf ght on ow hands,geetlemen...we'd better declere anethershortage.”
-As Parker points out, removing the control/escapekeys from every terminal is ‘about as practical asinstalling HX missiles on underground railroadsunder Nevada, It won't work, because there arealready over 3 million terminals in America, eachwith an escape and control key. And installing asoftware filter for control/escpae characters isa cheap fix too. Parker points out (and go do I!)that operating systems are so complex that therewill always be some way of slipping the charactersaround the filter and getting them to theirdestination, The proper way to fix this problem(from & cops point of view) would be to fix what-ever aspect of the UNIX system allows the charact-ers to let one workspace take over control ofanother. Since this idea seems to have been atan-doned ty Parker, and since he also points out thatit would be possitle to use this method on otherOperating systems, I come to the conclusion thatthe flaw is not in the UNIX ende itself, tut inthe concept of time-sharing itself. I've read someof Parker's work, he isn't stupid. If there werea foolproof way of fixing this problem he wouldhave found it by now,So what does this mean? That we may be ontothe higrest security system break in history!Almost any large computer is potentially vulner-able. But we need more information on how to dothis. “y information came from the LA Times. Tomhas a copy of the article. and I'm sure he wouldsend @ copy to anyone who is interested, but itdoesn't get too technical. It does mention twosources Of more technical data about this. Firstof all, there was an article in InfoWorld duringJanuary ahout this (InfoWorld comes out weekly).So far I haven't teen able to get a copy of thisissue. If you have or can get a copy of it, PLEASEsend it to me c/o TAP. The second source is fromParker at SRI. If you write to him on companystationary, and eoovince him that you are a securityanalyst or something similair, and give him alegitimate sounding address, he will send you acopy of his report on the subject, which tellsevery detail. His address is Donn Parker, SRIInternational, “Menlo Park CA, 94025. Please don'twrite to him unless you have stationary and abusiness sounding address, and are gure you canconvince him that you have a need to know. If he.is deluged with requests for the report from phreaks,he will stop sending them out, I don't have eithersO I haven't been able to get the report. If youmanage to get a copy, please PIEASE send a copy tome c/o TAP. Also, if you have any knowledge of UNIXSystems, please write down whatever you know, sys-tem structure, security formats, whatever, and sendit to me, as 1 don't know too much about UNIX,As soon as I know how to do this I will tell every-one in TAP, but I doubt I'll be able to find outunless you all help me ty sending me whatever youdo know,A Taxpayer Invents RipoffBerHsyward, Calif. — te get H down te the 1973 seseasedvalue when ] bought i{.” he said, vow-Wister figuresbe can jewer hispreperty taxes by razing his house. '* eee gale when arealestateHe said that be fe going te begin the right vstveripping his house apart board by ‘kh what I esn afferd”TM hebeard wntil it's worth 8 p00 — what said. “I cent afford what is powhe paid for it Teo The lntest as- and I'm pot Rg to sland fer 11. Itor ,000. practical] oubles“I will rfp dews what is suffictent whatthey were ln tee UM free
-Bw RateUS POSTAGEPAIDFerme No. 3Kearbey,NM J
+WATS EYTPNDERS 
+the Magician 
+Many people think cf phone phreaks as slize, 
+out to rip off Bell for all she is vorth. 
+Nothing 
+could be further irc the truth ! 
+Granted, there 
+are some vho get their kicks just by making free 
+calls, however they are not true phone phreaks. 
+Pe 
+phone 
+phreaks 
+‘are 
+"te leconmunications 
+hobbyists" who experiuent, play vith and learn 
+from 
+the 
+phone 
+systes. 
+Occasionally 
+this 
+experimenting, and a need te communicate vith 
+other phreaks (vithout going broke), 
+leads to free 
+calls. The free calls are but a small subset of a 
+"RUF phone phreaks activities. 
+Until several years ago, The phreaks main 
+tool for 
+free 
+calls vas the Blue Box. 
+In recent 
+years hovever, Bell has made GREAT strides in 
+their security and detection of Blue Box's. While 
+Box's still work, their use is becoming EXTRPAELY 
+dangerous. With the advent of CCIS, the places 
+where a Blue Box vill werk are rapidly decreasing, 
+and within several years the Box vill be totally 
+obsolete. 
+Thus for their communications needs, phreaks 
+have turned to other sethods, one being: WATS 
+FYTENDERS, 
+Kany companies 
+thrcaghout the fMnited States 
+have salesman in the field that must contact a 
+large amcunt of customers long'distance by 
+phone. 
+70 pay for these calis, generally the sale 
+the companies Bell credit card 
+(Nov 
+ci 
+"Calling Card") this is quite expensive to the 
+company. 
+Several years aqo, someone case up vith a 
+neat money saving idea. Since the company already 
+has an INWATS (800) number fcr salesman to call in 
+orders to the main flant, and since the compnay 
+had a flot rate OUTWATS line to call customers 
+during the day. Why nct couple them together after 
+hou s so that 
+the sal. 
+m 
+calls the 
+cospanies 
+INWATS 800 number, then gets connected up to 
+OUTWATS. This vould sean he could call anywhere in 
+the United States, 
+fros anyvhere at no charge to 
+him! 
+"his arrangement veuld save the company 
+tremendous agounts cf long distance charges since 
+they had the WATS lines anyvay, and the WATS vas a 
+lot sore cost efficient than Credit cards. 
+This arrangement vas exactly hov early “WATS 
+YYTENDFPS" vorked. 
+‘ During WATS (800) 
+scanning (Por how to 4o 
+this, read "Napolean Solo's" EXCELLENT article in 
+issue 55) phreaks discovered these WATS EXTENDERS, 
+and found they could call anyvhere in the country 
+just hy calling the extenders 800 number, -then 
+(Using "ouch Tone of course) dial the number the 
+vanted. 
+The companies 
+socn realized 
+that their 
+extenders vere being messed vith and decided to 
+add some security to prevent tampering. 
+Tt was set up so that when a salesman dialed 
+the WATS EXTENDER, he would here what sounds like 
+@ ial tone. The salesman then keyed in a four 
+digit Touch Tone secret access code. If the code 
+vas incorrect a high-low tone vould result, and 
+the extender would have tc 
+be re-dialed. If the 
+code vas correct, a second internal BY dial tone 
+would result. The salesman would then access the 
+companies OUTWATS line hy hitting an 8 or 9 
+(usually) an@ dial wherever he vanted. 
+The four digit access code posed a problem to 
+Dhreaks since only 1 out of 9999 possible codes 
+vorked, and the 800 nunber had to be re-dialed 
+each time to try ancther. 
+Nany a 
+Phone Phreak spent 
+long nights 
+breaking the four digit codes and then using the 
+extenders thesselves! nost companies change the 
+code every fev sonths so the phreaks vould have to 
+start over again. 
+(Also cospany 
+employees tha’ 
+vere not authorized to knew, but found out from 
+leaks") 
+. 
+Bany of you have frebably heard of the 
+in 
+us 
+computer 
+"Charlie". 
+Yor 
+those who 
+haven't, several years ago Charlie was brought to 
+life by 
+Capo Crunch (Wow retired 
+from the 
+Communications service) Charlie was an APPLE IT 
+computer vith a special board which alloved it to 
+Touch Tone dial nuabers extresely rapidly (£/A) 
+then "listen" to the results (A/D). 
+Charlie was fut to use calling a given WATS 
+EXTERDER, trying an access cote, if the high-low 
+tone was heard (meaning 
+an incorrect code), 
+Charlie hung up and dialed again, trying the next 
+sequential code. 
+Charlie vould sit vorking for 
+hours, and vhen it fcund the code, it vould print 
+it on it's display screen. VERY ®ffective t 
+S4 
+“ae 
+147 W. 42 St. 
+New York 10036 
+2 
+ga 
+X 
+Pe! 
+mer 
+TAP 
+Room 603 
+. 
+y 
+11th ANNIVERSARY ISSUE 
+MaY-JUNE 
+§=61982 
+Unfortunately the only problem vith Charlie 
+vas that he vas very noticeable to'Bell. every 
+tine an 800 number is called, an AMA record is 
+Punched at the C.O. thus it looks real phunny to 
+Bell to see that you have called pry dock orange 
+shippers 800 noaber in Plorida 3,750 times at 2:00 
+AB with each call lasting 1 second ! Since Charlie 
+vas not very easily pertable to pay phones this 
+was a reel probles. 
+There are many WATS EXTENDERS reportedly 
+presently in service. fost working as described, 
+vith some taking more then a four digit code, and 
+Some even respondina te voice input | 
+It should be pointed cut hovever, that should 
+any of you crack any WATS EXTENDER access codes 
+and attempt to use thes, you are guilty of Theft 
+Of communications services from the company vho 
+ovns it, and Bell is 
+very villing and able to help 
+them nail you! 
+WATS EYTPNDERS can get you in 
+avery bit as wach trouble as a Blue Box should you 
+be canght. 
+Rost WATS EXTENDERS also record all nusbers 
+called from them on ODTWATS. 
+If the company 
+detects the extender being ais-used, they will 
+usually first try to change the access code. If 
+the abuse continues and they get 
+mad 
+enough they 
+will contact Bell who will help them investigate 
+all the nuahers you called ! 
+Thus, as in sost things those of you vho are 
+@etermined to play with WATS EXTENDEPS, do so from 
+a 
+pay 
+phone 
+and 
+only 
+to 
+institutional 
+switchboards, or people vith short memories. By 
+the way, on some "Honey First" payphones 
+(as 
+Opposed to "Dial Tene First") the Touch Tone pad 
+is cut off after the WATS call is complete. 
+(Because 
+of polarity 
+reversal) 
+It can 
+be 
+Te-activated 
+by 
+depositing a 
+dine after the 
+connection is 
+made, which you vill get back after 
+you hang up. 
+Also please remember the opening of this 
+article. DO NOT use WATS EXTENNERS just to 
+free calls all the time!, experiment with them 
+and 
+learn vat they can do and how they work. I think 
+you will learn a lot It 
+Send any ce 
+ents etc. to: 
+TAP C/o The Magician 
+to cute rou want . 
+cut out 
+this chart. 
+CBae Tete TeeS Fe eT 
+ee 
+No. 75 
+ck Issues are $.75 each. Issue 950 is $1.50. 
+Subscriptions - 10 issues - US Bulk Rate $7. 
+t 
+VGs"Butk 
+Envelope Rate $8 
+US Pirst Class in plain sealed envelope $10. 
+| canada ¢ Mexico rirst 
+Class 
+$10. 
+: 
+I 
+Foreign Surface $8. - For gn Air Mail $12. 
+' 
+| ZMPORTANT! Please include your mailing label or a 
+Xerox copy whenever you write to TAP about your 
+| 
+subscription, 
+| 
+Blectronic Courses - §.75 each. A - DC Basics, 
+tl 
+leas Be paste, C= Phone Basics, D - Amplifiers. 
+*] 
+Be! 
+a 
+- 
++50. 
+TAP "l0th Anniversary* Pen - $.50. 
+| FAB Cassette rape - 
+$4. Hear Capt Crunch. Al B 11, 9} 
+Toe 
+Engre: 
+& Bell Security Chief John Doherty. 
+[ FAP Fact Sheet #1 - $.50. Credit card call hint 
+TAD 
+| aE 
+ck 
+Ghest $2 - $.50. Pree BELL phone calls. 
+‘TAP Fact Shee! 
+- §.50. Pree GTE phone calls. 
+FAP Fact Sheet #4 - $.50. Dual Tone Oscillator, 
+| Displayed Red Box, & 2600 Whistle Perfector plans. § 
+Send CASH, check, or money order to : 
+FAP, Room 603, 147 west 42nd Street, New York, 
+E
+ALARMS 
+F. I'm sure many of you tiave read about burglars 
+ripping off a jewlry exchange or such and bypassing 
+the alarm with a blackbox (not in our terms ), 
+In 
+the following series of articles I will explain 
+how (to the last detail) these alarms work and 
+how they are fucked by the pros. This first article 
+is about sensors. 
+Sensors are located in 2 general places. 
+ance ways and in frequently travied areas. 
+lets take a look at doors. One tyve of door 
+sensor is the magnetic switch, which is located 
+on the side or top of the door. 
+The illustrations chow 
+two basic swithes and their 
+placement. To bypass them 
+you must determine wether 
+it is a closed or open 
+circut. Take a VOM and 
+test the terminals for 
+a current flow. If you 
+In entr- 
+First 
+P as 
+s 
+— 
+Switch 
+dort get a reading then 
+test for aX closed circut. 
+Never test with an ohms range first because if 
+it is on open circut you will set it off. Alvays 
+use a voltage range first. 
+If it is normaly open just 
+cut one wire. If it's 
+normaly closed short the 
+-wires. Never attempt to 
+vypass then with a magnet as 
+sone of them are papetionlty, od 
+= 
+biased and you will set 
+them off. Magnetics are also placed 
+inside door frames and on 
+the inside of rarage doors. 
+The bert way to check for 
+mamnetic swithes is a 
+metal detector. 
+The second type of cwitch 
+is a push button located in the frame 
+of the door. To bysess them a rtiff p 
+of metal is slid between the frame and door 
+and is used to hold the swith down as the door is 
+ovened. By the way, this is also used in lavatories 
+to automaticaly flush the urinals, 
+Windows are the next topic. They are usually 
+protected against breakare only. This 
+is done by placing a loop of thin 
+Vibrmtion Sensor, 
+Switch 
+rains Doe Svs 
+metallic foil on the window. If it's 
+emashed the foil is broken and the 
+alarm is sounded. (To fuck it ap 
+take a razor blade and cut a line 
+across it. It is invisible and the 
+alarn sounds as soon as it's turned 
+on.) Just 
+use a rless cutter and 
+cut a section out of the dass. Then 
+reach in ané short the contacts, 
+An in- 
+teresting vay to break windous is to 
+cover the gdacs with tave. Then the 
+window is rently tapped with a hammer 
+until all the rlasr is broken. Then 
+pull the tape off in a single cheet 
+and the broken hase will remain stuck 
+to it, The latest in window and 
+wall protection is the vibration sensor. 
+There is no fool prufe way to fool 
+them (yet). Vibration sensors are also 
+used on fences to detect climbinr. 
+If possible it is alvays best to 
+simply avoid the sensor than to try 
+7? 
+“ei 
+to bypase it. Another type-of device 
+Protects 
+Walls & Ceilings 
+is the old preasure mat. They are 
+. 
+used under carpets or as door mats. 
+UU 
+Placement is in halls,stairvays, 
+under windows and in front of doors. 
+The only way to avoid them is to walk 
+along the edre of a suspected hall and 
+avoid all welcum mats. Light beam detect 
+ors use a bean of lirht that sets an ala 
+rm off if the bean is broken. They use 
+IR, UV and visible lirht. Look for 
+small boxes with windows at about thirh 
+level. They are now mounted in other 
+fixtures such as sockets and books. 
+Vibration Detector. . 
+can be filled with any substance you 
+choose ) and fill it with flourescent 
+paint ( at any novelty Store or Edmund 
+Boientitio ) 
+x eo 
+Switch Placement 
+The 
+‘best way to locate a visible light.beam 
+is to get a can of dry powder deoderant 
+and spray it in the direction you are 
+going. The beam will show up, just 
+like a flashlight in a dusty room. For 
+UV get a "empty" spray can ( a can that 
+Bispy Passive Infrared 
+Most places use IR. The only way 
+to IR is a IR scope which is expen— 
+sive and bulky. There is another 
+type of IR censor called passive 
+IR sensor. It notices a increase 
+in IR energy in an arep. ycuch as 
+the introduction of a human body 
+(live). They are disguised as wall 
+vents or sockets. Ultrasonic and 
+nicrovave detectors 
+use the doppler 
+effect to detect motion, just like 
+‘The only difference is that 
+sonar. 
+ultrasonics are more prone to false 
+alarme 
+due to chanres in 
+weather and 
+air current 
+ney look like small 
+table radios vith a larre vent 
+two small holes. They are a: 
+on vall mounting brackets as shown in 
+the picture. 
+‘The: Stainlece Steal Rat 
+IBM TIME SHARING OPTION (TSO) 
+Nick Haflinger 
+I have seen articles about computer access 
+but I almost never see anything about the GIANT 
+of computing. 
+IBM mainframe computers allow the 
+knowledgable user to do almost anything he 
+desires. 
+These huge machines are used by most 
+major corporations and nearly all utilities, 
+ingurance companies, and newer Social Security 
+offices. 
+Almost every computer has at least 1 
+dial-in port which can be called by anyone that 
+gs, 
+knows the number. 
+Some even have am Inwats line. 
+CAPITALIZED words are Keywords keyed in by 
+the user, that's you. 
+All system responses will 
+be capitalized 
+and enclosed in quotes, A dataset 
+Rane on TBH systems must be enclosed in single 
+apostophes (') or belong to the user. Get a note 
+pad ready and let's go 
+IBM systems have a monitor program called 
+Tso. 
+This is what we will be accessing, After 
+your terminal (110-300 baud) has made its 
+gonnection type in LOGON or //LOGON. 
+You should 
+be prompted for USERID, PASSWORD, and maybe 
+ACCOUNT NUMBER. 
+If you know all’the info just 
+type LOGON USERID/PASSWORD ACCOUNT NO. 
+Some 
+installations allow the use of nonsense like 
+LASTNAME/FIRSTNAME or similar constructs for 
+USERID/PASSWORD. Try calling the company and 
+obtaining the names of some programmers under 
+some pretext. 
+Try these names or use more 
+sophisticated wiretap procedures to obtain 
+actual. 
+userid's 
+Let's assume that you have gotten logged on 
+The system will reply with some messages and 
+eventually say "READY". 
+You are in! 
+Here are a 
+few commands that you can use to get your 
+bearings. Copy doun the reply to every command 
+you try. 
+If you have no experience with IBM 
+Zommand syntax the HELP command will be useful. 
+You may want to route this output to a printer 
+nter HELP HELP to get more information on the 
+help command. 
+Enter HELP by itself to get a list 
+of available commands. 
+Enter HELP COMMANDNAME to 
+get specific info for a command, eg, HELP EDIT 
+Will tell you about the edit command 
+Now on to the real goodies. When 
+logged on the system may h 
+iisted 
+datasets that belong to your userid. 
+use these as a tool for breaking the 
+Study the commands below and then we 
+discuss a general strategy for using 
+information that they will give us 
+you got 
+some 
+We want to 
+system 
+will 
+the 
+LISTCAT - Lists all the datasets owned by 
+your userid. 
+The system will also 
+{ell you what catalog the datasets 
+‘dsname* 
+Get the dsname from the 
+above command and this 
+will tell you the 
+Characteristics of the 
+dataset. 
+This i3\a good one. When you 
+Logged on 
+the system allocated 
+several datasets to your 
+terminal. They may contain 
+anything “so they are. the 
+starting point. 
+Copy doun ali 
+oF ENS! EP you see kstSt uns 
+your igt'you hit, the 
+jackpot. S¥S1¥ “anything ic 
+2ysten dataset and’ usually 
+ohlvables 
+This Will Ligt any jobs that ma 
+executing under your usersd: 
+Follow 
+tithe "Se"Zor more info. 
+-"this "will display the 
+characteristics of 
+your userid. 
+These can be changed during your 
+logon, Session but should be Changed 
+back before you logoff. It will B 
+helpful to have the options PROMPT 
+and MSGID. Tf you don't have them 
+just set them lip by entering 
+PROFILE PROMPT, ete. 
+LISTDS 
+LISTALC ST 
+Is 
+Xs 
+5 
+= 
+ave 
+OTe 
+a 
+STATUS 
+PROFILE 
+That's all for this month. 
+commands and if you can, get 
+command syntax via the HELP col 
+issues I will introduce more co! 
+Try out these 
+listing of the 
+. 
+In future 
+ands and teach 
+you how to enter programs into 
+the system 
+tventual 
+goal will 
+be to gain access to 
+password dataset and other goodies
+Hew Economic Policy 
+Tired of all that bullshit the government has 
+been giving about how to reduce inflation? Well 
+here is the real way to cut your bills. 
+I Super—Markets 
+The next time you visit your local food rippéf 
+center that claims to have the lowest prices in 
+town, you can make sure that they keep their promise. 
+When you catch an emoloyee loafing on the job 
+vorrow (permanently) his or her little price tag 
+un. After several minuets of examination and 
+trial you can stamp your own prices just like 
+the pro. Need I go further? Of course. Just 
+for good relations take all those funny little 
+rolls of stickers that are ured to show vhen 
+there isa special and all the blank rolls for 
+the tag run. Beware. Make sure that the product 
+you stamp vith your mun is the same as the tag 
+fe. Some tage are pre labled: Grecery, candy, 
+milk item, etc. Hake sure the tar matbhes the 
+item. Never remark itens that are conmon. Many 
+times the cashiers know the price. Also, with 
+your "speciaP stikers be careful. Many times they 
+are distributed by the manufacturer of the product. 
+If you ere in a hurry just take the price tag 
+off the cheavest bargin brand and put it on the 
+best cuality brand. This can be tricky if not 
+impossible because some >laces have price tags 
+that are pre-cut, so they fall apart if you try 
+this. 
+II Counter 
+Espionare and Other Tricks 
+For all you that shoplift ( or about to bein) 
+here are some tips. 
+- stay avay from large Walls and Shopping Centers 
+it's like narc city. The narcs like it there 
+decause they can bust little kids for shoplifting 
+canéy. 
+= keep your eyes open for mirrors, two way mirrors, 
+cameras and nosey clerks. 
+- if you are with a partner keep your mouth shut 
+They have hidden mice in those tall columns that 
+seem to hold up the roof. 
+~ Avoid all large cilvered objects. In one place 
+I ‘now they put small cameras in larre silver 
+Christmas balls ( Merry Christmas, huh? ) 
+- Look for peonle that you always see in the 
+same store and for people who walk around like 
+zombies and pay mare attention to the people in 
+the store than the products. 
+= avoid all people with 2-vay radios. They are 
+nost definitly not hams vith their 2 meter. 
+If you decide to shoplift (naughty you), remember 
+all you have to do is remove the item from its 
+package and take off all store mgy¥inrs and tags 
+and they cannot prove the item is yours. Use 
+dicplay models if possible, because you can fiddle 
+with them without suspieion. If you think the risk 
+of retting caught is too reat or you cannot 
+ret it because of its size ( I know a guy who 
+shoplifted a 20" crock pot ) you can etill get 
+it at a rreatly reduced price. Many places use 
+felt tip markers or pens to show reductions. When 
+a store has a clearance sale just cum on in and 
+make your own reductions ( not too outragous pleas}. 
+Sometime the cashier vill be suspicious and go and 
+chek your items price against one on the shelf. 
+‘The only vay to beat this is to mark all the itens 
+gown. Thie way you can also buy ceveral and you 
+do a publik service for their regular customers. 
+My last trick is to use a hirh quality eraser 
+and erase the first dirit of the price. I have 
+done this one several times with chips and other 
+expensive parts. Some of those clerks are as 
+Dlind as riveted bulkheads. The real price was 
+stamped on the package right next to the erased 
+price tag. I etill saved 10 Amirikan (worthless) 
+dollars. 
+Happy budget cutting 1 
+The Stainless Steal Rat 
+ATTENTION - 
+'- ATTENTION ---- ATTENTION 
+The 8BBS dial-up system mentioned in 
+TAP #72 is no longer in operation. 
+Last 
+summer while the SYSOP was away on 
+vacation his place was raided by the FBI, 
+police, Telco security and others. 
+The 
+8BBS disk packs, user log printouts and a 
+modem that some Philadelphia area users 
+had sent out were seized as evidence and 
+are being used to prosecute some people 
+in the Los Angeles and Philadelphia area. 
+In issue #71, I talked about the four major 
+alternate nets serving the country..I recieved some 
+letters from readers with info and comments. I'd 1 
+like to thank “It, Bill and you others for writing 
+to me. You were all helpful. SP Sprint, ‘CI, ITT 
+citicall, and Western Union aren't the only nets, 
+there are a lot of others, But they are the four 
+major ones that serve the public. Since they 
+serve the public, they are much easier for thé 
+average phreak to get access numbers and codes 
+for, But there are many other nets, as was pointed 
+out to me in a letter. If you have info on another 
+net, send it inl . 
+Also, I was told that I gave the impression 
+that Sprint covered most areas. All the alt. nets 
+are the same, in that they only cover the large 
+metropolitan cities, and sometimes local suburbs. 
+Thats where all the money is, and thats why they 
+can sell line time cheaper than ita Bell, ‘fa Bell 
+has to charge higher rates in the cities to subsi- 
+dize all the rural places where there is only one 
+phone in 10 square miles. The alt. nets only serve 
+the high volume aress, that is, 
+large cities. 
+Still, Sprint covers more cities than anyone else. 
+I have spent time since my last article 
+breaking into various nets, and can report that 
+“CI is ty far the easiest. In fact, I was able 
+to crack 3 codes in 30 minutes by hand, while 
+talking to my roommate and listening to Pink Floyd. 
+I had very little luck with Sprint, getting only 
+one code. IT? is a little easier than Sprint, 
+but I didn't get much there either. Western Union 
+covers so few cities, its hardly worth breaking 
+into, 
+If you have a computer with an autodial 
+modem, you can program the computer to break codes. 
+But- there is no modem that I know of that can 
+tell whether a phone is ringing or not, that is, 
+whether the call went through or got stopped. 
+But I got a great idea from a friend. Instead 
+of sitting by your phone and listening as your 
+computer runs through possible codes, program it 
+to dial other computers through the net, and let 
+it wait about 15 seconds after it finishes dialing 
+each time, and see if it gets a carrier. Then the 
+computer can tell by itself whether or not it has 
+hit a good code, and you can go drop acid or whate 
+ever you do in your spare time. 
+But whenever you are breaking codes, make 
+sure that the number you put in is a recording or 
+a big company computer (like TELENET), not your 
+girlfirends house, as the nets may wonder what 
+all this activity is and try to call the number 
+you are using, to see who lives there, who would 
+be calling them illegally, and generally hassle 
+them. 
+I also wouldn't worry tco much about the ness 
+tracing you, unless you are in their exchange. I 
+call in from home sometimes. What I would worry 
+about is them paying a little visit to the person 
+you have called, and asking who they know that 
+would be calling them at a large discount. So only 
+call instant amnesiacs, and not your grandmother. 
+If you really want to be safe, call through 
+one net to another net in the city you want, then 
+go through the second net to make a local call 
+to your friend. The second net will only be making 
+a local call, and so won't worry much about it. 
+The first net will only be able to trace to the 
+second net. Make the pigs work to find out who's 
+screwing them over! But be sure not to use the 
+same net twice in a row. Setting up various links 
+of the call through various nets, sort of in series, 
+is a great way to make alt nets safer. Unfortunately 
+it seriously degrades the quality of the final 
+line you have to talk over. 
+To change the subject, I have noticed that 
+some fire engines have big strobe lights mounted 
+in the front, near the cherry lights. I found out 
+that this is so that they can turn stop lights 
+green. “any stop lights have photocells that sense 
+incoming light to see if it is flashing at the 
+proper frequency, If it is, then all lights on the 
+side the strote is coming from are turned green ana 
+all others are turned red. Anywhite strobe light 
+should work, its the frequncy of the flashes that 
+gatter. I don't know what they are. But I do know 
+that you need an awfully big strobe light, about 
+the size of an airplane landing light it seemed to 
+me. They are probably expensive, although you may, 
+be able to get them cheap in a surplus store. I've 
+seen this system in Anchorage, San Jose, and San 
+Diego. I'm sure that many other cities have in- 
+stalled it on their major lights too, but check to 
+make sure your city has it before buying a light. 
+Have phun phreaking and F.T.B.S!
+COMPUTER SECURITY 
+and the breaking thereof 
+By Simon Jester 
+PLASHICUUAUCLESUUUCSERPE2E22 
+00 
+There is a new method to break into computers, 
+and it has professional security consultants 
+shitting in their pents! In september 81, some 
+atudents at UC Berkeley discovered a way to break 
+into UNIX systems. One of them must have been a 
+real 
+asshole, because he told the system operator 
+who told 
+the system manager, who hired SRI to look 
+into it. SRI is Stanford Research Institure Inter-- 
+national, and among other things they specialize 
+in computer security. At SRI Donn Parker looked 
+into the matter. Donn Parker is one of the top 
+security experts in the world. He looked into the 
+matter, and promptly realized that it compromized 
+all security on the UNIX. He also speculated that 
+the method could be adapted to work on other 
+systems, a5 well. 
+UNIX is an operating system for DEC computers. 
+I'm not sure if it works on other machines, but I 
+have heard that iia Bell uses a lot of UNIX systems. 
+The scam goes like this. On large computers, they 
+use a technique called time-sharing to.let a lot 
+of people use terminals all hooked up to one cent- 
+ral computer all at the same time. Each person is 
+assigned a portion of on-line memory (as opposed 
+to disk memory), which is called his’ work space. 
+The system saves a work space for itself, too. 
+‘The students discovered a way of having one termi- 
+nal take over control of another terminal and the 
+workspace that goes along with the second terminal. 
+The good part comes in here. ‘ost students and 
+hackers have low security accounts. But when you 
+take over another workspace, the person logged on 
+may have a 
+high security account. If 
+so, you could 
+go through his account and access all the high 
+security stuff he has access to thet you're not 
+supposed to have access to. 
+Cniy a few technical details on how to do 
+this are known.It is known that you somehow send 
+control and/or escape characters from your terminal 
+through to the other persons terminal and/or work- 
+space to take over control. This will work on UNIX 
+systems, and there 
+is some very similsir method 
+that may work on many other systems. Parker has 
+said that the only effective ways of fighting this 
+scam are to either remove the control/escape keys 
+from all terminals or to insert software filters 
+to filter out control/escape keys before they 
+reach the 0S. These are pretty lame solutions. 
+Con game in the cards? 
+‘A New Jersey man was Indicted yesterday on chirges of spe: 
+Ahan $22.000 
+is rad sevrices through 
+illegal use 
+af credit cards obtzin. 
+ef while In fail, The indictment by a federal eranc 
+Inry in Newark 
+charced 
+Riabert ‘Lee 
+Johason with four counts of mail fraud 
+CH 
+Interstate use of fraudulently obtained credit 
+"The governovent charged that Johnson 
+mpanies between Oct 14, 1974, and March 6 
+1¢ 
+applications falsely 
+stated that 
+certal 
+es, mall 
+aed. The defendant gave 
+the 34- 
+; dresses 
+of the Sercer and Union caunty jos, but claimed ownership 
+of 1 
+‘buildings 
+on deveral eredit.card apolleations, 
+scvording 10 Une indiet 
+salary and receiving ered trem 
+75 
+As Parker. points out, removing the control/esc 
+keys from every terminal is ‘about as practical 
+Angtalling NX missiles on underground railroad: 
+under Nevada. It won't work, because there are 
+already over 3 million terminals in America, each 
+with an egcape and control key. And installing a 
+software filter for control/escpae characters is 
+a cheap fix too. Parker points out (and so do I) 
+that operating systens are so complex thet there 
+will always be some way of slipping the characters 
+around the filter and getting them to their 
+destination. The proper way to fix this problem 
+(from a cops point of view) would be to fix what- 
+ever aspect of the UNIX system allows the charact- 
+ers to let one workspace take over control of 
+another. Since this 
+idea 
+seems to have been aban- 
+doned by Parker, and since he also points out that 
+it would be possible to use this method on other 
+operating systems, I come to the conclusion that 
+the flaw ig not in the UNIX code itself, but in 
+the concept of time-sharing itself, I've read some 
+of Parker's work, he 
+isn't stupid. If there were 
+a foolproof way of fixing this problem he would 
+have found it by now. 
+So what does this mean? That we may be onto 
+the bignest security system break in history! 
+Almost any large computer is potentially vulner- 
+atle. But we need more information on how to do 
+this. “y information came from the LA Times. Tom 
+has @ copy of the article, and I'm sure he would 
+send a copy to anyone who is interested, but it 
+doesn't get too technical. It does mention two 
+sources of more technical data atout this. First 
+of 
+all, there was an article in Infoworld during 
+January about this (InfoWorld comes out weekly). 
+So far 1 haven't teen able to get a copy of this 
+issue. If you have or can get a4 copy of it, PLEASE 
+send it to me c/o TAP. The second source is fron 
+Parker at SRI. If you write to him on company 
+stationary, and eonvince him that you are a security 
+analyst or something similair, and give him a 
+legitimate sounding address, he will send you a 
+copy of his report on the subject, which tells 
+every detail. 
+His address is Donn Parker, SRI 
+International, Menlo Park CA, 94025. Please don't 
+write to him unless you have stationary and a 
+business sounding address, 
+and are sure you can 
+convince him that you have a need to know. If he 
+is deluged with requests for the report from phreaks, 
+he will stop sending then out. 7 don't have either 
+so I haven't been able to get the report. If you 
+manage to get a copy, please PIEASE send a copy to 
+me c/o TAP, Also, if you have any 
+knowledge of UNIX 
+systems, please write down whatever you know, sys- 
+tem structure, security formats, whatever, and send 
+it to me, as 1 don't know too much about UNIX, 
+As soon as I know how to do this I will tell every- 
+one in TAP, but I doubt I'l) be able to find out 
+uniess you all help me ty sending me whatever you 
+jo 
+know. 
+A Taxpayer Invents Ripoff 
+sar faire be ean 
+weer ne wahetwhes 
+Woot Senge 
+realestate

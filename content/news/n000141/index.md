@@ -15,16 +15,17 @@ tags:
   - convention-recap
 author:
 publisher: "TAP (YIPL)"
-source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
+source_url: "https://www.computerhistory.org/collections/catalog/600000568/record/102734878/?media=262806"
 access_date: 
-source_dead: true
-archive1_url: 
+source_dead: false
+archive1_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 archive1_date: 
-archive1_dead: false
+archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
 local_file: "tap-021.pdf"
+prefer_local: true
 pages: "3"
 isbn: 
 time: 
@@ -43,9 +44,9 @@ feature_article: "Automatic Phone Tap, Convention Report"
 people: ["Abbie Hoffman"]
 topics: ["TAP name change and broadened scope", "Abbie Hoffman legal defense", "phone phreak convention recap"]
 
-scan_quality: poor
+scan_quality: good
 ocr: true
-ocr_date: "2026-07-22"
+ocr_date: "2026-07-28"
 page_count: 3
 
 source: "Internet Archive"

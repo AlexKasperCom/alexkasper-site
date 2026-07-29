@@ -1,19 +1,34 @@
 {{- /*
   Usage: {{< back-issues "tap-archive" >}}
+         {{< back-issues "tap-archive" "TAP" >}}
 
   Renders a table of every page whose front-matter `projects` list
-  includes the given slug, sorted by front-matter `issue` ascending.
-  The slug should match the parent project page's own `slug` (see
+  includes the given slug, sorted by publication date ascending. The
+  slug should match the parent project page's own `slug` (see
   `layouts/partials/visit-project.html`, which links news entries back
   to their project page the same way).
+
+  Sorting by date (rather than the `issue` field) lets a sub-series
+  that shares the same project but has its own numbering — e.g. TAP's
+  Classified ad sheets, labeled C1-C7 rather than issue numbers — sit
+  interleaved in correct chronological position among the numbered
+  issues, instead of colliding with them in an issue-number sort.
+
+  An optional second argument narrows the table to pages whose
+  `series` field also matches, for when you want a table of just one
+  sub-series (e.g. only the numbered issues, excluding the ad sheets).
 
   Intended for numbered periodical archives (e.g. TAP) where each
   issue's leaf bundle carries `issue` and `feature_article` fields.
   Falls back to the page title if `feature_article` is empty.
 */ -}}
 {{- $slug := .Get 0 -}}
+{{- $seriesFilter := .Get 1 -}}
 {{- $pages := where site.RegularPages "Params.projects" "intersect" (slice $slug) -}}
-{{- $pages = sort $pages "Params.issue" "asc" -}}
+{{- if $seriesFilter -}}
+  {{- $pages = where $pages "Params.series" $seriesFilter -}}
+{{- end -}}
+{{- $pages = sort $pages "Date" "asc" -}}
 <div class="back-issues">
   <table class="back-issues-table">
     <thead>

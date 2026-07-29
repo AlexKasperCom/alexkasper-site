@@ -1,32 +1,523 @@
-CHANNEL 68 DECODERBLocK DIAGRAMUNE MOUNT viPp€éoAMPLIFIER AMP THE753A 133 AUPIOUnRF KECELVETOMER vEos DETECTEDTY Ane o AUDIO733 o} outAGC7 _fPULSE SYNC IS. KH TWGES MODULE Pini PEAK/Norce rae74221 3H] FILTER AMPNOTCHFREQueues HIGHD PASSOUBLER Piisee300mV(5 10 500 nv)KRODUC 300 mVDETECTOR
-AUDIOLow]PASSFILTER ovrLow Pass FilterFeo = 12 KHZQ = 25= RrGain= 1 Qor
-Ve REPRi sand R2 should be 100K for a L5KHZ cutoffR3 should be 53K for a 15KHZ cutoffHigh Pass FilterFo = 31,500 KHZQ = 6 (each section of 3)Gain = 1 1PRru ato—| r+ \,iver || a 3900 evrfurcaps b “ISKMa 4.104pert w/eeuTPT.e+ ToCoA TeHPury ofeeepvcy pgrecTorR
-OOww”1980FALL NO. 64
-Pre-Amp ModuleWULL CcimReulT §¢
-Video AmpOscillations appear at higher gains of ACC,(aroumd -2 volts to the gate). Try to controlthe loading with this circuit:Ltthn iY gey
-Me2NY 39DVe= -2 to -15. Gain increased as voltagegoes to ground. Going positive will destroy733.The 20K from the 2N4392 gate to source maybe toobie.AGC CircuitFrOr otTiowal “-yTOVE peEcoOIWwsS eK _chit W439 eDETECT PLOT, rev 18xTOWE ror ear 0 Cone xeTiE— wigue ae SATE GatnoF1 mar WED 19939215KCo}1S +$ 16Cay l16 SY th th yp 10gT4244res4 gs &7tf is we. (4 +Juryul ev T tEKr>PULSEGENERATOR
-
-TAP UPDATE by TOM EDISONSync Module - Poh. nM Fm a, rr:to ap we a2 oT og. - - 210%, SMa fie Sopa Demat ot te stn To *2.08 2 Shaye Tna a‘RES TG am uf ao a ee,: Te OARS OP a ae oe eet ated Toot de cr etsAC 8 et AV@OG A. AR Stet Pans ime wl. ie,nt. ar printér ndune Lon, Jor ompaoter his c:eenM@4, The .scues vill ce rathen cut oa lol iat. °C omtieteTAP +onvemreion ietauls sti ood bien: once pack of TARlASsifims Ad Shees 44 which “as encluse. eu Na taut.[385 Sling t. raise -ar guc ‘amy effect noe oe oe,bul l have decite: t. rreese QD TAP priges ore aridIuver Ana fepe wort all cir gucsccibers wollen tye taalappreciation oy jett.ns eis ‘ssenes > sub, TAP WG on ceepfindntial ucuble ant omy 7" ~inhelpus cut 7: our canalbole. Ve naedsy wur sup rene ous, -cag@ruisr une SAF tasesProduct Detector Module Wal we list in every iS8ue, ANY ur SUpPret Dor this eear'sTAP ~cnventisa. ‘Ve neea your help ant supp rt .: ve-ace |SUP. 1748 |Whose Calls Cost a Bank $8,000 Brazen ripoffnpernundnne batons MADISON, Wis iAP) - Modueeepebce bmve fousdme “ - Pomme Uncen poseBive 00 respectcusedyemercmyof inka the tebe. LAYS PONCE deparime bas been eteervingstaf moto phone af a weatey Lastanalremmame * week by documng lawenforormen sad é3-e-°v" up = het! ef more thane 95.500dy atouing a lebycqmppedsquad Caz a & becal shoppengCalis. Canteranigabers a ssahe inng-darnanceMamnenenOwirkt Attorney's of. Dut palce reportthetyomrrtesstolethe tefER .fun
-Tena of what eysoad wuncocanne It Your Car, Sir!Wal »phemetome 41fee freeeUw Meaufaceue. COrpalerBqwerlsAOETEEmye Nee tos oy me Rotel gretertedByart Kaaewesr Tram Company trench 2 4 Wyeshaped wat Cynderfe bh nommelhe Reemed O05Mt inet Poymetnegboom Seren natBreadeuy thoumgnbe. 00 wow <9 brolyBythandBOSE wen on welneeingsety b¢ off apa © ft ewes“Wir,ayan wesane wehovepermite Yang pow uimm+®heceams foumtete whtou $0¢dmas Adee P* pgs 5 ageeyor H F L LTE R usighDOre1@use the ghee fey Bier 6 Dy erviete Five atqumat-as06 the g0G $) LANG ported1Gthe DanEEE whe WatAK NO gine btcall ae ier ree; of ibe een 4 cecenenedl pot ergUh yowwtd Pew ageepeuebsfurtuheun ootfowtn Aumrvon Vet ben hk Cree deans nesie feedoping beet mm hom og |loaK Gees 15 n teneyot theDuespadmaen tht mensnes p~Peatg | o-aden Pypa— Ay— poem & pedd Phdttt ERO CBT ey we 1 tertpwn Php “PEGbape Me ingMEG en Oe a ee TT te hedwn 4 \ous spew vie lndgercs 'hed pepe pepEre Jeet ROT peeets PUES Mswe Xt buttespomgrd95% secarveare ta BOE Yay leet on made 0ie Gudabs heeytabbpve viggwa gamet 1} rm thy beet 0 OR pened OW ¢DPCRs ewe theinnsLOO eeCongmetaceng8S mecom whagenens C8 6501 Bineeng GED Se0ETn egFOSCon oF asBeeroe egy7@t«tantesmeena Iyereetem i oo heedof he baltes b Goby & bomerOh reesete 04 evetwaadseersUne € heeyMentaCosap Beart metgnty Pamtety (neeDna § Gide lene pewDboynhaduttbetec peng cwwerd,yay oO Yt ite seer bet we agEredDy byt100 K sig ag on Faboy b Reetang Ms mera 6 (omenspanghor MUO SER A a peel@remmng Eromess wer pothes bh seqh {odehh eatiehahe & yy postrtthad gee ty Pegrr Oe Ce thy tear & whens
-ene ofmHIMEG —~——4 V7 ey a a ee le4 Mogagat some bey Sept of 24 pth Seph Atgg etyDon i eneesmownMy[Mee (Mts COetSeman tte ees Pe cpa patho ombd eobintl of thd FeumagOM ) speG ES Pee isteasIHEG 129 — EL BGRte SSOREL 2 ctpet pects Pon ¢ pews Wad 8 EEDEteEe gf Haynb — _ " feaeff adios ¥4troveatobit be tar opens Pyieet Mies Wr! By apumyenyMnesngre? Povtvere Wh ES pen See 9 Rgh 50 eee wee A evil ieoe A Dror 024 hy ofUbetotfh omtar Saes eepeieen y nggeewyMor open | dade medets Iam TaqRebbODGeTt YaOtpy pwenyIPT tyet Minty mt porte 20 petet ongitel Ort 1 neORTRGJOE [ogy MPS*Rete l puted theergél wa ot { oebe bweh A tePegage ee Od ty bedi eetpm § ree wedporter rw peg byrne| GeerNOTES LIF FILTER is JOT oatssd prontis 1901 04otaveas'®.peshty veesres wstocee metio yoaALL CatacS rons FOR FyeT¥ RS Are 1S. JSP AME, AbyUST Yue me epee met penme pees apb oer- hgmew reas --e~$y agle of Mg Cbitte be Bowmmmare 475 pew
-feet eaeEe Bere tee Oat COCetode te PEACE. BCPLANESPRPC HOLT ln rtm meS ay.FREQUENCY DOUBLER eSC
-om rye,a
-Mk, ae — - ries *y | ——LIK ,$l ed, |Tw - 1908 L x —-—— . 1 OOK |, o¢il OK. 7 auf . is 4g a ld gtT"Pom v 74 s >—! —
-
-N.-F (NON SUPFICIENS PUNDS)Non sukkarient funds is «a check racket wherebyone writes checkS un an account with no money intf, Many poople whe run Chis game are umnataursWo use bheie rea) nome and theis own chevkingwinalnto, More sephisticuted optratora will uleoi alguns oume and reduce the liakiliheod of any re-sUlbunt buasg@len,Atthheagh cush d9 dif facult to obtuin directly,podehoetodue: seal materal ore cusily purchased, andlifer, wold and converted to cash. Orders for TV’s,BLETeUS, wnu jewelry can be taken in udvance, thusgo urdite; the highest praces for the merchandisewhite duckiletuling quick digpouyal,The wuccesys of thig check racket is directlyproupuctional to the care one uses in leaving nobree te bos or her ceul identity, Weeks afterthe lod theky «ce wedtten, inveataygstors will bebonerny alowl with a picture from the driver'slaoense, leukipy Cur the pereon who wrote the NSPcoecki, They will yo to the oaddvreswes (and ad~re uaecn uf plane numbers) of the license, answer-bivg necvdiess used, and work references yiven onANY opplrcatirons, checks, etc, None of the peoplethot mrygbhl De quentioned should be able to yiveony tnfucmestiun abuut the person's rcal name,utdaeuu, oF wheretbouts if the mission i to bGsuccesstul, Leave no links to your real adentity.Bintvaliy., all one hus toa do to actuate thafoo ag be Secure » safe mail address, obtain aliasID prpers, walk antu a» bunk and open up a checkingwt ounk, oad sturl spending when the permanentShecks cum in, The details of the specific stepsare listed us follows:1} Rent o mail address. Mail receiving servicescan be Found in the Yellow Pages under TelephoneAnwweriny Services und sometimag under Mail. ThisGUrVvace Usually Costs between §5 and §20 per month.Bo nut usu ou P.O, Bom address it is not the samehanes} as oo private mail receiving service or box.The Pest Otfice verifies the applicant's identitycr pu.ice of residence before issuing the box, sothere will be a lank between the bad check and theWdentaty of the check passer. Also, banks ara ra-~bustant ta issue checks with jugt a P.O. Box acidross,vad sluces are oven more reluctant to accept them.A varistion of the rent-an-address that is oftenBuccessful is to use a pragtigious addrega as theQravec'’s license uddiess and the address on the checks schecks as your personal fone Numbsr.A mail furwardiny card ig put in to the Post Office,diverting the maki for the alias name from the pre-staqious uddress to the rent-a-box. The prestigiouswhbysse. plvsuld be a muiti-unit dwelling in « lurgecaly ak pupuluoon vrue, A few Lust letters shouldbe sent to the alias name at the prestigious addressro verify that the muil forwurding card is in af-
-2) Obtain a birth certificate, either a con-trived document or a real government issued certif-icate of a daad person or a duplicate of someonealive that lives out of state and will not be ableto recognise the photograph of the check passer.It should be noted that the mail address should beobtained tarst if one iw yoing to be sending forID documants.3) Go to the Departmont of Motor Vuhicles withthe birth certificut@ and ct a driver's license orstute issued 1D curd, which worké@ just as well asa drivec's license, However, sum? slates do notisaue stute ID carda and the driver's test willhave to d¢ taken; therefore, get the driver's man-uol und study for the test. It is incredible howmany Kauckleh@ads will flunk the test because theycome in unprepared,A brief note on paperwork and documents is inortter here for those who may find it difficuit toobtain them. A process on how to make documents isavailable from TAP, Room 418, 152 W. 42 ST, N.Y.10036. Ruquest TAP Issue #50 and aend a dollar witha stamped-self-uddresscd-cenvelope. A book explain-ing the methods of getting ID from the governmentis available from EDEN PRESS, called the NEW PAPERTRIP. Write them at P.O. Box 8410, Fountain Valley,CA 92708, and ask for their catalog. Another bookof interest by Eden Press is The Check Book, whichig well wortl the $10 cover price. Both books areA must for the serious paper tripper. The PuperTrip also explaing how to make up ficticious socialsecurity numbers, which may come in handy iff one isusing contrived documents instead of governmentjusued paper ~~ it tukesa an SS number at the bankLo yet the paper that is needed, i.e., the checks.4) Go to a bank and open up a checking account,It may be beneficial to open up a savings accountfirst, and then open up the cheking account. It isoften easier to open up a savings account asa thebanks ara usually more willing to take woney fordeposil than they are to issue checks, especiallyto a person that they are not familiar with. Thesavings account gets your fost in the door for thechecking account.Use the rent-a-box addresa on the checks as thehome addreas, or the prestigious addreas with theforward on it if the variation mathod is being used,It is also helpful to have 5 telephone number printedon the checks because it savas time at the cash re-gintersa. A telephone number cin be rented fro@ ananawaring service for a modest fee, and used on theThis answeringsarvice should not be the same one that is boing usedas the mail address -- just in case the merchantcalla there to verify the fone number.Do not attompt to run the scam,or oven start it,with the temporary checks that the bank first issues.Wait for the permanent checks to come in. MerchantsLert and thut the checks from the bank will therefore w4nt to s@e the person's aAddresa and phone numberrhe ot... Lhe rent-a-box. If the test Jettcrs do notwoth, cull the maa] carrier sat the Post OtfFice und“ave him the anatructions far the pail that you wantfeerwerchod, Submal anuther furewcddny cord if nucey-~ ty,
-on the check, and on occagon, they request to seegona buck up ID -- most frequently, a credit cord.If a credit card ia lacking, other ID moy be sub- ,ytaituted, A AAA momberuhip card iu iwpresaive, andany ulhbec picture ID as back-up adds credence to theidentity. ,
-Once the permanyunt checks arecess to some cut-of-state checks, they cs be dhepss-ited to sweeten up the account, Than ats trot jie cesSary, but it helps muintain some senioisace to dau,legitimate a8 far as haviny money dm the wee cit tacover the checks Delpy written. JO gestomeb swe cl-ening ly golny fo be une, gtartk Ovpuustarsp blechecks on Monduy. Spenilimy wil} not start uantalTuesday night. Pive days luter, on sunday, thescam ig over. Do not write any checks slter sindey.
-im, oak one danas use
-MONDAY: Deposit sume cul-oOf-ytate cleocke tee bly:checking account if the seceount is gory te. bo wentenced up. These chevha for depoolt cam be withetpergena], puyroll, or corporate. Avoid usingOrnmane Chaéckse. because re brinmnyy Treg y adaed Qeotath os)invesCagators, who are qulle Leases, Maki: corelthe “sweetening checks” for wma1l)] Amonites. SJ. ay,$250, and make Beveral udeposads os day Gaede ue pacaat a @different branch oftice of the lank,
-’JAF. ~~
-YURSDAY: Deposit more checks to sweeter sype the:account, Remember, the sweetening proce dune tee eyetional, Later this evening, wo Lo Lie wie pycb a vanesbuy some plunge tick vtB round-trip to vice places likeSan Prancisco, Miami, Huwslid, ele. Wee Cieket. oade sold for one-third to one-))t pedce, whet 1 Tass:are yood for 4 year = a@ven when bought with ov aul-ber check. Also, tackets can be traces! de at cblliegairlines before or at tho time oaf hepearbira bvs) yydestination desired, writing checks Cueubiy naytis Jike aturting Wadnesday., Only theres deenkatty chiysare gQing to be uBad Along will Lhe week,WEDNESDAY: IF you have used vubleol-otabe ches kuto eweeten up the account, you wan yo sbasppelaeg due-ing the duy when Lhe banks are open. Ti thecnajlse the bank, you hava money on deposil.haven't sweetencd up the account, wait unfid thebank has closed, usuadlhly areund five wWoly.k -check to be sure of the Lime the accountliies wep-artment closes if you want to start shuppany Lheminute the Bank {a closed.
-sob ydI C Yer
-After banking hours, then, hil the alepuctmenlsteres for color TV’s and atervo's, Aftce, Vine de-partment stores have closed, shop at the lisguurtBatorés and All night grocary stores where Chey dui’trequire &@ courtesy card. After this, yo tu the oir-ports and buy more plane tickéeta: the alrlises areoften open all night.THURSDAY, FRIDAY, SATURDAY AND SUNDAY: can beworked the same way as wednesday -- UJepartincnt stores,then liquor stores and grocery atores, then thle oir-porta for plane tickets. Saturday and ysurduy areyceat for shopping at department stores all aduy,because tha bank accounting d@epartmenta are oftenclosed for the weekend,TELECREDIT: Thia i an lnwurance cuomproy Lliikguarantees the merchant that they will cover yourcheck if it bounces. Tho way that it werks if onyour driver's license number: if the driver’ys Ji-cenge dy aullhentic (the state giveu them the Yast),and if you haven't bounced sunby checks weeuntly,Tajocredit will spprove your check. Wig stantKnow what your bank Lesrleotiu ae, amd Ube ae gtidoosn'’t care because Telecredit wild poy bam evenid you slon'h hove aA adckie ln your saeco.
-
-It appears that Telecredit works in differentways in different states); for example, in Califor-nia, where there ure a Jot of paper trippers, thereis a $600 limit over a two-week period that Tele-credit will approve. On the other hand, in Con-necticut Telecredit has not set a limit as of 6/79.In states like California, where Telecredit hasa limit, the way to rack up a huge amount of NSFchecks is this: always make purchases of over sixhundred dollars. Telecredit will not insure acheck over six hundred dollars; however, for a 50¢fee to the merchant member, they will verify theauthenticity of your driver's license, and the mer-chant may b2 willing to part with the material.Since Telecredit did not insure the check, only ver-ified it, there is still the original six hundreddollar credit limit left. What this means is thatyou can write as many $600 and over checks duringthe shopping period Wednesday through Sunday. SonyTrinitron TV sets, the top of the line sets withremote control, cost about $635 with tax and makeexcellent items to purchase. Remember to look onthe door of the store to see if they display thelittle blue and white Telecredit welcome checksign -~ your check is welcome here. And while youore at it, buy all tha neat little things tiat youalways wanted but could never afford: jewelry,clothing, stereo, and whatever else your acquisitivenature demands. While waiting for the personalized,permanent checks to come in, it is) expedient tolook around for stores to buy at.WARNING: Heed this well. After you have de-posited the out-of-state checks to sweeten up theaccount, you may have over a grand on deposit. Donot go back to the bank and try to make a withdrawal.The bank will not give you the money, and if you havealready startcd writing checks against deposit, theymay want to detain you .....- ox worse,Also, it is not recommended using your own carwhen out on the spending spree. Some merchants,especially grocery stores and department stores{when picking up the color Tv's at the serviceenterance), will watch you when you leave and writedown your license plate number. Pent a car ifpossibile. Because many rental agencies will wanta credit card before renting out a car, one may haveto put a large cash deposit up, so prepare for it.Ag previously mentioned, leave no links to yourreal identity. The slightest thread may be enoughfor the investigators to pick up on. Be extracareful using addresses and phone numbers that wereon any applications, making sure that no one atthese places knows who you are or where to find you.If references are needed on some applications, useout of state references of people who do not knowyou -- doctors, lawyers, and priest know so manypeople that they can't remember all of them, Lotsof them listed in the fone book too.BMLED FOR JAIL: The State of Emiplosers of it least 12 grocery soresMechigan hos fled su7! agains! a iMotbe halapacoo anew even’ dec onPron mmole in an altempt to then tippy tea lotrly. Phey ve been ac-cotect room and boord for his coping claeks for over SIO payable toskein poll According ta the suit “Jo OM Stick’! and signies! by “U. R.ogaws! Chorles Frum, who is Stuck.” Ta make maticrs worse, a poserving time for receiving sioten lice testi] sak the checks were copicsproperty, the slote may require ' li . Ireatonably well-to-do inmatet to , Katty me in reaching enshicrs$12,140 Frum soy tow ba set forged chevks. “vc neverfer, rather nae oil sect Nip os alata” othe. detec.hye wolomtevict,Alter third number policyCalls made from coin phones to loca-bons outside the United States andCanada now require © vo. acceptancebefiwe they can be charged 10 a thirdpumber.Thx action was taken Dec. 5. ac-cording to uperator services. lo helppeotect company revenues and to puardagams! frand problems in the interna-onal mowket similiar be tbe ones we havee\penernced iminterstite, ministate andbocal marketsH an operator canm get acceptance,he of she will suppes! that the call betried later of ‘that alternatebillingbeprovtded. Last vear the company lostthout $40,000 in uncollected revenuesfrom imfernathinal calls Wentified ns
-64
-fraud.Even thoogh the practiceis being im-plemented thoughout Uhnok Hell.calls handled by International Operut-ing Center (FOC) operators will mo beaffected.2
+CHANNEL 68 DECODER 
+BLock DIAGRAM 
+UNE 
+nasT- MOUNT 
+vidéo 
+AMPLEFTER 
+AMP 
+Low 
+AUDIO 
+PASS 
+FILTER 
+our 
+Low Pass Filter 
+Feo = 12 KHZ 
+Q= 25 
+Gain=1 2 
+audio 
+ouT 
+Ve REF 
+Ri and R2 should be 100K for a 15KHZ.cutoff 
+R3 should be 53K for a 15KHZ sutoff 
+High Pass Filter 
+Po = 31.500 KHZ 
+Q = 6 (each section of 3) 
+Gaine 1 app 
+TEP De 
+seepuer perecToR 
+TAP 
+A 
+FALL 
+1980 
+NO. 64 
+Pre-Amp Module 
+fast 
+wo emeuiT pV 9K 
+Video Amp 
+Oscillations appear at higher gains of AGC, 
+(around -2 volts to the gate). 
+Try to control 
+the loading with this circuit: 
+Se ae 3 
+UNF392 
+Veo -2 to -15. Gain increased as voltage 
+goes to ground. Going positive will destroy 
+733. 
+. Phe 20K from the 2N4392 gate to source: may 
+ve toobig. 
+AGC Circuit 
+Fron of TownL 
+“ay 
+TOME  pECODNE 
+cucu ro 
+oereer Puery 
+Tove 
+THE wigs 
+YE ner WED 
+wh 
+PULSE 
+GENERATOR
+‘Syne Hedule 
+Product Detector Module 
+ik 
+"Y 
+PEAK /NOTCH FILTER 
+TAP UPDATE by TOM EDISON 
+I know, I know! What the hell happened? 1!!! This issue 
+was supposed to be mailed out on May ist but due to the 
+damn New York Transit strike in April, I couldn't get into 
+the Big Apple to bring the issues to cur printer. I also had 
+a problem with our computerized mailing list. And finally, 
+I didn't want to mail out the issues until I had all the details 
+about our convention . The strike is over and the issues 
+went to our printer on June 13th. Cur computer has been 
+fixed. The issues will be mailed out on July 1st. Complete 
+‘TAP convention details can be found on the back of TAP 
+Classified Ad Sheet #4 which was included with this mailing. 
+Twas going to raise our sub rates effective with this issue, 
+but I have decided to freeze all TAP prices at their current 
+level and hope that all our subscribers will show their real 
+appreciation by getting their friends to sub. TAP is in deep 
+financial trouble and only YOU can help us out of our financial 
+hole. We need your sub renewals, orders for the TAP goodies 
+that we list in every issue, and your support for this year's 
+‘TAP convention. We need your help and support if we are to 
+survivel 
+Brazen ripoft 
+apie a fully equipped squad car at 2 local shopping 
+Bit 
+someone stole 
+irom 
+terouiteorsuniescdayoy 
+Your Car, Sir! 
+‘disclosed 
+one 
+oe 
+Air, Avan 6 aid to bave parind 
+aigabors 
+‘oes 
+yenmey tn strnrin ee tag cee a wo 
+ies calpucetss ar ewny ese 
+Thee een ee oth ot ete 
+Caribbean 
+sc South America. 
+fete Ore has eo rg Oot 
+tect metgaes shee 
+‘hr Chey tone Cate Bort eat Pome Pra Ba Fere4e os 
+‘tas tnt erate mee eb nett 
+TOES 
+A ta gan adatom 
+foce rr 
+19 
+co acne yas 1 yaaa 
+sing 
+1-2 
+(S08 tue eye pan ena, pty Sng loeb 
+‘arated casog pet mB et nebo” Son 
+2 at 
+NOTES 
+Ip FILTER Is 
+MOT — mivemmcurmectmee 
+mcm 
+ALL CaPReZToRs FOR FILTERS ARE 
+15.73 KHE, ADJUST THE 
+SILVER MICA 
+A= wWoRK 
+RESESTORS, 
+FREQUENCY 
+DOUBLER 
+eK. 
+Auta 
+mw 
+= 
+a 
+10K, 
+is 
+our 
+yy 
+!S4 
+YY 
+< 
+- 
+bf 
+> 
+< 
+=
+syunos2e 2nok UT eTIPTU e SAY 3,UOP NOx ZT 
+uene wry Aed TTT 37PEID9TEL esNeDeq exeD 3,uB00D 
+‘(ASTT SYR WeYyR SATS O7eR6 O4R) DTRZUSYINE ST esUED 
+“TT 8, 79AFIP O43 ZF tXequmU oBUSITT S,xeATIP znok 
+UO SF S4IOM QT AVUR AM OYL ‘“seDUNOG IT JT YPBYD 
+amok zon0o {Ty Aoyy 3eyR BuRYDAeM oy seoquEIENS 
+aeyq Auedwod souernsuy ue st syyL 
++ LIGeuOFIaL 
+“pusyean oy; 203 posoT> 
+9930 eae squowzzndop GuyquNODse yueq 94 esnEDoq 
+7038 3UeITedep ye Guyddoys 303 qve76 
+<2ye 943 uoH 
+038 Ax02026 pue soz03@ zonbyT wow 
+‘s02038 Juoujaedop -- Aepsoupon ou Xe sues 043 paxzon 
+eq uo AWGNNS CNV AvdUNINS ‘AWOIUa ‘AVaSUNHL 
+URYDIeU BYR pUe ‘ST soUNTeC YUeG nod ZeYyM MoUX 
+suop Aoyz “pay znoX onoxdde TTT 3Tpez2eTOL, 
+‘KyZueDex eyayo Ave pasunog 9, ueaey nod ZF pue. 
+*Aqyauepy 
+8u3 03 eouepax> sppe dn-xoeq se Gr oangoqd zaO Aue 
+pue ‘oaTasaxduy sf pavo dryszequew ww W “peqnayas 
+~qns eq Aw gr eyzo ‘BuTyDYT SF PID FPPOID & ZI 
+*pxeo 37pez9 e ‘AtRuenbexz 3e80u -- ar dn yoeq suos 
+398 03 3aenboz Ay ‘uoseo0.uo pue ‘yDey> ou3 UO 
+zequmu suoyd pue ssezppe s,uoszed ef} Ges 03 QUCM 
+BURUDIOW “UT OWNS 03 BXDOYD yUsUEMTEd 9yy 307 4TUH 
+‘wonssT 3S2TF AUUG oy JeUA sYDOYD Arezodwez ayy UTA 
+‘37 32835 Users z0’uM@Ss YR UNI 03 3dusqQe AOU Og 
+sxequmu ou0z 9u3 Azyz0A 03 97043 STTUD 
+queypzou 93 oseo Uy Jent -- ssozppe Tre oy Se 
+° 
+posn Buyoq st 32u9 OUO alles O43 aq JOU PTROYS soTAzes 
+te Acpanjes 
+8394979 sueTd z0F saz0d 
+TasqUMU ouog TeUOsIed 3TOA ge sXOoyTSYPSYD sY3 UO GEarpPe Oly PU ssaxppE OEUSDTT B,JOATAp 
+Buyzonsue ST Uy 
+943 UO pesh pue ‘saz Ysopoll e TOF soTares Guyrensue 
+ue wo23 pozuez oq UeD zoqumU oUOYdeTO3 ¥ “Sz038TH 
+9x Yseo O49 30 OUT] soAes 37 eENeD|q SyTOyD Oty UO 
+sguBqu Tre uedo usggo PEAT requ quoydoTe; w eazy oF TH3dTOy OBTe oF aT 
+exe souyTaze |43 fe30x273 ouRTd ozou Ang pue 320d 
+<27@ 943 03 06 ‘sTyR 7933v “pxED AsogznoD ev oxtnber 
+3,Uop Aoyg exeyn go103s Are2076 3yBTU TTe pue 993039 
+ZonbyT ou; ye doys ‘pesos envy soz03s queuqred 
+~9p 049 229g “8.007038 pUe B,AL JOTCD 305 sez0R8 
+QuesAzedsp 943 3TY ‘ety ‘sznoy Suyyueq 3093¥ 
+*pesoTo SF yueq oy oyNUTU 
+9yq Buyddoys 32038 03 queM Nox 37 SeFOTS quoURZe 
+-dop Buyqunoase 943 SUZ |y3 30 OINS 9q 03 yDOYD 
+=- yp079,0 aaTz punore ATTeNSN ‘posoTD sey yuEq 
+2ua TT3UN 3qeM ‘guNOODE O43 dn paueqesAs 3, uOARY 
+nok 3x “RTs0dop uo Aouow savy nod ‘yueq 843 BTTED 
+92038 043 3X ‘Udo oze syueq eYy3 UoYA Aep 943 Buy 
+-2np buyddoys o6 ues noX ‘gunoaze ey dn u9390Ms 03 
+BYAPDYO 93e38-JO-No posn DALY MOA 3X =AVGSENGaM 
+“pusyean 349 UATA BuoTe pesn oq 03 BuyOb oe 
+skep Suyyueq 09243 Atuo *Aepsoupen Suy3xe39 exTT aT 
+@uBTU Aepsong sypeyo Gutyy32y “pexTsep uoTAEUTAFOD 
+Aue 203 aanjaedep 30 out} 94} 3e 20 Ex0JOq SOUTTITY 
+39uI0 38 UT papery oq UL S30%0FR ‘OSTY “DBYD z0q 
+=qnz e ATA ZYbNOG eYM UVR -- Teoh e 0g poo exe 
+Soya pure ‘9a72d ZTey-0U0 0% pzqzyz-su0 303 pTos og 
+ues SJONOTR OU, °D99 "TFeMEH ‘FUETW ‘OOSTOUeTZ URS 
+SAFI sadeTd soe 0g dy23-puNox 6AOyDTZ oURTd OWE ANG 
+pue s_zodzye 943 03 0b ‘GupuonS STUR Z03eT "TRUOTS 
+~do sy aanposozd Guyuezeens ey ‘xequewey “yUNODDe 
+2ua dn ueqooms 09 SyasyS erom y7s0deq sAvaSary, 
+“yuRq ay} JO SOFZFO YOURIG WUeIEzzTP B 3e 
+aTsodep yes ‘Aep e s37sodep Tezenos oxem pue ‘OSzs 
+03 OST$ ‘sQUNOUe TTeUS 103 ,SxD0yD HuTUszsens, O43 
+Qno oxey “snopsevey o37Ab ore CYA ‘sz0REbTAEsAUT 
+Tezopeg pue Amseexy sbupszq 37 esneseq syoyD QuoWUZD 
+=n0b Guysn pfoay “a3ez0dz09 30 ‘TToxAed ‘TeUosred 
+XBURTO oq Ue Z7E0dep 303 syPoYyD oseUT “dn pouD 
+~300m8 3q 03 GuyoH ST uNODDe oyy ZF UNODSe BuTADeUD 
+9Y3 ©} SYD9YD 97v;5-JO-3no ows Z7s0deq +AVGNOW 
++Acpuns 20338 sx99yD Aue 9372" 30u og 
+oy; ‘Aupuns uo ‘zogeT eAep eta 
+Ty3uUN 44238 JOU TTTA BuTpueds 
++2900 st uae 
+*aybtu Avpsony, 
+*Aepuoy uo sxD9UD 
+8u9 GuyyTsodep 32038 ‘sup eq 09 Buyob sf Buyuo 
+~390Ns QuNODSe FI *uoagTIM Buyeq sxP94> 943 ond 
+03 3unos3e oy; uz Asuow Buyae 
+J SL OILUTaTSOT 
+Suyoq 07 soucTquDs ouoS UTEIU 
+ou 3T ang ‘Axes 
+=s0D0U JOU ST STUL “AUNODDY O43 dn Ua3Z90Ms 03 PORT 
+~sodep 0q uu Koy ‘sysayo 97098-30-3no ellos 03 S599 
+so’ sey suo 37 ‘Uy ere SxDOYD JuOUENIOd O43 2DU0 
+“pasn Buyeq st powzowl UoTReTIeA ey3 ZT YT UO prLMI05 
+8U3 WIT ssorppe sNoFETASe2d |Yy x0 ‘sseappe swoY 
+8YR Be GYOVYO SYR UO EseIPPE xOq-e-JUEZ 33 
+O5N 
+squnoao" 
+SuzyDoyO 
+943 203 200p 94 UT 3605 NOX sg0S 3uUNODDe sbuyALS 
+Ou, “UIT zeTTTuURZ Jou exe Ady 3VYy UOSzed B oF 
+Arteyoadse ‘sxooys onset 03 axe Aoy3 ueyy aTs0dep 
+x03 Aeuouw oye; 09 GuyTTra exow ATTensn exe syueq 
+943 se gunooDe ebufaus eB dn usdo 03 zoqSu0 Usaz0 
+8} 31 “3UnCDa0 BuyyeYyS ouy dn uedo uSyR pue ‘38x75 
+gunosoe s6uyAcs @ dn usdo 03 TeTOTFoUNq oq Ava IT 
+-3unoaae BuTyDeyp v dn uedo pue yueq e 03 OD (P 
+*eypayD oy ‘*e°y ‘pepseu st 3249 reded oyy 906 OF 
+yueq 943 9& xequmU gg Ue soxe] aT -~ reded ponssy 
+quemuzeaoh Jo peezsuy 
+szueuMs0p pantz3uOD Guysn 
+sy ovo 37 Apuey uy owoo Ae yorum ‘szoqumu Ayzandos 
+YeTIes SNoFS}I0T3 dn oxeut 03 MOY suTETdxo osTe drxz 
+xedeg ous “zeddyx3 xeded snoyzes 93 203 genu e 
+exe syooq yao ‘s2Tzd ABACD OT} BYR UFIOM TTAM OT 
+YPTYA ‘MOOT YSU SUT, ST sera epg Aq 3s80703UT 30 
+yood zeyZoUy “GoTeze> xyey3 2OZ yse pue ‘BGOLZ6 WO 
+“ATTRA UTEZUNOZ ‘OTHE XCM “O'd 3U We S3TIM “dIUL 
+‘Wadd MEN 9U3 PSETTVS ‘ssmud Nadgz Wors STqeTTeAe aT 
+Quowuzenc6 ayy woxz aI buy3306 yo spoyzow 943 Gut 
+-uyeTdxe yooq y “sdoTonua-passozppe-319s-padue;s © 
+WAT TeTTOP e pues pue OSH ONSET AVL Aeonboy “9L00T 
+“AR ‘ES Uy "K UST ‘BTb WOON ‘ayE Wors STqUT TEAR 
+8} squaunD0p exeM! OZ MOY UO sseD0Td y “WeyT UTeAGO 
+©3 YINOTZFTP IT PUT Ae OY soy 20z OIBY XepI0 
+Uy ST} GJuUsIMD0p PUR yZOMreded UO B30U JeTIq VW 
+spoxedezdun uy gua 
+Zou osneseq 3803 949 AUNTS TTTA speeyeTxonuy Aue 
+MOY STATPETDUT ST AT °3893 O43 303 Apne pue Ten 
+<Ueu 6, JOATIP 947 396 ‘oTOZoTOYR fusyeI sq 03 oATY 
+TT}A 3903 ,JonTIp 949 pUe spreD GI o7eAS onssT 
+30U Op Sd3U38 SMOS ‘ToAGMOH ‘OBUSDTT S,T0ATIP & 
+Se TT9M Ge yeNt BYTOM YOTYN ‘pxeD GI penssyT 99038 
+JO 9SUDDTT &,AOATIP & 396 PUe 9zLOTETIIO? YIATA OUR 
+WATA BOTOTYOA TOZOW JO JUSUZzedeg OY; 03 0D (E 
+*squownsop ax 
+303 Buypuos eq 0 Guyoh st euo zy 39273 pouTeago 
+9q PTROYS ssexppe TTeu ay3 3eYA pOJOU sq PIMOS aT 
+sxesued yooyD ou9 30 ydesbozoyd oy osTUBODOZ 07 
+eae Sq JOU TITA pue O3B78 JO 3NO BOAFT 3EUR OATTE 
+‘uosMOE JO OFeDT TAN e JO UOSIad peop 
+30 O7EDT 
+373209 ponssy jusuUzeAOH Teez e IO BUSUMI0P PeATI2 
+vod & TOUITS “O9ROTFTITED URITA & UFEIGO (Z 
++Axex 
+~se20u 37 pxe> GuypreMr0s JoyIOUe aTURNE ‘pepzeMI03 
+guen nok ¥RU TTEM ey 203 suOTIONzASUT Oyy UTY OATH 
+pUe 9D73I0 360d OYF JE TOTAAL TyeM OUR TIED “HION- 
+JOU Op 6393307 9893 943 ZI *xOq-e-3UOT O43 09 396 
+STOFOIONZ TITA AUeq OYy WoIZ SXSOYS oY FeUA PUR IDEs 
+7-39 UT Sf pxzvo Sutpxemroy Tye 
+3243 AzzI0A 07 
+Seozppe snop6y3e02d 943 3e oueU 
+93 03 jUes 9q 
+PTNOYS 579;70T 3903 Maz yY 
+‘¥: 
+‘snotnded 20 AT. 
+efzeT w uy SUPTTOAP IFUN-TAINW & oq PTHOYS ssezppr 
+snoz6y3e02d ays *xoq-e-3uex 9Y3 03 SsexppE ShOTbTIE 
+03d 049 woXs ouMU seTTE O43 F03 TyeU OUR BUTZIEATD 
+‘997330 360d OUR 03 UT 4nd Sy pxeD Buypzeazo3 Tyew Y 
+23 Se sserppe sHo;SyAGe2d & osN 03 ST TNHZES9DONE 
+Uagz0 ST 9LYR SoIPpU-UT-ZUET 9YR JO UOTIUTIEA Y¥ 
+*wey} ydeose 03 ZuUBIONTeI ex0U UBAS aze GeI0Rs pu 
+‘seexppe xog “O"d & 3eNf WITH GXOOYD ONSET 03 GUeZDNT 
+sox 920 syuLq 
+‘osTy 
+‘Zeseed yDOND 943 30 A3T{USPT 
+843 pure YOOYD peq OUR UdENZEq HUTT © OG TTTA S709 
+os ‘xoq 043 Buynset oz0z0q souspteex Jo “oeTd 70 
+Ayyquspy 6, aueottdde oy setzTI0n 927330 ysva OUT, 
+*XOq 30 soyAIes Buyayedez TTem eqeatad e se buTyy 
+ues 942 OU ST IT -- Ssorppe xog ‘Og & ON JOU Oa 
+syquow aad oz$ pue sg veaMzoq #3809 ATTeNSN oDzAx08 
+STUL “TTeW JopuN souTQoUNS pUe soDTAI0g BuTZeMsUY 
+suoydetex Jopun sebeg mOTTOR e439 UT pUuNoZ oq UED- 
+seoTAzes Huyayoder TTeW -“sSeeappe Tyeu ce QUoY (T 
+IGMOTTOS Se paasTt oe 
+Sdoqs oT3yDeds 9ya JO BTTeIOP OYL “UT oWOD syIDUD 
+queuewzed oyq usym Butpuads 32036 puy ‘junoDDe 
+Buyysey v dn uedo pue yueq © O9uT XTeM ‘szeded ar 
+SeTTe UTVIqo ‘SsoIpPpe TTeU ayes e eANdes 03 ET WEDS 
+9y} O7eNQDe 03 Cp 07 sey oUO TIE ‘ATTEOTSCE 
+‘ARyRUePT Teez nok 03 SAUTT OU OAEOT ‘TNZSSeD9NS 
+9q 03 BT UOTESTM OY; JT SynoqueTeYM 30 ‘ssarppe 
+‘guru TeeI B,uosIed oyZ ynoqu UOTRuuI0zUT AUC 
+az 03 STqe oq PTNOYS peUuoTyseNb oq AUBFU ALR 
+etdosd ey} 30 suON “O30 ‘sypoyD ‘suoTaUoTTdde Aue 
+UO UBATS Goouerezex y70N pue ‘posn seDzAxoR BUT 
+-xoasue ‘asueszT 943 Jo (sxoqumU avoYd zo sossoIp 
+=pe pue) sossexppe 943 03 06 TTTM AdyL “sxD9YD 
+ASN 8U} 9902 CYA UosTed O43 X05 BUTXOOT ‘osUDDTT 
+8,J0A;2p 943 wory omnZoFd & ATM ynoqe BuTuUNT 
+Od TTF SxOQebyASOAUT ‘UDgZTIA BIE BYDDYS ped 9Ua 
+3993 Sy99q “ARTRUSPT TeoT TOY ZO STY OF s9D073 
+ou Guyaeoy uy sesn ouO orPD oYy 03 TeUOTI20doxd 
+ATQ002}p SF ox NOY sTYR Jo ssedoNE oYT 
+*Tesodstp yo pnb SuyAeayzITpOes OTT 
+SsTpUgYDIOM 943 IOZ SedTId ysoySTY yy Supzns06 
+snuj ‘soueape uf voxe, sq Ue Axtomol pue ‘soez038 
+‘B.AL JOJ SXBPIQ “YBVD OF PSRTeAUOD pUe PTOs ‘z93RT 
+ue ‘poseyoand ATTewe ore Tez03uN pUe osTpUeYDzou 
+‘ATROOIFH UTLIGO OF ATNTIZTP GT Ysed YBNOWITY 
+‘setseey gueztns 
+-92 Aue Jo poourtyfT aya sonpez pue sue seTTe ue 
+Sgn TITA ez0Rex0do pageotaaTydos eAoW “sqUNCDOT 
+Bupapoy uo 7yOyy pur SouwwU Teer z;OU; osn OUN 
+Srnaqeue o20 sub sty; UNx OYM OTdoed AutH *3T 
+uy Aouow ou y3tm qunos5e ue UO ByPaYD BazTIM GUO 
+Aqexoyn 3oxNeI YOY w ST spuNz AUETOTZZNS UON 
+(SaNna INSTSTARS 
+NON) GSN
+It appears that Telecredit works in different 
+ways in different states; for example, in Califor- 
+nia, where there are a lot of paper trippers, there 
+is & $600 limit over a two-week period that Tele- 
+credit will approve. on the other hand, in Con 
+necticut Teleeredit has not set a limit'as of 6/79. 
+In states like California, where Telecredit has 
+a limit, the way to rack up a huge amount of NSP 
+checks is this: always make purchases of over six 
+hundred dollars. Telecredit will not insure a 
+check over six hundred dollars; however, for a SO¢ 
+fee to the merchant member, they will verify the 
+authenticity of your driver's license, and the mer- 
+chant may b2 willing to part with the material. 
+Since Telecredit did not insure the check, only ver- 
+ified it, there is still the original six hundred 
+dollar credit limit left. What this moans is that 
+you ean write as many $600 and over checks during 
+the shopping period Wednesday through Sunday. Sony 
+Trinitron TV sets, the top of the line sets with 
+remote control, cost about $635 with tax and make 
+excellent items to purchase. Remember to look on 
+the.door of the store to see if they display the 
+little blue and white Telecredit welcome check 
+sign -- your check is welcome here. And while you 
+are at it, buy all the neat little things that you 
+always wanted but could never afford: jewelry, 
+clothing, stereo, and whatever else your acquisitive 
+nature demands. While waiting for the personalized, 
+permanent checks to come in, it ie expedient to 
+lesk around for stores to buy at. 
+WARNING: Heed this well. After you have de- 
+posited the out-of-state checks to sweeten up the 
+account, you may have over a grand on deposit. Do 
+not go back to the bank and try to make a withdrawal. 
+The bank will not give you the money, and if you have 
+already started writing checks against deposit, they 
+may want to detain you ...... or worse. 
+Also, it is not recommended using your own car 
+when out on the spending spree. Some merchants, 
+especially grocery stores and department stores 
+(when picking up the color TV's at the service 
+enterance), will watch you when you leave and write 
+down your iiconse plate number, Pent a car if 
+possible. Because 
+many rental agencies will want 
+a credit card before renting out a car, one may have 
+to put a large cash deposit up, se prepare for it. 
+As previously mentioned, leave no links to your 
+real identity. The slightest thread may be enough 
+for the investigators to pick up on. 80 extra 
+careful using addresses and phone nunbers that wero 
+‘on any applications, making sure that no one at 
+these places knows who you are or where to find you. 
+If references are needed on some applications, use 
+out of state references of people who do not know 
+you -- doctors, lawyers, and priest know so many 
+people that they can't remember all of them. Lota 
+of them listed in the fone book too. 
+Employees 
+of at feast 12 grocery stores 
+fn the Kulumavoo area haven't len on 
+ippptocs tately, They've been ae 
+cheeks tor over $100 payable to 
+ik” and signed by “U. R. 
+SILLED FOR JAlL: Tho Stato of 
+Michigan has (led wuit egainat 
+frlaon inmate In an atermp! #0 
+alloc roam ond boord for bis 
+Sint in jl, According 10 
+patna Chares Frum, who fs 
+arving time fox receiving sialon 
+Property, the 
+sate may require 
+conics 
+ferihtta 
+doy: fomson 
+ener 
+Ferro at 
+ig ao olnlowe” 
+the dice 
+Alter third number policy 
+‘Calls made from coin phones to loca- 
+Tins outside the United States and 
+Canada now require m:.. acceptance 
+before they can be charged to a third 
+umber. 
+‘This action was taken Dec. $. ac- 
+cording 10 operator services. to help 
+protect company revenues and to guard 
+‘Against fraud problems in the interna 
+tional marker simitartothe 
+ones we have 
+eaperienced in interstate, intrastate and 
+local markets. 
+Ifan operator cannot get acceptance. 
+he or she will suggest that the call be 
+tied later or that alternate billing be 
+provided. Last year the company lost 
+about $60,000 in uncotlected revenues 
+from international cally identified as 
+fraud. 
+Even though the practice is being im- 
+plemented throughout Illinvis Bell. 
+alls handled by International Operat- 
+ing Center (10C) operators will not be 
+affected. 
+64 
+PREE BOOKS 
+No TAP reader should be without lots of reading 
+material. All the books one could ever want can 
+be obtained from the Book Clubs . . . FREE! Here 
+is the better-way-scom-it-yourself method: 
+1) Obtain some frecbie applications (Book Club 
+Membership Applications), preferably the ones that 
+are prestamped by the Book Clubs. ‘These can be 
+obtained in quantity from magazines in one's local 
+library, from one's own magazines, and in lobbies 
+of hotels and in waiting rooms. Tear out the 
+applications, fill in the selection numbers, and 
+later, at one's leisure, fill in the rest of the 
+blanks on the cards. 
+2) A suitable alias name should be used to join 
+the Book Clubs and to order other freebies. ‘The 
+alias name should be typed on a picce of paper and 
+scotch-taped te one's mailbox, notifying the post- 
+man where to deliver all the boxes of books that 
+are going to come in. 
+3) 
+It is useful to keep a list of all freebie 
+packages sent for and received. Some clubs frown 
+upon being sent two applications by the same per- 
+son, and it is easy to make this mistake when send- 
+ing’ out dozens and dozens of freebie applications. 
+By making a checkmark on the list as each package 
+comes in, outstanding packages are easily kept 
+track of. 
+4) When all the packages have come in, one can 
+take the alias name off his mailbox. A mail for- 
+warding card for the alias 
+can be sent to the Post 
+Office, stating some distant forwarding address, 
+and all the dunning letters from the Book Clubs 
+will be automatically sent away instead of clutter- 
+ing up the mailbox. 
+Qne's own address is a convenient place to receive 
+the books; however, one might want to get the books 
+sent to a mail receiving service. A mail address 
+can be located thru the Yellow Pages under “Mail 
+or “Telephone Answering Service." Frequently, one 
+will find that a Book Club offers only books that 
+he has no interest in; order them anyway and give 
+them to a friend, donate them to the jail library 
+or sell them to a used book dealer for extra cash 
+Also, remember to take advantage of the Record 
+Clubs, Tape Clubs, and other "bill-me-laters 
+-- Boobala Bumpkinski -- 
+Big Neighbor 
+Ceiling his fate 
+_isustening 7 
+WICHITA, Raa. 
+A 
+suspect briefly 
+federal 
+“fraud hotline” 
+eietueunevemoomsey 
+aliens 
 TAP, Room 603, 147 W. 42 St., NY 10036
-FREE BOOKSNo TAP readcr should be without lots of readingmaterial. All the books one could ever want canbe obtained from the Book Clubs . FREE! Hereis the better-way-scam-it-yourself method:1) Obtain some freebie applications (Book ClubMembership Applications), preferably the ones thatare prestamped by the Book Clubs. These can beobtained in quantity from magazines in one's locallibrary, from one's own magazines, and in lobbiesof hotels and in waiting rooms. Tear out Lheapplications, fill in the sclection numbers, andlater, at one's leisure, fill in the rest of theblanks on the cards.2) A suitable alias name should be used to jointhe Book Clubs and to order other freebies. Thealias name should be typed on a piece of paper andscotch-taped to one's mailbox, notifying the post-man where to deliver all the boxes of books thatare going to come in.3) It is useful to keep a list of all freebiepackages sent for and received. Some clubs frownupon being sent two applications by the same per-son, and it 18 easy to make this mistake when send-ing out dozens ana dozens of freebie applications.By making a checkmark on the list as each packagecomes in, outstanding packages are easily kepttrack of.4) When all the packages have come in, one cantake the alias name off his mailbox. A mail for-warding card for the alias can be sent to the PostOffice, stating some distant forwarding address,and all the dunning letters from the Book Clubswill be automatically sent away instead of clutter-ing up the mailbox.One's own address is a convenient place to receivethe books; however, one might want to get the bookssent to a mail receiving service. A mail addresscan be located thru the Yellow Pages under "Mail"or "Telephone Answering Service.” Frequently, onewill £ind that a Book Club offers only books thathe has no interest in; order them anyway and givethem to a friend, donate them to the ja11] libraryor sell them to a used book dealer for extra cashAlso, remember to take advantage of the RecordClubs, Tape Clubs, and other “bill-me-laters."-- Boobala Bumpkinski --in eurrea in spiteofgooa by anfof HH. — Bil’“ees Big Neighboris listeningWashington (UP1)—Shace atoll freeCeiling his fateWICHITA, Ran. (AP) — A borglary briefly federal “fraud hotline” was set up lestwerd over the beads of dozensof while await. Jeauary. Americans have sn¥ched oninginterrogationat City Hall. their ca-workers and neighbors mereEddie David war moattended in 2 holding fhan 7,100 timesAx a result, bispecters general ofthe 12 cabinet departments are investigaling almost 3,000 substantive allestions of fraud im the goveramentl¢ lips heve come in on a Ielephonecubicle and crawled jato the room's false ceiling. of ficerssaid. He moved around notsily for severai a3dozens ef employestried te guess Where be would comedown.A ladder was i and Locke fimalty ctimbed lime set wp by the General Acrountdown — to be by a crowd thai had gathered to Offier to take (ips on wasle, fraud andwatch He threw up bis hands and announced, “I'm the lilegel activity involving governmentmate enance man. Boy do you hive begswp there” moneyLocks wastaken telecestody immedi tety. The 24hour tollfree mumber b600-424 4
-HU RoteUS POSTAGEPAIDPmt No JKeashey. Ne.)

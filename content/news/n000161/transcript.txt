@@ -1,25 +1,527 @@
-A VISIT FROM THE MEBCO MAN(with apologies to Clement Clark Moore)by Jim Phelps, with technical info by Alexander MundyJwas the day before Xmas, and all thru theapettoNot a junkie was stirring, not even a mugger,Garbage was Strewn in the streets without care,With the assumption that the Sanitation Dept, eventuallywould be there;Hordes of unwanted and unneeded children were packed alluncomfortably in the tenements,While visions of ripoffs danced in their heads;Ma and J had just turned on for a long winter's high,When out on the street there arose such a clatter,I sprang from the waterbed to see what was the matter.Unlocked the gates and pushed up the sash.What should appear but 4 panel truck of Mebco IndustriesWith a little old driver, so fat and lethargic,I knew in a moment he must work for the city (indirectly).A box full of tools he took out of the truck,' He looked like a burglar ready to make a buck.He spoke not a word but went straight to his work,Removed the cover of the parking meter,And replaced the lock (which someone had driven a 2" nailinto).He trudged back to his truck, and I heard him exclaimEre be drove out of sight, "If only I had the inner key, "(see #35)1 Well, maybe one or two,You wanted it should rhyme? You think I'm MuhammadAli?Chain which fits aroundtop of meterISDos UY2. wR Meter Body©) ooLd> An= ro!Top View
-. Side rails - fit on sidesq]. O ee of pipe under meterFront View
-Ckeezcwm into key hole
-Hole is drilled and tapped in meterCAERPE _ cover and screw is inserted. Bottomscrew is then tightened with socketwrench, forcing screw against metalpole. When cover pops, crowbar is-—-- inserted and door is removed.HE-Ortr5:Right Side View
-OO.ew”DEC 1976 NO. 41HC, HO, HCIMERRY XMASISanta Claus has apparently infiltrated the Pustal "Service"and gave u8 a present. This Currier lithograph stamp is Soerasable it's incredible] Other stamps were the 1776 Revo-lution stamps out this summer and still available. But saveyour erasers| Coat stamps heavily with Elmer's Glue-Aulbefore mailing (See #38). JP
-MORE TECHNOCFREAKS WANTEDWe (Tom and Jim) are delighted by the response to ourrequest that you let us know your special skills and interests.We'll assume it's ok to discreetly pass your. name on toselected individuals for mutual benefit. So far we've heardfrom 9 computer programmers, 8 electronic technicians,7 locksmiths, 6 electrical engineers, 5 chemists and demo-lition experts, 4 private pilots, 3 Professional Engineers,2 MDs, and a lineman ina pear tree. Let's hear from YCU|Dear People:If anyone would like to purchase a set of DB plans coop-eratively, I'm willing to pul as much as $30. into it. If youdon't wish to coordinate the purchase (duplicating, etc.),have people write to me using this address. I'm willing todo the work involved. D. B.Box 517Lanesboro, MA 01237(413) 443-1449I just got Bell for $1K in a Suit for cutting down my trees,which weren't anywhere near their wires. They settled outof court, dammit! Please pass that word: they're scared todeath that people will make them stop the tree choppingshit and put their wires underground where they belong.And they don't trim - they CUT! Like they won't be botheredby growies for the next twenty-five years.TexI saw in the last issue you want PCBs for TAP projects.I have written you before offering to do this, If you areserious, please send me the correct schematics. Iownamajor audio engineering concern and therefore a completePCB shop as well as equipment for making hybrid ICs.I have a digital LCRAN (long. and lat. calculator) and adigitally programmed scanner (lo, hi, and UHF). What isthe smallest microprocessor I can uSe to program the Scan-ner according to my position as determined by the LCRAN?Midnight Man©) Youth Hot Line Reports, Inc. 1977 - Do not make checksout to Youth Hot Line Reports, PLEASE! Movement groupsmay reprint without permission if TAP's address is givenwith all credits. Please send us a copy of reprinted work.WARNING: We will prosecute copyright violators,
-
-WHEN THE SHIT HITS THE FAN!by TOM EDISONAll right TAPPERS, the shit has bit the fan! It's time weclear tha airabout TAP, Whenwe first openedup our offices,it was our expectation that NYTarea readers wouki come tothe TAPofficetoexchange informatiomand helpus to pul outissues. Whilethere have been a number of reguiar “irreguiars”who have heiped, by andlarge, thevolunteer help at TAP hasbeen pretty piss poor. As a result, Mr. Phelps and myseifhave hadto assume complete editorial respossibilities.You aid time subscribberswill remember that TAPwaspublishedirregularly, sometimes as muchas sixmonthsbetweenissues, and themailansweringcanbestbe describbedas slowerthan whate shit!When the office opened in August 1975, wa spent the firstbwo months justtrying to getrid of thebuge mound of mailthat waspiled bigh on aurdesk. By the end of September, wsnot only hadall of themailansweredbut had managedto putout theOctoberissue cfTAP.Andfor2 whole year afterwardwe came cul with an issue a month.The mailwasalso answeredas fastasitcamein. Notbadfor tro people whohave fulltime outside jobs! And while [‘m on the subject, let me justremind you that we great the TAP officeONLY on Wednesdaysfrom 4-7 PM. The mail is processedONLY on Wednesdays.Yes, dearNYCreaders. It wouldhave been so niceif youwould bave responded to ourmany pleas for halp. Wecouldbavehad awhole arsenalofreskient experts who would havewritten some fantastic articles amd columns. But you didn't,so tough shit! You had your chance and you blew it!Since Mr. Phelpa and [ are nowforced todoall thework,we are making afew newpolicy chaages. Elective Unmedi-ma. LAP willno longer be publisbed regularly. Wawill printwhen Mr. Phelpa & [ damn wellplease to print!2. Two issueswill bamailed at onetime. Bulk subscriberswill bave their two igmues stapled together. First classsubscriberswill have their two issues in the envelopeasusual.This will mean you will havealonger wait betweenissues. TOUGHII!Allinfo requestsMUSTbe accompaniedbya self addressedstamped envelope. If we bave the info, you'll get it. If wedon't, we'll return your envelope with either a note statingthat we don't bave the info or @ note bslilng you where youmightfindwhatyou're looking for. BeREASONABLE withyour info requests. Some af you seem to feel that wa're abranch of AT&Tand have access toall kindsofTELCOinfol We rely beavilyon reader suppliedinfoand if you sendus nothing, you get nothing in remrn. We don't print our"We Need Info On" column for the hell of it] Anyona whoreads ourinforequests, bas the requested info, and doesnot sent it to us canKISS MyASSIIIALL subscription renewalsMUSTbe accompanied byeither your mailinglabel or a pboto-copy of i. For YOURsecurity, we do NOT keep acopy of ourmailinglist at theoffice. Lf you sendin yourmailinglabel with your renewal,I can process your renewal immediatelyand thendestroythe label. Lf you dummies insist on renewing without yourmailing labels, your nameandaddress will probablybekicked aroundtheoffice for quitea whilebefore processing.Iam now personally handlingall new subs and renewalsand if you renew without a mailing label, don't bitch to melater on about your facked up renewal. I don't wanna bear it!Some of you cheap fuckers areseoding us rudder checksthat are bouncing higher than the Twin Towersso fromnowon AL] personal checksMUST clear your bankbefore weprocess your order. This could result in a delay of a fewmonths so if you want immediate action on your order,please send eitheramoney order or a cashier'scheck.And finallyanotetoal]our readerswho Sent us “Love"letters demarmdingtoknowwhere the bell their issuesofTAP were. We did not run off to Argentina with your damnlousy 34 sub! We're overworkedand understaffed and webave made the mistake of Spoiling you by publishinganissuea month for the past year. You expecttoo muchfromtwo people|
-a.
-6.
-As | stated in my last "UP YOURS" column, [ welcomecolumns and articles by readers. This issue we have articlesby Joe Greybound of New Jersey and Ted Vail of Diinois. Iwould appreciate it if you would let us know your opinions onthese two new writers. [Lf you would like to write an articleor column for TAP, let us bear from you. Lf you do submitan article, please wrile legibly. We will edit and correct ifnecessary and thenreturn it to you for final typing. ALl article.Submitted become the property cof TAP and cannot be returned.Address all opinions, articles, and columns to TAP </oTom Edison, Room 418, 162 West 42nd Street, N.Y. 10036,THE BIG BUST by TED VAILThe Big Bust ia yours. Let's face it, sooner or lateryou're going to be busted, especially if you carelesalyengage im illegal activities, 36 plan anead.If you are even considering an illegal act wath oetrustworthy friend, yet airtight alibis and practice them.I've assumed that you've got accomplices, Occausy a solocrime, Without even caw “stooge” {lookout} is ratwer diffidcuit.Make alidis as independent of your frients agreemest with thea@s posible, "J was with hie” is anit if he breans dm,Practice. You cannot get good at BSimg 6 Dig usless youpractice.Oneofyou play pdgesy,amiome of you play goodguy.ae leportaat thing to oractice, #0 you'll resember when thatime comes, ia to keep your ood] under pressure. DOST getscared und blab.Organize yourgroup so that mo one xsowaany more than13 necessary about ampome or anything else. Ia allitarycircles thin is called a “need to know”.Try always to appear fairly “strzig..t” in Crout of threautworitic . Ore .: oeatly. If you are in celwai, try hard taSet good crade:, at luea.t a Brains averate, You cansottoagine how much tlis helps, In addition to the usuel benefitsacoociated with urade: by temccara, ete, (which are true)there are other benefits: for instance, fmsurante rates aceusally about %§ percent lower for & average students a:theyassume that good students doa’t bave the time ta goofoff. The police and other autioritier have an idanticelattitude. If you are ecployed, work good and “ard. ot onlyGoe: thin make you more money ad a good reputation, itadvencec you ln thw company, A company, avpecially a big,taportant one, will try to belp you out of trouble if you are@ good, conscientious employee, especially if you are in ahigh, important porition. shiz will also reduce the risk ofthea Ziring you if you are busted, Look at Crunch’s case, onpage 1l of iawue 9.Omuoe you get away with a crime, sopecially ripping offsomething, you are temporarily home fres, for about 2 weeks,eo make full] use of this “cool” pertod. Don't trust anyone,e@apecially your acoomplices (az few az por:ible!) becuurethey, having most intimite xoowledwe of your crime, cangive the most danaging tertimony.If you have to hide stolen goods, avoid not only yournome but amy place that could de traceuble to you.If they esx you in for questioning, not arrest, depolitely ooo..erative and tell them a lot. Yez, a lot abouthow homest you and anyone elze they -pecifis-ll, ask "boutare, how you ever do anything curpiif-aur ,how above-bdoardyour activities are, ete. Give ars convincing and sincere‘cunding & tory as possible. Sound indignant. don't hadga.Il you -re rrre tec, be quietly ~olite. Excim..# yourrights: Siut up! Tald oly to a lawyer, ord wb? wervorvodiv tiil oonittions. Bie conmfere cc roo is wore livel:tham not bugged. DO [DT heln the ~olice in any way in anarrest,Don't permit a search to get yourself temporarily released.(They might find something illegal wich i2 totully unrelatedto your crime.) Force them to get a warrant and get a copy oftie warrant, This wastes their time, amd eontributes to apo.atdle false arrest suit.NEVER £VER inform on a friend, ever. if te eiois swornevidence against yous Personal scores car be settled later,hen, beh, and sever forget that the police are trying to getFou teed off at each other. They are the main somay, not your(ex) friend. If the police find noteing to support an accusation,Lt makes the saecuser(s) loo« like total Jerxs, Tui; is anexcellent form of quick retributiom, and depending on theanount of mosey that you (and they) have, it could lead to& lavoult for slamter or something. Perzonally, I would beglad to be aseused, falsely or otherwise, if I stdod to gain&5,000 above aad beyond court costs. If you have succeisfullyMAintaingd the respectable weege de-crided-eurlier, the judgewill be warily (chea,ly, convinced that your reputation wa:seriously damaged. Cf course, it ils to get a “not guilty”Puliag in the criai..al care,
-
-CB BULL by Joe Greyhound0g
-All Rigatill What's all the rockets and shitfor? It's to celebrate the start of another fuckinyear of TAP. WHAT?? That's no reasom for rocketsye aay? Well it's alao to celedrate ths beginning,T hope it min't the end, of a new column, Whowenta to duy a fuckin TAP when they got nothin*bout CBs in it. THAT'S RIGHT, YOU GUESSED IT!All the shit on top is to get your attsention,soyou fuckin fone freaks'll read thia new CB column.In this column we're tell you freaks,meter muffers, gas goofers, and, there gotta be CBersthat read this shit, how to modify your CBs, and doother things dealing with CBs. .Pirst off, we're gonna show ya how to put 22A inyour sets. But lemme tell ya now. 22A is a coolchannel and if you wanna mess around and f offon a CB, DON’T DO IF ON 22A82 81! a?277///, thatmeans SHIT. 22A is mainly for CBers who want sonegood skip conditions. IF you're in ny area and aregoof*’in off on 224, I°1l shove your CB up your ase.SO REMEMBER, DON'T MESS UP 22ALTTLLUPEraebegaIN ALL CRYSTAL SETS, that have from between 23and 46 crystals inside, 224 can be put in by buyinga 27.235MHr crystal, and putting it in the 22A slotin your set,IN ALL SYNTHESISED SETS, 224 in shorted out,pince it is illegal to transmit on it. This isdone mostly by cutting out parts of the wafer switchBO contact isn’t made on 22A. Sometines just fillingin these cuts with solder or a niece of thin coppersheet will give you 22A. If not, try the procedurebelow.To put 22A in SYNTHESISED SETS ONLY you'll needsome solid insulated wire, telephone wire worksfine, a soldering iron, some good electronicssolder,and a4& pole double throw switch (4PDP).Open your set and find the main crystal that'sused for channels {,2,3,and4%, and the crystal usedfor channels 21,22,shorted out 22A, and23, Afteryou've found them, unsolder’em, remember where theygo, and put them aside. Know where you want theswitch coming out of your set go you can cut thewires to the correct length. Cut pieces of wireto this length and strip about 2/16 of an inch ofinsulation off one end and about $+ “* off the other.DO THIS TO ALL & WIRESI Put the wires aside.Check the awitch in fig.2 for the pin # and readon. Solder one crystal to pins 5Sand6. Solder theother crystal to ping 7and8. [If the crystals won'tfit, use short pieces of wire. Next solder the 8wires, one to each of the remaining pins. Join thefollowing wires together as show in fig.3.Wires £411<-2612-94}-1064. OK, so far so good.Now golder the two sets of wires 94} - 10&4 tothe holes in one of the eapty crystal sockets ofthe get. In case you're a moron, ONE SET OF WIRESTO ONE HOLE OF THE SOCKET. Now solder wires 1é11 -2412 to the other empty socket like in Pig.3-4.Next mount the switch where you want it. Put thecover back and THAT'S [TTPTTTT....r08UUElFlipping the switch will reverse the crystals.This will give you 22A when you flip the switchand the channel selector is on channel 3 and 3 only.There is only so much one person can know. Tomake this column a success [ need more info on CasSo all you Ca3ersa gend in info and column comments torJoe Greyhound c/o PAP, 152 Ww. 42 ST, ROOM 418,RY 10036
-Plate on wafer seoitch.Fill in all cots on all plates.@—Use solder or copper stripscutto size.
-FIG. 1
-yp 5] *]10 edit i.al sl otiodn 04 4PDE switch11 showing numberedpins.3} 74] 8] 2FIG. 2
-Wrap togetherand solder wiresbere only.To em crystal socket.FIG. 3 |
-lst Other set of wires,set ofwires.LY La @=—— Empty socketFIG, 4 .Please excuse the typos that inevitably result when variouspeople do the typing. I realize, of course, that] am thwartincMr. Phelps in bis ongoing and neverending search for the"PERFECT" issue of TAP, butI personally am more interestedin content than correctness and I think you are too.eould wreak cu lines!.”o “Sweariagts forhédden!”e “Den’tuss eurwires as@ciathesfine|"“Outen entersmust steed aiine ‘when awey (rem Ge o “The company wil netearrect rersthe mau veigh Aderery Bell Ce. taee. Is a let reiesto itsqubacrtbers,(he pees offpenny anneunsed:WE'RE NCT THE FIRST ANYMCRE!The first publication to publish the 1977 Credit Card C-<ewas Cutlaws!, c/o Yippiel, [O07 K St NW, Wash, DC.Forall you folks who been a writin’ in askin’ fer it, bereit La:12 3 4 5 6 7 8 9 9L P W RV 2 H A Q M2GtTLETTER MATCHES (7th) SEVEANTE CO
-
-HilExcuse my writing on the graph paper, but I find that itmakes copying of my letters almost impossible,when I usea tired ribbon.Here is one of my favorite’ ripoffs. I do a lot of printedcircuit work, and use a lot of layout material. If you dropa line to Bishop Graphics, Dept, 106, 20450 Plummer St,Chatsworth, CA 91311 on a letterhead, they will send you acatalog with samples and a card for your "associates" whichcan be used to get more catalogs with more samples andmore cards, etc. etc. A good cheap way to get PC layoutstuff, for just the price of a Stamp. Agent 547Dear Tom, -I've been receiving my copies of TAP Secom-hand frommy friend Mike Packard 13513-156. We have just min intoa real roadblock though. The mail room officials herehave decided that TAP might enable us to compromise thephone system and maybe obtain information we are notSupposed to have.We are very interested in pbones, but our real interestslie in leased-line systems for Security purposes, such asMcCullough Loop metallic circuits and reversing relay w/different forms of line security, etc.Neither of us is very knowledgeable about electronics,but we are serious students, and really want to start cor-responding with Someone who has the practical knowledgewe seek.We have much info in various fields to trade, Wearetwo of only 8 or 10 men in here that can beat anything withtumblers - including TRTL - 30's, 60's, and TXTLs.Anyone with a Similar interest will know exactly what weare talking about.So writelJimmy Loyd MeadPMB 88504-1382Box 1000Leavenworth KS 66048Late calls should be freeA team of Federal Communications Commission investigators haverecommendedthattelephone callsplaced between 2:00 am and 6:00am be free.The team says that the phone companywould be better off if it followed thispolicy. It ls costing them more to keeptrack of these calls and bill the callersthan they make. This is due to the lownumbar of calls during this period.They hava so recommended thatWestern Electric and the Bell Company,both owned by American Telephone andTelegragoh, be seperated from AT and T:--A PlatefulOf TroubleAn immate at Trenton StatePrison learned the printing tradein the prison print shop andPromptly pul it to criminal use’ thepriser superintendent said yester-y.Superintendent G Hilton saldfeceral swihorities and prison of fi-ciats are trying to find out which ofmore than 20 Inmates was theone whe made a printing plate te 4icounterfeit food stamps.“It appears tobe an extremelygeod forgery,” Hilton said.The plate was found Moaday by& guard making a routine search ofthe print shep, he szid.“Hi was in an envelope, among avartety of ‘legitimate “materials,”Hilton said, explaining why author.ities did not know which inmatehad made it.He elso said that because tnmales’ mail gees eut ef the prisozpealed, it was tmpossible te deter.mine whether the plate bad actesl-ly been used te maka counterfeljfeed slamps.
-TAP,152 W. 42 ST, ROOM 418, NY 10036
-Dear JinI am an FE and interested in contributing to any electroniccountermeasures projects you may have in mind. My specialtyia logic deaign. How about publishing ideas for ocountercul-ture (anti-police, etc) electronic devices? We need a mediumfor information exchange, especially since the advent of LEAA.Now that lots of ordinary folks have microcomputers and such,we bave the hardware potential to atart battling the dataprocessing might of government and industry. How about awource of codes am standards for police patrol car datasets?They are boxes ingtalled under the dash and connected to a2-way radio (or maybe they have their own transceiver) usedfor accessing NCIC or local computers for vehicle checks,dispatches, etc, The one I’ve seen was made by Kustom Elec-tronica, Chanute,KS (same outfit that makes Kustom amplifiersfor you musicians, I think) and had a standard alphanumerickeyboardand a Burroughs self-scan diepleay (32 character neonmatrix readout). I understand they aleo will be availablewith a hard~copy printer (probably like the ones used inelectronic cash registers), I'd aseume the date ie transmitteddigitally, I don't know if it's scrambled or not, If weeculd find someone who haa this information it would mean asimple direct line to police computers (axrpensive, but forthose of us with access to free parts...) We need a contactin Law Enforcement Assistance Adminiatration or somebody whohas a contract for developing their fancy gadgets. Lota ofthis stuff is done with relatively wimple oodeg and protocolbecause they figure orooks are all grade school dropouta andjunkies.It would be helpful if you'd publish ideas such aa theabove, so those of us too lazy to think 'em up ourselvesmight be encouraged.I have @ good friend who wrote the software for tha PostOffice computers and also worked on the TSPS conacle. He'snot into sabotage but might have useful info if asked intel-ligent questions,Sorry, didn't have any Elmer'a,Agent 947
-Un - Due - ing PostageIsn't it interesting that "postage due" stamps look justlike regular P O issued stamps? All you need is a pair ofscissors lo remove the designation.Edward Extract
-Buty RATEPublished for informational purposes only by Youth Hot Line Reports, Inc. U.S". AGE. lAddressall mail and checksto FaiPorcaits 729Great Sok, HY.
+A VISIT FROM THE MEBCO MAN 
+(with apologies to Clement Clark Moore) 
+by Jim Phelps, with technical info by Alexander Mundy 
+‘Twas the day before Xmas, and all thru the gpetto 
+Not a junkie was stirring, not even a mugger; 
+Garbage was strewn in the streets without care, 
+‘With the assumption that the Sanitation Dept. eventually 
+“would be there; 
+Hordes of unwanted and unneeded children were packed all 
+uncomfortably in the tenements, 
+While visions of ripoffs danced in their. heads; 
+Ma. and I ad just turned on for a long winter's high, 
+When out on the street there arose such a clatter, 
+I sprang from the waterbed to see what was the matter. 
+Unlocked the gates and pushed up the sash. 
+What should appear but a panel truck of Mebco Industries 
+With a little old driver, so fat and lethargic, 
+I knew in a moment he must work for the city (indirectly). 
+A box full of tools he took 
+out of the truck, 
+He looked like a burglar ready to make a buck, 
+He spoke not a word but went straight to his work, 
+Removed the cover of the parking meter, 
+And replaced the lock (which someone had driven a 2" nail 
+into). 
+He trudged back to his truck, | ‘and I heard him exclaim 
+Ere he drove out of sight, "If only I hdd the inner 
+key." 
+(see #35) 
+1 Well, maybe one or two. 
+You wanted it should rhyme? You think I'm Muhammad 
+Ali? 
+Chain which fits around 
+top of meter 
+was 
+Side rails - fit on sides 
+of pipe under meter 
+= a 
+into key hole 
+Hole is drilled and tapped in meter 
+cover and screw is inserted, Bottom 
+screw is then tightened with socket 
+wrench, forcing screw against metal 
+pole, When cover pops, crowbar is 
+inserted and door is removed. 
+Right Side View 
+=~. 
+ww” 
+DEC 1976 
+NO.41 
+HO, HO, HO! 
+MERRY XMASI 
+Santa Claus has apparently infiltrated the Postal "Service" 
+‘and gavé us a present. This Currier lithograph stamp is so 
+erasable it's incredible! Other stamps were the 1776 Revo- 
+lution stamps out this summer and still available. But save 
+your erasers] Coat stamps heavily with Elmer's Glue-All 
+before mailing (See #38). 
+JP 
+MORE TECHNOFREAKS WANTED 
+We (Tom and Jim) are delighted by the response to our 
+request that you let us know your special skills and interests. 
+We'll assume it's ok to discreetly pass your. name on to 
+selected individuals for mutual benefit. So far we've heard 
+from 9 computer programmers, 8 electronic technicians, 
+7 locksmiths, 6 electrical engineers, 5 chemists and demo- 
+lition experts, 4 private pilots, 3 Professional Engineers, 
+2 MDs, and a lineman in a pear tree. Let's hear from YOU! 
+Dear People: 
+If anyone would like to purchase a set of DB plans coop- 
+eratively, I'm willing to put as much as $30. into it. Ifyou 
+don't wish to coordinate the purchase (duplicating, etc. 
+), 
+have people write to me using this address, I'm willing to 
+do the work involved. 
+D. B. 
+Box 517 
+Lanesboro, MA 01237 
+(413) 443-1449 
+I just got Beli for $1K in a suit for cutting down my trees, 
+which weren't anywhere near their wires. They settled out 
+of court, dammit! Please pass that word: they're scared to 
+death that people will make them stop the tree chopping 
+shit and put their wires underground where they belong. 
+And they don't trim - they CUT! Like they won't be bothered 
+by growies for the next twenty-five years. 
+tex 
+I saw in the last issue you want PCBs for TAP projects. 
+T have written you before offering to do this. If you are 
+serious, please send me the correct schematics. Iovma 
+major audio engineering concern and therefore a complete 
+PCB shop as well as equipment for making hybrid ICs. 
+Thave a digital LORAN (long. and lat. calculator) and a 
+digitally programmed scanner (lo, hi, and UHF). What is 
+the smallest microprocessor I can use to program the scan- 
+ner according to my position as determined by the LORAN? 
+Midnight Man 
+© Youth Hot Line Reports, Inc. 1977 - Do not make checks 
+out to Youth Hot Line Reports, PLEASE! Movement groups 
+may reprint without permission if TAP's address is given 
+with all credits. Please send us a copy of reprinted work. 
+WARNING: We will prosecute copyright violators.
+WHEN THE SHIT HITS THE FAN! 
+by TOM EDISON 
+All right TAPPERS, the shit has hit the fan! It's time we 
+clear the air about TAP, When we first opened up our office, 
+it was our expectation that NYC area readers would come to 
+the TAP office to exchange information and help us to put out 
+issues. While there have been a number of regular "irreguilars” 
+who have helped, by and large, “the volunteer help at TAP has 
+been pretty piss poor. As a‘result, Mr. Phelps and myself 
+have had to assume complete editorial responsibilities. 
+You old time subscribbers'will remember that TAP was 
+published irregularly, sometimes as much as six months 
+between issues, and the mail answering can best be describbed 
+as slower than whale shit! 
+When the office opened in August 1975, we spent the first 
+two months just trying to get rid of the huge mound of mail 
+that was piled high on our desk. By the end of September, we 
+not only had all of the mail answered but had managed to put 
+out the October issue of TAP. And for a whole year afterward 
+we came out with an issue a month. The mail was also answered 
+as fast as it came in. Not bad for two people who have full 
+time outside jobs! And while I'm on the subject, let me just 
+remind you that we are at the TAP office ONLY on Wednesdays 
+from 4-7 PM. The mail is processed ONLY on Wednesdays. 
+Yes, dear NYC readers. It would have been so nice if you 
+would have responded to our many pleas for help. We could 
+have had a whole arsenal of resident experts who would have 
+written some fantastic articles and columns. But you didn't, 
+so tough shit! You had your chance and you blew it! 
+Since Mr. Phelps and I are now forced to do all the work, 
+we are making 
+a few new policy changes. Effective immedi- 
+ately: 
+1, ‘TAP will no longer be published regularly. We will print 
+when Mr. Phelps & I damn well please to print! 
+Two issues will be mailed at one time. Bulk subscribers 
+will have their two issues stapled together. First class 
+subscribers will have their two issues in the envelope as 
+usual, This will mean you will have a longer wait between 
+issues. TOUGH!!! 
+All info requests MUST be accompanied by a self addressed 
+Stamped envelope. If we have the info, you'll get it. Ifwe 
+don't, we'll return your envelope with either a note stating 
+that we don't have the info or a note telling you where you 
+might find what you're looking for. Be REASONABLE with 
+your info requests. Some of you seem to feel that we're a 
+branch of AT&T and have access to all kinds of TELCO 
+infol We rely heavily on reader supplied info and if you send 
+us nothing, you get nothing in return. We don't print our 
+"We Need Info On" column for the hell of itl Anyone who 
+reads our info requests, has the requested info, and does 
+not sent it to us can KISS MY ASS!!! 
+ALL subscription renewals MUST be accompanied by 
+either your mailing label or a photo-copy of it. For YOUR 
+security, we do NOT keep a copy of our mailing list at the 
+office. If you send in your mailing label with your renewal, 
+I can process your renewal immediately and then destroy 
+the label. If you dummies insist on renewing without your 
+mailing labels, your name and address will probably be 
+kicked around the office for quite a while before processing. 
+Tam now personally handling all new subs and renewals 
+and if you renew without a mailing label, don't bitch to me 
+later on about your fucked up renewal. I don't wanna hear it! 
+Some of you cheap fuckers are sending us rubber checks 
+that are bouncing higher than the Twin Towers so from now 
+on ALL personal checks 
+MUST clear your bank before we 
+Process your order. This could result in a delay of a few 
+months so if you want immediate action on your order, 
+please send either a money order or a cashier's check. 
+And finally a note to all our readers who sent us "Love" 
+letters demanding to know where the hell their issues of 
+‘TAP were. We did not run off to Argentina with your damn 
+lousy $4 sub! We're overworked and understaffed and we 
+have made the mistake of spoiling you by publishing an 
+issue a month for the past year. You expect too much from 
+two people! 
+2, 
+3. 
+6. 
+As I stated in my last "UP YOURS" column, I welcome 
+columns and articles by readers. This issue we have articles 
+by Joe Greyhound of New Jersey and Ted Vail of Illinois. I 
+would appreciate it if you would let us know your opinions on 
+these two new writers, If you would like to write an article 
+or column for TAP, let us hear from you. If you do submit 
+an article, please write legibly. We will edit and correct if 
+necessary and then return it to you for final typing. All articles 
+submitted become the property of TAP and cannot be returned. 
+Address all opinions, articles, and columns to TAP c/o 
+Tom Edison, Room 418, 152 West 42nd Street, N, Y, 10036, 
+THE BIG BUST by TED VAIL 
+‘The Big Bust is yours. Let's face it, sooner or later 
+you're going to be busted, especially if you carelessly 
+engage in illegal activities, so plan ahead. 
+If you are even considering an illegal act with a 
+trustworthy friend, get airtight alibis and practice them. 
+I've assumed that you've got accomplices, because a solo 
+crime, without even one “stooge” (lockout) is 
+rather difficult. 
+Make alibis as independent of your friends’ agreement with them 
+as possible. "I was with him” is shit if he breaks down, 
+Practice. You cannot get good at BSing a pig unless 
+you 
+practice. One of you play piggy, and one of you play good guy. 
+An important thing to practice, so you'll remember when the 
+time comes, is to keep your cool under pressure. DONT get 
+scared and blab. 
+Organize your group so that no one knows any more than 
+is necessary about anyone or anything elec. In military 
+circles this is called a "need to know". 
+‘Try always to appear fairly "straight" 
+in front of the 
+autuoritie.. Dre:s neatly. If you are in 
+school, try hard to 
+get good gradez, at leaxt a B minus average. You cannot 
+daagine how much this helps, In addition to the uaual venefite 
+associated with grades by teachers, etc. (which are true) 
+there are other benefits: for instance, insurance rates are 
+usually about % percent lower for 8 average students as 
+‘they assume that good students don't have the time to goof 
+off, The police and other autiorities have an identical 
+attitude. If you are exployed, work good and hard. lot only 
+does thiz make you more money ard a good reputation, it 
+advences you in the company. A company, expecially a big, 
+important one, will try to help you out of trouble if you are 
+a good, conscientious employee, especially if you are in a 
+high, important position. This will also reduce the rick of 
+them firing you if you are busted. Look at Crunch's case, on 
+Page 1 of issue 39. 
+Once you get away with a crime, eopecially ripping off 
+something, you are temporarily home free, for about 2 weeks, 
+80 make full use of this "cool" period. Don't trust anyone, 
+especially your accomplices (ae few as porsible:) becuuse 
+they, having most intimate knov:ledge of your crime, can 
+give the most damaging testimony. 
+If you have to hide stolen goods, avoid not only your 
+home but any place that could be traceable to you. 
+If they ask you in for questioning, rot arrest, be 
+politely coo;erative and tell them a lot. Yes, a lot about 
+how honest you and anyone elze they pecificnlly ask about 
+are, how you never do anything cucpici-ur ,how above-board 
+your activities are, ete. Give ar convincing and sincere 
+Sounding a story as possible. Sound indignant. Don't hedge. 
+If you »re errete¢, be quietly volite. Excercire your 
+rights! 
+Shut up! Tald 
+only to a lawyer, and only u.der 
+confide:ticl] conditions, Tie conference reon is more likely 
+tham not bugged. DO NOT help the nolice in any way in an 
+arrest, © 
+Don't permit a search to get yourself temporarily released. 
+(They might find something illegal which 42 totally unrelated 
+to your crime.) Force them to get a warrant and get a copy of 
+the warrant, This wastes their time, and contributes to @ 
+pozsible false arrest suit. 
+HEVER EVER inform on a friend, even if he signs sworn 
+evidence against you! Personal scores can be settled later, 
+heh, heh, and never forget that the police are trying to get 
+you teed off at each other, They are the main eneny, not your 
+(ex) friend. If the police find nothing to support an accusation, 
+it makes the accuser(s) look like total jerks. This 1 an 
+excellent form of quick retribution, and depending on the 
+anount of money that you (and they) have, it could lead to 
+@ lavauit for slander or something. Personally, I would be 
+glad to be accused,.falsely or otherwise, if I stood to gain 
+25,000 above and beyond court costs. If you have successfully 
+maintained the respectable image dercribed earlier, the judge 
+will be earily (cheaply) convinced that your reputation was 
+seriously demaged. Cf course, it helys to get a "not guilty” 
+ruling in the criminal case,
+CB BULL by Joe Greyhound. 
+hoe 
+NU Bowen en) 
+6° 
+es 
+8 
+All Right!!! What's all the rockets and shit 
+for? It's to celebrate 
+the start of another fuckin 
+year of TAP, WHAT?? That's no reason for rockets 
+ya say? Well it's also to celebrate the beginning, 
+I hope it ain't the end, of a new colum. Who 
+wants to buy a fuckin TAP when they got nothin 
+"bout CBs in it. THAT'S RIGHT, YOU GUESSED ITI 
+All the shit on top is to get your attention,so 
+you fuckin fone freaks‘'ll read this new CB column. 
+In this column we're 
+a tell you freaks, 
+meter muffers, gas goofers, and, there gotta be CBers 
+that read this shit, how to modify your CBs, and do 
+other things dealing with CBs. 
+. 
+First off, we're gonna show ya how to put 22A in 
+your sets. But lemme tell ya now. 
+22A is a cool 
+channel and if you wanna mess around ng of off 
+on a CB, DON'T DO IT ON 22AL8431 @077772, “a that 
+means SHIT, 22A is mainly for CBers who want some 
+good skip conditions, 
+IF you're in my area and are 
+goof'in off on 22A, I'll shove your CB up your ass. 
+SO REMEMBER, DON'T MESS UP 22ANtRUirqUuenenile 
+IN ALL CRYSTAL SETS, that have from between 23 
+and 46 crystals inside, 22A can be put in by buying 
+a 27.235bHz crystal, and putting it in the 22A slot 
+in your set. 
+IN ALL SYNTHESISED SETS, 22A is shorted out, 
+since it is illegal to transmit on it. This is 
+done mostly by cutting out parts of the wafer switch 
+so contact isn't made on 22A. Sometimes just filling 
+in these cuts with solder or a piece of thin copper 
+sheet will give you 22A, 
+If 
+» try the procedure 
+ow. 
+To put 22A in SYNTHESISED SETS ONLY you'll need 
+some solid insulated wire, telephone wire works 
+fine, a soldering iron, some good ‘electronics 
+solder,and a'4 pole double throw switch (4PDT). 
+Open your set and find the main crystal that's 
+used for channels 1,2,3,and4, and the crystal used 
+for channels 21,22,shorted out 22A, and23, After 
+you've found them, unsolder‘em, remember where they 
+go, and put them aside. Know where you want the 
+switch coming out of your set so you can cut the 
+wires to the correct length. Cut 8 pieces of wire 
+to this length and strip about 2/16 of an inch of 
+insulation off one end and about 4" off the other. 
+DO THIS.TO ALL 8 WIRES! 
+Put the wires aside. 
+Check the switch in fig.2 for the pin #s and read 
+on. Solder one crystal to pins 5and6. Solder the 
+other crystal to pins 7and8. If the crystals won't 
+fit, use short pieces of wire. Next solder the 8 
+wires, one to each of the remaining pins. Join the 
+following wires together as shown in fig.3. 
+Wires 1411-2612-9&3-1084, OK, so far so good. 
+Now solder the two sets of wires 9&3 - 10&4 to 
+the holes in one of the empty crystal sockets of 
+the set. In case you're a moron, ONE SET OF WIRES 
+TO ONE HOLE OF THE SOCKET. Now solder wires 1&11 - 
+2412 to the other empty socket like in Fig.3-4. 
+Next mount the switch where you want it. Put the 
+cover back and THAT'S ITTTTTTT,.. 0000121 
+Flipping the switch will reverse the crystals. 
+This will give you 22A when you flip the switch 
+and the channel selector is on channel 3 and 3 only. 
+There is only so much one person can know. To 
+make this column a success I need more info on CBs 
+So all you CBers send in info and column comments to: 
+Joe Greyhound c/o TAP, 152 W. 42 ST, ROOM 418, 
+NY 10036 
+Plate on wafer switch. 
+Fill in all cuts on all plates. 
+Use 
+solder or copper strips 
+cut to size, 
+Fic. 
+1 
+Bottom of 4PDT switch 
+showing numbered pins. - 
+FIG. 2 
+Wrap together and solder wires 
+here only. 
+To empty crystal socket. 
+FIG, 3 
+ist 
+Other set of wires. 
+set of 
+wires, 
+. 
+us LL <— Empty socket 
+FIG, 4 
+Please excuse the typos that inevitably result when various 
+people do the typing. I realize, of course, that Iam thwarting 
+Mr. Phelps in bis ongoing and neverending search for the 
+"PERFECT" issue of TAP, but 
+I personally am more interested 
+in content than correctness and I think you are too. 
+WE'RE NOT THE FIRST ANYMORE! 
+The first publication to publish the 1977 Credit Card Cxde 
+was Qutlaws!, c/o Yippie!, 1007 K St NW, Wash, DC. 
+For all you folks who been a writin’ in askin’ fer it, here 
+it is: 123 45 6789 
+9 
+LPWRV2Z@HA®QM 
+LETTER MATCHES (7th) SEVENTH DIGIT
+Hil 
+Excuse my writing-on the graph paper, but,I find that it 
+makes copying of my letters almost impossible,when I use 
+a tired ribbon. 
+Here is one of my favorite'ripoffs. I do a lot of printed 
+circuit work, and use a lot of layout material. If you drop 
+a line to Bishop Graphics, Dept. 106, 20450 Plummer St, 
+Chatsworth, CA 91311 on a letterhead, they will send you a 
+catalog with samples and a card for your "associates" which 
+can be used to get more catalogs with more samples and 
+more cards, etc. etc. A good cheap way to get PC layout 
+stuff, for just the price of a stamp. 
+Agent 547 
+Dear Tom, 
+I've been receiving my copies of TAP second-hand from 
+my friend Mike Packard 13613-156, We have just run into 
+@ real roadblock though. The mail room officials here 
+have decided that TAP might enable us to compromise the 
+phone system and maybe obtain information we are not 
+Supposed to have. 
+We are very interested in phones, but our real interests 
+lie in leased-line systems for security purposes, such as 
+McCullough Loop metallic circuits and reversing relay w/ 
+different forms of line security, etc. 
+Neither of us is very knowledgeable about electronics, 
+but we are serious students, and really want to start cor- 
+responding with someone who.has the practical knowledge 
+we seek. 
+We bave much info in various fields to trade. We are 
+two of only 8 or 10-men in here that can beat anything with 
+tumblers - including TRTL - 30's, 60's, and TXTLs. 
+Anyone with a similar interest will know exactly what we 
+are talking about. 
+So write! 
+Jimmy Loyd Mead 
+PMB 86504-132 
+Box 1000 
+Leavenworth KS 66048 
+Late calls should be free 
+A team of Federal Communica 
+tions Commission investigators have 
+recommended that telephone calls 
+placed between 2:00 am and 6:00 
+am be free. 
+‘The team says that the phone company 
+would 
+be better off if it followed this 
+policy. {tls costing them more to keop 
+‘rack of these calls and bill the callers 
+‘than they make. This is dué to the low 
+number of calls during this period. 
+‘They have also recommended that 
+‘Western Electric and the Bell Company, 
+‘both owned by American Telephone and 
+‘Telegraph, 
+be seperated from-AT-and 7: - - 
+A Plateful 
+Of Trouble 
+An inmate at Trenton State 
+Prison learned the printing trade 
+in the ‘prison print shop and 
+Promptly put it to eriminal uso; the 
+prison superintendent said yester- 
+ries end prin ett 
+ct 
+to find out which 
+af 
+fhe who made a printing plate 
+to 
+41 
+counterfelt food stamps. 
+“It appears to ‘be an extremely 
+ry,” 
+Hilton said. 
+. 
+was in an envelope, smong 
+varely of legitimate “materials,” 
+Hilton said, explaining why author. 
+{ties did net know whieh inmate 
+‘had made it, 
+‘Published for informational purposes only by Youth Hot Line Reports, Inc. 
+‘Address 
+all mall and checks to 
+TAP, 15,2 W. 42 ST, ROOM 418, NY 10036 
+Desr Jim 
+Tam an EE and interested in contributing to any electronic 
+countermeasures projects you may have in mind, My specialty 
+is 
+logic design, How about publiehing idese for coutercul- 
+ture (anti-police,: ete) electronic devices? FWe need a medium 
+for information 
+» especially since the advent of LEAA, 
+Now that lots of ordinary folks have microcomputers and such, 
+we have the hardware potential to start battling the dat 
+Processing might of goverment and industry. How about 
+source of codes and standards for police patrol car datasets? 
+They are boxes installed under the dash and connected to a 
+2-way radio (or maybe they have their om transceiver) used 
+for accessing NCIC or local computers for vehicle checks, 
+dispatches, eto. 
+The one I've seen me made by Kustom Elec- 
+(same outfit that makes Kustom amplifiers 
+I think) and had a standard alphanumeric 
+keyboardand a Burroughs self-acan display (32 character neon 
+matrix readout). I understand they also will be available 
+with a hard-copy printer (probably 
+like the ones used in 
+electronic cash registers), I'd 
+escume the data te tranemitted 
+digitally. I don't know if it's 
+scrambled or not. If we 
+could find someone who has this information it would mean a 
+simple direct line to police computers (expensive, but for 
+those of us with access to free 
+parts...) We need 
+a contact 
+in law Enforcenent Assistance Adminis’ 
+has a contract for developing their fancy gadge’ 
+this stuff is done with relatively simple codes and protocol 
+Because ‘they figure crooks are all grade school dropouts and 
+junkies. 
+It would be helpful if you'd publieh ideas euch as the 
+above, so those of us too lazy to think ‘en up ourselves 
+might be encouraged, 
+I have a good friend who wrote the software for the Post 
+Office computers and also worked on the TSPS console, He'a 
+not into sabotage but might have useful info if asked intel- 
+ligent questions, 
+Sorry, didn't have any Elmer's, 
+Agent 947 
+Un - Due - ing Postage 
+Isn't it interesting that "postage due” stamps look just 
+like regular P O issued stamps? All you need is a pair of 
+scissors to remove the designation. 
+Edward Extract 
+BULK RATE 
+U.S. POSTAGE

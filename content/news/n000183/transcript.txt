@@ -1,41 +1,993 @@
-How to modify your Bell Touch Tone Foneto have 1633 cycle tonéby The BagicianIn issue 62 of TAP, I gave you information onthe use of 1633 cycle tones for setting up tollfree loop-arounds, mass conferencing, and becoagingthe information operator as vell a8 applicationswith Autoron.Wow I will describe how to modify a standardBell Touch Tone fone to have the extra four 1633buttons. An excallent article on this subjectappeared in the April, 1975 issue of the nowdefunct "TEL" magazine. The aodification is verysimple and requires only a SPDT toggle switch (Irecommend a miniature type) and a little hookupwire, Pirst, unscrew the screws on the bottom ofthe fone and repove the cover. You will see theTouch Tone pad on a supporting bracket. Loosenthe two screws on either side of the pad andgently lift it from the supporting bracket beingcareful not to break any wires. The pad isanclosed in a clear, thin plastic snap case.Remove the top section of the case and put itaside. Remove the bottom section and allow it torest on the wires leading to the Touch Tone pad.The pad (bottom up) should look like theaccompanying diagraan. Locate the two toroiatransfocmers that produce the Touch Tonefrequencies. They ere large and donut shaped(labelled 2597 AS in diagram). Remove theprotector on the left one, if present. On thebottom edge of the pad about one inch down fromthe toroid transformers, you will see a three poleterminal strip (labelled 1! in diagras). On someTouch Tone fones, the terminal strips are replacedby a yellow-orange wire. lf you have one ofthese, just cut the wire in the middle, strip bothends, and these will correspond +o the normallyused terminals. Locate the terminal on the leftand separate the *wo pieces of 7777 metal, one ontop on one on the bottoms, being very careful notto break them off. Cut two one foot pieces ofinsulated wire anid strip a little from both endson each wire, Mow take one and solder it to thebottom half of the separated terminals. Wow takethe other piece ani solder it to the top half ofthe terminal, the top half being that side withthe toroid transforasers. Label the two wires "A"and "B“ with pieces of tape with the top one beingwaATM.There should be two strips of five solderterminals, one on top and one on the bottom of theleft toroid transformer. We are interested in thebottom one. The fourth terminal from the left(labelled 2 in diagram) is the tap for 1633 (PaBell uses "standardized" components for all TouchTone encoders whether Sx# or the normal 3x4, gothe 1633 tap is there but not used). Cut anotherpiece of wire (about one foot) and strip. bothends. Solder one end of this wire to the 4thterminal, being careful that you get a good solderJoint and that you are not touching any of theother terminals. Label this wire "CC" and = conwires FA", PBP, and "CTM through the bottom plasticcase along with all the other wires. Replace theplastic protector on the toroid transformer (ifthere was one) and Snap the plastic pad enclosingcass back around the Touch Tone pad. Take the padand put it back in position on its support bracketand tighten the two holding screws.Install the SPDT switch anywhere on thetelephone cover where it will not get in the wayof components inside the phone. A good place hasbeen found to be the little compartment under thehook switch on the case, looking from the back.Bow take your wire labelled "A" and solder it tothe middle terminal of the SPDT switch. Wow takethe other wires "B" and "C" and solder them to theleft and right side of the switch. Put the coverback on the fone and hook up the phone to yourline. If all went well, you should have themormal 3x8 touch tones with the switch in oneposition and when flipped to the other position,your last column of & buttons becomes the 1633tones ! If it doesn't work, check your solderconnections to the switch and make sure you havethe correct wire connected to the msiddle terminalof the SPDT switch. The connection to the switchis the wost cosmonly made mistake.When placing a regular call, remember to usethe reaular %&77 tone instead of 1633 or-you willget a reorder. If this happens enough, Pa BellBight send a repair man to see what is wrong withyour line. If you have any questions, comments,etc., please feel free to write se, The Magician,c/o TAP.
-TOP
-SUMMER 1980 NO. 63
-_G&|. Al3) Plu LoS -el @|O 1/8 aa_
-ooBl X|m[o|>| _|.|..|.SIR IBS~~ r- bea|&
-PUPA OPITM Om ops pA“y ChcestrePomeetyry af Titoeyes Miyreshy, Peneyinsthense lves 78 “Conpunicetionn Pot*syi 7h TM met oan;quict afternoon in Varnusry in the Los Phyelen eresho Plirsuss the future of feeess to the telecon:neteark Sy the hobhyicte (phrechsy. Snechern a4from ar far rs tha Migvest, eac the paar Cac inettend the gqathoring. The mesring won Sy{nvitatian only, sa mony phreske via Jier on tleWeek carst mey not even Save foune out tte ELNelde,Raptein Centree, 6 thy cst Re noe rohan.phrockh, haste’ the eanference., Us eiseraner neu,Volt exitching conputers which cre nuytting t]a, fphresks out of the “fren fonenTM apino of ecV)tnyaroun’ the worle for a dre rye ae ee Inq ote imebiick). Cheshire Cate tynt, af tia “ew Yar. ritybrsee TAP newaletrar telheet chaut gettworle telex netuori, fn’ ahour ecuipnrentyY the“4 eps yopt o telepcone ineustry tres canfrepence in Toney:Pwitzerlerns tie attentor Joep Cartoon. 7. ue tintof the yrthering was thet OpuSors fre be kingover the telephone cudtehdngy varte, one othepoeesis be? Sebkher Myeh Obits" PL ahay staywont ta rule thet fnicrovurver,Pofew Pell Syston ffims cere shoeun, TheVac} ~
-of Cuese VES ONO PALIN Mya [Alin Uachine®TM wstateloo hbdehly receanreare) for eione reaple interenterIn cviteling equipment. Th oornte set teoea'ingc:]mut ft is e pretty fitn. "Priority Taner ian,Filn rhout the fire in - ‘tay varbk Te loypshon-:Bi itchina center us rFiss HAghty rokhet tiv thineritinel viewers dn the sucdenece. cuesa ftlecave itaSte for civic arours, nf electronic'\. BR . eo nw ] ; ~-ried so ydsh Tallods, (Tose rj Your Yorn) Pele stan
-~
-OevOrmwVeny husiactsne yF eiee for imform: tian AN byt bey1 ms ly e q o- ‘ nm .DOT ES. raw 3 firs. Mort ineerenetsonk teleotn esrJue rect, spr ather “iine, for you rs wel’,
-
-LETTERS FROM READERSCONSUMERTRONICS CO.201! CRESCENT DRWVE + FO BOX 475 Talk back! "A EULPSiaN 1-10-30 ALAMOGOROO NEW MEXICO 686310iar —even tooe Pam,Dore rowed your Justi,yues WF TAS. Thank you very mash ler vour jdasemrome OL AML HE. Dhone Co.inne ad flyes,REESE: subs. Piptions is tust under JH Caind grouing las.Pin doserdlarc. opres ob our bast (afer issues. You may reprint any perl oF thea bul au:At least if new Customers to dare Girectly que (oO (Nat ad, bringing our fig FITYAS ARE RECRINED tree practically everyrwenpisisie wwe letal shoneNaie With Webermivece erat & tpisias petae af bebpjieumens“trom KRHRI. PLO) Boe 675, Alamogordo, <M dda.” Froa time torime, $ sill pneert 4little bDlurckh on TAK (free ot charges because | do want 10 vee vou Survive. letter whensnheoeese'(ha tare thet Une?are “ abum very sorry io hear thal your Subssriptions are diving. | tAink thal a Oly provica Le sedinace”(BEL can't beet walk tressche pireet teB CompeliOr phEse | copymS inal your studf is too cyxuteris .Pum a MOREE wilh plenty 3: applicstiony vaperence anaPostel} get dose on come ab yur gether. ANd. unturlunaiciy, @o>! peome dunt snare yourstrong disttke for Ma fell. The byous are gone - rms is Lovkingecutebur-No. kL ume' | what tim we dof” they ash,Bax It) lem of 6hevr loumi that folal obsession against the visbitves Aas limited dsnancial tulure, MY main bag gnesess le eatsblich.‘ ' ' 4 senow mtd acl VLRVIVAL' C still ger in my kicks agaist the mrp-off utitities 10 get my rocks Like meat COnnumers. | believe ear phews ayrinmevif bul the main ubpeciivr is Pood 0d herp nee lo Ady Survival information. | have pound mm Dellet teen ony eben in ihe werkd Like anthat many Amemeans ate expecting Vs A cmed Repellion. Bs Total Kcomemc 1. ollapse. and. or creetwig oumpber of senaumers, | fhink wu couldti boregn Power Invasiin, very soun, 0 dOnt De alarmeu if they von’) get excited abow bor then H it miibity, eupetially waichcredi cardcails and red boxes.( hange your format fu reflery thls Change In people’s interests and obcrives, and yOuwill be stronger than vver, as unusual and hard-ro-lind wife. is now very mech in demand.Also, consider selling books and pamphics< of your Own creations, jusi as 1 do. hey uoprovide linancsal secuciiy diflerem than chat prowided by a perrodival.All my prinling 1% donecommercially, Vis cxpensaive. Six months ago, | invested heavily inte printing equipmentaad Supplies iy dui myself - an cepensive disaster. [Re press turaed ow to De a percepnk ($1. 300"), which I've mostly repaired myself. AH DICK parts afd labor are asiro-1 understand thar you are Considering JOINg your uwn printing,
-micel (ehen you can find themed! Supplies ace numerous und rrpensive. jis a reai artio sacbeselis,work, maintain and repeie Offsel presses, not to mention very time cONSumMINY umd ist Plain Afr a three-year a xrowgtated Par Shere, snd ined the Fublic Law j>hard work. Rubber giovea are tine until you lose a piece of paper in the form roller, which coted Par sine cdi i rteyou have (oO dig ow with your fingernails - inky hands may ruin your meals and sex life. And Counctl of Older Amoriesas, #4 Une alberney 268-oral’s élite, Une Peohea presse buy» pow very fitthe withour an wiiset piatemaker, paper jogger, folding machine, powerslapler, €fC., G1C. - 11 gets Oul ai hand FAST’| have found thal doung my Own Layout work very :ateresting and profitable. [| have « Vern-typer B20 Headliner and /0 foms, 2 940 Olwetar propoctianal typewoner (thts letier) and « canadvnanhaateartedl tnereeetvee leetight table o& my own consiruction. | can make you some headlines free of charge, jutt let me vay tanea ore in werent aswhose narvion nee cutkpow and I'll send you a Copy of the lonrs that | have. | utderstand that Zenith [nternanonal. off fer wTthin tee oz pantie,ore requires Ws peut & d@g00n. Uvaioenesmt whe bare64) E. 20h. St., NYC has Veritypers a: reasonable price (Conditions unknown).Well, fake care. Have a good day. Keep on truching.lest Regards,1S,\ 4 7 _~f -a %s Lown Zhi ies,me o co«< > Jonn |. Williams. President+s ~~e Visit Phun CityOTWeby ChecnireMany people visit the Big Apeke cach yeer.Hany attend tne voriouc trade snows arncanzerences. Ceners, come tO earcn 3 Brosdway snowor visit rhe ocher wonderous gigquits tne City nasto offer. A few come in on Fraday evenings From §to & PM to SNITe the companionship af Lellawrechaology freaks who cn ay agod tood, end goodbecr in tn@ back OF a smoll ‘festaurcnt on west 4thSt (between Gth ind 7¢h avenucel in world famousCecenwicn Valleac.Bronmys:4 tg 9 amoll Green costaucane with >host of miadle cast specialties. (For tnose intoGreek, Dut not Creek tood, Coristanpner st us aDlock mortn, tur Jon’: oxpect us ro jon you) Agcoup of TAP’r writerca ond “ditors gather nere inthe pack ,oam, ond swipe information on tne laresein soectlire eeennology and telconane awitecriny,mo3e ol woich never fees trineg in TAP for vecciousreasons. [lorg cf if tS sure dull gnit)22 you've wanted ro come in to visit, outnever nid sAywnere ta stey, write - couole ctPONENS iN Mivance cl your visit, ond we wall treytO Sreninn~ for you to S$tcoy with ane nt TAP'SmOtby crew of requilses. Fonm’t exccct rucn oretncn x Pacce of filcoc end Gi.cpinda usg, Cutyou're certrinby welcero to sneer Sorce 18averiable., urate tO TAP st tae rail Vres cocress,and wyrk the oavelose “lousay CertireeeTM. Tk yourcompany im cen ing yow an ~;Ou yuBE want to attonerther And cvp, CF Arve 7 loctkh «.aw you trounr,TUBE uel IA COueH. S few of or nave ttheWESLORAF sere wes Mee eee ON ses CRON ECweecount Tucss ro qrere see eve ase art to menedeligar of all.HOPS ¢€O See vo seen,
-Lf a pall Lg meme ba Lidbe Ihe coempeeymelpettyCastemer 18 d07— 36 atvence os shutedf of sarvec®i Psaned.& Uusipeers falling bealed in bali payments my
-::!66days injail eee beneeocvice iewesrs. Cald Ptr aulk porweaal ee ae phoma FECVitg |v a Lou F hove the right te » shal aff petigenement af 2¢a
-Dens Treebs bess, af owner of a small business 15really burned with Ma Bell. He claims they doubleor triplhe the number of times ne cails frequentlycalled numbers, At 9¢ per call, they manage taget a sretty good bill worked up.My boss once carried bia Complsiats up intohigher managewent levela and once was hromised bysomeone high us thet he would have aocounter installed. This never materiaiizedaod the lower levels claim no auch device exists.I would like to ask TAP readers what theyknow sadout “his subject. If they don’t exist,how hard would it be ta develop tham{ Theremaght be & pretty good iarket for such iteus.a@ an electriciam and often tastal! cendurtfor teleshone and other Communicatio: systems.Those Hell employees are the mQst strociousbunch of loafers you're ever ~oing to see. Notonly that, they've been knorn to sadotage theequipment of independent xystems.I Bave persanal Knowledge that Beil will1yacre ceftain rules «hen tnev {fo some typesov installation but mamke the inde-endentsfollow wvery rule to the letlerr,The ‘mega Mac
-qesstion thee | Heteghett of vacunmendlsurrender|
-
-MIXED TOPICS by Ayunt MDA
-Tha> on@ ham strong poassibilatiegs for the entreA sixleen-year-vid yarcl obtainad @ bunchprenw#uls:of c@cBonw from credit card ruceipts. (These acethe carbons lerkt aver after: Master Charge, BankAmexicard, and American Express (ransactions.) Shehad gotten the carbons from the trash bins of largedepartment stores, and from the carbons she got as-sential data like card holder's name. account #,. andCard expiaration date. Than she rented a mail ad-dress, dnd using the data from the carbon copies,She telephone ordered lotsa af salable merchandiselike cameras and color TV's, billing ov item to@ach account. The merchantu gent the goods to herrented mail addreas without question, where it waspicked up and quackly solid. This hustling Littlegarl would probably have gottan away with the scan,but ashe was picked up by Che pollce two monthshater on a different charge (golicrting har bottor),and when her pucee@ wae searched, they found over ahundred credit card carbons. Upon investigationthe police fnund out from the cradit card companiesthat many af the accounte were defrauded by fonaorder, and tha girl was consequently charged. ftgot this story from the rent-a-box people, so Inever got to find out why the girl wap still carry-ing around all thoasa scammed-—-out carbons.Knowing a good opportunity when he saw it, aquick witted fraend of mine wae abla to pick up a$300 freebie. Ge had ordered an expensive micro-Phone from Edmunds Scientific Company and had itbilled to his Master Charge Card -~ no signatureig required for fone orders. The ltem was sentdirect from the manufacturer, not from Edpunds aswas expected, and 1t was sent uningured: no sig-nature was required to receive it, (Lf it wassent insured, or signature required, a non-signa-Cure -- an iliegible scribble -- can be given. Phefilegible scrabbie is not a2 legal signature for allPractical purposes, i.e. it probably wouldn't holdup in court a8 a signature.) After getting thepackage. he quickly called Master Charge to put astop payment on the bill for the microphone, andhe callad the Cataloyue Company, too: "Gee, Xxnavar did got that item that I ordered froa yourCompany. aAré@ youl sure that it was sent to me? Inever get it. Anyway, I no longer need it, so can-cel the order."Chuck the Duck from califomia has discovered aNew trick with airplane tickets. Recentiy he pur-chased soma airplane tickets with non-sufficientfundus (MSF) checks. On tha ticketa. in the areanext to the “Gow Paid Por,” was written *“Chack.”These Cickets cannot be Urcuught back for an ‘tmme-diate cash refund. 30, he took a red pen thatmatched the ink on the tickets, and he scratchedeut "“Chack” and wrote in “Cawh” next to it. Hethan went to 4 diffecunt aiciline end traded in thetickets that he just altered, and he received nawCickets back with just “Cash" in the “How Paid Por”box. The next day he brought the new tickets Dackfor a £ull cash refund, which waa twice ag auch ashe was previously getting on the Black Markat.Bere’s another novel plane ticket scam fronChuck the Duck: Chuck called up an airline andordered a coast-to-cosst round trip ticket, Heveed hig own name to order the ticket. but he had4t ment to a friend's addraas. tle had a tone inhis nawe, but it was disconnected, i.@. not a worxk-ing fone, The ticket, beiive-it-or-not. was sentto the friend’s address, It may heve been justluck that the ticket was sent, but if 1t was duato airline practice, then I can make the followinginferences: 1) tha airline didn’t call his tone @before sending the ticket, and if they did, theywill send a ticket to a disconnected fona; 2) theairline didnt verify that he lived at the addreuswhere the tickwt was being sent, and 3) the airlinedidnt check (to see if the fone @ address and theaddress wher@ tha ticket wag being sent were theSame, or it doean't matter. VUpon thease agsuspCiona,then. it may be possible to order tickets to a dia-connected fone (or to any name in the fone book),and have the tackets sent to a place wheres they canbu safe@iy packed uo. @.4. 2 rcent-a-box of a vacantmail box.
-@aicline fickets are lake airiaremuney, anc they <ca% be use: with rwamse certween dif-f@rent sik latiags: 16K examoce, being « United trcket“OQ AM@risan (or vice versa) and rote hd@w -ladlychey Wala. Jccept their cotoetitor’d ticket. ThereAre, Towever. A few general rules worth ~-oting.Acciing Qickets ace “nun-Cransferable” surd one jaeto say that e@ as the per3ton whose name .2 on thericke@t. Aiso, most airlines will not stop a ticketone@ it ig :asued. unless it if a ticket that hasoe@en reported ioat or stolen, Tickets that werebought with NSP checks, and tickata that were fonaordered and not paid for, will be honored by mostairlines, except for the aarline that orsgainallygot beat for the ticket. So, if you at@ joing tobuy & cut-rate-ticket, ask the s@eller how he got it.avoad lost or stoian tickeaca, and usa the Cicketwith a different aarline.
-Purtner ory,
-FREE AIRPLANE TICKET UFDATEIn TAP Yasue #57,4, JP mentioned that he didn't knowlf thas method -- wratang non-aufficient fund checksfor plane tickets ~- stiil works. Agent MDA repoctsthat the mathod if @57.4 18 stili valid in 1979 andWill probably continue to be valid as long aa thaairlines accept persoual chacxs.BLUE BOX SPEAKERSTAP Yasues 29 £6 12, among others, wention usingtelephone earpieces for blue box speakers. Hasanyone tried getting one of the little devils outof a new fortress fone lately?First, the screw-on-cap that is over the ear-Piece as glued onto the handset, and it if notfaasable to unscrew it Dy almcat any amount ofhand pressure,Then, if the screw-on-cap is sawed off at theseam where it meets the handset, most likely thafine copper wire coi] around the earpiece will getsawed up, tog. A lot of Care must be taken ingawing, OF Olherwine 1.emoving, the @arpicce. Thisis not easily dons out in the open at a publicplace. Therefore the fone hanidsat, or the earpiecehousiny, should be taken home or sqmewnhere where onecan work uo1 getting the earpiece out intact.The telephone cannot be easily yanked away frowthe booth; the stainless steel cable that halda thahandset tro the coin box 18 pretty tough. The cablecannot be eaaily sawed, or cut with a patr of snips,but a@ Large bolt cutter will do the job (if it issharp) »Sawing the talephone handset in half and takingaway tha earpiece side is about the moet practicalmethod for thugze without bolt cutters. A omallifine-toothed gew will cut through the handset inabout a minute,Getting the earpiece cut of the handset, evenat home with tools, is harder than trying to opena clam with your fingernails. After most af theplastic has bean romoved from the vrrplece halfof the handset, the remainder wust be removed care-fully. Melting away the plastic with a heatedscrewdriver, soldering iron, or other instrumentis tedious; vice-grip pliars were more affectivein peeling away the unwanted plastic, carufully,from around the earpiece.Tha whole procedure from start to Finish taoxan hour and a half. There must be an easier way.What do you do when you nued 4 Gozen earpiscer foras Many boxes? Can they be bought surplus?
-VE Goer tr.7 Tonty Citt vou cCose ~e,‘ if ice ae sl, vou're wcreirs ele,= 16 fcr ° eecaecur oxbin vou ritery.PACRATT tT ee prev o.ce T's rel,bk. P€ for se eapt yl ose ee crt.L 5 Gr itn ps l 77 “3.
-<= p oF
-
-RAO Credit Card Codes201 093,094,101 408 293618204 ,547A Telephone Credit Card Number is ‘|!digits, dividedJ_ Fehon The first ten digits are the phone202 032 412 030,042 701 =133 number being charged to. The next three are a billing203 020 413 009 702 176 code (the Regional Accounting Office, or RAO). A list of204 456 414 088,089 703 033 the major ones is at the left. The final digit is for205 054 415 158,159,167 704 319 verification, and changes annually. For 1°80 (1/1/80 to206 163 1g 126478 ne me 1/31/81), the verification digit has to match the SIXTHdigit of the - :“08 039,120 118 505 12 31] git charged-to number. The code 4s:209 254,289 419 057,248 713° 105,151 6th digit: 123 45 67 8 9 0212 07,021,023, 501 147 714) 164,182 check digit: 48it59 26037072,074 502 048 715 202,3302 066,183,184 53 see ne 5 028 Example: phone number 202-456-1414’ Credit C - - -o18 081,083 505 102 301 158 edit Card Number 202- 456-1414-0324 e216 050,082 506 45] 802 002 (To use the Credit Card Number from outside North TM217 081,314 507 310 803 189 America, an International Prefix must be added. The218 236 509 128 B04 257 1960 International Prefix is 1X.)219 320 S12 186,152 BOS 252,25530) 011 513 077,185 806 103 No set of rules can take the place of common sense302 010 514 470,472 807 481 but there are a f3 153 B15 134 ROB 461 Numbers ® are a few basics to using Telephone Credit Card304 034 516 127 809 490 (P.R.) Make Credit Card calls ONLY from pay phones (there's305 044,180 517 095 812 32) no record of the originating phone), and at random times306 457 518 024 813 531 and locations. Always be courteous to the operator (think307 137 519 484 B14 208,307 how much company shit s/he has to put up with), and remem-308 237 601 059 815 087 ber that s/he may listen to some of your conversation.309 203,260,277 602 064 816 144 [It is harder to trace someone who never uses the same312 086,097,098, 603 004 817 150 Credit Card Number twice. Long Distance Information js196,234 604 493 819 474 free, and with a little imagination, there are endless313 083,096 605 138 901 187 possibilities. Since the cajl does end up on someone's314 143,177,251 606 31? 902 452 phone bill, don't make up numbers at random.315 W3 607 025 904 056 When a fraudulent Credit Card call is reported to316 140 608 201,329 806 295 company Security, they may hassle the recipient of the317 08d 609 10) 907 492 call. If the call went through an institut{fonal switch-318 O05} 612 126 912 316 board, they're stuck. If the call went to an individual,319 332 613 473 913 145 they may call and try ties, sympathy, intimidation, or40} 019 614 079 914 069 whatever may get money or information. Or they may just402 139 615 Oy a ae stick the call onto the bill, months later. So only callndividual will -404 035,063 617 001,006,007, 918 141 ing theie ghone Se em Om the phone and sharp read405 148,215 008 919 036 And not too often.406 154 e ‘liJustice Is Blind Reuse of stamps costs Postal Service millionsTo Piekpocket WASHINGTON (AP) — A Nebraska year because of theSeoul (AP)—During the trial of awean sccusedof picking pockets inreese cen Keres, vomeone picked «Searing wncanceladpostagestarnpecifthe pockets ef threepeoste in the =the boss’incomingmail sad resting = knowledgesdoing itasaway to Cugallery and escaped with $63. therm. downon mailing expenses.The cash-starvedPostalServicesays CarotysAndradeTRUTH IN ADVERTISINGThe Tulare Cownty. California,Sheriff's Department is looking [orthe man who left two officers hoktbag the bag.he beg it seems, was brownrand held horse manure...worth. Earker, undercoveragents had arranged for the purchaseof two pounds of marijuana and thebagof manure was what they got.he police may have difficulty in.geting a conviction since the culpritwas heard on a tape recording of thetransaction clearly state, “Hey. ..a's good shu.”STORRS, Conn (AP) — The Universityof Coa-necticutrecently inetabled a $16,000carmputersy3-ternto help heap people outof the Inutitute of Ma-terial SciencesTheWee was to cutdown on thefts. It didn't
-senator's office aldes aren! the outyones ving lo save a Jew bechs by
-HS dosing$25million bo $75milion a
-tice, whichhappensto be acreneSen. EdwardZortacky'sofficem-wiststo
-rac:federal
-_ adrnixistrative as-the Nebraska Democra!, saidBack Issues are 50¢ each. Issue #50 is $1.00.Subscriptjons - 10 issues - US Bulk rate $5.US First Class in plain sealed envelope $7.Canada & Mexico First Class $7.Foreign $8.IMPORTANT] Include mailing label or Xerox copywhen writing to TAP about your subscription.Electronics Courses ~ 50¢ each. A - DC Basics,B - AC Basics, C - Phone Basics, D- Amplifiers.TAPMugs - $4, dO,TAP T-shirts - $4.50. Specify size and color:Medium, Large, Extra Large. Black or red T-shirtwith whiteTAPlogo.TAP "Cracked Bell" Patch - $1. 50.TAP "Cracked Bell" Button - 50¢ each.
-y “Og a show day | get & teHK worth of stampsoffincomingjetters That's like picking mp mancy inthe street.”She contendedthatsince the stampsapparemiy miss the Postal Service'sconcefiation machinery, theycanly be rewsed.She saidUne
-vice “ought to be a Httle more carefelat lookingaf the thousands of detta
-" SLAITIpSCold and calculatedBAKERSFIELD, Calf. (AP) — A robberved3 con-Tectivedabou a poidupwasfaThe 7-Eleven clerk. Brucewas accosted by by Armed man wes:mg amask Monday and was belt hq the:
-tin stamps) Usat are bemgued everPostal officials say Ht weeld be impractical to try to [rnd aad prosecitethe manypeopit Whore-usesacanceied
-work.Petice reportedsysiern [rerethe Institute'sbulidingThereds y thetsemveenestolethe
-"Gentiomen, | hiaiwantedte remindyeu fhe!theharne* oneof we horete onFRE agent.”
-TAP Cassette Tape - $3.00. Hear Capt Crunch, Al Bell,Joe Engressia, and Bell Security Chief John Doherty.Send cash, check, or money order to:TAP, Room 603, 147 W. 42 St., NY 10036‘P alwass keep a sapptyof Uanellm hast maesere a snake nheckh | akeheep bums = MOF bichbs63NEW YORK (AP) — Tre AmericmTelephope & Telagrapa Co.. ciling the
-Tee weekly newspaper reports in Rscurrent tsome [hat with 063lawvers on Itspayroll, ATT bs the largest private emtploverof full-time lawyerscago's Baber & McKenzbe with $12 law.yers and New York's Shearmen & Sterlingwith 2a me Lew Jeurnel 520i.
-Telephone privacydetailed in bookletNEWARK(AP) —New Jersey Bellhesa bevkbetthet gives cusiarmerstionabewt their rights to letephoneaad how thecomspaity thecustomers
-Ma Bell finaly got wise to a directorybening forwhat was more = housc Hian 7Taunton. Almxachusetes, phone book.home and dropped Forni Kare fromue
+flov to modify your Bell Touch Tone Pone 
+to have 1633 cycle 
+toné 
+by The Magician 
+In issue 62 of TAP, I gave you information on 
+the use of 1633 cyzle tones for setting up toll 
+free loop-arounds, mass conferencing, and becosing 
+the information operator as 
+12 
+pplications 
+with Autovon. 
+Wow I will describe hoy 
+to modify a standard 
+Bell Touch Tone 
+fone to have th 
+extra four 1633 
+buttons. 
+An excellent article on this subject 
+appeared inthe April, 
+1975 issue of the now 
+defunct "TEL" wagazine. The modification is very 
+simple and requires only a SPDT toggle svitch (I 
+recommend a siniature type) anda little hookup 
+wire. Pirst, unscrev the screvs on the hottos of 
+the fone 
+and. 
+remove 
+the cover. You will see the 
+Touch Tone pad on a supporting bracket. 
+Loosen 
+the two screvs on either side of the pad and 
+gently lift it from the supporting bracket being 
+careful not to break any 
+vir 
+The 
+pad is 
+enclosed in a clear, thin plastic snap ca: 
+Resove the top section of the case and put it 
+aside. feaove the bottom section and allow it to 
+rest on the vires leading to the Touch Tone pad. 
+The pad (bottom up) 
+should look like the 
+accompanying diagra 
+Locate 
+the two toroid 
+transformers 
+that 
+produce 
+the 
+Touch 
+Tone 
+frequencis 
+They are large and donut shaped 
+Qabelled 
+2597 
+AS in diagram). | Remove 
+the 
+protector on the left one, if present. On the 
+bottom edge of the pad about one inch dova fr 
+the toroid transforaers, you vill see a three po: 
+terminal strip (labelled 1 in diagraa). 
+On some 
+Touch Tone fones, the terainal strips are replaced 
+by a yellow-orange wire. 
+I£ you have one of 
+these, just cut the vire in the aiddie, strip both 
+ends, and these will correspond to the normally 
+used terminals. 
+Locate the terminal on the left 
+and separate the two piec 
+of 7??? metal, one on 
+top on one on the bottom, 
+being very careful not 
+to break them off. 
+Cut two one foot pieces of 
+insulated vire and strip a little from both ends 
+on each vire. 
+How take one and solder it to the 
+bottom half of the separated tersinals. Wow take 
+the other piece and solder it to the top 
+half of 
+the terminal, the top half being that side vith 
+the toroid transformers. 
+Label 
+the tvo vires "A" 
+and "B" vith pieces of tape vith the top one being 
+There should be tvo strips of five solder 
+tersinals, one on tp and one on the bottom of the 
+left toroid transforaer. We are interested in the 
+The fourth terminal froa the left 
+in diagram) is 
+tl 
+for 1633 (Pa 
+indardized" components for all Touch 
+Tone encoders vhether 4x4 or the normal 3x9, so 
+the 1633 tap is there but not used). Cut another 
+piece of vire (about one foot) and strip both 
+ends. 
+Solder one ond of this vire to the Sth 
+terminal, being careful that you get a good solder 
+joint and that you are not touching any of the 
+Other terminals. Label this vire "C® and run 
+vires "A", "B", 
+and "C" through the bottom plastic 
+case 
+along with 
+1 the other wires 
+plastic protector on the toroid tran 
+there 
+one) and snap the plastic pad 
+case back around the Touch Tone pad. Take 
+and put it back in position on its support 
+and tighten the tvo holding screvs. 
+Install the SPDT svitch anyvhere on the 
+telephone cover vhere it will not get in the vay 
+of components inside the phone. 
+& good place has 
+been found to be the little compartment under the 
+hook svitch on the case, looking from the back. 
+Now take your wire labelled "A" and solder it to 
+the middle terminal of the SPDT svitch. Nov take 
+the other vires 
+"B" and "Cc" 
+and solder them to the 
+left and right side of the svitch. Put the cover 
+back on 
+the fone and hook up 
+the phone 
+your 
+If all vent well, you should 
+hi 
+the 
+3x4 touch tones vith the svitch 
+one 
+position and vhen Elipped to the other position, 
+your last coluan of 4 buttons becomes the 1633 
+tones I 
+If it doesn't work, check your solder 
+Gonnections to the switch and make sure you have 
+the correct wire connected to the aiddle tersinal 
+of the SPDT svitch. The connection to the svitch 
+is the most commonly made mistake. 
+When placing a regular call, reneaber to use 
+the regular 1477 tone instead of 1633 or-you will 
+& reorder. 
+If this happens enough, Pa Bell 
+aight send a repair aan to see vhat is vrong vith 
+your line. 
+I£ you have any questions, coments, 
+etc.. please feel free to write we, The Magician, 
+c/o TAP. 
+Bs, 
+SUMMER 1980 
+NO. 63 
+Hep 
+—- 
+= 
+woe} 9 
+§-f-pl= 
+le 
+|S2S 
+1336 
+2 
+A 
+a 
+0 
+—o- 
+oO 
+1299) 
+1 
+7 
+7 
+on 
+770 
+[aso 
+91 
+0) 
+PHRRACS PHTWE Phi MTN EA 
+by Cheshtre 
+2 menting af Phone Phreake, Euneying 
+thensclves es °Conrunications Hobhylrts” mat on + 
+quict afternoon in January in the Los Angeles #ren 
+to “iscuss the future of recess to the ti 
+network by the hobbyists 
+(phresks). 
+fron as far as the iduest, rar the Fast Corst to 
+attend the gathering. The mezting we hy 
+invitation only, so many phrecks wha Vive en the 
+at corst may not even have foune out 
+th 
+ele, 
+Captein Centrex, 7 
+est hase phone 
+Phreek, koste* the conference. ta Piscusned acu 
+Pell switching conputers wiich sre putting the 
+Phreaks out of the “free foxes" 
+arene of calling 
+éround the world for a ine (ené yrtting the fiae 
+back). Cheshire Cris) 
+2 Of tie 
+Ww York. City 
+besee TAP newsletter talked chaut reese to the 
+Worlé telex network, en? sheur equipment 
+“fspteyor 
+at a teleplone 
+infustry trevtr 
+Peneus 
+Feitzerlen? | 
+- dist 
+of the yathering was th 
+fe teking 
+over the telephone switching 
+\ 
+othe 
+pheecks hea Necker “yet cigital® if they stil? 
+want te rule tht (nicro).aves. 
+few Ge21 System fins were shan 
+of these ws one celine? "the flin “aching 
+is highly reccanneaesd for those plople inter. 
+in suftching equipsent. Th Aoenn't get te 
+but it is » pretty film. 
+"Priority tanegiate 
+Flln rhout the fire in ¢ 
+‘au york Telspho: 
+siitehing center 
+wis elso highly rete 
+eriticr] vicwore in 
+the aurience. these fine see 
+eveilehla for civic grougs, and electronic 
+habtyist clubs. 
+your loca! telephane 
+ny hucinens 
+office for Infornition an tou ta 
+thos? files. 
+‘ort Infepentent telcots ern 
+aot ather Cling, for you rs well,
+LETTERS FROM READERS 
+CONSUMERTRONICS CO. 
+TOM EDISON 
+TAP 
+2011 CRESCENT DRIVE « 
+P.O. BOX 
+ALAMOGORDO, NEW MEXICO 88310 
+1-18-80 
+Dear Tom, 
+I received your last issues of TAP. Thank you very much for your placement of REBEL 
+in the ad flyer. 
+At least 12 new customers to date direetly due to that ad, bringing our total 
+REBEL subscriptions to just under 200 (and growing fast). 
++ 
+Enclosed are copies of our last three issues. You may reprint any part of them but add: 
+‘rom REBEL, P.O. Box 475. Alamogordo, NM 88310. 
+From time to time, | will insert a 
+little blurb on TAP (free of charge) because 1 do want to sec you survive. 
+1am very sorry to hear that your subscriptions are diving. 
+1 think that a big problem 
+is that your stuff is to esoteric. 1 am a MSE with plenty of applications experience and 
+T still 
+get lost 
+on some of your articles. 
+And, unfortunately, most people don't share your 
+strong dislike for Ma Bell. The 1960s are gone - this is Looking-Out-For-No. 1 ime! 1 
+have found that 
+total obsession 
+against the 
+utilities has limited financial 
+furure- My main bag 
+now is to sell 
+SURVIVAL! I still get in my kicks against the 
+rip-of 
+utilities to get my rocks 
+off but the main 
+objective is easy and 
+inexpensive 
+ta. apply 
+survival information. 1 have found 
+that many Americans are expecting: A) A rmed Rebellion, B) Total Economic+Collapse, and/or 
+C) Foreign Power Invasion, very soon. So don't be alarmed if they don’t get excited about 
+credit card calls and red boxes. 
+Change your format to reflect this change in people's interests and objectives, and you 
+will be stronger than ever, as unusual and hard-to-find info. is now very much in demand. 
+Also, consider selling books and pamphlets of your own creations, just as 1 do. They do 
+provide financial security different than that provided by a periodical. 
+1 understand 
+that you are considering doing your own pri 
+All my printing is done 
+commercially. It is expensive. Six months ago, I invested heavily 
+into priming equipment 
+and supplies to do it myself - an expensive disaster. The press turned out to be a piece of 
+junk ($1,300!!), which I've mostly repaired myself. AB DICK parts and labor are astro~ 
+nomical (when you can find them)! Supplies are numerous and expensive. Its 4 real 
+art to 
+work, maintain and repair offset presses, not to mention very time consuming and just plain 
+hard work. Rubber gloves are fine until you lose a piece of paper in the form roller, 
+which 
+you have to dig out with your fingernails 
+- inky hands may ruin your meals and sex life. And 
+a press buys you very 
+littte srithout an offset platemaker, paper jogger, folding machine, power 
+stapler, etc., etc. ~ it gets out of hand FAST! 
+T have found that doing my own 
+Inyout work very interesting and profitable. I have a Veri- 
+typer 820 Headliner and 70 fonts, 
+a 94C Olivetti proportional typewriter (this letter) and a 
+light table of my own construction. 1 can make you some headlines free of charge, Just let me 
+know and 1'Il send you a copy of the fonts that Ihave. I understand that Zenith International, 
+41 E. 20th. St., NYC has Veritypers at reasonable price (conditions unknown). 
+Well, take care. Have a good day. Keep on trucking. 
+Best Regards, 
+oN 
+Jobo. 6b hea 
+John J. Williams, President 
+Visit Phun City 
+So 
+Ome 
+by Cheshire 
+Hany people visit the Big Apple cach year. 
+Many attend the various trade shows and 
+conferences. Others, come to catch a Broadway show 
+or visit the other wonderous sights the City has 
+to offer. A few come in on Friday evenings from 5 
+to 8 PM to share the companionship of fellow 
+technology freaks who enjoy good food, and good 
+beer in the back of a small restaurant on test 4th 
+St (between 6th and 7th avenues) in world famous 
+Greenwich Village. 
+Dionysia is a sma}l Greck restaurant with o 
+host of middle cast specialties. (For those into 
+Greek, but not Greek food, Christopher St is a 
+block north, but don't expect us to join you) A 
+group of TAP's writers and editors gather here in 
+the back room, and swsp information on the latest 
+in satellite technology and telephone switching, 
+most of which never secs print in TAP for verious 
+reasons. (lots of it is pure bull shit) 
+really burn 
+called numbe: 
+Tt you've wanted to come in to visit, but 
+never had onywhere to stzy, write e couple of 
+months in advance of your visit, and we will try 
+to arcninge for you to stay with one of TAP'S 
+motly crew of regulars. Don't expect much rore 
+than 2 picce of floor and 2 sleeping beg, but 
+you're certcinly welcome to what 
+space is 
+available, Write to TAP at the moil 
+drop eddress, 
+ger 
+tetep 
+and mark the envelope "Housing Committee". If your 
+Fi och 2 ost, 
+company is sending you and you just want to gct 
+unch 
+of 
+leater 
+together and rap, or have a local snow you around, 
+just get in touch. & few of us have helped 
+visiting pnreaks spresd around those expense 
+account bucks to great advontage and to the 
+delignt of oli. 
+Granny’s pot luck: 
+you're ever going to 5 
+only that, they've been known to sabotage the 
+equipment of independent systems. 
+I have personal knowledge that Bell will 
+ignore certain rules when they do some types 
+of installation but make the independents 
+Talk back 
+—even to 
+ETERS ARE RECEIVED from 
+‘similar 
+every 
+sbout 
+phone 
+vice Toere's spec 
+sue of beiltzuss 
+ic rans a hae ber ware ca 
+Gominates an area, mast be fully sccountatie te tts 
+‘customers, If a tility commiaton does not initiate 
+‘the questioning of whether eny rate schedule a com> 
+‘Taat's 
+happening la many communities where tn- 
+eat coos frag 
+ich have sade Poot 
+Seri a ee 
+esd ee rand 
+ome 
+‘those who despair, take 
+| 
+! if 
+‘4. Customers 
+falling behind tn bill 
+arrange for installment payments over » maxim 
+eipntmonth period with no interest charges. 
+box, an owner of « small businoss is 
+with Ma Bell. He claims they double 
+or triple the number of times he calls frequently 
++ At 
+9¢ per call, they 
+manage 
+to 
+get « pretty good bill vorked w 
+My boss once carried his c 
+higher management love: 
+someone high up that he would 
+installed. This nover materisliz 
+‘and the lover levels claim no such device oxists. 
+I would like to a 
+know about this subject. If they don't exist, 
+how hard would it be to develop thea? There 
+~ 
+might be a pretty good market for such items. 
+I 
+am an electrician and often install conduit 
+Jeints up into 
+as promised by 
+and on 
+TaP readers vhat they 
+ior systema. 
+follow every rule to the letter. 
+Hope to see you scon. 
+The Omega Man
+MIXED TOPICS by Agent MDA 
+‘This one has strong possibilities for the entre- 
+Preneurs: A sixteen-year-old girl obtained a bunch 
+of carbons from credit card receipts. 
+(These are 
+the carbons left over after Master Charge, Bank 
+Americard, and American Express transactions.) 
+Shi 
+hhad gotten the carbons from the trash bins of larg 
+department stores, and from the carbons she got es- 
+sential data like card holder's name, account #, and 
+card expiration date. Then she rented a mail ad- 
+dress, and using the data from the carbon copies, 
+she telephone ordered lots of salable merchandise 
+like cameras and color TV's, 
+billing oae item to 
+each account. ‘The merchants 
+sent the goods to her 
+rented mail address 
+without question, where it w 
+picked up and quickly sold. Thies hustling littl 
+girl would probably have gotten away with the scam, 
+but she was picked up by the police two months 
+later on a different charge (soliciting her bottou), 
+and when her purse was searched, they found over a 
+hundred credit card carbons, Upon investigation 
+the police found out from the credit card companies 
+that 
+many of the accounte were defrauded by fone 
+order, 
+and the girl was consequently charged. T 
+got this story from the rent-a-box people, so I 
+never got to find out why the girl was still carry- 
+ing around all those scammed-out carbor 
+Knowing a good opportunity when he saw it, a 
+quick witted friend of mine was ab: 
+$300 freebie. He had ordered an expensive micro- 
+phone from Edmunds Scientific Company and had it 
+billed to his Master Charge Card -- no signature 
+is required for fone orders. 
+The item was sent 
+direct from the manufacturer, not from Edmunds 
+was expected, and it was sent uninsured; no 
+nature was required to receive it. 
+(If it was 
+sent insured, or signature required, a non-signa- 
+ture 
+in illegible scribble -- can be given, The 
+illegible scribble 
+is not a legal signature for all 
+practical purpos 
+. it probably wouldn't hold 
+up in court as a signature.) After getting the 
+package, he quickly called Master Chazge to put a 
+stop payment on the bill for the microphone, and 
+he called the Catalogue Company, too: “Gee, I 
+never did get that item that I ordered from your 
+company. Axe you sure that it was sent to me? I 
+never got it. Anyway, I no longer need it, so can- 
+cel the order." 
+Chuck the Duck from California has discovered a 
+new trick with airplane tickets. Recently he pur- 
+chased some airplane tickets with non-sufficient 
+funds (NSP) checks. 
+On the tickets, in the area 
+next to the “How 
+Paid For,” was written “Check.” 
+These tickets cannot be brought back for an imme~ 
+diate cash refund. So, he took a red pen that 
+matched the ink on the tickets, 
+and he scratched 
+out “Check“ and wrote in "Cash 
+xt to it. 
+He 
+then went to a different airline and traded in the 
+tickets that he just altered, and he received new 
+tickets back with just “Cash* in the “How Paid For” 
+box. The next day he brought the new tickets back 
+for a full cash refund, which was twice as much as 
+he was previously getting on the Black Market. 
+Here's another novel plane ticket scam from 
+Chuck the Duck: Chuck called up an airline and 
+ordered a coast-to-coast round trip ticket. He 
+used his own name to order the ticket, but he had 
+it sent to a friend's 
+addre: 
+He had a fone in 
+his name, but it was 
+disconnected, i.e. not a work- 
+ing fone. The ticket, belive-it-or-not, was 
+sent 
+to the friend's addre 
+It may have been just 
+luck that the ticket was sent, but if it was due 
+to airline practice, then I can make the following 
+inferences: 
+1) the airline didn't call his fone # 
+before sending the ticket, and if they did, they 
+will send a ticket to a disconnected fone; 2) the 
+airline didnt verify that he lived 
+at the address 
+where the ticket was being 
+sent, and 3) the 
+airline 
+didn't check to see if the fone # address and the 
+address where the ticket was being 
+sent were the 
+same, or it doesn't matter. Upon these 
+assumption 
+then, it may be possible to order tickets to a dis- 
+connected fone (or to any name in the fone book), 
+and have the tickets sent to a place where they can 
+be safely picked up, e.g. a rent-a-box or a vacant 
+mail box. 
+Purthermore, airline tackets are like airline 
+money, and they can be used with 
+ease between dif- 
+ferent airlines; for example, bring a United ticket 
+to American (or vice versa) and note how gladly 
+they will accept their competitor's ticket. There 
+are, however, a few general rules worth noting. 
+Airline tickets are “non-transferable” and one has 
+to say that he is the person whose name is on the 
+ticket. Also, most airlines will not stop a ticket 
+once it is issued, unless it is a ticket that has 
+been reported lost or stolen. Tickets that were 
+bought with NSF checks, and tickets that were fone 
+ordered and not paid for, will be honored by most 
+airlines, 
+except for the airline that originally - 
+got beat for the ticket. So, if you are going to 
+buy a cut-rate-ticket, ask the seller how he got it, 
+avoid lost or stolen tickets, and use the ticket 
+with a different airline. 
+FREE AIRPLANE TICKET UPDATE 
+In TAP Issue #57.4, JP mentioned that he didn't know 
+if this method -- writing non-sufficient fund checks 
+for plane tickets 
+-- still works. 
+Agent MDA reports 
+that the method in #57.4 is still valid in 1979 and 
+will probably continue to be valid as long as the 
+airlines accept personal checks. 
+BLUE BOX SPEAKERS 
+TAP Issues 29 & 12, among others, mention using 
+telephone earpieces for blue box speakers. Has 
+anyone tried getting one of the little devils out 
+of a new fortress fone lately? 
+First, 
+the ecrew-on-cap that is over the ear- 
+piece is glued onto the handset, 
+and it is not 
+feasable to unscrew it by almost any amount of 
+hand pressure. 
+‘Then, if the screw-on-cap is sawed off at the 
+seam where it meets the handset, most likely the 
+fine copper wire coil around the earpiece will get 
+gawed up, too. A lot of care must be taken in 
+awing, or otherwise removing, the earpiuce. This 
+s not easily done out in the open at @ public 
+place. Therefore the fone handset, or the earpiece 
+housing, should be taken home or somewhere where one 
+can work on getting the 
+earpiece out intact. 
+The telephone cannot be easily yanked away from 
+the booth; the stainless 
+steel cable that holds the 
+handset to the coin box is pretty tough. The cable 
+cannot be easily sawed,or cut with a pair of snips, 
+but a Large bolt cutter will do the job (if it is 
+sharp) . 
+Sawing the telephone handset in half and taking 
+away the earpiece side 
+is about the most practjcal 
+method for those without bolt cutters. 
+A small 
+fine-toothed saw will cut through the handset in 
+about a minute. 
+Getting the earpiece out of the handset, even 
+at home with tools, is harder than trying to open 
+a clam with your fingernails. After most of the 
+plastic has been removed from the earpiece half 
+Of the handset, the remainder must be removed care- 
+fully. Melting away the plastic with a heated 
+screwdriver, soldering iron, or other instrument 
+is tedious; vice-grip pliers were more effective 
+in peeling away the unwanted plastic, carefully, 
+from around the earpiece. 
+The whole procedure from start to finish took 
+an hour and a half. There must be an easier way. 
+What do you do when you need a dozen earpieces for 
+ae many boxes? 
+Can they be bought surplus? 
+HA 
+is for tne money tnat you cost ne. 
+is for your age, you're getting old. 
+is for the buciness calls you crery. 
+a 
+8 
+There's got 
+to be 9 better way I'm told. 
+& 
+is for the 
+earful 
+20 eneertul. 
+t 
+is for long distance bil'r so long. 
+(L) Tnis is juet to tell you tnat I'm leaving. 
+Good-bye 
+Hr Bell, netlo ‘rericon. 
+Prom an FCA ?recicor =6.
+RAO Credit Card Codes 
+A Telephone Credit Card Number is 
+%4 
+digits, divided 
+201 093,094,101 
+408 293 
+618 204,547 
+3- 2-4-4. The first ten digits are the phone 
+202 032 
+412 030,042 
+701 133 
+number being charged to. The next three are a billing 
+203 020 
+413° 009 
+702 176 
+code (the Regfonal Accounting Office, or RAO). A list of 
+204 456 
+414 088,089 
+703 033 
+the major ones is at the left. The final digit is for 
+205 054 
+415 158,159,167 708 319 
+verification, and changes annually. For 1980 (1/1/80 to 
+206 163 
+416 476,478 
+705 477 
+1/31/81),° the verification digit has to match the SIXTH 
+207 003 
+417 
+(157 
+707 223 
+digit of the charged-to number. The code is: 
+1s 
+208 039,120 
+418 505 
+72 31 
+oidc 
+209° 254, 
+419° 057,248 
+713 105,151 
+6th digit: 
+1234567890 @ 
+Se 
+212 017,021,023, 
+501147 
+714 166,182 
+check digit: 
+48159 26037¢ 
+o 
+072,074 
+502 048 
+715 202,330 
+Pi 
+z 
+213 066,183,184 
+503 131 
+716 026 
+Example: 
+phone number 
+202-456-1414 
+214 149 
+504 046 
+717 027,028 
+Credit Card Number 202-456-1414-0324 
+215 041,043 
+505 102 
+801 155 
+me 
+216 050,082 
+506 451 
+802 002 
+{To use the Credit Card Number from outside North 
+217 081,314 
+50? 310 
+803 189 
+America, an International Prefix must be added. The 
+218 236 
+509 128 
+804 257 
+1980 International Prefix is 1X.) 
+219 320 
+512 146,152 
+805 252,255 
+301 011 
+513 07,185 
+806 103 
+No set of rules can take the place of common sense, 
+302 010 
+514 470,472 
+807 481 
+but there are a few basics to using Telephone Credit Card 
+303. 153 
+515 134 
+808 461 
+Numbers. 
+304 034 
+516 127 
+809 490 (P.R.) 
+Make Credit Card calls ONLY from pay phones (there's 
+305 044,180 
+517 095 
+812 321 
+no record of the originating phone), and at random times 
+306 457 
+518 024 
+813 531 
+and locations. Always be courteous to the operator (think 
+307-137 
+519 484 
+814 208,307 
+how mich company shit s/he has to put up with), and remen- 
+308 237 
+601 059 
+815 087 
+ber that s/he may listen to some of your conversation. 
+309 203,260,277 
+602 064 
+816 144 
+It 1s harder to trace someone who never uses the same 
+312 086,097,098, © 603 004 
+817 150 
+Credit Card umber twice. Long Distance Information is 
+196,234 
+604 493 
+B19 474 
+free, and with a little imagination, there are endless 
+313 083,096 
+605 138 
+901 187 
+possibilities. Since the call does'end up on someone's 
+314 143,177,251 
+606 317 
+902 452 
+Phone bi11, don’t make up numbers at random. 
+315 303 
+607 025 
+904 056 
+When a fraudulent Credit Card call is reported to 
+316 140 
+608 201,329 
+906 295 
+company Security, they may hassle the recipient of the 
+317° 080 
+609 101 
+907 492 
+call. If the cail went 
+jh an institutional switch 
+318 051 
+612 126 
+912 316 
+board, they're stuck. If the cal] went to an individual, 
+319 312 
+613 473 
+913 145 
+they may call and try lies, sympathy, intimidation, or 
+401 019 
+614 079 
+914 069 
+whatever may get money or information. Or they may just 
+402 139 
+615 047 
+915 221 
+stick the cal] onto the bill, months later. So only call 
+403 454 
+616 084 
+916 160 
+individuals who will be dumb on the phone and sharp read- 
+404 035,063 
+617 001,006,007, 918 141 
+ing their phone bills. 
+405 148,215 
+008 
+919 036 
+‘And not too often. 
+. 
+406 154 
+. 
+: 
+Justice Is Bind Reuse of stamps costs Postal Service millions 
+= A Nebrasta 
+Oy 
+a slow day 1 get 83 
+10 vice “ooghtw bea ttle more caret 
+To Pickpocket SC ice MOGI Situ somes 
+ee Ae a picking pockets 
+in 05 tying to mave a few tacks by 
+crime 
+tera, That's lke packing op roney (2 
+(in stampa) that are being used er 
+Feemn, South Koren, someone picked  ‘oaring canceled postage lampe cf! Sen, Ewart Zortuahy’s 
+office st- the siret.” 
+since the 
+snd re agin 
+tn wma te oe 
+ievpbckets 
+of three people in the the boss’ incoming mall and reesing knowledges 
+doing il as a way to cut She contended 
+tot, 
+amps 
+Post 
+fy it wm 
+See Te 
+sartatmnen Saeatimee, Taare Seeatnelin ata 
+is folng 23 mallon to 9 ello 
+sistant to the Nebraska Democrat, 
+said — ly be reused. 
+She. 
+the Postal 
+Ser. 
+stamps, 
+TRUTH IN ADVERTISING 
+‘The Tulare County, California, 
+Sheriffs Department is looking 
+for 
+the man who left rwo officers 
+hold- 
+oftwo 
+bag 
+of manure was what t 
+"Hive police may have difcaty ia 
+getting a conviction since the culprit 
+‘was heard 
+on a tape recording 
+of 
+the 
+twansaction clearly state, “Hey. 
+STORRS, Coon. (AP) — The Universty of Con 
+pectlext recently installed 8 $18,000 computer nyo 
+‘tem to help beep people cut ofthe Inatitate of Ma- 
+‘terial Sciences, 
+‘The idea was to cut down on thefts. It didn't 
+work, 
+reported Thoreday Chat sence site the 
+enim fea bs uae aieg 
+‘“Gentiomen, | just wanted to recning you that the home 
+office wit be monitoring this on closedicircuft 
+TV, the 
+‘ales aoprtrat te coed 
+aed 
+‘Seclutertee 
+lege 
+Back Issues are 50¢ each. Issue #50 is 500. 
+Subscriptions - 10 issues - US Bulk rate 
+$5. 
+US First Class in plain sealed envelope $7. 
+Canada & Mexico First Class $7. 
+Cold and calculated 
+Fo 
+n $8. 
+‘waltad on customers and told: 
+PORTANT! 
+Include mailing label or Xerox copy 
+imetedtbete torn 
+when writing to TAP about your subscription. 
+was 
+yes erat ts 
+Electronics Courses - 60 each. A - DC Basics, 
+mee 
+Monday and as 
+B- AC Basics, C - Phone Basics, D- Amplifiers. 
+tence 
+1-4 
+TAP Muas - $4, 60. 
+"TAP T-shirts - $4, 50. Specify size and color : 
+Metinides cei 
+Medium, Large, Extra Large. Black o red T~sbirt’ 
+Mle cotamers and pace 
+with white TAP logo. 
+‘while acting asclerk. 
+TAP "Cracked Bell" Patch - $1, 60. 
+Beli" Button - 50¢ each. 
+TAP Cassette Tape - $3.50. Hear Capt Crunch, Al Bell, -4 wuiss drove mt 
+Joe Engressia, and Bell Security Chief John Doherty, 
+iat und! aver eve bad 
+Send cash, check, or money order to: 
+we 
+TAP, Room 603, 147 W. 42 St., NY 10036 
+TAP" 
+to thank ber.” = 
+“tau herp 3 me 
+Telephone privacy 
+sumed ae 
+ed 
+. 
+63 
+ssumunewatae 
+detailed 
+in booklet 
+i 
+rep handy W €: leds 
+Bigg 
+EWARK (AP) — New Jeraey Bll i 
+puna 
+toni dat grescineers 
+x 
+P's 
+we 
+NEW YORK (AP) — The American: 
+about thoi 
+ta telephone 
+PETROOUARS, MICKELS 
+‘Telephone 
+& Telegrez Co. ching Ge feivarsaat 
+aoe ibe eengeny protec the ta QUARTERS 
+ce choking Frey 
+‘eed for sttornoys to work 
+on mount 
+privacy ofits cuttorers. 
+EuE 
+Foe madeats encliod 
+federal 
+cploya more 
+Entled “Our Curtmmety Right tool = 2 Sud frebion crstenn,crvaled 
+time rege Gan be comeys 
+Wo a 
+Privacy” 
+be booklet Gaal New Eas 
+Arm 
+coats Stow 
+of 
+au tzw Gre comin, 
+oe 
+Belt'spallen areascenlingwith = 5 EG 
+SyV.cel 
+rere, Cire tna 
+‘Natlonal Law Journal. 
+the privacy of telephone 
+if and $3.20 for each additional 
+‘The weekly oesspaper 
+reports i lis 
+telephone listings, wiretapping, 
+snnoying 
+52 emirate, Thot meare $64.05 worth 
+coment ie a ih MOewyen oS 
+adharedngctin pinata eomale 
+BE ocho 
+rhe creoan 3 
+payroll, ATT Is the largest private em- 
+—annomncementa 
+and customers tall re- = 
+5 £ 
+ tuinute Souci chat. 
+The colnage 
+plover of full-time lawyers. 
+cords and eredit information. 
+a2g5 tases cogging tte oar 
+“The targest private law (lrms were Chi- 
+EEZ bao 
+Bor, 
+ccago's Baker & NicKenzle 
+with 813 law- 
+Sonsumer ates 
+F phones, knocking ther out 
+Sersand 
+New Yorks Shearman 
+& Sterling 
+Me Samy OE ereet 
+‘ter 
+‘with 394, the Law Journal said, 
+Newark, New Jersey O7101

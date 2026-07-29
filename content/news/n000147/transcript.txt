@@ -1,17 +1,502 @@
-NO. 27NOVEMBER 1974Yes, after 6 months in the pits we're back! Ourunannounced vacation took place for several reasonsthe main one being a shortage of help and a Surplusof work. By now we have sold alot of back issues &the income has helped to put us solidly in the black.We will try to come out fairly regularly from nowon, but this depends also on reader contributions &printing costs. We are also planning a 1975 Conven-tion and need ideas for the convention from everyone,Possibly contests and exhibits and such. Pleasewrite to us if you've got suggestions.In addition, we will be having technical seminarsas always, If you are well-versed in any phase ofphreaking covered in TAP or otherwise, please getin touch with us to teach at the convention.Dear TAP,Checking the guide to Subversive Crganizations andPublications (House document 398) I noticed theabsence of TAP or YIPL-Then I noticed the datewas 196]. Did you make the new list?Anyway, tell your readers that it's illegal to re-move the dialing instruction plate on payphones(below dial) if they were planning on using a highcarbon bit ona hand drill to drill a hole exactly7 3/4" to the right and 5/8" down.Not only is it illegal, but ifsomeone were to accidentally pokethe end of a paperclip through the hole, it would doall sorts of terrible things like releasing al] themoney they had fust put in to make a long distancecall, preventing them from Supporting the wonder-ful phone company. (Note~ drill will tut throughcast iron case, though not steel lock or coin box.)~NEW YORK--And the dialing instruction plate could be putback in, obscuring the dole and allowing nefariousindividuals to continue their plundering-TAP,Dear TAP,Ona recent trip to Paris I was able to make freecalls to any point in the U.S. (except Hawaii) andEurope from a special yellow public telephone boothSituated all over Paris called "Interurbain". Theonly catch was that the called party had to be mutedotherwise a loud tone makes conversation impos-Sible. As you know,the mute prevents supervision,on overseas trunks this is accomplished by sending2400 Hz to the calling party C.O., indicating thatthe called party has answered, It is the lack of the2400 Hz tone which prevents the loud blocking tonefrom coming on the Paris phone.Wait for dial tone, dial 19, wait for a seconddial tone, then dial 1 + area code + number. I tried.to off a 800 or 555 number, but you can't dial themnor off any number for that matter with anSF, I'mnot sure, but you might be able to do this from otherEuropean cities. I believe that the black box is in-ternational, since most European telephone systemsare still step or crossbar.~NEW YORK-
-| -om
-UP FROM THE PITS!NEW BLUE BOX INFOWe've gotten feedback on the New Blue Box Cir-cuit (Issue 26). Cne problem of the circuit is thatail the diodes for one frequency must be matched.The Mctorola Silicon dual diode MSD 6150 (commonanode) saves PCboard space and is a matched pair.20¢ each in 100 quantity. If regular diodes are to beused, use only silicon. Though we said germaniumdiodes are ok, they usually have too much leakagecurrent and the pots will cross-affect each other.In fact, you can eliminate the hassle and match-ing of diodes altogether by using double-pole push-buttons. Polypaks sells a $6.88 Generu] TelephoneData entry keyboard with 10 buttons. You'll need2 more DPST and a SPST for 2600, but you'll savemoney on diodes. The same 10 trimpots are used.And keep the wiring to the pots and switches goadand secure electrically, A loose connection is achanging frequency. We also have an uncheckedreport that eliminating diodes with double poleswitches makes the regulator unnecesSSary.Dear TAP,As for picking Medeco and Keso Incks you can for-get it. Medeco is a sidebar type of lock like theBriggs and Stratton locks G. M. uses in their cars,}.ocksmiths usually use codes for auto locks asthey can't pick them. A more efficient method forvending machines would be t> usr an awl & 5 Ib,hammer to make a hole in the sheet metal of thecabinet and then a nibbling tool (for electronic con-Structi-n) lo enlarge the hole enoughto. reach in anddjsengasr the lock cylinder from the locking bolts,The nibbler can be bought at Lafayette or RadioShack but may not cut through all thicknesses ofmachine doors,- COLORADO-Dear TAP,According to the N.E. T. news line,breaking the state law of Mass.you people arewhen you publishedthe 1975 Credit Card Code. Upon conviction you canbe fined $2000 and get a year in the slammer. WhenI heard this I called the head of security in Bostonwith a phoney c.c. number and told him what I wasdoing. Then I asked him what he was going to doabout it. Was he ever pissed off. Yours in conspir-acy- Stainless Steel RatDevice catches obscene catersandother phone criminalsAnew sistem from Felident Inc connecis to uny telephone and display.the incaming caller's number, Js pur-pow is to help catch obscene andother objectionable phone callers J hecaller's number and exchange remainviable thraaghour the cull. this pin-pemnty any phone being used for theobscune call, whether its a private urpuy Phone The mukher says the sys-tem will also discourage those makingbomb threats or ransom demands. itContact Telident, Inc , 304 S. Brord- yiw are bothered with these probleins.way, Los Angeles for information.cihens Dyeet© Youth Hot Line Reports, Inc. 1974Mc vement groups may reprint with TAP's address,und please send us a copy of reprinted work.
-
-MORE FREEQur article on Pree Electricity prompted greatreader response and we've go. more info on bow todo it. Several meters were sent to us and we'velearned alot about how they work.Several readers suggested :Lat the speed-adjustscrews do work but not very welland are sometimeslabeled backwards to con4use Robin Hoods. However,we tested the New York standard meter which is aWestinghouse DSN, and found that the front screwwas labeled correctly (F for Fast is counterclock-wise) and could reducethe metar by 4041 And thescrew on the side can make the meter start movingin the wrong direction ff you turn it enough! Theserevelations are very encouraging indeed. The othermeters also have adjustment screws, and one un-marked meter with large brown coils inside had 5Speed adjustment Screws|Most home meters are of the 220 volt dual-phase(3-wire) type which supplies 110 and 229 volts at theSame time. There are bro 10 volt “hot” wiresthat are out of phase with each other, which meansthat there is 220 volts between them, and there is aground wire. From either hot wire to ground ts 110volts. One reader writes in that on the 220 valt, GEsingle phase meters, about a SO€ reduction inrotor speedcanbe obtained by wiringthe potentialcoil sc it receives only 110 volts, not 220. The pot-ential coil is the small coil wound out of thin wire &connected in shunt across the loadside of the meter.This is accomplished as follows:1. Remove meter from socket. (Issue 29)2. Remove case from meter (usually unscrews),3. Locate the 2 smallwires that are connected totha two Line terminals (bottom two terminals).4, Disconnect either of these wires Hut oot both],from the line terminal it's attached to.
-ELECTRICITYBefore doing this you snouid make sure thal yourmeter has the same hockup 48 the GE meter usedin the above letter. Some meters bave a cifterenthockup. For example, the Westingasuse DSN has avoltage coil across one side of the line and grourd,o TOTS” f OOADLINE Resis:ors Voltage CoilNeon Buld \WES TING HOUSE Grourd*ProngDSNNORMALLY. So this car't be "Halved". The Duncan125 has TWO voltage coils, one from each side oftbe Line to ground. One controls ‘he reading of your110 volt appliances, and the other controis the read-ing of your 220 volt appliances. Cn this meter, themeter will have to be tasted to see which voltageis controlled by the two screws on the bacx. Turnon a 220 volt appliance(with the screws loosened andthe metal piece pulled cut) and see if the wheel turnsfaster. If it does, the screws contro! your 110 voltappliances. [f not, then your air conditioner andothar 220 volt units will only cost nalfas much.O- SUSSTI —__—_—_oMeter disakclescrews on back5, Connect it to the grosnd terminal. This is the voltage re _ °smallest prong on the back of the meter and usuallypoints aditferent way(like horizontal). Of course, OUNCAN Ground Prongyou're connecting it not on the back'of the meter, fa Sbut on the inside of theback,as the groundterminal oOogoes through the plastic beck of tha mater.8 Get electric beat. It's cheaper!0 £50 TO 0Current CoilsLINE (Thick Wire) LOAD(From Potential Cold (To You)Con Ed) Compensating E | (Voltage Coll .Col Thin Wires Gr ProngWoenAt GE METER° TIet—o— LOSBO* 0LINEcenter ar Gl.HAL F-SPEEDGround ProngO— —~“SO00" ——oO
-LOAD
-We hear pou
-
-All the meters we tested have 5 prongs. 2 are theinput, 2 are the output and 1 is grourd. Disconnect-ing ‘he ground stops tne meter but leaves you withthe .igkts on. Breaking off the pin and putting backthe meter is good, but less suspicicn will be arous-ed if you bend the prono(the groundprong is the odd one out of place_ from the others and pointed a dif-ferent way) so that it doesn't go in il's socket. Inthe Westinghouse meter they have a cute circuit toShow whether this has been done. Disconnectuing theground or another wire makes a neon Light tnthemeter giow, alerting the meter reader. Lf you havethis type of meter, you can disconnect the bulb, orremove it and blow it cut. Just make Sure it lookslike it's working but simply not Ht. To blow out thebulb, hook it in series with a 500 ohm resistor of10 watts or more to a wall socket and let it slowlyburn itself outWe're told that a GE type 1-60-S meter can beslowed down 4% (every little bit helpsi) with theadjustment screw, but as in all meters, GENTLY!You don't want to damage the meter,Tt’s also been suggested that to remove the sealsthat hole the meter closed, Just snip it as close totheplastic or lead part and bendthe end over sothat it will grip the insideof the hole againwhenit'sre-used,Another idea is to simply turn over the meter andit will rio in reverse, unfortunately this is easy fora méterman to Spot and is usually impossible witho-prong meters which are the most commomr:.Most electric companies estimate your bill forseveral months and adjust it when the meter is act-ually read, which is less often than every montb.It's yood to know, however, when the man actuallycomesif your setup is slightlyGetactable. If ha'son to you, doesanyone know if it's legal to offer hima present to keep it in the family? (Not for bim, butfor you). Lat’s hear from the lawyer's out there.Dear TAP,For your edification, ''m enclosing a photocopy oftne current ITT Telex guide showing country codes.If you have access to a teleprinter, you can accessthe [TT system quite easily by dialing 710-599-3211.Dita Beard will welcome you. Many universitieshave tlme-Sharing computer terminals that could beused. You know, I assume, that the code for TWXoperators is 954-1212. You can ala] most any big-city area code plus the code and get the operator.More common than mail tampering is the MAILWATCH, The postman delivers your mail--but hemakes a record of the return addreags on everypiece. Recommended: a Canadian post offica box.Ever since Lee Harvey Oswald, Americm Post-masters have required positive ID irom prospectivebox renters. Not so in Canada, and the price isright-about $10/yr. in small towns, Good for ordar-ing reagents,We understand that the British Post Office andScotland Yard are row battling the SILVER BOX(also known as a 'bleep'). Inasmuch 25 out-of-bandSignsiling is far more common than in-band class §types (cf. Japan, Australia, Europe) is is urgentthat North American poreaks inform themselves onhis Subject. Cther than info about prosecutions,suing has been received so far. We are continuingto monitor all legal developments in pbreaking onaregular basis, Cf course black boxing Should be easyeven under an out-of-band system, but redirectingcalls? And what codes would access overseas send-ers?Re Con Ed: Happily fam far removed from them
-these days. Telling thém that you are a new tenantoften doesn't work without a lease to prove it. Youhave to pretend to be the OLD tenant, and say ycuare moving. (Give any old address), That gets youoff the book; they transfer your account, eSpeciallyif they already have a deposit. After the account 1scleared up on the computer (remember, they usemicrofilm for their records, andit's several daysbehind) you can open your new account-CANADA-.Dear TAP,A few years ago 4 friend and I were into faking themoney dropping in old 3 slot payphones by using anold paypione top, containing the bell and gong forcoin sounds. Thru operator responses, visiting theswitchboards, and looking at coin collect mechan-isms, I discovered that when handling a payphonecall, a red light is lit on the operator's switchboarduntil the lst coin drops. After that the Light goesOul amd a green Light goes on & stayson until moneyis collected or returned, when the green goes off &the red comes on again. The lights don't indicateifthe moneywas collected or returned, fust ifafirst coin wes deposited, and whether the lever hasreturned to normal position afer colisct or return.On some operator boards, they have a BV key.Ove operator told ma that she was only told it wasfor computer access to dial Hate & Route, such asBY 009 ST, than KP-AC-XXN=XXN-1-ST(firstXXNis desired exchange, second is calling exchange)to get the computer-generated voice. But BV canalso get local verification, which the fickheadsdidn't tell our operators. Is there an MF tone to thaBYkey? What is it? Doesanyonemow how to usethe 700 + 1700 coin collect and 1100 + 1700 coinreturn tones?-KANSAS-YOU CAN HELP TAPIf you can comtribueeaay Laformeton toat you tilak otherreeders would be terestedw, pleasedo£0. TAPrescersare the main source cf our information. You casneipbymeeting emploress of phoneandi power compasses, alarmplaces, eic., andafkiagthem abmx Quetinongother peoplerRlse@ is the newaletter, Be fure to gat Getilsandmmintaiacontact in case you dave miditionalQuesiions. Most empl-oyees of thoes compsaseswouldbeglad lo screw (heir bossand they'd probably bewterested1TAP, loo. We hopetaal & 104of yow will gaiber inforrceabon 80 we iow whatUne Bceng 18 bro. the coustry andCanace.Al information is free if you can't afford it. Let us know.L?~Red Bem, Line Ketay18 Cull Moppee\P-Sanep LightRACE WPUG-hOs 20-¢ hseowsAnette, Efore x. oth Puees Tap> Ta ery hat Attas 00rgntte 23- Free Electricyt~ Pag Pea tamee 24+ Fread Oewectors, Index,Stee gen fa» For cnmatotetiuee1 05. 1974 CodeT- Tenang ster wrgen New@ CrventCurecalle ant 14K —o0e Red Box, Free Gas&Sager eer Preecyeeuei «= C6= New Blue BoxbiePerera Wy eetenoe \MTY-SELL OL TYra- Soe ; a0lanftw DaePlana mae tree ORITRU TORYapeaeTance Pree peutJ+ bererertseed Une? PeayPins naed £5 omc indeas yaswent BEER mb~ t .1Vaan ee Head Crast-Senduz computer pasa-ot words&codes for moreof same.L. Jee Lredit Cant fact Sheet self Pa. °('74 Come cad Mow (a ow (t fafely) alee Cada Boon- 69.232, Aweuillag Lem Dietasee Calle Fras neheendy- 6).afGam, Tat, vereten af Lae 11}tepinyed Bag Bou- .pee mistle Purteqteg 00¢ S@u1 Tees Vacillater wits iste rrept ovhaat of Deetruetary apesaterre Tapice- Free~ 10 issues- US balk rate $4,US First Class in plain sealed envelope $6.Canada stapled $4 Foreign $7.Yep, Baim ped, 192 6, 43 OT. NLT, | Leeasbalilag af@iiress paly, queue ef neney veeer Otis, SS Casa:
-
-Dear TAP,Thought I'd write and tell the rest of Phreakdomabout a technique for tapping neighbor's phone linesthatJ used to use, for whatever it's worth. Theproblem with a direct tap is that sooner or later,some phone company type is going to.come andcheck the line. To make it indetectable:We are going to use the 2 spare wires of the 4-wire cable running to your phone(usually yellow &black). First locate your cable and the tappee'scable in the main box for your apartment. (A phonewith clip leads will help). Then trim to length andstrip the ends of the 2 wires. They should be justlong enough to reach the terminals of the otherphone with NO slack. The wires should then be at-tached to the terminals just loose enough so thatthey pull off easily. Straighten and strip some of theother cables' yellow and black wires too So thatyour's won't look different later. Then run a bigwire (12 gauge house wire is fine) under your wiresas shown. Close the box lid as Ught as possible andtwist the wire ends together as shown. Now whenthe box is opened the wireswill ‘be ripped loose.The Foneperson will not cut the outside wire beforeopening it up because the whole thing might fallapart, With a DPDT toggle switch (and line relays,recorders, etc.) you may now freely use the line.A BB will be safe and cause no charge to the otherparty's line- Kd.I built the Red Box from your last issue and likeit. The two diodes feeding the 500K pots for 5¢ and10¢ aren't needed. I'm also doing research onbank machines and "money cards", IfJ can cracktheir code on the cards and rewrite them it couldbe good for $1000 a day. I will appreciate any helpon this (bank employees could really help).-INDIA NA-Dear TAP,"The best things in life are free, almost..." ac-cording to the Theta Cable TV ads in Los Angeles. :On April 26 Theta introduced the "Z channel", Youcan watch first run movies for $6, 95 per month forthe first TV and $1, 95 for each addt'l TV, right?Wrongl Because if you want to watch the Z channelall you have to do is press the "2" and the "8" but-tons on the channel selector at the same time. Sodon't forget, 2+8= 2. And it's free|-THETA, The goddess of TV
-6 6 oe 7%, 6
-mazy
-Your LineYour Blackand YellowWiresTTM~His Line*~~Box CpenBox Closed |
-Dear TAP,Alabama Power has increased my line voltage from115 to 130 volts. They won't lower the voltage(theyClaim it's impossible) and I have blown the flybacktransformers on 2 TV sets, This voltage increasehas also increased my electric bill by 27%. I knowthe Power Company is having difficulty but if theyare going to raise their line voltage and cheat me intointo paying 27% more I'd like to cheat back. Here isthe formula for computing your own power company'sripoff on you:Power= Voltage X Current So if the voltage is uppedthe increaSe in power is:Power increase= (New voltade)2 - (Old voltage)?(Old voltage)4Multiply this by 100 to get the percentage increase.So, All an electric company has to do for anInstant rate increase is step up the line voltage. Myelectric company has done this to me without regardfor my appliances or my pocketbook. Any back is-Sues that you have to help me outtox their meterswill allow me to strike back,-ALA BAMA-Published for informational purposes only by Youth Hot Line Reports, Inc.TAP, ROOM 504,152 W.42ST.,.NY,NY 1003627Hot line cooledLONDON (UPI) ~— ‘I'm a peat office enginectr,”’ s:dd"Your phone byin dagerof erkeoth eatyo eaherYour mn x burst intoflames. Place the handelina beat ct wenn neAirs. O'Fisherty did 90. Fivehourslater, a siraight-facedofficial ef the tefephone told her:"Piaciagreceivers in water isnot, andnever will be, anemergeacy repair technique.”THE STAR-LEDGER, Menilay, March 25, 1974
+NO. 27 
+NOVEMBER 1974 
+Yes, after 6 months in the pits we're back! Our 
+unannounced vacation took place for several reasons 
+the main one being a shortage of help and a surplus 
+of work, By now we have sold alot of back issues & 
+the income has helped to put us solidly in the black. 
+We will try to come out fairly regularly from now 
+on, but this depends also on reader contributions & 
+printing costs. We are also planning a 1975 Conven- 
+tion and need ideas for the convention from evéryone. 
+Possibly contests and exhibits and such. Please 
+write to us if you've got suggestions. 
+In addition, we will be having technical seminars 
+as always. If you are well-versed in any phase of 
+phreaking covered in TAP or otherwise, please get 
+in touch with us to teach at the convention. 
+Dear TAP, 
+Checking the guide to Subversive Organizations and 
+Publications (House document 398) I noticed the 
+absence of TAP or YIPL-Then I noticed the date 
+was 1961. Did you make the new list? 
+Anyway, tell your readers that it's illegal to re- 
+move the dialing instruction plate on payphones 
+(below dial) if they were planning on using a high 
+carbon bit on a hand drill to drill a hole exactly 
+a 
+2 3/4" to the right and 5/8" down. 
+Not only is it 
+illegal, but if 
+someone were to. accidentally poke 
+the end of a paperclip through the hole, it would do 
+all sorts of terrible things like releasing all the 
+money they had just put in to make a long distance 
+call, preventing them from supporting the wonder- 
+ful phone company. (Note- drill wili cut through 
+cast iron case, though not steel lock or coin box.) 
+-NEW YORK- 
+-And the dialing instruction plate could be put 
+back in, obscuring the hole and allowing nefarious 
+individuals to continue their plundering-TAP, 
+Dear TAP, 
+On a recent trip to Paris I was able to make free 
+calls to any point in the U.S, (except Hawaii) and 
+Europe from a special yellow public telephone booth 
+Situated all over Paris called "Interurbain". The 
+only ‘catch was that the called party had to be muted 
+otherwise a loud tone makes conversation impos- 
+sible. As you know,the mute prevents supervision, 
+on overseas trunks this is accomplished by sending 
+2400 Hz to the culling party C.O., indicating that 
+the called party has answered. It is the lack of the 
+2400 Hz tone which prevents the loud blocking tone 
+from coming on the Paris phone. 
+Wait for dial tone, dial 19, wait for a second 
+dial tone, then dial 1 + area code + number. I tried. 
+to otf a 800 or 555 number, but you can't dial them 
+nor off any number for that matter with an SF. I'm 
+not sure, but you might be able to do this from other 
+European cities. I believe that the black box is in- 
+ternational, since most European telephone systems 
+are still step or crossbar. 
+-NEW YORK- 
+UP FROM THE PITS! 
+NEW BLUE BOX INFO 
+We've gotten feedback on the New Blue Box Cir- 
+cuit (Issue 26), One problem of the circuit is that 
+all the diodes for one frequency must be matched. 
+The Motorola Silicon dual diode MSD 6150 (common 
+anode) saves PC board space and is a matched pair. 
+25¢ each in’ 100 quantity. If regular diodes are to be 
+used, use only silicon, Though we said germanium 
+diodes are ok, they usually have too much leakage 
+current and the pots will cross-affect each other, 
+In fact, you can eliminate the hassle and match- 
+ing of diodes altogether by using double-pole push- 
+buttons. Polypaks sells a $6.88 General Telephone 
+Data entry keyboard with 10 buttons. You'll need 
+2 more DPST and a SPST for 2600, but you'll save 
+money on diodes. The same 10 trimpots are used. 
+And keep the wiring to the pots and switches good 
+and secure electrically. A loose connection is a 
+changing frequency. We also have an unchecked 
+report that eliminating diodes with double pole 
+switches makes the regulator unnecessary. 
+Dear TAP, 
+As for picking Medeco and Keso locks you can for- 
+get it, Medeco is a sidebar type of lock like the 
+Briggs and Stratton locks G, M. uses in their cars, 
+Locksmiths usually use codes for auto locks as 
+they can't pick them, A more efficient method for 
+vending machines would be to use an awl & 5 Ib. 
+hammer to make a hole in the sheet metal of the 
+cabinet and then a nibbling tool (for electronic con- 
+struction) to enlarge the hole enough to.reach in and 
+disengage the lock cylinder from the locking bolts. 
+The nibbler can be bought at Lafayette or Radio 
+Shack but may not cut through all thicknesses of 
+machine doors, 
+-COLORADO- 
+Dear TAP, 
+According to the NE. T. news line, you people are 
+breaking the state law of Mass, when you published 
+the 1975 Credit Card Code. Upon conviction you can 
+be fined $2000 and get a year in the slammer. When 
+Iheard this I called the head of Security in Boston 
+with a phoney c.c. number and told him what I was 
+doing. ‘Then T asked him what he was going to do 
+about it, Was he éver pissed off. Yours in conspir- 
+acy- 
+Stainless Steel Rat 
+Device catches obscene callers 
+and other phone criminals 
+A new system from Telident Ine. con- 
+ects to any telephone and displays 
+the incoming caller's number. Its pur- 
+pose is to help catch obscene and 
+other objectionable phone callers. The 
+caller's number and exchange remain 
+visible throughout the call: this. pin. 
+points any phone being used for the 
+‘obscene call, whether it’s a private or 
+pay phone. The maker says the sys- 
+tem will also discourage those making 
+bomb threats or ransom demands, if 
+Contact Telident, Ine, 304 8, Broad- you sre bothered with these robloms 
+© Youth Hot Line Reports, Inc. 1974 
+Mcvement groups may reprint with TAP's address, 
+und please send us a copy of reprinted work.
+MORE FREE 
+Our article on Free Electricity prompted great 
+reader response and we've got more info on how to 
+do it. Several meters were sent to us and we've 
+learned alot about how they work, 
+Several readers suggested that the speed-adjust 
+screws do work but not very well and are sometimes 
+labeled backwards to confuse Robin Hoods. However, 
+we tested the New York standard meter which is a 
+Westinghouse DSN, and found that the front screw 
+was labeled correctly (F for Fast is counterclock- 
+wise) and could reduce the meter by 40%! And the 
+Screw on the side can make the meter start moving 
+in the wrong direction if you turn it enough! These 
+revelations are very encouraging indeed. The other 
+meters also have adjustment screws, and one un- 
+marked meter with large brown coils inside had 5 
+speed adjustment screws! 
+Most home meters are of the 220 volt dual-phase 
+(3-wire) type which supplies 110 and 220 volts at the 
+same time. There are two 110 volt "hot" wires 
+that are out of phase with each other, which means 
+that there is 220 volts between them, and there isa 
+ground wire. From either hot wire to ground is 110 
+volts. One reader writes in that on the 220 volt, GE 
+single phase meters, about a 50% reduction in 
+rotor speed can be obtained by wiring the potential 
+coil so it receives only 110 volts, not 220. The pot- 
+ential coil is the small coil wound out of thin wire & 
+connected in shunt across the load side of the meter. 
+This is accomplished as follows: 
+1, Remove meter from socket. (Issue 23) 
+2. Remove case from meter (usually unscrews). 
+8. Locate the 2 small wires that are connected to 
+the two line terminals (bottom two terminals). 
+4, Disconnect either of these wires (but not both), 
+from the line terminal it's attached to. 
+5. Connect it to the ground terminal. This is the 
+smallest prong on the back of the meter and usually 
+points a different way(like horizontal), Of course, 
+you're connecting it not on the back‘of the meter, 
+but on the inside of the back, as the ground terminal 
+goes through the plastic back of the meter. 
+6. Get electric heat. It's cheaper! 
+OUNCAN 
+crbuna Prong 
+Current Coils 
+LINE 
+(Thick Wire) 
+(From 
+Potential Coil 
+Con Ed) 
+Compensating rE | 
+(Voltage Coil) 
+Coil 
+Thin Wires 
+NORMAL GE. METER 
+oe 
+GE. METER AT 
+HAL F-SPEED 
+LOAD 
+Ground Prong 
+° 
+COTO 
+ELECTRICITY 
+Before doing this you should make sure that your 
+meter has the same hookup as the GE meter used 
+in the above letter. Some meters have a different 
+hookup. For example, the Westinghouse DSN has a 
+voltage coil across one side of the line and ground, 
+2 
+LOAD 
+LINE 
+Resistors 
+Voltage Coil 
+Neon Bulb: 
+\, 
+WES T/NG HOUSE 
+Ground‘ Prong 
+DSN 
+Oo 
+NORMALLY, So this can't be "Halved". The Duncan 
+128 has TWO voltage coils, one from each side of 
+the line to ground. One controls the reading of your 
+110 volt appliances, and the other controls the read- 
+ing of your 220 volt appliances, On this meter, the 
+meter will have to be tested to see which voltage 
+is controlled by the two screws on the back. Turn 
+on a 220 volt appliance(with the screws loosened and 
+the metal piece pulled out) and see if the wheel turns 
+faster. If it does, the screws control your 110.volt 
+appliances. If not, then your air conditioner and 
+other 220 volt units will only cost half as much. 
+Meter disable 
+‘Screws on back 
+voltage coils 
+Ground Prong 
+1aS 
+LOAD 
+(To You) 
+We hear you
+All the meters we tested have 5 prongs. 2 are the 
+input, 2 are the output and 1 is ground. Disconnect- 
+ing the ground stops the meter but leaves you with 
+the lights on, Breaking off the pin and putting back 
+the meter is good, but less suspicion will be arous- 
+ed if you bend the prong(the ground 
+prong is the odd _ one out of place 
+.. 
+from the others and pointed a dif- 
+ferent way) so that it doesn't go in it's socket. In 
+the Westinghouse meter they have a cute circuit to 
+show whether this has been done, Disconnecting the 
+ground or another wire makes a neon light in the 
+meter glow, alerting the meter reader. If you have 
+this type of meter, you can disconnect the bulb, or 
+remove it and blow it out. Just make sure it looks 
+like it's working but simply not lit. To blow out the 
+bulb, hook it in series with a 500 ohm resistor of 
+10 watts or more to a wall socket and let it slowly 
+burn itself out. 
+We're told that a GE type 1-60-S meter can be 
+slowed down 4% (every little bit helps!) with the 
+adjustment screw, but as in all meters, GENTLY! 
+You don't want to damage the meter, 
+It's also been suggested that to remove the seals 
+that hold the meter closed, just snip it as close to 
+the plastic or lead part and bend the end over so 
+that it will grip the inside of the hole again when it's 
+re-used, 
+Another idea is to simply turn over the meter and 
+it will run in reverse, unfortunately this is easy for 
+a meterman to spot and is usually impossible with 
+5-prong meters which are the most common, 
+Most electric companies estimate your bill for 
+several months and adjust it when the meter is act- 
+ually read, which is less often than every month, 
+It's good to know, however, when the man actually 
+comes if your setup is slightly 
+detectable. If he's 
+on to you, does 
+anyone know if it's legal to offer him 
+@ present to keep it in the. family? (Not for him, but 
+for you). Let's hear from the lawyers out there. 
+Dear TAP, 
+For your edification, I'm enclosing a photocopy of 
+the current ITT Telex guide showing country codes, 
+If you have access to a teleprinter, you can access 
+the ITT system quite easily by dialing 710-599-3211, 
+Dita Beard will welcome you. Many universities 
+have time-sharing computer terminals that could be 
+used, You know, Iassume, that the code for TWX 
+operators is 954-1212. You can dial most any big- 
+city area code plus the code and get the operator. 
+More common than mail tampering is the MAIL 
+WATCH. The postman delivers your mail--but he 
+makes a record of the return address on every 
+piece, Recommended: a Canadian post office box. 
+Ever since Lee Harvey Oswald, Americm Post- 
+masters have required positive ID from prospective 
+box renters, Not so in Canada, and the price is 
+right-about $10/yr. in small towns. Good for order- 
+ing reagents, 
+We understand that the British Post Office and 
+Scotland Yard are now battling the SILVER BOX 
+(also known as a 'bleep'). Inasmuch as out-of-band 
+signalling is far more common than in-band class 5 
+types (cf. Japan, Australia, Europe) is is urgent 
+that North American phreaks inform themselves on 
+this subject, Other than info about prosecutions, 
+nothing has been received so far. We are continuing 
+to monitor all legal developments in phreaking on a 
+regular basis. Of course black boxing should be easy 
+even under an out-of-band system, but redirecting 
+calls? And what codes would access overseas send- 
+ers? 
+Re Con Ed: Happily I am far removed from them 
+these days, Telling thém that you are a new tenant 
+often. doesn't work without a lease to prove it. You 
+have to pretend to be the OLD tenant, and say you 
+are moving. (Give any old address), That gets you 
+off the hook; they transfer your account, especially 
+if they already have a deposit. After the account is 
+cleared up on the computer (remember, they use 
+microfilm for their records, and it's several days 
+behind) you can open your new account. 
+-CANADA-. 
+Dear TAP, 
+A few years ago a friend and I were into faking the 
+money dropping in old 3 slot payphones by using an 
+old payphone top, containing the bell and gong for 
+coin sounds, Thru operator responses, visiting the 
+switchboards, and looking at coin collect mechan- 
+isms, I discovered that when handling a payphone 
+call, a red light is lit on the operator's switchboard 
+until the 1st coin drops, After that the light goes 
+out and a green light goes on & stays on until money 
+is collected or returned, when the green goes off & 
+the red comes on.again. The lights don't indicate 
+if the money was collected or returned, just ifa 
+first coin was deposited, and whether the lever has 
+returned to normal position after collect or return. 
+On some operator boards, they have a BV key. 
+One operator told me that she was only told it was 
+for computer access to dial Rate & Route, such as 
+BV 009 ST, then KP-AC-XXN-XXN-1-ST(firstXXN 
+is desired exchange, second is calling exchange) 
+to get the computer-generated voice. But BV can 
+also get local verification, which the fuckheads 
+didn't tell our operators. Is there an MF tone to the 
+BV key? What is it? Does anyone know how to use 
+the 700 + 1700 coin collect and 1100 + 1700 coin 
+return tones? 
+-KANSAS- 
+YOU CAN HELP TAP 
+If you can contribute any information that you think other 
+readers would be interested in, please do so, TAP readers 
+are the main source of our information. You can help by 
+meeting employees of phone and power companies, alarm 
+places, etc., and asking ther about questions other people 
+raise in the newsletter. Be sure to get details and maintain 
+contact in case you have additional questions. Most empl- 
+oyees of those companies would be glad to screw their boss 
+and they'd probably be interested :n TAP, too. We hope 
+that a lot of you will gather information so we know what 
+the scene is around the country and Canada, 
+All information is free if you can't afford it. Let us know. 
+L?-Red Box, Line Relay 
+13:¢a11 Stopper 
+18-Snoop Light 
+BACK ISSUES-60¢ 
+20-Cheese Box 
+21 Automatic Phone Tap 
+conference switenes 
+22-Answerco 
+3° Telecommand’siry TPE 
+BS” Pree Electricity 
+4 Pay Phone laswe 
+24- Fraud Detectors, Index, 
+EB Brim acm 
+19! Code 
+i ‘-New Red Box, Free Gas 
+Sumer Durer Propegytec ine 1) © 26- New Blue Box 
+L-Receivios lo distance calls 
+tree 
+ANTI-BELL BUTTON $06 1 
+Ucfecsts ers dca 
+DESTRUCTOR 
+Y ABSISTANCES 
+G0 just 
+1S-tnerratonal Calls te Ps 
+Zend as much info as you want baer if 
+tional Calle RivcT Papers, 
+Simbad sell-adressed ontens 
+ECE Cred ate, 7 Rewer 
+Head Crash~Send us computer pass- 
+words & codes for more of same, 
+FACT SuEETS-29¢ 
+Send 
+self-addressed 
+em 
+1.New Credit Card Fact Steet 
+self-addressed envelope, please, 
+('74 Code and How to do it Safely) 
+steal Tats Book-$2.25 
+2,Recesving Long Diets 
+énovely- $1.20 
+Subscriptions - 10 issues - US bulk rate $4, 
+US 
+First Class in plain sealed envelope $6. 
+Canada stapled $6 
+Foreign 
+$7. 
+TAP, ROOM 504, 152 ¥, 42 ST..N.Y.,N-Y. 10036 
+Mailing address only, check Or money onder only, NO CASH
+Dear TAP, 
+Thought I'd write and tell the rest of Phreakdom 
+about a technique for tapping neighbor's phone lines 
+that I used to use, for whatever it's worth. The 
+problem with a direct tap is that sooner or later, 
+some phone company type is going te.come and 
+check the line. To make it indetectable: 
+We are going to use the 2 spare wires of the 4- 
+wire cable running to your phone(usually yellow & 
+black). First locate your cable and the tappee's 
+cable in the main box for your apartment. (A phone 
+with clip leads will help). Then trim to length and 
+strip the ends of the 2 wires. They should be just 
+long enough to reach the terminals of the other 
+phone with NO slack. The wires should then be at- 
+tached to the terminals just loose enough so that 
+they pull off easily. Straighten and strip some of the 
+other cables' yellow and black wires too so that 
+your's won't look different later. Then run a big 
+wire.(12 gauge house wire is fine) under your wires 
+as shown. Close the box lid as tight as possible and 
+twist the wire ends together as shown. Now when 
+the box is opened the wires willbe ripped loose. 
+The Foneperson will not cut the outside wire before 
+opening it up because the whole thing might fall 
+apart. With a DPDT toggle switch (and line relays, 
+recorders, etc.) you may now freely use the line. 
+A BB will be safe and cause no charge to the other 
+party's line-Ed. 
+T built the Red Box from your last issue and like 
+it. The two diodes feeding the 500K pots for 5¢ and 
+10¢ aren't needed, I'm also doing research on 
+bank machines and "money cards". If I can crack 
+their code on the cards and rewrite them it could 
+be good for $1000 a day. I will appreciate any help 
+on this (bank employees could really help). 
+-INDIANA- 
+Dear TAP, 
+"The best things’in life are free, almost..." ac- 
+cording to the Theta Cable TV ads in Los Angeles. + 
+On April 26 Theta introduced the "Z channel". You 
+can watch first run movies for $6.95 per month for 
+the first TV and $1.95 for each addt'l TV, right? 
+Wrong! Because if you want to watch the Z channel 
+all you have to do is press the "2" and the "8" but- 
+tons on the channel selector at the same time. So 
+don't forget, 
+2+ 8 = Z, And it's freel 
+-THETA, The goddess of TV 
+‘Your Line 
+\| 
+Your Black 
+and Yellow 
+Wires 
+oo oe oO 
+x 
+His Line 
+I—~Box Cpen 
+ys 
+Box Closed: 
+Dear TAP, 
+Alabama Power has increased my line voltage from 
+115 to 180 volts. They won't lower the voltage(they 
+claim it's impossible) and I have blown the flyback 
+transformers on 2 TV sets. This voltage increase 
+has also increased my electric bill by 27%. I know 
+the Power Company is having difficulty but if they 
+are going to raise their line voltage and cheat me into 
+into paying 27% more I'd like to cheat back. Here is 
+the formula for computing your own power company's 
+ripoff on you: 
+Power= Voltage X Current so if the voltage is upped 
+the increase in power is: 
+Power increase= (New voltage)? - (Old voltage)” 
+(Old voltage)? 
+Multiply this by 100 to get the percentage increase. 
+So, All an electric company has to do for an 
+Instant rate increase is step up the line voltage. 
+My 
+electric company has done this to me without regard 
+for my appliances or my pocketbook. Any back is- 
+sues that you have to help me outiox their meters 
+will allow me to strike back. 
+-ALABAMA- 
+Published for informational purposes only by Youth Hot Line Reports, Inc. 
+TAP, ROOM S04, 152 W.42 ST.,NY,NY 10036 
+27 
+Hot line cooled 
+LONDON (UPI) — “I'm a post office engineer,” siid 
+the voice on the telephone to Mrs. Hannah’ O'Flaher . 
+“Your phone is in danger of overheating and bursting into 
+flames. Place the handset in a bowl of water.” 
+Mrs. O'Flaherty did so. Five hours later, a straight- 
+faced official ofthe telephone exchange told her: 
+“Placing receivers in water is not, 
+and never will be, an 
+‘emergency repair technique."” 
+THE STAR-LEDGER, Monday, March 25, 1974

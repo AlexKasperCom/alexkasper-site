@@ -1,18 +1,463 @@
-YOUTH INTERNATIONALWA tanWieLohJUNE 1973no.79
-Northwestern Bell Telephone is starting to take the bells outof pay pbones to prevent, they claim, collect calls to payphones and "signal calls" where people hear their phone ringonce and call back to a pay phone. Thus, if you have a life-or-death situation where you must be called back, you'reout of luck. So much Sor the argument that "pay phones area public service"... Robert McCrie, editor of Security Letter,a anli-ripoff newsletter Showing compe:.ws Security methods,-S plugging YIPL for business execs, He calls us "a bunch ofnuts” and puts in our address with the warning "don't use theoffice address" (of their company), Security Letter, 475 FifthAvenue, N. Y.,N. Y. 10017. Use an office address-you'rewr'**ng for a company, remember. Say you want to subscribetc rity Letter...John D. deButts, chairman of AT&T, inU.c. News and World Report, (Tomorrow's phone service-Why it Will Cost More) comes up with some outrageous State-ments like "a public telephone is a public service", "Servicein New York Citv today is good" and"we had always felt theBell System com:panies were well out ahead in the fairnesscf our employment practices", Also"“People don't visualizethe uses for Picturephones". George Orwell did in 1984, butde Butts doecn't mention buggine or privacy at all. Anotheritem of interest "Do you have :. telephone listed for John D.deButts at 200 £. 66 St?... Yes, that is 421-2277"... "InKansas City, the existence ~f just Such an arrangement be-fveen Une telephone compony and the chief of police was re-vealed". That's a quole from Monopoly that YIEL printed inissue #J]. Well friends, we all know how big corporationsoften exert political pressure to help their friends into office,don't we? Nixon just named Clarence M. Kelley, the policechief of Kansas City to be Director of the Federal Bureau ofInvestigation. Maybe all those wires will go to a little box onClarence's desk...MEAT!Several of you have written about meetng other phreaksin your area. Some feel that this would invite infiltration,and that meeting at electrical supply stores is probably aJot safer. This way you could see who you meet before youmeet them. Then again, you don't know if they're in the“field” unless you ask, Others have said that if anotherphone phreak convention is held, that would be the idealplace. Or, again, YIPL could receive requests to meetott -hreaks in your area, and sendpairs of people thena. .nd number of each other simultaneously, from rea-ders whom we feel are cool. If you send in, be patient. We'lltry to match another reader, only one, for each request.
-PARTY LINE
-HOT FLASHES-A friendly Pa Bell worker says that though most telephonekompinies use the amount of resistance in ringing the beson @ line to determine the number of phmes connected, insome (college) towns they run spot checks of total line re-sistances that detect phones even with the bell disconnected.So a good policy is to make upa one-line "conference” callmaker (YIPL #1)and to leave the Switch in the center-offposjtion when not in use.MONKEY WAR FARE-The underground warfarc against mindless mechanical banditsgoes on. After the phone, but high up on the list lies the coin-Sucking parking meter. After stalking the little beasties youfind they fall into two major types; the egg-headed crankerand the flat-faced change sorter. The flit- faced change sor-ter was the pioneer of the modern generation of coin Suckers,You Stuff coins in the side through a sinnle slot; it gages thecoin's size and gives you credit for it. The last two coinsinserted are visible through two rounded windows(spray paint)and is very gullible. It sucks nickels, dimes, round pop tops,#14 brass washers. Also the larger pop tops with the tailsattached and many other bulky items plug it and render it use-less till Serviced. The egy-headed crander is more sophis-ticated. It comes with different Slots on the side for differentcoins, and has a thumb and index crank like a nose on themiddle of its face. It is much more Selective in what it givescredit for. @ut #14 washers and, if you use great care, roundpop tops if they are both scotch taped can achieve the desiredeffect, (Be sure to carry Something to push them in with Likethe pop top tab as the tape sometimes stops the "coins" fromrolling in far enough.) WARNING: if you use funny money be -generous, you don't want a ticket from a meter that is filledwith washers. It might lead to embarassing questions).After tiring of the above methods and wishing to become amass destroyer of meters, send to Edmund Scientific Co.(300 Edscorp Bldg. , Barrington, N. J. 08007) for their massmeter disabler (they call them giant surplus horseshoe mag-nets). A meter is after all a one-handed clock, and clocksand magnets don't mix. Their monster 5 1b. job concealed in’a pack or purse can stop a meter with a couple of rubs.After it is stopped any money deposited will give credit tillcity demagnetizes it, OFF A METER TODAY, IT'S GOODFOR YOUR SOUL] AND IT FEELS GOOD TOO,TACK FLASH. IOWA-
-
-BUILDASHOOP LIGHYCAUTION:THIS 8NOT A FOOLPROOFFONETAP DETEC-TOR, wutit's greatfor findingourif all the extengions in yourbomeare hung-up. So Lf you're goingto talk about "Konfiden-HalMattera” or other “Dopee Subjects"you're surethatwhenyou say “I"ve got it maw" no one else bas it too.To insurethat allpioneson your ¢od of a conversation arshang-up, construct the wary simpleline voltage detector shownhere. Thelight bulbis a 5 volt miniature type, suchas 8 1490or ano,27. Ideal is thephonecompany's own tiny alide-baselampsfoundin multt-buttor: (hold-button) phones. Forthease ,use a 470ohm, 1/2 watt resistor to lengthen tha life. Thecapacitor is a 50 mid, 100 volts or greater electroiytic type.Getthepartsout of anyradioor electrical storefor about $2.Then connect eachof the two contactsfromthe light to thetwocontactwires of thecapacitor, and instal)bot bemreen theblue wire(inside thephone) and the "F* screw, where thebluewire normally connects to.Be careful not to touchotheracrewsor wires with the newparts you install. Carefullywrup up theconnectionswith tape and close up the phone. Test thélight bypicking up the phone. The Light will light, andif someone picksup an extension, it will go very dim or completelyout' GOW [T WORKSWhen a fone isin use(without a blackbox)the voltage on yourphonelinedrops to about 4 volts. Lfthelamp is wired as shown, the 4 volts willflowthroughit whenthe phoneispiciondup. If anotherphone isused, thelinedropsto only 2 volts, and the light gets weaker. Thisotberphone,however, must beon yourphone line, and .0t,for exampls, onthe Line of a friend you're talking to. Thecapacitorallowsthshighringingvoltageto pass aroundthe lamp, so thatthebulb is
-A RED BOX IN EVERY POTIf you are oneof thosereaders who would loveto buildaredbox but don't bave electrcnic experience, the tapemethodisfor you. With only a small cas3Se‘te reccrder(price-$25) and a telegnoos plcinip coil(about $2) you caneasily and quickly record the sound of pay phonemoney.The pay phonedare sowsingie-alottypes whichmake atomewhen you depositcoins,baz the earpieceisdisconpected momentarily30 that you hear nothing.But if youcallup a friend anddepoat! monsy, it. Hecan then record the tonesoff of hisphone, andusethemwhenever be goes © & psy phone to male long-distanceThe usualmethodis to have yourfriendcall you at thepay phonetone that rings; somedon") and thisway yo canGeposit money andget It back when you hang up, pickup&hangupagain. You deposit6 quarters, 2 dimes, and2nickels. The tape canbe played tc the operator for a sumof $1.80, or rewound quickly for more quartersor dimesor whatever,Volume is important Uf the operzior is to be fooled. Thepeeps shouldbeloudandclear, with little backyrouxtnoise.A recorderwith AutomaticLevel (AGC)isgood touseforrecording. For playbackto the operator, a small2 1/2"external spesiosr is useful, becanseyou can easly take itaway from the mouthpieceof the phone when you want tosidp a particularcoln sound.The correct volume |s setas follows:Atthepay phone, alternatelyplaythe tapeand
-Well, verewe are in tbe midst of theWatergate, witb all kinds ofbearings and charges and thelike, and everybody trying to seewho at the White Rouse is involved,when in fact the real criminalsare noteven being mentionad! Impossible? Not inkorporatse Ameriial The AT&T-owned Chesa-peake and Potomac Telephone Kompany wasin everyway part of tbe Watergaie bugging operation. Anddon't believeforaminute that The Phone Kompan!helps police as a rule. AT&T is Nixon's friend,not McGovern's, AT&T makes profits off thewar, inflation, andwage controls, just asITT, relatedto AT&T only bybeing aEASY TD Fos et ravenstow yew ancle1ae bef,a Hold bel ar CAC ENOdeposit money, bolding tha speaker about 1" from the phone C4 watmouthpiece. When your friendhearsthe two atthe same 2, Move Ie ‘Gd a oe [ buge ripottKorporation, andbythe fact not accidentally fizzed tf thepnone 1s picked up during aring.level, mark thevolumecontrol on the cassete for future use. bold vp ceeddte) ; eeantl~Crust bribemae it Youcan install this in #ay ae eis alll actiient’Tt's that easy! Use phone dooths where won't haw fs ale hidden‘criminal equippedwith a black (Issue 11). lightwillnot lightal casa. 9 ee Aeecrere where qate.Nixonand politiciansgoon duringfreelong-distancecalls,however since we don't mabepaaying the recorderandbecome suspicious. Andin caseYursuspicionsarearoused, simply erasethe tape.DEAR YIPLI bave someblack-boxinfoyou might be interested in.‘This infocamsfrom a Bell V. P. talking to his nephew.He sayssomecentra)Offices have a computer tied in toal] its tandezns whichrandomlychecks theresistance ofthecalls goingon. When it detects a low-resistancecallitprintaout al] availableinfo, your number, nis number,timaSupposedly thesacondtime the same conditions are detectedbetween thesame two numbers Someone gets Screwed, asu-ally he who bes the box. I can't say bow trueall this ts,but its plausible, theydohave diagnostics equipmentMmRL,(AC, 401) 50-00% (any mimbers) givesahighpitch that makesthe tandem cheep. 908-XXXX gets somelineman's office. G55-XXXX gives employeenewamtBelloropoganda.238-0000gives you aline that doesn't ring oranswer. Allshouldbefree. It wouldbe a great user ser-wice if youcould compile and publish a list of whatover-gees Serdersgo where.P.S.- I would appreciate it if you couldclarify yourmai) statusandhowthe F, RL getus yoursubscriber'sMaAr86.~SAVROK,R, L - ,We bul«mail at the post office where they are Drogen upinto differentmailbags. From thatpointthe issues arescatteredaround the country, and ourmail getsprobablymore mishandling than outright censoring, due to sloppilymang.cedpostal service. Itis alsopossible that certainindividualpostmen throwoutYIPLs, but if a managerdidit ag policy it would leak out topfant. Cooperation betweenthe post office andFBIin revealing subscriber names istotaliy illegalandwould bevery embarassingifleaked, Notto mentionthat we wil) sueall parties involved if it occurs,ALL you postal workers let us mow what treatment YIPLmailgets in yourarea. We might mention that wedonottrade, sell, or otherwiseexpose ourmailing list
-tom f,pore beer ? .Wey sh bares”awd Clap»VP BL, Spine AW ybmareoeDesi fgetsDEARYIPLThose individuals who are in the habit of squirtingepoxy intopay phone colnslots wouldbe betteradvisedto squirtit into the locks instead, That way themachineswill functionin case someone naeds it. Of course, up-right, moral YIPL readers love Pa Bell too much to dosuch athing.-RF,, LA, CAL,-DEAR YIPLOnly problem with red box #16 faint tone(egnstard inbackground with periodic soft beeps even when Ao buttonis depressed. Can anything be done?I bought what I thought were good quality ($1.30) Inter-national rectifier switches (coin silver contacts, etc.) andthey're hogwash. Will look for better constructed versions.Thanks for all-you folks are beautiful.-MM, NY-You've got a leakage problem Some possitilites are todecrease the 47K resistor on the base of the snortingtransistor, decrease the 2ZK resistor of tbe same trans-istor, or increase the 5 mid. capacitor in the emitterCfrouit, Or try this Move ths collectorof theahortngtransistor to the other skde of the .01 mid, capacitor. Thiswill almost surely Joad the oscillator beyond hope when theshorting transistor is burned on, but may affect the charac-tar of the beeps. It shouldn't be too serious, however,
-trial, but the real criminals goon Welfare-with you footing thebill. ITT's other relationshipfio AT&T im that they buyused, beat-up phone boothsfrom Bell for South Am-ericans! TT's Memphis| credit card is 625 8406187 KlArea Code 901)Don't buy Mortonfrozen shit, Avis,Wonder, Hostess,or stay ataSheraton Inn.Tell all thepeople youmeat todo thesame|
-freelong-distancecalls that's aminor problem,TewAROSREAROF PNONEaoat
-y
-Y/PLUISYIPL is antu-corporste technologyYIPL |s how to do utYIPL is for youYIPL ig youYIPL ts you sending In articlesYIFL is you teaching othersYIPL is vou yelling at us when we say dumb thingsYIPL + yelling al you when you don't say thingsYIPL. .. need of your support, and your friendsAT&T and ITT want to crush YIPL but they know thatoe is growing into the whole lot of togetber people thatL is.
-
-It's not just the rate increases that burn me up about Bell,It's those local calls that sound like there's an atomic waron, after you've dialed a wrong number three times in a row.It's that lousy Bell service.Lousy service comes from rotten equiptment and asinineemployees. The equiptment is rotten because Bell doesn'tfee] like buying new equiptment, It costs money and doesn'tmake money for them. Thus, there is no reason. Peopledon't enjoy peircing tones that blow their ears out, or tapsand clicks constantly on their private conversations. Butpeople don't count, unless they're the few who own Stock,lots of stock. It's a fact that in New York City the phone com-pany puts the new equiptment in the richer areas and badlyneglect service in predominantly non-white areas, Recentlythey sent out printed leaflets jn the bills saying that theywere changing to a new dial tone to improve Service. Result-a new dia) tone with no improvement in service.The employees are another problem. Though there aremany polite employees, the bad ones do their best to makeup for their numbers. They listen to your conversations,act like they do you a favor, and cut you off if you start toget apoplectic from not being able to strangle them, It hasoften happened that an operator will accuse you of being abother or of lying to them, and they then pronounce yoursentence- your phone will be disconnected for the night. Toobad you only get credit if service is cut for 24 straight hours.And if you call the business office you get to talk to the latestinvention of Bell] Laboratories-computor people, They recitecertain phrases and no others. Sometimes they blow a fuseand keep repeating phrases in random incoherent tones.You don't have to be sick to work for Bell; as their adssay, "We'll train yuu". Why do some operators monitoryour calls? Because operators themSelves are harassedand monitored by their supervisors, and the supervisorsdon't make clicks when they listen to you_and the operator.Employees are treated like children, like boy Scouts, oras if they're in the army (as many employees are hiredbecause they're "pre-disciplined"). Employees are urgedto act like they have some personal Stake in AT&T and toprotect its equiptment with thelr life. Little insects thateat cloth wire remain a piin in the ass to operators bodiesbecause Pa Bell won't spray their fossilized equiptment or(God forbid]) replace it with plastic wires. Profits beforePeople-AT&T's Success Story]But cheer up folks! Soon AT&T will eliminate thousandsof jobs by charging for information calls, brainwashing usinto dialing our own cells, and soon there will just be onebig daddy computor*AND THAT'S ALL! Who needs peopleanyway? Light and Sound Weapon TestedBUN DGN, FNGOAND ooo— ite MCAS BPO Te ooh,an owilor.et wemoen thi uaysuyek vad ight waves to wrueeHt ane cmkptie fix tobeesk woo ceois, dhe New Scictext miei & repetted hrecay.‘ioe mart vine Seah in ils dec:sefioiers of Ure weapen: Aare poeatp of protesters reaeteex puboe Jwes, Sublenty Spercontin! phe proap bois opibyburfis Sboek they xen cad bearcontributions,ethos dranpe, Whe rest decd a 19Uurehbings in tbe curs oe) oaElastung on their eves aral PRIXX!-hiv eneipsier Deon sick,Tew eats aedy pael denepurse!We New Seieist sokt (heaecpen uses inviable olfraredDebt rays combined with ubre-swe gxind waves alist in-sadtible to the human car, 7Hhas been known for many yearsthea rapicly (Mushing lights mn
-BACK ISSUFS-50¢J- Extensions, conference switeherZ- Wlue Box Story and Abbie on ripofis3- Telecommand Story4~ Fry Phone Issueo- Pl.- Box 1 Now obsoleteG- Blue Pox 27- Tuning your aryan~ Credit card calls and 1972 ectfo duper prajecl@er iscue }})~Receive long dirtance calls: Frere12-Rine Box Plans13-Intersational Calls14-International Calls & AT&T PapersW5-1973 Credit Code.T Aa-bweork16-Red Rox Plans17-Red Box, Line Relay18-Call StopperFAC] SHERTH-20¢Tbe vot lo qe t caught making eredit callsReceiviry lone dastiners calle Proe{tesue 11}AMD I- RELI. PUTTON- ‘OG 10/8.DFASTHRUITLTORY ASSISTANCE. Proe-Jus|nerd as inuel ingfvan you want buck inastanjed, self-addressed cavelope.YIPL. c/o TAP, room 418,152 W. 42 St., NYCMailing adaress only, don't send cash, PLEASE!HEAD CRASHUsing the same format as "Destructory Assistance", HeadCrash will try to distribute info relating to computor systems.WE HAVE-~ passwords and account numbers, some “operatoronly" commands for the PDP-10, and a program which willprint out al jobs and account numbers under IBM's HASP 360system.WE NEED - more account numbers and passwords, listingsof cancer, virus, "the green Phantom" etc, and any operatoronly commands for any system.
-10036
-R, SYSTATBE ALL YOU CAN BE-READ ’A case of Steal This Book has been donated to raise moneyfor YIPL and we're offering them at $2.25 each. YIPL alsoreccommends Monopoly, an amazing look at AT&T that willaStound even veteran phreaks with alj it's dirl. They're at$1.20 each. Both prices include postage.YIPL is that kind of thing that you don't subscribe to unlessyou have to. Since we all have to, it's $4a year. If you can'tafford $4 you really need YIFL so it's free. Renew yoursubscription if the number next toyour address is Icess than9. (Free subs muSt renew also. Just serid us anote, please. )Published for informational purposes only by the Youth International Party LineYIPL will not demand payment on any itemlisted if you are short on funds,this news-fact sheet is supported by yourHowever
+YOUTH INTERNATIONAL PARTY LINE 
+vA 
+a 
+JUNE 1973 
+no.19 
+Northwestern Bell Telephone is starting to take the bells out 
+of pay phones to prevent, they claim, collect calls to pay 
+phones and "signal calls" where people hear their phone ring 
+once and call back to a pay phone. Thus, if you have a life- 
+or-death situation where you must be called back, you're 
+out of luck, So much for the argument that "pay phones are 
+a public service"... Robert McCrie, editor of Security Letter, 
+a anti-ripoff newsletter showing companies security methods, 
+‘s plugging YIPL for business execs. He calls us "a bunch of 
+nuts" and puts in our address with the warning "don't use the 
+office address" (of their company). Security Letter, 475 Fifth 
+Avenue, N.Y.,N. Y. 10017. Use an office address-you're 
+writing for a company, remember. Say you want to subscribe 
+to Security Letter, ..John D. deButts, chairman of AT&T, in 
+U.S, News and World Report, (Tomorrow's phone service- 
+Why it Will Cost More) comes up with some outrageous 
+state- 
+ments like "a public telephone is a public service", "Service 
+in New York City today is good" and"'we ‘had always felt the 
+Bell System companies were well out ahead in the fairness 
+of our employment practices", Also"People don't visualize 
+the uses for Picturephones". George Orwell did in 1984, but 
+deButts doesn't mention bugging or privacy at all. Another 
+item of interest: "Do you have 2 telephone listed for John D. 
+deButts at 200 Z. 66 St?... 
+Yes, that is 421-2277"... "In 
+Kansas City, the existence of just such an arrangement be- 
+tween the telephone company and the chief of police was re- 
+vealed". That's 2 quote from Monopoly that YIPL printed in 
+issue #1, Well friends, we all know how big corporations 
+often exert political pressure to help their friends into office, 
+don't we? Nixon just named Clarence M. Kelley, the police 
+chief of Kansas City to be Director of the Federal Bureau of 
+Investigation, Maybe all those wires will go to a little box on 
+Clarence's desk... 
+MEAT! 
+Several of you have written about-meetung other phreaks 
+in your area, Some feel that this would invite infiltration, 
+and that meeting at electrical supply stores is probably a 
+lot safer. This way you could see who you meet before you 
+meet them. Then again, you don't know if they're in the 
+"field" unless you ask. Others have said that if another 
+phone phreak convention is held, that would be the ideal 
+place. Or, again, YIPL could receive requests to meet 
+other phreaks in your area, and send pairs of people the 
+name and number of each other simultaneously, from rea- 
+ders whom we feel are cool. If you send in, be patient. We'll 
+try to match another reader, only one, for each request. 
+HOT FLASHE 
+A friendly Pa Bell worke? says that though most telephone 
+kompanies use the amount of resistancé in 
+ringing the bells 
+on @ line to determine the number of phmes connected, in 
+some (college) towns they run spot checks of total line re- 
+sistances that detect phones even with the bell disconnected, 
+So a good policy is to 
+make up a one-line "conference" call 
+maker (YIPL #1)and to leave the switch in the center-off 
+position when not in use. 
+MONKEY WARFARE- 
+nical bandits 
+st lies the coin- 
+£ 
+the little beasties you 
+find they fall into two 
+major types; the 
+egg-headed cranker 
+and the flat-faced change Sorter, The 
+d change sor- 
+ter was the pioneer of the modern gi 
+of coin suckers. 
+ot; it gages the 
+coin's size and gives you 
+for it. 
+t two coins 
+inserted are visible through two rounded windows(spray paint) 
+and is very gullible. It sucks nickels, dimes, round pop tops, 
+#14 brass washers. Also the larger pop tops with the tails 
+attached and many other bulky items plug it and render it use- 
+less till serviced. The egg-headed crander is more sophis- 
+ticated. It comes with different slots on the side for different 
+coins, and has a thumb and index crank like a nose on the 
+middle of its face. It is much more selective in what it gives 
+credit for. @ut #14 washers and, if you use great care, round 
+Pop tops if they are both scotch taped can achieve the desired 
+effect. (Be sure to carry something to push them in with like 
+the pop top tab as the tape sometimes stops the "coins" from 
+rolling in far enough.) WARNING: if you use funny money be 
+generous, you don't want a ticket from a meter that is filled 
+with washers, It might lead to embarassing questions). 
+After tiring of the above methods and wishing to become a 
+mass destroyer of meters, send to Edmund Scientific Go. 
+(300 Edscorp Bldg. , Barrington, N, J. 08007) for their mass 
+meter disabler (they call them giant surplus horseshoe mag- 
+nets). A meter is after all a one-handed clock, and clocks 
+and magnets don't mix. Their monster 5 Ib, job concealed in 
+a pack or purse can stop a meter with a couple of rubs. 
+After it is stopped any money deposited will give credit till 
+city demagnetizes it, OFF 
+A METER TODAY, IT'S GOOD 
+FOR YOUR SOUL! AND IT FEELS GOOD TOO, 
+JACK FLASH. IOWA-
+A RED BOX IN EVERY POT 
+If you are one of those readers who would love to build a 
+red box but don't have electronic experience, the tape 
+method is for you. With only a small cassette recorder 
+(price-$25) and a telephone Pickup coil(about $2) you can 
+easily and quickly record the sound of pay phone money. 
+The pay phones are now Single-slot types which make a 
+tone when you deposit coins, but the earpiece is discon- 
+nected momentarily so that you hear nothing. But if you 
+call up a friend and deposit money, he will hear it, He 
+can then record the tones off of his Phone, and use them 
+whenever he goes to a pay phone to make long-distance 
+calls. 
+‘The usual method is to have your friend call you at the 
+Pay phone(one that rings; some don't) and this way you can 
+deposit money and get it back when you hang up, Pickup & 
+hang up again. You deposit 6 quarters, 2 dimes, and 2 
+nickels. The tape can be played to the operator for a sum 
+of $1.80, or rewound quickly for more quarters or dimes 
+or whatever, 
+Volume is important if the operator is to be fooled. The 
+beeps should be loud and clear, with little background noise. 
+A recorder with Automatic Level (AGC) is good to use for 
+recording. For playback to the operator, a small 2 1/2" 
+external speaker is useful, because you can easily take it 
+away from the mouthpiece of the phone when you want to 
+skip a particular coin sound. The correct volume is set 
+as follows: At the pay phone, alternately play the tape and 
+deposit money, holding the speaker about 1" from the phone 
+mouthpiece, When your friend hears the two at the same 
+tevel, mark the volume ‘control on the cassete for future use. 
+It!s that easy] Use phone booths where people won't see you 
+playing the recorder and become suspicious. And in case 
+your suspicions are aroused, simply erase the tape. 
+DEAR YIPL 
+I have some black-box info you might be interested in. 
+This info came from a Bell V. P, talking to his nephew. 
+He says some central Offi¢es have a computer tied in to 
+all its tandems which randomly checks the resistance of 
+the calls going on. When it detects a low-resistance call it 
+prints out all available info, your number, his number, time 
+SuppoSedly the second time the same conditions are detected 
+between the same two numbers someone gets screwed, usu- 
+ally he who has the box. I can't Say how true all this is, 
+but its plausible, they do have diagnostics equipment. 
+In R.L,(A.C, 401) 959-XXXX (any numbers) gives a high 
+Pitch that makes the tandem cheep, 958-XXXX gets some 
+lineman's office. 955-XXXX gives employee new and Bell 
+vropoganda.238-0000 
+gives you a line that doesn't ring or 
+answer, All should be free. It would be a great user ser- 
+vice if you could compile and publish a list of what over- 
+Seas senders go where, 
+P. S, - I would appreciate it if you could clarify your 
+mail status and how the F, Bl. gets your subscriber's 
+names, 
+-SAVROK, R.L - 
+We bulk mail at the post office where they are broken up 
+into different mail bags. From that point the issues are 
+Scattered around the country, and our mail gets probably 
+more mishandling than outright censoring, due to sloppily 
+managed postal service. It is also Possible that certain 
+individual postmen throw out YIPLs, but if a manager did 
+it as policy it would leak out too fast. Cooperation between 
+the post office and FBI in revealing subscriber names is 
+totally illegal and would be very embarassing if leaked. Not 
+to mention that we will sue all Parties involved if it occurs, 
+All you postal workers let us know what treatment YIPL 
+mail gets in your area, We might mention that we do not 
+trade, sell, or otherwise expose our mailing list. 
+Boycorr 
+mr. 
+The. 
+for your enclesen bill. 
+1. Held bill ar EACH END 
+2. Move lett hand vwni it 
+has right. Cbill wom has 
+fold up addle) 
+ves 
+hands 
+APART Axo 
+3, Meves, hawt Morea 
+% 
+divers 
+lay bill bermcen pelos 
+awd clap 
+Bi, 5.Spinnle AND 
+ware bi 
+Dent forget, 
+oc) : 
+DEAR YIPL 
+‘Those individuals who are in the habit of squirting 
+epoxy into pay phone coin slots would be better advised 
+to squirt it into the locks instead. That way the machines 
+will function in case someone needs it. Of course, up- 
+right, moral YIPL readers love Pa Bell too much to do 
+such a thing. 
+-R.F.,LA, CAL, - 
+DEAR YIPL 
+Only problem with red box #16: faint tone(constant) in 
+background with periodic soft beeps even when no button 
+is depressed. Can anything be done? 
+I bought what I thought were good quality ($1.20) Inter- 
+national rectifier switches (coin silver contacts, etc.) and 
+they're hogwash. Will look for better constructed versions. 
+Thanks for all-you folks are beautiful, 
+-MM, NY- 
+You've got a leakage problem. Some possibilities are to 
+decrease the 47K resistor on the base of the shorting 
+transistor, decrease the 22K resistor of the same trans- 
+istor, or increase the 5 mfd. capacitor in the emitter 
+circuit, Or try this: Move the collector of the shorting 
+transistor to the other side of the .01 mfd. capacitor. This 
+will almost surely load the oscillator beyond hope when the 
+shorting transistor is turned on, but may affect the charac- 
+ter of the beeps. It shouldn't 
+be too serious, however. 
+Probucts ! 
+Hestace, Cup Canes 
+ictater 
+Support D 
+EASY Te Foitow Ins TAvCTIONS 
+BUILDASNOOP LIGHT 
+CAUTION: THIS IS NOT A FOOLPROOF FONE TAP DETEC- 
+TOR, but it's great for finding out if all the extensions in your 
+home are hung-up. So if you're going to talk about "Konfiden- 
+tial Matters" or other "Dopee Subjects" you're sure that when 
+you say "I've got it maw" no one else has it too. 
+To insure that all phones on your end of a conversation are 
+hung-up, construct the very simple line voltage detector shown 
+here, The light 
+bulb is a 5 volt miniature type, such 
+as a 1490 
+or ano, 27. Ideal is the phone company's own tiny slide-base 
+jJamps found in multi-button (hold-button) Phones. For these , 
+use a 470 ohm, 1/2 watt resistor to lengthen the life. ‘The 
+capacitor is a 50 midi, , 100 volts or greater electrolytic type. 
+Get the parts out of any radio or electrical store for about $2. 
+‘Then connect each of the two contacts from the light to the two 
+contact wires of the capacitor, and install both 
+the 
+blue wire(inside the phone) and the "F" Screw, where the blue 
+wire normally connects to. Be careful not to touch other screws 
+or wires with the new parts you install. Carefully wrap up the 
+connections with tape and close up the phone. Test thé light by 
+Picking up the phone. The light will light, and if someone picks 
+up an extension, it will go very dim or completely out. 
+HOW IT WORKS: When a fone is in use(without a black box) 
+the voltage on your phone line drops to about 4 volts, If the 
+lamp is wired as shown, the 4 volts will flow through it when 
+the phone is picked up. If another phone is used, the line drops 
+to only 2 volts, and the light gets weaker. This other phone, 
+however, must be on your phone line, and not, for example, on 
+the line of 
+a friend you're talking to, The capaciwr allows the 
+high ringing voltage to pass around the lamp, so that the bulb is 
+not accidentally fizzed if the pnone 1s picked up during a ring, 
+You can install this in any normal dial phone, even if already 
+equipped with a black box (Issue 11), The light will not light 
+during free long-distance calls, however since we don't make 
+free long-distance calls that's a minor problem, no? 
+TOWAROS REAR OF PHONE 
+{ 
+we are in the midst of the 
+‘Watergate, with all kinds of 
+hearings and charges and the 
+like, and everybody trying to see 
+who at the White House is involved, 
+when in fact the real criminals are not 
+even being mentioned! Impossible? Not in 
+korporate Amerikal The AT&T-owned Chesa- 
+peake and Potomac Telephone Kompany was in every 
+way part of the Watergate bugging operation. And 
+don't believe for a minute that The Phone Kompany 
+helps police as a rule, AT&T is Nixon's friend, 
+not McGovern's. AT&T makes profits off the 
+war, inflation, and wage controls, just as 
+ITT, related to AT&T only by being a 
+huge ripoff Korporation, and by the fact 
+that ITT's anti-trust bribe makes it 
+the other hidden ‘criminal in Water- 
+gate. Nixon and politicians go on 
+trial, but the real criminals go 
+lon Welfare-with you footing the 
+dill. ITT's other relationship 
+to AT&T is that they buy 
+used, beat-up phone booths 
+from Bell for South Am- 
+ericans! ITT's Memphis 
+credit card is 525 8406 
+187 K(Area Code 901) 
+Don't buy Morton 
+frozen shit, Avis, 
+Wonder, Hostess, 
+or stay ata 
+Sheraton Inn. 
+Tell all the 
+people you 
+meet to 
+do the 
+same! 
+LIGHT BULB 
+GLUE WIRE 
+Rom DIAL 
+and your 
+Shading hen’ 
+If resistor is not needed, simply replace it with a piece of wire. 
+YIPLIS 
+YIPL is anti-corporate technology 
+° 
+YIPL is how to do it 
+2 
+YIPL is for you 
+YIPL is you 
+YIPL is you sending in articles 
+YIPL is you teaching others 
+XIPL is you yelling at us when we say dumb things 
+¥IPL is us yelling at you when you don't say things 
+YIPL is in need of your support, and your friends 
+AT&T and ITT want to crush YIPL, but they know that 
+pag is growing into the whole lot of together people that 
+L is, 
+WZ 
+Sac % 
+7 °° 
+ws 
+light.
+It's not just the rate increases that burn me up about Bell. 
+It's those local calls that sound like there's an atomic war 
+on, after you've dialed a wrong number three times in a row. 
+It's that lousy Bell service. 
+Lousy service comes from rotten equiptment and asinine 
+employees. The equiptment is rotten because Bell doesn't 
+feel like buying new equiptment. It costs money and doesn't 
+make money for them. Thus, there is no reason. People 
+don't enjoy peircing tones that blow their ears out, or taps 
+and clicks constantly on their private conversations. But 
+people don't count, unless they're the few who own stock, 
+lots of stock, It's a fact that in New York City the phone com- 
+pany puts the new equiptment in the richer areas and badly 
+neglect service in predominantly non-white areas. Recently 
+they sent out printed leaflets in the bills saying that they 
+were changing to a new dial tone to improve service. Result- 
+a new dial tone with no improvement in service. 
+The employees are another problem. Though there are 
+many polite employees, the bad ones do their best to make 
+up for their numbers. They listen to your conversations, 
+act like they do you a favor, and cut you off if you start to 
+get apoplectic from not being able to strangle them, It has 
+often happened that an operator will accuse you of being a 
+bother or of lying to them, and they then pronounce your 
+sentence- your phone will be disconnected for the night. Too 
+bad you only get credit if service is cut for 24 straight hours. 
+And if you call the business office you get to talk to the latest 
+invention of Bell Laboratories-computor people. They recite 
+certain phrases and no others. Sometimes they blow a fuse 
+and keep repeating phrases in random incoherent tones. 
+You don't have to be sick to work for Bell; as their ads 
+say, "We'll train you". Why do some operators monitor 
+your calls? Because operators themselves are harassed 
+and monitored by their supervisors, and the supervisors 
+don't make clicks when they listen to you_and the operator. 
+Employees are treated like children, like boy scouts, or 
+as if they're in the army (2s many employees are hired 
+because they're "pre-disciplined"), Employees are urged 
+to act like they have some personal stake in AT&T and to 
+protect its equiptment with their life. Little insects that 
+eat cloth wire remain a pain in the ass to operators bodies 
+because Pa Bell won't spray their fossilized equiptment or 
+(God forbid!) replace it with plastic wires. Profits before 
+People-AT&T's Success Story! 
+But cheer up folks! 
+Soon AT&T will eliminate thousands 
+of jobs by charging 
+for information calls, brainwashing us 
+into dialing our own calls, and soon there will just be one 
+big daddy computor®AND THAT'S ALL! Who needs people 
+“27 Light and Sound Weapon Tested 
+we repgited 
+I 
+mnagurine ssa in 
+of the 
+of prove 
+s. Sule 
+‘uy Has 
+dh they see 
+and ther 
+the rest feel a 
+contributions, 
+19 
+its, 
+2 
+apidly flashing lights. will 
+ger attacks not oaly in 
+{known epileptics but in about 4 
+Per cent of apparenily normal 
+people as well."” New Scientist 
+said. 
+BACK ISSUES-50¢ 
+1+ Extensions, conference switches 
+2+ Blue Box Story and Abbie on ripoffs 
+3+ Telecommand Story 
+4- Pey Phone Issue 
+5- Blue Box 1 Now obsolete 
+& Blue Box 2 
+‘ing your organ 
+card calls and 1972 code 
+per project(See issue 11) 
+14-International Calls & AT&T Papers 
+15-1973 Credit Code. 
+T Network 
+16-Red Box Plans 
+17-Red Box, Line Relay 
+18-Call St 
+PA 
+How 
+Re not to get 
+ving Lon 
+e 
+cals 
+I-BELL BUTTON- 50¢ 10/ 
+DESTRUCTORY ASSISTANCE: 
+Just 
+Send as much info as you want back in a 
+stamped, self-addressed envelope, 
+YIPL. c/o TAP, room 418, 152 W. 42 St., NYC 
+Mailing adaress only, don't send cash, PLEASE! 
+HEAD CRASH 
+Using the same format as "Destructory Assistance", Head 
+Crash will try to distribute info relating to computor systems, 
+WE HAVE- passwords and account numbers, some “operator 
+only" commands for the PDP-10, and a program which will 
+print out all jobs and account numbers under IBM's HASP 360 
+system. 
+WE NEED - more account numbers and passwords, listings 
+of cancer, virus, "the green Phantom" etc, and any operator 
+only commands for any system. 
+10036 
+R, SYSTAT 
+BE ALL YOU CAN BE-READ 
+A case of Steal This Book has been donated to raise money 
+for YIPL and we're offering them at $2.25 each. YIPL also 
+reccommends Monopoly, an amazing look at AT&T that will 
+astound even veteran phreaks with all it's dirt, They're at 
+$1.20 each, Both prices include postage. 
+YIPL is that kind of thing that you don't subscribe to unless 
+you have to, Since we all have to, it's $4ia year, If you can't 
+afford ¥4.you really need YIPL so it's free. Renew your 
+subscription if the number next toyour address is less than 
+9. (Free subs must renew also. Just serid-us a note, please. ) 
+Published for informational purposes only by the Youth International Party Line 
+YIPL will not demand payment on any item 
+listed if you are short on funds. 
+A 
+this news-fact sheet is supported by your 
+However

@@ -1,23 +1,428 @@
-t
-Dear YIPL:The New York Telephone Company originally publicizedthese numbers when it introduced International Direct Dis-tance Dialing (DDD), but for some reason the numberswere not mentioned in the new brochures. Perhaps they feltthat these recordings would encourage people to use theirboxes for calls to other countries. In any case, bere is thecomplete Hst of recordings: .FORIEGN TELEPHONE SIGNALS(212) 363-8888 Norway and Sweden(212) 363-8889 Italy and Luxembourg(212) 363-8849 Switzerland and Denmark(212) 797-8029 Greece and Spain(212) 797-8079 Australia and Japan(212) 797-8729 British Isles and France(212) 797-8798 Belgium and GermanyThe local A&P bas two pay phones but they ripped out themumber plate since the A&P chain docsn't want the publicto know the number of the pay phones in their stores. Itried dialing 958 but it didn't work (although it works iner pay phones). Any ideas why 958 didn't work? Can.P request the telephone company to disconnect theAutomatic Number Identification from its phones?-J.R.,N.Y.-Could be that the exchange of the particular pay phone hasanother ANI number. Try ringback, the bell may have beendeactivated anyway. Complain to the manager that Someonemight have to reach you while shopping, and you might go toa store that doesn't make already lousy service even worse.But it isn't likely Bell disconnected ANI just from those payphones.Also, try reason with the manager, Since complaining tothe phone company won't do any good. The manager will,however, have a lot of pull with them. Ask the managerbow one makes a 10 minute call with one dime. What happenswhen the dime runs out? Call collect, and pay more? Whatdo they have against calling from home phones back to payphones? Don't people pay for home service?Dear YIPL,Issue #18 gave a Nevada Bell communicator number (702-789-6711) which is NOT a free number, unlike the PacificTelephone numbers and most of the others. Please notifyyour readers. The AT&T newsline number(212-732-8030)which is free now will have a new number(will write assoon a8 I know). Plans are for calls to the new number tobe free only from nearby N. Y. and N,J.; if the toll chargesfrom N. J, are 50¢ or less, or the charges from N.Y. are$1.06 or less, the call will be free. Otherwise it will bebilled h. tbe usual manner.le -GS, NY-3. - Since some people are afraid that the FBI or otherswill find out that they subscribe to YIPL, would it be poss-ible to offer to mail them out in an envelope, first class,for an extra $1 or $2 a year? .Yes- for the extra hassle, though, we'll need $1. 50, ifyou're already paying for a subscription, and as always,free if you're receiving a free subscription.
-no. 20YOUTH INTERNATIONAL PARTY LINEJULY 1973
-YIPLBE SURE AND BRING AN ISSUE OF YIPL ADDRESSED TOYOU FOR FREE CONVENTION ADMISSION.A recent rumor flying around Washington was that therewas a number, 660-9944, that made a rising siren tonewith a click if your phone was tapped, and no click meantno tap. NBC anchorman John Chancellor called the num-ber and heard a click, so he called the phone company.They told him they disconnected it because people weremaking too many calls to it, falsely thinking that it told ofphone taps. An army intelligence source told the N. Y.Postthatthere was a Similar numberinN.Y,, but hedidn't know it. If he had read YIPL #14, however, he wouldhave, 324-0707. This number, to our knowledge, was nota bug detector. It is a test number that swept through thefrequencies of the long-distance circuits. When it reaches2600, there is a momentary click because testmen usingit long-distance don't want to be causing extra switchingwhen checking a line. Also, filters in all long-distancetrunks would cause the loss of the tone at 2600 anyway.The Telecommand(YIPL #3) detects a tone sent down a lineand silently answers the phone. If you suspect a Telecom-mand on your phone, and were to feed a rising siren toneinto your phone, you would hear a click when the frequencyof the Telecommand was reached, and the click would meanthat the Telecommand had just turned on. Since the chanceof a Telecommand being on your phone is small comparedto the many more common taps, using the phone company'ssweep tone could prove to very misleading, at the very least.Since the rumors began, both the Washington and N. Y. num-bers have become busy signals. So it appears that a commontest number useful for one limited type of bug detection andngothers has bitten the dust.
-14-ternh onal Cals & AT&T Papers15-5973 Creat Code,T Mebwork16-Red Box Plans17-Red Box, Line Relay18- Call Stopper19- The Snoop LightYIPL is free if youcan't afford it, IfNow nat to geil eredit callsRece! dis cals PFrwett 1h)ANTI BELL ON. SO 1S you must renew andDESTRUCTORY ASSISTANCE- Free- FiatSewd as mack ints 6syouwintback tnesemped, self-addressed .Renee Uf yoursédrezs has leason jt.YIPL, Room 504, 152 W, 8, YL, Y, ltdWalling acdreesonky, don't sendcash, PLEASE!Head Crash-Send us computor passwords and operator-only codes in return for more of same.Send a stamped, self-addressed envelope, please.
-can't afford, write usor we have to cancelyour SubScription.
-
-THE CHBESIE BOX‘he Cheese Box is Simply a corterence line, or loop-around.They are very popular witn socxies whos place >ets by phone,because their clients call one numoer, and the boosie callsanother, and police won't find the bookie at the location ofeither of the two numbers. This is precisely why loops havebeen a favorite of phone phreaks, tco.Bell's loops are limited because they often disconrect aftera certain time, one of the two mmbers must be called first,and they are often monitored and sometimes even charged.The Cheese Box can be extended to many lines, thereby cre-ating corferences, and will let either line be called first andhang on indefinitely. Last but certainly not least, the CheeseBox is free.' Phone voltage is normally 45 volts. When the phone rings,a 9) volt AC signal is applied te the line. The zener ilodeconducts if the voltage rises to £4 volts, thus it conduc:s asthe phone begins to ring, in tact, before the phone rings. Assoon as it comtucts, the phone equipment thinks you pickedup (because current is drawn by the zener} and the voltagedrops below the zener voltage, and it stops conducting. Allthis happens so quickly that essentially the zener conductsfor only a few milliseconds, and the billing equipment doesnot Start. If you call from a local pay phone, you will cetyour dime back. And you can hold on until someone callsin on the other line or ines. When they do, their line willbe answeredin the same way andyou canthentalktoeachother. She capaciters prevent the DC voltages on the Linesfrom interfering with each other. Either side of the line canaffect the line status if allowed to touch another line.Install the zener diode tothe red and creen wires of yourphone line. If you install it backwards, there will be no dialtone on your phone, if so, reverse the wires from the zener.A zener diode will conduct electricity when the anode ismore positive than the cathode, or when the cathode is morethan a certain number of volts more positive than the anode,in this case 56 volts,Since the phone company has 4 Special hatred for phoneatlackments that cause free calls, many bookies use theCheese Box for only a few minutes, Since calls over 3minubes can be detected if tlhe phone company decides to dosomething about it.
-CATHOOGzener DicaeANOSE
-‘ ) ——ea fiery foret Diplonar. 108 43 5.5 Mid. 100 Volt Capacitors OC.rand.4~Line Conferencer
-PE ¥ :
-€ C
-3-Line Conferenceré
-Hi,Here are some qcod reverences on switching systems:Bell laboratories record Jan. 70 page 13Bell System Technical Journal Nov. 80 page 1381This one is the best paper on the Bell switching system andpages 1298, 1400, and 1422 will give you a good undierstand-ing of how the toll system works. Page 1422 explains super-vision pricciples. Supervision is returned to the caller whenthe called party answers. AS a result you get billed. If youdisconnect (2600) on a told call after supervision has beenreturned to you, you will be timed out by your local office.That is, you will lose the circuit in 13-30 seconds. [f youare not souped, then disconnecting with 2600 does not causetime out. On what calls are you unsouped? If you callapicne that bas a black box or mute, acai to information,Service calls, or recorded messages . The phone companydoes not return supervision on 655-1212 so you will not becharged. Thus cnly the first billing entry is made. If youM>* off of long distance intormaticn and call a supervisednumber, the start and stop of conversation will be recorded.That is, you will be billed for a call to information whichis IMPOSSIBLE as supervision isn't returned 9n those calls.You went from an unsurpervised line to a supervised lineduring the same call which is a dead giveaway that you 1a blue box. [f the pnone company is alert you will be na.when they check their billing tapes. Neveruse long distanceinformation from a home phone, Your security Should neverdepend on someone else's stupidity.Here are the credit cards for two of those companies pro-ducing 2600 detectors.
-Sept. 81973(Dam 5pm$00 caormturnex, Jit. Strurhers free
-BE SURE AND BRING AN ISSUE OF YIPL ADDRESSED TOYOU FOR FREE CONVENTION ADMISSION,Northeast Electronics TeltronicsConcord, N. H. Lakeland, Fla.224=-6511-004U(803 Area) 683-7409-531Z(013 Area)It's reasonable to assume that these people will only supplyindepsndent companies. The Bell system has designed itsown. It's been knownfor some timethat Bell has had a few2000 detectors that recorded the MF numbers. These areprcbably used when they suspect a blue box is being usedfrom a home phone and want to gather evidence for prose-cution. According to Bell security, the computor programwhich processes the billing tapes now looks for 800 callslonger that 10 minutes as well as an excessive number of800 calls.-Alex, U,S.-Phone operator tells ofMa Bell's ''Watergate”’Te Lhe Editar:| werk me 2 telephone aperaiey ieNew YorkCity, handing “Dtrecter;Assietamece” 1411) cals. Last year,éGaringthe etection «ampeign. we cawour bees, N.Y Telephone (ATAT) paysoff Me ewo Watergaie-type ow.dercever ction sgainet = theDemecratic Party.TheDeapecrntahad set up 6fendfeltag “telethon” during Lhe com-paige. with theides Lintpeuple wouhdcall upsadpiadge deantions.We were
-DeanecraticParty \ebethes sember,imetruct the egerstey te say, ‘Tmperry. { have ms Boling... ° Only if thethe eperstertewhasfer We can le 6supervieser. wee wit, ff neseasary.give the sasaber.”There'ssa expression that's verypepaiar amang ‘cirphene companyMenagenment. K goers. “Owe hand** AYQT protebtyGd a wheelet mere (o betp Nizam thetwe éem’( even Laowsheut. Ome thingwe haew thet Nuxeh aff theugh, brslappedwe wick the wage-frresesnrany beterecar nw cemirectrea onl!(same werthnetd!Sruvhiya. NY.
-Dear YIPL:lere's a way to beat the high cost of living.1, Steal an adjustable price marker froma supermarket.It has about 5 wheels: that turn to whatever price youwant.a. GO t your local hobby shop and buy a small tube ofMethyl Ethyl Ketone, "MEK", a resin catalyst.You are now ready to fight dat ole debbil inflation. You'vegot your pricer, your MEK, and some paper tissue. Nowgo to the Store. Stick to canned foodsat first. Findwhatyou want, Puta drop of MEK on the price, Wait a second,then wipe it off with your paper tissue. Select the priceyou want{between 10 and 25 cents less than the store price)on your pricer, and stamp away. If they question the priceat the checkout, get abusive. Call them money grubbingbloodsuckers and threaten to call the price commission.Theywillnot botheryou again. Bon appetiteand good Juck.“Stainless, R.L-YIPL-To get the phone to ring in Denver, dial 6191, then hang up.Tt willring one long continuous ring untilyoupickitup. The660 thing suggested in #18 doesn't work.Question- what is the point of driving the Nashville info. opscrazy, aS Suggested by one of the letters in #18? They arejust as oppressed by Pa Bell as the rest of us, and certainlynol responsible for the way we are ripped-off. I think itsimportantto rememberthatthe phone co's lackeys arepoorand starvinglike us, probablyhatethe phone co.a3 muehas we do, and also are being exploited by it. They aren'tthe enemy, and I'm sure they have enough problems(likemaintainingtheir sanity ina job Like that) without being un-neccesarily hassled. end of diatribe-Nancy, Denver-Dear YIPL;You may be interested to know that, according to the littlebooklets 'Pa Ball’ sends out to its Stockholders, a phonecall fom a pay-phone costs them 7 1/2¢. This includesbuying their equipment from Western Electric (whom theyown Switch, hook anddial). That means they get 2 1/2¢ asfree money. Also, at the end of "T2, Bell owned over 105million of the world's 300 million and the U.S. 's 129 mil-
-
-How to get out of paying depositFeel Free]! to lie to phone co. They don't have time to checkyour answers, especially in spring and fall in college towns.When they ask, "Are you married?! say YES, When theyask where you work, NEVER say, "I'ma student." Tell themyou're civil service. When they ask, "Do you have a bankaccount?” say YES and mention checking account in onelocal bank and a savings account in another. When they ask,"How long have you been at that address?" say a year andname your landlord. If they still want a deposit, get veryinsulted and say "To hell with it." Then apologize: "Gee,I'm not mad at you personally, but those stupid company po-licies! I'l) bet working there is a real drag." Call 2 or 3_ days later, go thru the above routine again, & you probablywill get the phone with no hasslé about a required deposit.Very important-After several months, often 6, you are en-titled to your deposit back. The phone company will giveyou interest on the deposit in the form of phonecredit, butit's no bargain. The interest can be earned at any bank, butthe phone company invests your money in ways to make afortune for them and much less for you. Don't let them useyour moneyl If you have your friends do this it will meanless money to spend on Western Electric's defense contracts.They were the bloodsuckers behind the ABM.The phone company also invests money from phone billsand the sooner they get it, the more profits they get. Don'tever send in your bill until the last possible day marked outhe bili.Be sure to call these swell people at convenient times. Areacode is 606.Honeywell... 290-0449- Ask them about contract DAAA-21-73-CO286 of January 1973. And ask them about the $30. 9million Navy contract for the Rockeye II cluster bomb,Ask them why they keep working for a company that makes40% of its profits from anti-personnel weapons.-M. T. ) Kentucky-
-STUCK STACKS?A memo from the Director of Switching Engineering tothe various Bell Engineers reveals that a device has bebuilt to prevent stacked tandems, It is being installed inall senders with varying degrees of haste. We have somecopies of the memo in Destructory Assistance.Dear YIPL,While on the phone with a friend, I heard clicks on the line.Then an operator came in and told me that there was anoth-er party trying to reach me and that it was an emergency.I heard the clicks a long time and when I asked her why shewas listening in 50 long she told me she was trying to findout if my conversation was important enough to break into,And when I asked ber her name, she hung up.-RK, NY-Hot News Item! In issue 11 we stated that the Black Box isprimarily for long-distance calls, and that local calls maybe disconnected if the switch is not immediately switchedto "Free". Tests in several areas of New York show thatlocal calls will not_ be disconnected and will be free! Callsfrom a pay phone will also be free. There are reports thatcertain areas will disconnect local calls automatically in10 to 30 seconds, but often the phone is picked up and hungup too slowly, thus accounting for the disconnection. If theprocedure is done within 1/2 second, no disconnection willoccur, unless the local phone system is so designed. High-est safety will be afforded when calls are kept under 3 min-utes,GENERAL TELEPHONERS! ’We now have a fact sheet identical to our issue 11-ReceivingLong Distance calls that is for readers served by GenTel,which uses Automatic Electric phones, not Western Electric.State clearly that you live ina GenTel area when writing us.Published for informational purposes only by the Youth International Party Line.BE SURE AND BRING AN ISSUE OF YIPL ADDRESSED TOYOU FOR FREE CONVENTION ADMISSION,20
-It's justa ques-tion of time before the10-cent telepkoue call be-comes history. And veryLittle dime at that.Starting May 1 the cost‘of a telepkone call in thestate of Washington rose to15 cents, making Vashing-ton the firet state in theBell Syetem to sbeadon the10rcent call.The Bell Systee has onfile a request ‘to raiseall loeal calle to 20 centseach in the followingstates: Hew York, Fiorids,Barylaad, Indiasa andOregon. . Meme many, Wi
-Books.Steal This Book $2.25Monopoly $1.20FROM: YIPL, Room 504, 152 W. 42 St.,N. ¥.,N. ¥Y. 10036
+Dear YIPL: 
+The New York Telephone Company originally publicized 
+these numbers when it introduced International Direct Dis- 
+tance Dialing (DDD), but for some reason the numbers 
+were not mentioned in the new brochures. Perhaps they felt 
+that these recordings would encourage people to use their 
+boxes for calls to other countries. In any case, here is the 
+complete list of recordings: 
+FORIEGN TELEPHONE SIGNALS 
+(212) 363-8888 Norway and Sweden 
+(212) 363-8889 Italy and Luxembourg 
+(212) 363-8849 Switzerland and Denmark 
+(212) 797-8029 Greece and Spain 
+(212) 797-8079 Australia and Japan 
+(212) 797-8729 British Isles and France 
+(212) 797-8798 Belgium and Germany 
+The local A&P has two pay phones but they ripped out the 
+number plate since the A&P chain doesn't want the public 
+to know the number of the pay phones in their stores. I 
+tried dialing 958 but it didn't work (although it works in 
+other pay phones). Any ideas why 958 didn't work? Can 
+A&P request the telephone company to disconnect the 
+Automatic Number Identification from its phones? 
+-IR.,N.Y.- 
+Could be that the exchange of the particular pay phone has 
+another ANI number. Try ringback, the bell may have been 
+deactivated anyway. Complain to the manager that someone 
+might have to reach you while shopping, and you might go to 
+a store that doesn't make already lousy service even worse. 
+But it isn't likely Bell disconnected ANI just from those pay 
+phones, 
+Also, try reason with the manager, since complaining to 
+the phone company won't do any good. The manager will, 
+however, have a lot of pull with them. Ask the manager 
+how one makes a 10 minute call with one dime. What happens 
+when the dime runs out? Call collect, and pay more? What 
+do they have against calling from home phones back to pay 
+phones? Don't people pay for home service? 
+Dear YIPL, 
+Issue #18 gave a Nevada Bell communicator number (702- 
+789-6711) which is NOT a free number, unlike the Pacific 
+Telephone numbers and most of the others. Please notify 
+your readers, The AT&T newsline number(212-732-8030) 
+which is free now will have a new number(will write as 
+soon as I know). Plans are for calls to the new number to 
+be free only from nearby N.Y. and N, J.; if the toll charges 
+from N. J. are 50¢ or less, or the charges from N.Y. are 
+$1.06 or less, the call will be free. Otherwise it will be 
+billed in. the usual manner, 
+-GS, NY- 
+P,S, - Since some people are afraid that the FBI or others 
+will find out that they subscribe to YIPL, would it be poss- 
+ible to offer to mail them out in an envelope, first class, 
+for an extra $1 or $2 a year? 
+Yes- for the extra hassle, though, we'll need $1.50, if 
+you're already paying for a subscription, and as always, 
+free if you're receiving a free subscription. 
+no. 20 
+YOUTH INTERNATIONAL PARTY LINE 
+JULY 1973 YIPL 
+BE SURE AND BRING AN ISSUE OF YIPL ADDRESSED TO 
+YOU FOR FREE CONVENTION ADMISSION, 
+A recent rumor flying around Washington was that there 
+was a number, 560-9944, that made a rising siren tone 
+with a click if your phone was tapped, and no click meant 
+no tap, NBC anchorman John Chancellor called the num- 
+ber and heard a click, so he called the phone company. 
+They told him they disconnected it because people were 
+making too many calls to it, falsely thinking that it told of 
+Phone taps. An army intelligence source told the N. Y, 
+Post that there was a similar number in N, Y. » but he 
+didn't know it. If he had read YIPL #14, however, he would 
+have, 324-0707. This number, to our knowledge, was not 
+a bug detector, It is a test number that swept through the 
+frequencies of the long-distance circuits. When it reaches 
+2600, there is a momentary click because testmen using 
+it long-distance don't want to be causing extra switching 
+when checking a line. Also, filters in all long-distance 
+trunks would cause the loss of the tone at 2600 anyway. 
+The Telecommand(YIPL #3) detects a tone sent down a line 
+and silently answers the phone. If you suspect a Telecom- 
+mand on your phone, and were to feed a rising siren tone 
+into your phone, you would hear a click when the frequency 
+of the Telecommand was reached, and the click would mean 
+that the Telecommand had just turned on. Since the chance 
+of a Telecommand being on your phone is small compared 
+to the many more common taps, using the phone company's 
+Sweep tone could prove to very misleading, at the very least. 
+Since the rumors began, both the Washington and N, Y. num- 
+bers have become busy signals. So it appears that a common 
+test number useful for one limited type of bug detection and 
+no others has bitten the dust. 
+BACK ISSUES-60¢ 
+2+ Extensions, conference switches 
+2° Rlue Box Story and Abbie on ripotts 
+3° Telecommand Stary 
+4¢ Pay Phove Inaue 
+55 Blue Bor Now obsatota 
+© Blue Box 2 
+1 Thnlog 
+your onmaa 
+Wt card calle and 1972 code 
+per duper projectiSee issue 11) 
+Recelve long distance calls Free 
+flue Box Plans 
+1S-International Calls 
+International Calls & AT&T Papers 
+1573 Credit Code, T Network 
+16-Red Box Plans 
+17-Red Box, Line Relay 
+18- Call Stopper 
+19- The Snoop Light 
+Fact sipets-25¢ 
+How not w ge caught making credit calls 
+Recelving ong date cals Preiss 11) 
+ANnIeBELL BUTTON. S07 10/83,00 
+DESIRUCTORY ASSISTANCE 
+Free-Dust 
+Stamped, sell-eddressed engor, 
+‘Renew if your address has ‘ 
+YIPL, Room s04, 
+152 Wr 48 Oe 
+Nag rene ly, 
+Head Crash-Send us computor passwords and operator- 
+only codes in return for more of same, 
+Send a stamped, self-addressed envelope, please. 
+YIPL is free if you 
+can't afford it. If 
+you must renew and 
+can't afford, write us 
+or we have to cancel 
+your subscription.
+THE CiGESE Box 
+The Cheese Box is simply a conference line, or loop-around. 
+They are very popular with bookies who’ place bets by phone, 
+because their clients call one number, and the bookie calls 
+another, and police won't find the bookie at the location of 
+either of the two numbers. This is precisely why loops have 
+been a favorite of phone phreaks, too, 
+Bell's loops are limited because they often disconnect after 
+a certain time, one of the two numbers must be called first, 
+and they are often monitored and sometimes even charged. 
+The Cheese Box can be extended to many lines, thereby cre- 
+ating conferences, and will let either line be called first and 
+hang on indefinitely. Last but certainly not least, the Cheese 
+Box is free. 
+Phone voltage is normally 45 volts, When the phone rings, 
+a 90 volt AC signal is applied to the line. The zener diode 
+conducts if the voltage rises to 56 volts, thus it conducts as 
+the phone begins to ring, in fact, before the phone rings. As 
+soon as it conducts, the phone equipment thinks you picked 
+up (because current is drawn by the zener) and the voltage 
+drops below the zener voltage, and it stops conducting. All 
+this happens so quickly that essentially the zener conducts 
+for only a few milliseconds, and the billing equipment does 
+not start, If you call from a local pay phone, you will get 
+your dime back. And you can hold on until someone calls 
+in on the other line or lines,. When they do, their line will 
+be answered in the same way and you can then talk to each 
+other. The capacitors prevent the DC voltages on the lines 
+from interfering with each other. Either side of the line can 
+affect the line status if allowed to touch another line. 
+Install the zener diode tothe red and green wires of your 
+phone line. If you install it backwards, there will be no dial 
+tone on your phone, if so, reverse the wires from the zener. 
+A zener diode will conduct electricity when the anode is 
+more positive than the cathode, or when the cathode is more 
+than a certain number of volts more positive than the anode, 
+in this case 56 volts, 
+Since the phone company has 2 special hatred for phone 
+attachments that cause free calls, many bookies use the 
+hee; 
+ox for only a few minutes, since calls over 3 
+minutes can be detected if the phone company decides to do 
+something about it. 
+CATHODE 
+Zener Diode 
+ANODE 
+2-Line Cheese Box 
+R 
+rR 
+Phone 
+Phone Horer D 
+Line A 
+Line B 
+< 
+108 W43sx 
+G 
+. 5 Mfd. 100 Volt Capacitors 
+NYC. 
+4-Line Conferencer 
+®@ 
+Se 
+ne 
+cain) 
+Here are some good references on switching systems: 
+Bell laboratories record Jan. 70 
+page 13 
+Bell System Technical Journal Nov. 60 page 1381 
+This one is the best paper on the Bell switching system and 
+pages 1398, 1400, and 1422 will give you a good understand- 
+ing of how the toll system works. Page 1422 explains super- 
+vision principles. Supervision is returned to the caller when 
+the called party answers. As a result you get billed. If you 
+disconnect (2600) on a toll call after supervision has been 
+returned to you, you will be timed out by your local office. 
+That is, you will lose the circuit in 15-30 seconds. If you 
+are not souped, then disconnecting with 2600 does not cause 
+time out, On what calls are you unsouped? If you call a 
+phone that has a black box or mute, a call to information, 
+service calls, or recorded messages . The phone company 
+does not return supervision on 555-1212 so you will not be 
+charged. Thus only the first billing entry is made. If you 
+MF off of long distance information and call a supervised 
+number, the start and stop of conversation will be recorded. 
+That is, you will be billed for a call to information which 
+is IMPOSSIBLE as supervision isn't returned on those calls. 
+You went from an unsurpervised line to a supervised line 
+during the same call which is a dead giveaway that you used 
+a blue box. If the phone company is alert you will be nailed 
+when they check their billing tapes. Never use long distance 
+information from a home phone. Your security should never 
+depend on someone else's stupidity. 
+; 
+Here are the credit cards for two of those companies pro- 
+ducing 2600 detectors. 
+3-Line Conferencer 
+R 
+€ 
+Sept: 8, 1973 
+[Oam- Spm 
+$100 comraiBuriew, YiPL Subscribers Free 
+BE SURE AND BRING AN ISSUE OF YIPL ADDRESSED TO 
+YOU FOR FREE CONVENTION ADMISSION, 
+Northeast Electronics 
+Teltronics 
+Concord, N, H. 
+Lakeland, Fla. 
+224-6511-004U (603 Area) 683-7409-531Z(813 Area) 
+It's reasonable to assume that these people will only supply 
+independent companies, The Bell system has designed its 
+own. It's been known for some time that Bell has had a few 
+2600 detectors that recorded the MF numbers. These are 
+probably used when they suspect a blue box is being used 
+from a home phone and want to gather evidence for prose- 
+cution, According to Bell security, the computor program 
+which processes the billing tapes now looks for 800 calls 
+longer that 10 minutes as well as an excessive number of 
+800 calls. 
+-Alex, U.S. - 
+Phone operator tells of 
+Ma Bell’s ''Watergate”’ 
+Democratic Party telethon number, 
+instruct the operator to say, ‘I'm 
+sorry, Ihave no 
+sting. . .' Only If the 
+customer becomes insistent, instruct 
+the operator to transfer thecall 
+to a 
+supervisor, who will, if necessary, 
+give the number. 
+There's an 
+expression that's very 
+popular 
+1% telephone company 
+gement. It goes, “One hand 
+the other."” AT&T probably 
+‘a whole lot more to help Nixon that 
+t even know about. One thing 
+we know that Nixon did though, he 
+telephone operator in 
+New Yerk City, handling “Directory 
+Assistance” (411) 
+ind pledge donations. We were 
+ed to give out this 
+number! 
+Our supervisors received a written 
+memo from higher management, 
+‘which laid down this procedure:”...if 
+@ customer. calls asking 
+slapped us with the wage-freeze one 
+day before our last contract ran out! 
+(name withheld) 
+Brooklyn, N.Y. 
+Dear YIPL: 
+Here's a way to beat the high cost of living. 
+1, Steal an adjustable price marker from a supermarket. 
+It has about 5 wheels: that turn to whatever price you 
+want. 
+2. Go to your local hobby shop and buy a small tube of 
+Methyl Ethyl Ketone, "MEK", a resin catalyst. 
+You are now ready to fight dat ole debbil inflation. You've 
+got your pricer, your MEK, and some paper tissue. Now 
+go to the store. Stick to canned foods at first. Find what 
+you want. Put a drop of MEK on the price. Wait a second, 
+then wipe it off with your paper tissue. Select the price 
+you want(between 10 and 25 cents less than the store price) 
+on your pricer, and stamp away. If they question the price 
+at the checkout, get abusive. Call them money grubbing 
+bloodsuckers and threaten to call the price commission. 
+They will not bother you again. Bon appetite and good luck. 
+-Stainless, R,L- 
+YIPL- 
+To get the phone to ring in Denver, dial 6191, then hang up, 
+It will ring one long continuous ring until you pick it up. The 
+660 thing suggested in #18 doesn't work. 
+Question- what is the point of driving the Nashville info. ops 
+crazy, as suggested by one of the letters in #18? They are 
+just as oppressed by Pa Bell as the rest of us, and certainly 
+not responsible for the way we are ripped-off. I think its 
+important to remember that the phone co's lackeys are poor 
+and starving like us, probably hate the phone co. as much 
+as we do, and also are being exploited by it. They aren't 
+the enemy, and I'm sure they have enough problems(like 
+maintaining their sanity in a job like that) without being un- 
+neccesarily hassled. end of diatribe 
+-Nancy, Denver- 
+Dear YIPL; 
+You may be interested to know that, according to the little 
+booklets 'Pa Bell' sends out to its Stockholders, a phone 
+call from a pay-phone costs them 7 1/2¢. This includes 
+buying their equipment from Western Electric (whom they 
+own Switch, hook and dial), That means they get 2 1/2¢ as 
+free money. Also, at the end of ‘72, Bell owned over 105 
+million of the world's 300 million and the U.S, 's 128 mil- 
+lion. There are also 1800 independent Telcos to divide 
+what's left, 
+-P, A. , Tucson-
+How to get out of paying deposit 
+Feel Free! to lie to phone co. They don't have time to check 
+your answers, especially in spring and fall in college towns. 
+When they ask, "Are you married?! say YES, When they 
+ask where you work, NEVER say, "I'm a student." Tell them 
+you're civil service. When they ask, "Do you have a bank 
+account?" say YES and mention checking account in one 
+local bank and a savings account in another. When they ask, 
+"How long have you been at that address?" say a year and 
+name your landlord. If they still want a deposit, get very 
+insulted and say "To hell with it." Then apologize: "Gee, 
+I'm not mad at you personally, but those stupid company po- 
+licies! I'll bet working there is a real drag." Call 2 or 3 
+days later, go thru the above routine again, & you probably 
+will get the phone with no hassle about a required deposit. 
+Very important-After several months, often 6, you are en- 
+titled to your deposit back. The phone company will give 
+you interest on the deposit in the form of phone credit, but 
+it's no bargain. The interest can be earned at any bank, but 
+the phone company invests your money in ways to make a 
+fortune for them and much less for you, Don't let them use 
+your money! If you have your friends do this it will mean 
+less money to spend on Western Electric's defense contracts. 
+‘They were the bloodsuckers behind the ABM. 
+The phone company also invests money from phone bills 
+and the sooner they get it, the more profits they get. Don't 
+ever send in your bill until the last possible day marked on 
+the bill. 
+Be sure to call these swell people at convenient times. Area 
+code is 606. 
+Honeywell, . .299-0449- Ask them about contract DAAA-21- 
+73-CO286 of January 1973. And ask them about the $30.9 
+million Navy contract for the Rockeye II cluster bomb. 
+Ask them why they keep working for a company that makes 
+40% of its profits from anti-personnel weapons. 
+-M,T., Kentucky- 
+STUCK STACKS? 
+A memo from the Director of Switching Engineering to 
+the various Bell Engineers reveals that a device has been 
+built to prevent stacked tandems. It is being installed in 
+all senders with varying degrees of haste. We have some 
+copies of the memo in Destructory Assistance. 
+Dear YIPL, 
+While on the phone with a friend, I heard clicks on the line. 
+Then an operator came in and told me that there was anoth- 
+er party trying to reach me and that it was an emergency. 
+Theard the clicks a long time and when I asked her why she 
+was listening in so long she told me she was trying to find 
+out if my conversation was important enough to break into. 
+And when I asked her her name, she hung up. 
+-RK, NY- 
+Hot News Item! In issue 11 we stated that the Black Box is 
+primarily for long-distance calls, and that local calls may 
+be disconnected if the switch is not immediately switched 
+to "Free". Tests in several areas of New York show that 
+local calls will not_be disconnected and will be free! Calls 
+from a pay phone will also be free. There are reports that 
+certain areas will disconnect local calls automatically in 
+10 to 30 seconds, but often the phone is picked up and hung 
+up too slowly, thus accounting for the disconnection. If the 
+procedure is done within 1/2 second, no disconnection will 
+occur, unless the local phone system is so designed. High- 
+est safety will be afforded when calls are kept under 3 min- 
+utes, 
+GENERAL TELEPHONERS! 
+We now have a fact sheet identical to our issue 11-Receiving 
+Long Distance calls that is for readers served by GenTel, 
+which uses Automatic Electric phones, not Western Electric. 
+State clearly that you live in a GenTel area when writing us. 
+Published for informational purposes only by the Youth International Party Line. 
+BE SURE AND BRING AN ISSUE OF YIPL ADDRESSED TO 
+YOU FOR FREE CONVENTION ADMISSION, 
+20 
+a ques- 
+cion of time before the 
+10-cent telephone call be- 
+comes history. And very 
+little time at that. 
+Starting May 1 the cost 
+‘of @ telephone call in the 
+‘state of Washington rose to 
+15 cents, making Washing- 
+ton the first state in the 
+Bell System to abandon the 
+10-cent call. 
+The Bell System has on 
+file e request to raise 
+all local calls to 20 cents 
+each in the following 
+states: New York, Florida, 
+" 
+Maryland, Indiens and 
+Oregon, 
+* PMAADL 
+MAY ms 
+FROM: YIPL, Room 504, 
+BOOKS 
+Steal This Book $2.25 
+Monopoly $1.20 
+152 W. 42 St.,N. Y.,N. Y. 10036

@@ -16,17 +16,18 @@ tags:
   - destructory-assistance
 author:
 publisher: "TAP (YIPL)"
-source_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
+source_url: "https://www.computerhistory.org/collections/catalog/600000568/record/102734878/?media=262806"
 access_date: 
-source_dead: true
-archive1_url: 
+source_dead: false
+archive1_url: "https://archive.org/details/YIPL_TAP_1-91/mode/2up"
 archive1_date: 
-archive1_dead: false
+archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
 local_file: "tap-015.pdf"
-pages: "3"
+prefer_local: true
+pages: "4"
 isbn: 
 time: 
 duration: 
@@ -44,10 +45,10 @@ feature_article: "1973 Credit Card Code, T Network"
 people: ["Al Bell"]
 topics: ["YIPL origin story", "black box", "blue-box-detector countermeasures", "destructory assistance service"]
 
-scan_quality: poor
+scan_quality: good
 ocr: true
-ocr_date: "2026-07-22"
-page_count: 3
+ocr_date: "2026-07-28"
+page_count: 4
 
 source: "Internet Archive"
 disclaimer: "/disclaimer/"  # see note on politics/fundraising content, not an endorsement

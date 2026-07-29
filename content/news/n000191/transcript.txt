@@ -1,32 +1,691 @@
-Simon Jester IssueI have a little for all you computer phreaxsout: there. If you have access to a haréwire tera-inal hooked up to a mini or maxi system, not amicro, and want to collect a few passwords andaccount numbers belonging to other people, readon.There is a very simple method of gettingaccounts and passwords called simulation, What youdo ie imitate the operating system, so that whenan unsuspecting hacker comes up and sits down,the terminal types “ENTER USERID” or whatever,he types it in, it then types “ENTER PASSWORD",he types it in, the program records them ina file, and you have a new account.The skill comes in here, You have to makeyour program simulate the operating systemvery closely, go that no one can tell that theyare in your program, not the OS. You must makeyour program give all the appropriate errorMessages if the guy makes a typo, or if he triesto enter an OS command, or if he presses thebreak key (if your system uses break), or slips insome contro] characters. There are other wayssomeone Bight accidently find out that he's notreally in the OS, so try to anticipate all of them,Most likely he will think the computer is justspassing out, and forget about it. But you mightget a syatem programmer who will know what youare doing immediately.Algo, when you collect some guys (how comethere are very few girl hackers?) password, youdon't want him to know that you just got it, orhe'll just go and have it changed. So, there is2 trick called slipping back into the OS. If yousre on @ paper printer (TTY or whatever) you mayhave to slip out of the OS too. What it is,is this.You're program is supposed to immitate the osgo that no one call tell they're not in the OS.Now when you start you're program, it has to lookae if you never left the OS. This sounds hard todo, but again there ig a trick. You start you pro-gram, and then have it print out whatever junkyour system prints when & program ends. Now itlooks like your program has just finished, but itdidn't really. Aleo, it is wise to have your pro-gram print something out before it pretends itfinishes, go that it looks like your program doessomething legit.Now you have your program running, but itlooks like the OS. So the nect step is to pretendto log out. You type in “BYETM or whatever for yoursystem, and have the program return whateverbullshit it prints when you log out. Then you leave.Don't stick around after this, you'll just looksuspicious,Now some hacker comes up and types whateverour system needs to give “ENTER USERCODE".what if he doesn't type it right? Don't let yourprogram ask for the usercode until he types it incorrectly, after all, the O& wouldn't, ) vou collecthis account number and password, and enter theminto a data file, which you will come back andprint up later. That's the simple part.Now comes the hard part. The guy just loggedonto hig account, or he thinks he did. You can'timitate the entire system, in fact you don't wanthim to think he’s even on his account, becauseimitating his account is a hell of a lot of work(I tried once). So, bump him off with an error,about how his ssword is wr or whatever.Row he knows his password is right, he used 1tyesterday or whenever, but he‘'l think he madea typo. Once. Maybe twice. After that, he'll goget help, and the system operator will discoverwhat you did pretty quickly, so you can't givehim reason to go for help.After you get his password and give someerror, you have to let your program slip backinto the real OS without letting him know, sothat he can type it in sgain really get intohis account. This is the hardest part to get awaywith. There fe usually some way for a program tolog out on its own in every system, look it upin the manuals and have your program 1 out.fhe problem. here ig that the log out wi 1 looxlike a log out, and there is no legit reason whythe system would print a log out message at thispoint. You can either try to cover up the log outmessage, or print some bullshit to explain it, orthere may even be a way to suppress it. Every sys-ten ie different, I can't give any specifics onthis.
-TAPRoom 603147 W. 42 St.New York 10036JANUARY 1982No. 71Then you come back later and print up hiaaccount and password! This method will work, Ihave used a simulator on several systems, and Ihave Qlways gotten good results. There are manyother methods for breaking into computers, but Rostare specific for some particular system. If youhave any other ideas, send them in!Also, if anyone needs specific data on anyaspect of a Hewlett-Packard 2000 system, especiallythe 2000/ACCESS model, send a SASE to TAP to befowarded to me, and I can probably tell you whateveryou want. I worked for several years ag a systensprogrammer/system operator on one, and I know alm-ost everything about it.For all of you TAPpers into Sci-Fi and computerhacking. there is a fantastic book called "The Adol-escence of P-1", by Thomag J Ryan. P-1 is a heuris-tic computer program, with a tendency to take overthe operating systems (0S) of large computers,especially ones belonging to the Pentagon.(UghiFuck the registration!).One more note. If you would be interestedin getting a lineman's handset, just find somenice cool phone man, g@0 up, talk to him, asxhim about a ringback or two to break the ice,and then ask him if he could kind of lose hishandset for a small price. I picked one up froma really cool lineman for five bucks, and Igot a Bell hardhat for $2.50. Also, they areglad to talk to you about all kinds of ANI's,test numbers, and such. Just make sure youget a lineman, not a supervisor.Long live Robert Heinlein! This reportfrom California is troveht to you LySimon JesterTAP RAP by TOM EDISONSome good news and some bad news. First thegood news. Starting with this issue, TAP will bepublished every month. Now the bad news. Due toinflation, printing costs, and the resentoutrageous Postal Monopoly rate hikes, TAP mustincrease all subscription rates. A ten issue oneyear Bulk subseription will now cost $7. A tenissue one year First Class subscription will nowcost $10. For those subscribers who like theirissues delivered in a plain unmarked envelope butdon't want to pay the new increased First Classrate, Y have created a new subscription type whichwill be bulk mailed in a plain unmarked envelope.This new Bulk Envelope subscription will cost $8.All TAP back issues will be 75 cents each exceptissue @€50 which will be $1.50. All of these newrates go into effect on February 1,1982.You Firat Class subscribers may not like thefollowing news but due to the expense of mailingevery month, all previous First Class subscriberswill now get their issues mailed Bulk Envelope. Ifyou still want to receive your issues mailed FirstClass, you will have to send in an additional $2.It costs TAP $2.40 to mail cut 12 issues and thisdoes not include the cost of the envelopes.
-
-I nave neard adout a vook called the “RadioEngineers Handbook". which containg specs on allsorta of electron:c atuff. including phone systems.They have info on frequencys, etandard impedances.apd euch. 1 don’t know who publishes it. Also, theIZER (Institute of Zlectrical and Electronic Engineers)and the BIA (Blectronic Induetries Assoc) publishhandbecks of dectrical standarda, which ine ludathe wame type of stuff. info on normal electronicclralute plus sections on phone ling standards.They may be of interest to TAypers, and are probablyavailable at the Library of any large university.Y nave heard that silver doxes are Ceingused LA LA, on an experizental basis only, I balievethat they oaly let you tap into nusbers in thatexchanges. Ons possibility that I thought of ie tappinginto data lines. You can record standard 300 bauddigital data on @ normal cassette tape, and laterplay it Seek into your microcomputer. You would probablybe adla to Identify the machine they are using,and you would have a good chance of picking up someacoount numbers and passwords. Then just dial upthe number you are tapping, log in. and the machine\g open to you.Phere are epecial computer data linea knomas Nard wire lines, Like direct TWX Lines I think.Does anyone know if you could use & silver box totap into a hard wite line? Hard wire lines aren’tgiven regular phone numbers, they have specialrumbere like tKAAi2e3. How do you convert thatrueber into a etandard nuaber, or can you? Do theyrun through the same exchanges a6 normal lines?If not, ean you dial into hard wire exchanges?If you could get in, there are many possidilities.Banks, among other people, run data over hard wirelines which they presume to be secure, If you knowanything about data linss, please get off your aseand write to me. Simon Jester, c/o TAP.Any of you who have apple micros might beinterested in getting the apple-cat mode, It islike a normal] wsdem, Dut has & few very nice features.Yt can dial numbers and has suto-anewer, like moat,Dut dDesides dialing in pulses it can uses touch tone.and it can recieve touch tone data. This would allowyou to use your computer from any phone without aterminal, by simply using touch tones inatead of anormal carrier. Also, it would make it very sasy tobreak into Sprint and the like. The only problem iathat the apple-cat costa over $300. Oh well.Any of you hackers might be interested intwo good bulletin board sys teme (BBS). One ie SSBS #1in Santa Clara. CA., at 406-296-5799. It ie up zehours a day. and umes 110, 150, 300, and 1200 baud.(I nave never figured out where BBRS #2 in) It isnerd to gat & line because there are ao many peopletrying to wee it; so just have patiense and calipack again. And again. And-again. I promiae it isnot down, just very very busy. Another BRS it CBBS/NwW@lso Up 24 hours. in Portland, OR.. st $03-656-5510,.fhese both have pAone pAreak type of gturf on thea,I've seen iets of Sprint codey on 42BS. Don't puton anything too blatantly illegal. because the FB!haa been knowm te log in occasionally and checkthease syeters.
-I have heard a rusor from Crange county, CAthat sounds very interesting. It seers that theyary testing some fnew system, where when you get acall and pick up your handset, just after the ringingstops and tafore the tattery connects, the nustercalling is sent to in in tinary pulses. I don't knowif thie ie true as I don't Live near Oran&e countynor do I kiow anyones thera. Bus lf you ilve there,check this out. Ths pulses are supposed to come downin "sideways dinary~, uaing @ § bit word length.the digits represent 0,1,2.3.7 instead of the weual0.1,2,3,%-. This ia so that there are never more than2 Oltw sat in any one word sinoe you only go up to9, not 16. There should be 7 words, and I have noidea what they use as start and xtop Dilts. or ifthey do. The pulses could be from 5 to 50 ma jong.If anyone in Orange county can detect these pules,let ug know!Ae I'm gure you all know, Rell) is slowly butsurely going to out of band signalling. This meansthat I will have to throw away my blue tox in a fewyears, and if I nad a black box [*d have to dumpthat too, In fact the only box that may be of anyuge will be the red box. Fortunately, Sprint and theother alternate calling networks are filling inagap caused by out of band signalling.. There are fouralternate calling compemies, Southern racificCommunications (eprint). ITT (eiticall), HCl, andWestern Union. They all offer two plans. one fortusiness in which the cade works all the time butcosts a lot, one for home in which the code onlyworks at night and on weekends. Sometimes home codeswork during business hours but you get chargedprime time rate. They 211 have lousy quality lines.By far Ha Sells lines are such better quality, withalmost no Ries or clipping compared to sltarnatecompanies. In fact some of the alternate companieslines sre go tad, that after atealing a coda. Iwas unable to run computer data over it decause Aymodem wouldn't hold a carrier on it. Sprint has thebest quality lines, but even those are infarior toBell long-lines. Also, you often have probleasputting @ call through: getting busy asignal whenthe other perso phone is on the hook and such.Agnin Sprint does the best on this, putting throughcalle more often on the first try. "CI appears tohave the next best quality equipment, with ITT andWeatern Union behind. Much of the problem ie becauseBell won't give these companies the same qualityconnectiona that it gives its own long-linss dept.The quality will continues to go up as equipment isimproved and they win mare court battles forcingBell to give them better quality connections on bothends. Another problem is that alternate calling netsdon't go averywhere Bell does. None that I know ofgo international yet, although Sprint ia planhing toacon, Sprint goes to the Most places in the US,136 major olties. [fT goes to 105 major cities,MCI to 86 major cities and Western Union to 79.If you want a list of wherw each gervice gous, calltheir service cep (list in yellow or white pages)and ask. Aliso ask for info on subscribing, they'llsend you @ packet with all sorte of goodies in it,like liste of cities they go to and sometines Qccessnumbers. If you want to read a gaod (dut straight)
-
-article on alternate calling nets. Consumer Reportswrote them up in ite -arch 1981 issue. availatle°at any library.Altemate nets can te just as dangerous as@ “ell Lf your caught. They often have automatictraps on all incoming lines, so don‘t call from home.(Mo shit:) If you go scanning a tunch of codes,you can te gure that you'll set off sw dSKUnch of flagsin their office. If you can, try to conceal thenumter you are calling. tecause they will try tohasale the person receiving the calls if they can'tfind out who ig making them, juat like Bell. Callyour friend through a loop-around, or better yet, |call up to the city he Lives in, then call thre , ae S aAaccess Qumter for another alternate net, and make = =« Joon call on it to yaur friend. tor iaetasce? Getting wrong numberscall from San Diego to San Pranciaco on WLI, then
-_-_
-I have FCI call Sprint in SP, I then go through Fullacremy mathamaiccal d@erectory seuienet « aapeneve. damenes. They would here weSprint and make @ local call in SP. This way CI eee wisectrs fercm wear sad the Geman "asetaact a aeieSonca tt Feuerel date ntbecan't find out where I called to, and Sprint ientt originwaammdites lee wregtm atgoer mgere oo Neebees.gwaing to waate time worrying about & local call. ysnot tot eee meee vee eepeanwan, yee Mee Tae nares tor ae“fake sure you don't call through another access See oe eee arabletenggeeyene vevldsneum. an eenumber of the same net, bea@ume that sete off a red hasaheuysboon 5 bntimart af vee ieguceset he reealy aprons torte a eenlight on a board somewhere in the office, and they What thewld be » scerceof 204 Reweragpen to una hereciory emenn-fovremted orkansfeiwill want to know what you Sre up to, S8l1go thay can pred of [nilacresPememeg(su Ze wheres « the Fallecreus mg doreclory eobetnaeme mheseily trace the call through their om net no matter ancaon — iy Phos Company. sory maaetuee Wt teeccusty an rcmttben the wenoerypedetnncx >where you run it. [If you ars aqaught, they may just Tha PhonnCompasy hea beta vaisace in Maspachuscilte maybe tren Oring sdew lewer m-playng seretal Commerciets es sheet 3] redken) vermt retes. Phansbeshs wouldmake you pay for whatever they can get.you to. FCI cecwmtty shaut tha ovtruee Sf oi, 550 miceon 2 yea, thes perkupu beewey efasina, comis known to do that. You could te busted though, Mave bata thom Ont ol theDoes. Srectoryseanenece weea4 edad re “Cheat ihemncals has nee poeple lathing. shoul{2 bet Phode CSenpany1poumengsmunder wire fraud and breaking PCC remulations, wefarmneanennen, = beea fase) pevabety coats best powidelitgappnclininboth federal crimes. Also in California, there is “lee om rome ee ee “asa law Ggainst computer crimes. It is very tough, $@ pet a member whech ha covid Wahne one weengderestoryam ,have austy looted up hewwelf, setence some |50,800 dereciery Senus MIT 4 presumedty56and the way it is written, they can bust you for WrongchasteLazy.seyrng Bet = asemsara would leer thew obs. maaion Semagnnd Vepromest Cer.looking at & computer wrong. (The Pucking Legigiature..) \ 1S 4 ee en rend ne ampic bor theréplof thd cleatpadhech ihe cum of tic coemery We moenlAlternate calling nets are actually just large Ks Cy vectd Bt devewterng le na wig Gvecory aemmeneywhampvercomputer networks. so guess what else the DA will A | manemy ne. witenng om pom sl meencharge you with. Many other stats have computer = > Furiecrmers, Orectery st- lershe mumbers41] pguelehrensasers. ihe she former sof (reMic §86becoma«pfenl Benen agnd,crime laws too, I'm not gure which ones do. But don't eontwaiiers,have cshall whech oom, th ihe Pheas Compony'tmnseal, ether aensineds— aid yours.worry, they'll get you on the federal rap anyway, “OTact aa _ -30 don't get caught. Ka Bell Security works withthe alternate calling companies security divisions, A scheme you can bank onthey will trude numbers and info, Bell hag even teen Ocesasede, Calif. —A lacy robbermadesame ancy monsy bypeolimg 5 Oern derercting bank customers ts mate teeter depousts in « bogusknown to makes busta for Sprint, depose bes.“Ws won't knewhow much wee tect ust poopie reasizetheer manhey asat depeciel,” palive speheemen Bil rvagelerizh anigOne thing you may want to try, it still works See enPeacne, mat Put S tent oo is outzide supeestmarching a Caliisram Beak breerh. mote The nightin @ few places, is calling through on an alternate éupetd te eelof order—picase leaveyour deposed in thebea” Braerkwhe
-irEnet, then blue boxing the line going out of the weadanalternate company into Bell. You then get a Bell Ifdial tone on the outgoing line, which yeucan LPthrough to. You can go overseas or whatever. There Te) curt yourphone bills,are 2600 Hz notch filters on most alternate calling t t th . }inputs; but not all. .I¢ you have a micro Computer, you can Break [~ — SE = = a eee eee eee eeBack [ 0 . 50 l. .Sprint (and other) codes very easily. Hook up @ moder | Supsarintions 10 imeuen ae eucp rete $7.or aven an audio interface to your phone line and US Bu velcpe Rate $8.OS Ficst Class in plain sealed envelope §10.program your computer to scan through possible codes, Canada & Mexico Ficst Class $10.until” it finds &@ good one. A micro can scan more For@ign Surface $8. - Foreign Air Mail $12.IMPORTANT! Fi includ ili lcodes in an hour than you could in a day, and it ore ane See ee napal or adoesn't make mistakes or get tired, If you don't
-—_—(|lerox copy whenever you write to TAP about yourhave a Bicro yet, you will soon, TRey are the box |TAP “Ma Bell" Patch - $1.50,iFiSch Anniv * Pen - $.56.pessette tape - $4. Hear Capt Crunch. Al Sell,oe Engresgsia & lL Security Chief John Doherty.Send CASH, che@x, of money order tol
-subacriptiocn.Klectronic Courses - $.75 each. A - DC Basics,B - AC Basics,C- Phone Basics, D ~ Amplifiers.of the future, and are quickly becoming the boxOf the present.Have Phun PhreakingSimon Jester’TAP, Room 603, 147 west 42nd Street, New York,{_M.¥: Ld536.mm ee ee ee ee ee
-
-ClassifiedUp te 20 € MOREAmazing but true, a simple deviceenables this fantastic fas savingMH. P. G. for under § 1.00coating cents- Easily {nstalled.Wiat it is , where to get it , how to fit it.confidential report with full information , send§ 4.00to Box # T. oneokcash ( or § 5.00
-Dept, 7, New York,Plome wate your age.
-~e» 132 bell-alas pages looded with posers! oftand wild mude photescese MatlerevideMating:-manywitheddravee:&
-Bor e copyof the jusest lava malled bt clas, send$4.08 te: CONTINENTAL SPECTATOR, Beem 66),
-) Plus SASE
-NY 10006,
-YOU CANSURVIVE::WITH BOOKS FROMTECHNOLOGY GROUP!COVERING URBAN, RURAL& RETREAT SURVIVAL, ANDMANY OTHER SUBJECTS ASWELL!! Discounts to 60% onaome titles.DEALERS WANTED !1!List $2 (refundable with order),TECH-GROUP, Box 3125,Pasadena, Calif. 91103 USA
-J10% OFF TO TAP SUBSCRIBERS!SOLD POR FOUCATIONAL PURPORES OPT
-71
-Hi there,1'a love to hear froethe wopen who read thisad. I'm shure some Of youYead TAP. Please writs andtell me about yourself.i'm a 25yr Old male radio-twoh.P.O, Box Midnight ofo TaPBEAT THE GAS PUMPead strike back o BIG OL!13 weys of getting fvelFREE er of greatty reducedcast,23 phetes,6 kee drewings.Slg, S'A x 11 pages.Writtenbyfermer Sig Off$25.00 eechDEALERS WANTED!List $1.00 (refundeble)TECH-GROUPBex 3125Pesedena, CA 91109
-PICK LOCKSTHE SCIENTWICWKY WITHCOMPUTERDERONEDTOOLS ORIGINALLYDEVE LOPE D FOR FBRAZEL |INTELLIGENCESPOORA onerer owsurineBanner 2 10 Gone Oseie, cael ag Rec heb esSex Cone
-Gan Franciaco, CA 041908Qe mh ae me ot pe
-NEED: 1)(any band),
-TONE ey Ac:ELECT ROMWIC SUAVE ILL ACEPrenssemeled/Project hilt comeleiewith ol) needed corpotert sftetsories.Autostarcs, VOX, Mitra-sub-mini-transmitters. Linemans Mandsets,TPG Systews - MUCH MORE:Send $!.00(refundable) for themost fascinating calslog of “Con-flaential Electronic devices aveil-able amywhere.Lala Bow stocking a corolete Io +of FC professional lochsroth pik:421s and other trade tools and kus.Please indicate If interestedTOWT] SYSTEMS 537? JonesSt... “OBl6Sen Franchycn CA gal?Plans/schematics for scanners.2) Plans and info. on antenna construction3) Copies of material from Information Unlimited,Scientific Systens and Solaser.'4) Info. on the MAC-M1O (TAP #58) and areplacement for Special Parts Ltd.(defunct).5) Books and back issues of publications coveringeleotronits, defense and alternativetechnologies.or will make other arrangements.I have other plane available and will trade for aboveSASE to Box L
-PPADS¢§°-eCGPPPAP PAD PNVIPAPIIINAA VUR CRW WELWALTERNATE IDENTITIES, NAME CHANGES,GOODIES.PHATEVES, GET LEGAL 1.L.5 ®ITH OURALSO LAY, ENFORCEMENT TYPE1.0. CARDS [23 DIFFERENT KINDS]BADGES & ACCESSORIES. LIST $1200(REFUNDABLE WITH PURCHASE). C.W.L,BOX 3230, PASADENA, CA91103PPPPPPPEP PPP PP. PPE PPR PPP PP PA, GO %:
-The TAP Classified Ad Sheet is published as as@rvice to our readers. All ads MUST be typed andcamera ready. Ads will appear in the next ad sheetunless they arrive after printing deadline inwhich case they will appear in the following adsheet.The cost per ad per issue is $2.If youwigh to preserve your anonymity, TAP Box numbersare available at the cost of $4 per ad per issue.Thig extra cost is for the postage to mail you thereplies to your ad.Full page ads cost $10 andhalf-page ads cost $5. Payment must accompany allads, Send cash and get a2 10 & discount on all ads.Address all ad requests to : TAP, Room 603, 147Weat 42nd Street, Mew York, N.Y.
-TAP, Room 603, 147 W. 42 St., NY 10036eS geod | a"See ii man Wee
-O36.
-BumfateULE POSTAGEPAIDPorpelt bee. 3Keesbey. WJ
+Simon Jester Issue 
+I have a little for all you computer phreaks 
+out-there. If you have access to a hardwire term- 
+inal hooked up to 8 mini or maxi system, not a 
+micro, and want to collect a few passwords and 
+@ccount numbers belonging to other people, read 
+on. 
+There is a very simple method of getting 
+accounts and pa 
+called simulation. What you 
+do ig imitate the 
+operating system, so that when 
+an unsuspecting hacker comes up and its down, 
+the terminal types “ENTER USERID" or whateve 
+he types it in, it then types “ENTER PASSWORI 
+he sype it in, the program records them in 
+a fil 
+You have to make 
+your program simul: 
+operating system 
+very closely. 
+so that no one can tell that they 
+are in your program, not the OS, You must make 
+your program give all the appropriate error 
+Messages if the guy makes a typo, or if he tries 
+to enter an OS command, or 
+if 
+he presses the 
+break key (if your system uses break), or slips in 
+some controi characters. There are other ways 
+someone might accidently find out that he's not 
+really in the 0S, so try to anticipate all of them. 
+Moat 
+likely 
+he will think the computer is just 
+spassing out, and forget about it. But you might 
+get a system programmer who will know what you 
+are doing immediately. 
+Also, when you collect some 
+guys (how come 
+there are 
+very few girl hackers?) password, you 
+don*t want him to know that you just got it, or 
+he'll just 
+go and have it changed. So, there is 
+a trick called slipping back into the 0S. If you 
+are on a 
+paper printer (TTY or whatever) you may 
+have to slip out of the 0S too, What it is,is this. 
+You're program is supposed to immitate the 0S 
+so that no one 
+call tell they're not in the 05. 
+Now when you start you're program, it has to look 
+as if you never left the OS. This sounds hard to 
+do, but again there is a trick. You 
+start you pro- 
+gram, and then have it print out whatever junk 
+your system prints when a program ends. 
+Now it 
+locks like your program has just finished, but it 
+didn't really. Algo, it is wise to have your pro- 
+gram print something out before it pretends it 
+finishes, go at it looks like your program does 
+something 
+t. 
+Now you have your, program running, but it 
+looks like the 0S. So the 
+nect step is to pretend 
+to log out. You type in "BYE" or whatever for your 
+system, and have the program return whatever 
+Dulishit it prints when you log out. Then you leave. 
+Don't stick around after this, you'll just look 
+suspicious. 
+Now 
+some hacker comes up and types whatever 
+our system needs to give 
+“ENTER USERCODE”. 
+What if he doesn't type it right? Don't let your 
+Program ook for the usereode until he types it in 
+correctly, after all, the OS wouldn't.) 
+You collect 
+his account number and password, and enter then 
+into a data file, which You, will come back and 
+print up later. That's 
+the simple part. 
+Now comes the hard part. The guy just logged 
+onto his account, or he thinks he did. You can't 
+imitate the entire system, in fact you don't want 
+him to think he's even on his account, because 
+imitating his account is a hell of a lot of work 
+(I tried once). So, bump 
+him off with an error, 
+about how his password is wrong or whatever. 
+Now he knows his password is 
+it, he used it 
+yesterday 
+or whenever, but he'll think he made 
+@ typo. 
+Once. Maybe twice. After that, he'll go 
+get help, and the system operator will discover 
+what you did pretty quickly, so you can't give 
+him reagon to go for help. 
+After you get his password and give some 
+error, you have to let your program slip back 
+into the real 0S without letting 
+him know, so 
+that he can type it in again 
+really get into 
+his account. This is the hardest part to get away 
+with. There is usually some way for 4 pi 
+to 
+og out on its own in every system, look 
+it up 
+in ‘the manuals and have your program log out. 
+The problem here is that the log out will look 
+like a log out, and there is no legit reason why 
+the system would print a log out message at this 
+point. You can either try to cover 
+up the log out 
+Message, or print some bullshit to explain it, or 
+there 
+even be a way to suppress it. Every sys- 
+tea is different, I can't give any specifics on 
+Be 
+TAP 
+~~ 
+i 
+New York 10036 
+Room 603 
+147 W. 42 St. 
+1982 
+No.71 
+Then you come back later and print up his 
+account and password! This method will work, I 
+have used a simulator on 
+several systems, and I 
+have always gotten good results. There are many 
+other methods for breaking into computers, but most 
+are specific for some particular system. If you 
+have any other ideas, send them int 
+Also, if anyone needs specific data on any 
+aspect of a Hewlett-Packard 2000 system, especially 
+the 2000/ACCESS model, send & SASE to TAP to be 
+fowarded to me, and I'can probably tell you whatever 
+you want. I worked for several years as a systems 
+programmer/system operator on one, and I know alm- 
+ost everything about it. 
+For all of you TAPpers into Sci-Fi.and computer 
+hacking, there is a fantastic book called “The Adol- 
+escence of P-1", by Thomas J Ryan. P-1 is a heuris- 
+tic computer program, with a tendency to take over 
+the operating systems (0S) of large computers, 
+especially ones belonging to the Pentagon. (Ught 
+Puck the registration!). 
+One more note. If you would be interested 
+in getting a lineman’s handset, just find some 
+nice cool phone man, go up, talk to him, ask 
+him about a ringback or two to break the ice, 
+and then ask him if he could kind of lose hig 
+handset for a small price. I picked one up from 
+@ really cool lineman for five bucks, 
+and I 
+got @ Bell hardhat for $2.50. Also, they ar 
+glad to talk to you about all kinds of ANI 
+test numbers, and such. Just make sure you 
+get a lineman, not a supervisor. 
+Long live Robert Heinleint '® 
+from California is trovght to you ty 
+Simon Jester 
+TAP RAP by TOM EDISON 
+Some good news and some bad news. First the 
+good news. Starting with this issue, TAP will be 
+published every month. Now the bad news. Due to 
+inflation,. printing costs, 
+and the resent 
+outrageous Postal Monopoly rate hikes, TAP must 
+increase all subscription rates. A ten issue one 
+ulk subscription will now cost $7. A ten 
+8 subscription will now 
+cribers who like their 
+issues delivered in a plain unmarked envelope but 
+don't want to pay the new increased Pirst Class 
+rate, I have created a new subscription type which 
+will be bulk mailed in a plain unmarked envelope. 
+This new Bulk Envelope subscription will cost $8. 
+All TAP back issues will be 75 cents each except 
+issue #50 which will be $1.50. All of these 
+new 
+tates go into effect on February 1,1982. 
+You First Class subscribers may net like the 
+following news but due to the expense of mailing 
+every month, all previous First Class subscribers 
+will now get their issues mailed Bulk Envelope. If 
+you still want to receive your is 
+mailed First 
+ot 
+you will have to send in an 
+additional $2. 
+It costs FAP $2.40 to mail out 12 issues and this 
+does not include the cost of the envelopes.
+I have heard about a dook called the “Radio 
+Engineers Handbook", which contains specs on all 
+sorts of electronic stuff, including phone systems. 
+‘They have info on frequencys, standard impedances, 
+and such, I don't know who publishes it. Also, the 
+IEEE (Institute of Electrical and Electronic Engineers) 
+and the EIA (Electronic Industries Assoc) publish 
+handbooks of @ectrical standards, which include 
+the same type of stuff, info on normal electronic 
+cireiute plus sections on phone line standards. 
+They may ve of interest to TAPpers, and are protably 
+available at the library of any large university. 
+I have heard that silver boxes are being 
+used in LA, on an experimental basis only. I believe 
+that they only let you tap into numbers in that 
+exchange. One possibility that I thought of is tapping 
+into data lines. You can record standard 300 baud 
+digital data on a normal cassette tape, and later 
+play it beek into your microcomputer. You would probably 
+be able to identify the machine they are using, 
+and you would have a good chance of picking up some 
+account numbers and passwords. Then just dial up 
+the number you are tapping, log in, and the machine 
+is open to you. 
+There are special computer data lines known 
+ae hard wire lines, 
+like direct TWX lines I think. 
+Does anyone know if you could use a silver box to 
+tap into a hard wire line? Hard wire lines aren't 
+given regular phone numbers, they have special 
+numbers like 1KAA1243. How do you convert that 
+number into a standard number, or can you? Do they 
+run through the same exchanges as normal lines? 
+If not, can you dial into hard wire exchanges? 
+If you could get in, there are many possibilities. 
+Banks, among other people, run data over hard wire 
+lines 
+which they presume to be secure. If you know 
+anything about data lines, please get off your ass 
+and write to me, Simon Jester, c/o TAP. 
+Any of you who have apple micros might be 
+Anterested in getting the apple-cat modem. It is 
+like a normal modem, but has a few very nice features. 
+It can diel numbers and has auto-answer, like most, 
+but besides dialing in pulses it can use touch tone, 
+and it can recieve touch tone data. This would allow 
+you to use your computer from any phone without a 
+terminal, vy simply using touch tones instead of a 
+normal carrier. Also, it would make it very easy to 
+break into Sprint and the like. The only problem is 
+that the apple-cat costs over $300, Oh well. 
+Any of you hackers might be interested in 
+‘two good bulletin board systems (BBS), One is BBBS #1 
+in Santa Clara, CA., at 408-296-5799. It is up 24 
+hours a day, and uses 110, 150, 300, and 1200 baud. 
+(I have never figured out where 8BBS #2 is) It is 
+hard to get a line because there are so many people 
+trying to use it; so just have patience and call 
+back again, And again. And-again. I promise it is 
+not down, just very very busy. Another BBS it CBBS/NW 
+also up 24 hours, in Portland, OR., at 503-646-5510. 
+@hese both have phone phreak type of stuff on them, 
+I've seen lists of Sprint codes on 8HBS. Don*t put 
+on anything too blatantly illegal, because the PBI 
+has been known to log in occasionally and check 
+these systemn. 
+I have heard a rumor from Crange county, CA 
+that sounds very interesting. It seems that they 
+are testing some new system, where when you get a 
+call and pick up your handset, just after the ringing 
+stops and tefore the tattery connects, the number 
+calling is sent to in in binary pulses. I don't know 
+if this is true as I don't live near Orange county 
+nor do I know anyone there. But if you live there, 
+check this out. The pulses are supposed to come down 
+in “sideways binary”, using a 5 bit word length. 
+the digits represent 0,1,2.3.7 instead of the usual 
+0,1.2,3,4. This is so that there are never more than 
+2 bits 
+set in any one word since you only go up to 
+9. not 16. There should be 7 words, and I have no 
+idea what they use as start and stop bits, or if 
+they do. The pulses could be from § to $0 ms long. 
+If anyone in Orange county can detect these pules, 
+let us know! 
+Ag I'm sure you all know, Bell is slowly but 
+surely going to out of band signalling. This means 
+that I will have to throw away my blue tox in a few 
+years, and if I had a black box I'd have to dump 
+that too. In fact the only box that may be of any 
+use will be the red box. Fortunately, Sprint and the 
+other alternate calling networks are filling in 
+ap caused by out of band signalling. There are four 
+alternate calling compamies, Southern Pacific 
+Communications (sprint), ITT (citicall), MCI, and 
+Western Union. They all offer two plans, one for 
+business in which the code works all the time but 
+costs 8 lot, one for home in which the code only 
+works at night and on weekends. Sometimes home codes 
+work during business hours but you get charged 
+prime time rate. They all have lousy quality lines. 
+By far Ha Bells lines are much better quality, with 
+almost no hiss or clipping compared to alternate 
+companies. In fact some of the alternate companies 
+lines are so tad, that after stealing a code, I 
+was unable to run computer data over it because my 
+modem wouldn't hold a carrier on it. Sprint has the 
+best quality lines, but even those are inferior to 
+Bell long-lines. 
+Also, you often have problems 
+putting a call through, getting a busy signal when 
+the other persons phone is on the hook and such. 
+Again Sprint does the best on this, putting through 
+calls more often on the first try. KCI appears to 
+have the next best quality equipment, with ITT and 
+Western Union behind, tiuch of the problem is because 
+Bell won't give these companies the same quality 
+connections that it gives its own long-lines dept. 
+The quality will continue to go up as equipment is 
+improved and they win more court battles forcing 
+Bell to give them better quality connections on both 
+ends, Another problem is that alternate calling nets 
+don't go everywhere Bell does. None that I know of 
+go international yet, although Sprint is planning to 
+soon. Sprint goes to the most places in the US, 
+138 major cities. ITT goes to 105 major cities, 
+KCI to 86 major cities and Western Union to 29. 
+If you want a list of where 
+each service goes, call 
+their service rep (list in yellow or white pages) 
+and ask. Also ask for info on subscribing, they'll 
+send you @ packet with all sorte of goodies in it, 
+like lists of cities they go to and sometimes access 
+numbers. If you want to read a good (but straight)
+article on alternate calling nets, Consumer Reports 
+wrote them up in its Karch 1981 isaue, available * 
+at any library. 
+Alternate nets can be just as dangerous as 
+a-Sell if your caught. They often have automatic 
+traps on all incoming lifes, so don't call from home. 
+(No shit!) If you go scanning a bunch of codes, 
+you can be sure that you'll set off a bunch of flags 
+in their office. If you can, try to conceal the 
+number you are calling, because they will try to 
+hassle the person receiving the calls if they can't 
+find out who is making them, just like Bell. Call 
+your friend through a loop-around, or better yet, 
+all up to the city he lives in, then call the 
+access numter for another alternate net, and make 
+@ local call on it to your friend. For instance I 
+call from San Diego to San Prancisco on liCI, then 
+I have MCI call Sprint in SF. I then go through 
+Sprint and make a local call in SP. This way KCI 
+can't find out where I called to, and Sprint isn't 
+going to waste time worrying about a local call. 
+“ake sure you don't call through another access 
+number of the same net, beause that sets off a red 
+light on a board somewhere in the office, and they 
+will want to know what you are up to, also they can 
+easily trace the call through their own net no matter 
+where you run it. If you are caught, they may just 
+make you pay for whatever they canget.you to, KCI 
+is known to do that. You could be busted though, 
+under wire fraud and breaking PCC regulations, 
+Both federal crimes, Also in California, there is 
+@ law against computer crimes. It is very tough, 
+and the way it is written, they can bust you for 
+Alternate calling nets are actually just large 
+computer networks, so guess what else the DA will 
+charge you with. Many other stats have computer 
+crime laws too, I'm not sure which ones do. But don!t 
+worry, they'll get you on the federal rap anyway. 
+So don't get caught. Ka Bell Security works with 
+the alternate calling companies security divisions, 
+they will trade numbers and info, Bell has even teen 
+known to makes busts for Sprint. 
+One thing you may want to try, it still works 
+in a few places, is calling through on an alternate 
+net, then blue boxing the line going out of the 
+alternate company into Hell. You then get a Bell 
+dial tone on the outgoing line, which yeu can NIP 
+‘through to. You can go overseas or whatever. There 
+are 2600 Hz notch filters on most alternate calling 
+inputs; but not all. 
+If you have a micro computer, you can break 
+Sprint (and other) codes very easily. Hook up a modem 
+or even an audio interface to your phone line and 
+program your computer to scan through possible codes, 
+until. it finds a good one. A micro can scan more 
+codes in an hour than you could in a day, and it 
+doesn't make mistakes or get tired. If you don't 
+have a micro yet, you will soon. They are the box 
+of the future, and are quickly becoming the box 
+of the present. 
+Have Phun Phreaking 
+Simon Jester‘ 
+3 
+spread of fallacious reason 
+‘oly importamt and powerful 
+stitution 
+— the Phone Company. 
+The Phooe Company 
+playi 
+fecently 
+about the overuse of 
+directory assistance. Perhaps you 
+have heatd them, One af the com 
+mercials has two people talking, 
+‘sho, for eaavenience, will 
+be eall- 
+ed Lazy and Wrang, 
+Lacy calls directory snsistance 
+to get = number which 
+bave easily looked up 
+‘Wrong chastises Lazy, say 
+looking at a computer wrong. (The Fucking Legislature..) 
+CE. 
+— 
+Fullacious muthematical 
+reasoning is one of the most 
+[prevalent destructive forces in our 
+society today. 
+‘cancer through 
+the highest 
+in the Reagan Adminstration. 
+‘This has not been u major source 
+f concern 10 Am 
+.) 
+< 
+= 
+umbers 
+. dustries. They would have no 
+choice but to go on the Federal 
+dole. Since the Federal doe 
+is be 
+ory 
+. 
+many 
+ex-ireciony asisers might 
+hve 
+to go without food {or at 
+least toveh-ione service), Riots 
+could ensue, 
+‘Admitiedly this is = worst-case 
+scenario, but it does highlight the 
+anger 
+of fallacious mathernatical 
+reasoning leading to un incorrect 
+cconamie policy. A poticy af us- 
+ing directory sistance as often 
+aH possible, on the ether hand, 
+Soul pat"Americans to work; 
+i has spread 
+Massachusetts lone last year, 
+und that all phone users must 
+shate this expense. Not sur- - 
+irisingly. Lacy 1 40 shocked by 
+figure that Be readily wprees 
+to use the phonebook next time 
+and never again to use directory 
+ansistance, 
+‘So where is the fullacious 
+reasoning. you ask? Suppose that 
+everyone agreed not to use direc 
+. 
+‘s 
+43 been 
+als 
+‘maybe 
+even bring ubout lower in~ 
+terest rates. Phonebooks would 
+‘become obsolete, com 
+duindling qaturat 
+trees. Cleatly the 
+Phone Company's reasoning was 
+‘completely menerect, The overuse 
+of directory assistance is not a 
+problem, although underuse may 
+be, 
+‘Since MIT is presumably an ia- 
+. 
+stitution designed te promote cor- 
+fect thinking. we must set an €x- 
+‘ample for the rBst of the state and 
+the rest of the country. We must 
+tue directory assistance whenever 
+possible. 
+Remember, ul 
+i 
+Ka uber, 
+Aree 
+become w great nation 
+upain, 
+but 
+‘with the Phone Company's 
+sishtunce — and yours, 
+several_comt 
+(popelution 
+costs $30 
+million 
+a year. then 
+directory assistance ia the 
+Slates (population about 224 
+mil 
+fiom) probably costs xbaut $2 bil- 
+lion a year 
+— a remarkable one 
+tenth 
+of one percent of our Gross 
+National Product, 
+could 
+ff. 
+at 
+otha 
+fn) 
+OTe 
+A scheme you can bank on 
+‘Oceanside, Calif, 
+—A lay robber made some easy money by 
+‘posting a sign directing bank customers to make thelr deposits in 
+a 
+bogus 
+deposit box. “We won't know how much was lost until people 
+‘thelr money wasn't depotited,” pallee spakeaman Bili Krurigelevich ex 
+Priday. Krungelevich ssid the thlef put 2 note on the outside deposit 
+‘machine at a Pirst California Bank branch. The note exit, “The night 
+deposit is out of order=please leave your deposit in the bax.” Branch 
+‘manager Bill Reedy exid two women who left their deposit canh.to “= 
+-ahabbily built wooden opa” hare egmplaned th birt. 
+to gon hone bills, 
+cut your 
+cut out this chart. 
+aoe ee ee ee 
+eS 
+6) 
+aya 
+sisters, ike the forcr afr tlle 
+controllers, have a skill which is 
+fnot of mock use in other in 
+FP nack rssues are §.75 each. Tasue $50 {9 $1,50- 
+| 
+Subscriptions - 10 issues - US Bulk Rate $7. 
+os Bulk Enver: ‘ope Rate $8. 
+' 
+US First Class in plain sealed envelope $10. 
+' 
+Canada & Mexico First Class $10. 
+1 
+Foreign Surface $8. - Foreign Air Mail $12. 
+IMPORTANT! Please include your mailing label or a | 
+Xerox copy whenever you write to TAP about your 
+subscription. 
+i} 
+Blectronic Courses - $.75 each. A - DC Basics, 
+B= 
+AC 
+Basics, C - Phone Basics, D - Amplifiers. 
+| 
+TAP “Ha Bell’ 
+$1.50. 
+TAP Tit 
+Pen - §.50. 
+1 
+h Anniversar; 
+ERD Cassette 
+Tape --$4— 
+Wear Capt Crunch. Al Bell, 
+Joe Engressia £ Beli Security Chief dohn Doherty. 
+1 
+Send CASH, check, or money order to: 
+TAP, Room 603, 147 West 42nd Street, New York, 
+l 
+N.Y. 
+Co 
+J
+PICK LOCKS 
+Classified 
+neem ey 
+eee PORE GY 
+EE AAS 
+teleoerperne 
+pte 
+a 
+aes 
+Up te 20 % MORE 11. P. G. for under § 1:00 
+beivapheenelepensaabiahespnad 
+© SURVELULANEE 
+ba 
+TT rr hae 
+ject bits complete: 
+Amazing but true, 
+a simple device costing cents 
+Sete 
+tegm og se eg, 
+ore Say 
+needed Conponent acces” 
+enables this fantastic gas aaving . Easily installed. 
+Wat it 18 , where to get it ,.how to fit it . 
+confidential report with fuli information , send 
+$4.00 cash ( or $5.00 check ) Plus SASE 
+to Box # T. 
+537 Jones St. O86 
+ca gt07. 
+NEED: 1) Plans/schematics for scanners. 
+2) Plane and info. on antenna construction 
+(any band). 
+3) Copies of material from Information Unlimited, 
+Scientific Systems and Solaser. 
+4) Info. on the MAC-MLO (TAP #58) and a 
+replacement for Special Parte Ltd. (defunct). 
+Sree eter an cetann hese ate, 
+5) Books and back issues of publications covering 
+Petar NT oe 
+electronics, defense and alternative 
+technologies. 
+uA there 
+I have other plane available and will trade for above 
+SURVIV aa 
+Ia love to hear fron OF W111 make other arrangenente. SASE to Box L 
+tid 
+the wonen who read thie 
+WITH BOOKS FROM 
+wiactoot crows: 
+ad, 1'm shure sone of you 
+peanedpaamoeadr 
+em anamaeaatinneid 
+ALTERNATE IDENTITIES, NAME CHANGES, 
+COVERING URBAN, RURAL 
+read TAP, Pleneo write and 
+wHATEWE. GET LEGAL 2.0 61TH OUR 
+RETREAT SURVIVAL, AND 
+GOODIES. “ALGO Lat: ENFORCEMENT. TYPE 
+MANY OTHER SUBJECTS a5 
+told me about yourself. 
+1.C. CARDS (23 DIFFERENT K13DS] 
+WELL! Discounts to 60% on 
+I'm a 25yr old male radio-tvob, 
+BADGES & ACCESSORIES. List $1.08 
+(REFUNDAGLE WITH PURCHASE). C.W.L. 
+BOX 3230, PASADENA, CA 91103 
+{eA 
+RRR 
+RABANNE 
+some titles. 
+DEALERS WANTED !! 
+List $2 (refundable with order). 
+TECH-GROUP, Box 3125, 
+Pasadena, Calif. 91103 USA 
+BEAT THE GAS PUMP 
+The TAP Classified Ad Sheet is publisned as a 
+so4 arte tenn BIG ULL 
+service to our 
+readers. All ads MUST be typed 
+and 
+Faas are roti retues 
+camera ready. Ads will appear 
+in the next ad 
+sheet 
+iar 
+’ 
+unless 
+they arcive after printing deadline in 
+33 photos, 6 line drawings. 
+which case they will appear in the following ad 
+Big. O% x11 pages. 
+sheet. The cost per 
+ad per issue is $2. If you 
+Weitten by former Sig Ol! 
+wish to preserve your anonymity, TAP Box numbers 
+employee. 
+| 
+ailable at the cost of $4 per ad per issue. 
+$23.00 each 
+xtra cost is for the postage to mail you the 
+DEALERS WANTED! 
+replies to your ad. Full page 
+ads cost $10 and 
+half-page ads cost $5. Payment must accom 
+all 
+LUst $1.00 (refundable) 
+ads. Send cash 
+and get a 10 8 discount on ail, 
+ad: 
+1 
+Address all ad requests to : TAP, Room 603, 
+TECH-GROUP 
+West 42nd Street, New York, w.¥. 16036. 
+Pasadena, CA 91103 
+TAP, Room 603, 147 W. 42 St., NY 10036 
+oper 
+vel
