@@ -36,9 +36,11 @@ The index below links to the full scan, transcript, and citation record for the 
 
 A quick reality check before diving in: these techniques targeted networks and systems that haven't existed in decades. They don't work today.
 
-When TAP was running, it was the only publication carrying most of this information, so everyone in our circle devoured every issue. Looking back, it was a strange mix. Part of it was pure curiosity, the urge to map out complex networks and figure out how everything worked. But part of it catered to outright theft, calls for "revolution," and laughable justifications.
+When TAP was running, it was the only publication carrying most of this information, so everyone in our circle devoured every issue. Looking back, it was a strange mix. Part of it was pure curiosity, the urge to map out complex networks and figure out how everything worked. Part of it was something more serious: the realization that if we could get into these "secure" systems as hobbyists, so could someone who actually meant harm. And part of it, honestly, catered to outright theft, calls for "revolution," and laughable justifications.
 
-The scene drew all kinds. There were people fascinated by the puzzle of it, but there was also a growing crowd who just wanted free stuff: long-distance calls, cable TV, or free gas and electricity. Predictably, the ones looking for a free ride burned out techniques by overusing them. The utilities subscribed to TAP too, so anything printed in it became a red flag they were watching for.
+The scene drew all kinds. There were people fascinated by the puzzle of it, but there was also a growing crowd who dind't care about the technical puzzles and just wanted free stuff: long-distance calls, cable TV, or free gas and electricity. 
+
+Predictably, the ones looking for a free ride burned out techniques by overusing them. The utilities subscribed to TAP too, so anything printed in it became a red flag they were watching for.
 
 TAP's anti-establishment, "fuck the system" ethos was a double-edged sword. It built the first real hacking community, but it also cemented the public image of hackers as malicious thieves, a label that stuck to people like {{< ref-id "p000007" "Kevin Mitnick" >}} for decades.
 
