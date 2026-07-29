@@ -32,7 +32,7 @@ In 1983 someone broke into editor *Tom Edison’s* apartment (which also served 
 
 The index below links to the full scan, transcript, and citation record for the first 91 issues. Some of the scans are rough. (If you have cleaner copies, please [get in touch](/contact) and I’ll replace them. Want to be notified of updates? [Join the mailing list.](/mailing-list))
 
-**A quick note**
+**Don't get too excited**
 
 This is no longer a how-to. The analog phone network and the other systems these techniques targeted are long gone, now found only in museums and private collections.
 
@@ -43,5 +43,9 @@ That was never my interest or practice. I kept reading purely for the phone and 
 Even so, being the first widely circulated newsletter of its kind, TAP helped shape the early public image of the “evil hacker,” of which {{< ref-id "p000007" "Kevin Mitnick" >}} got more than his share.
 
 Still, it’s cool to see how this kind of information was discussed and passed around long before the Internet. Enjoy!
+
+**The archive**
+
+Click any title below to see and download a scan of the original newsletter.
 
 {{< back-issues "tap-archive" >}}
