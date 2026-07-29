@@ -1,3 +1,45 @@
+{{ define "head_extra" }}
+{{- /* JSON-LD structured data: metadata only (headline, dates, summary,
+  keywords, cover image, and — for periodical issues like TAP — the
+  issue/series relationship). Never includes transcript or full-text
+  content; that stays reachable only via the existing transcript_url /
+  page link, same as everywhere else on the site. */ -}}
+{{- $ld := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "headline" .Title
+  "datePublished" (.Date.Format "2006-01-02")
+  "url" .Permalink
+-}}
+{{- with .Params.summary }}{{ $ld = merge $ld (dict "description" .) }}{{ end }}
+{{- with .Params.publisher }}{{ $ld = merge $ld (dict "publisher" (dict "@type" "Organization" "name" .)) }}{{ end }}
+{{- with .Resources.GetMatch "cover.*" }}{{ $ld = merge $ld (dict "image" .Permalink) }}{{ end }}
+{{- /* A few older entries have `tags`/`topics` written as a bare string
+  instead of a YAML list; normalize either shape to a slice before
+  ranging over it. */ -}}
+{{- $keywords := slice }}
+{{- range (slice .Params.tags .Params.topics) }}
+  {{- if . }}
+    {{- if reflect.IsSlice . }}
+      {{- range . }}{{ $keywords = $keywords | append . }}{{ end }}
+    {{- else }}
+      {{- $keywords = $keywords | append . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- if $keywords }}{{ $ld = merge $ld (dict "keywords" (delimit $keywords ", ")) }}{{ end }}
+{{- if and .Params.issue .Params.series }}
+  {{- $ld = merge $ld (dict "isPartOf" (dict
+    "@type" "PublicationIssue"
+    "issueNumber" (printf "%v" .Params.issue)
+    "isPartOf" (dict "@type" "Periodical" "name" .Params.series)
+  )) }}
+{{- end }}
+<script type="application/ld+json">
+{{ $ld | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{ end }}
+
 {{ define "main" }}
 
 <main id="primary">

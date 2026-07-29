@@ -23,6 +23,8 @@
 {{ .Title }} | {{ site.Title }}
 {{- end -}}
       </title>
+
+      {{ block "head_extra" . }}{{ end }}
    </head>
 
    <body class="ak">

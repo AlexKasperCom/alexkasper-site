@@ -36,6 +36,7 @@
     "url" $page.Permalink
     "pdf_url" $pdfURL
     "transcript_url" $transcriptURL
+    "scan_quality" $page.Params.scan_quality
     "summary" $page.Params.summary
     "tags" $page.Params.tags
     "topics" $page.Params.topics
