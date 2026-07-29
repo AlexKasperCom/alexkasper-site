@@ -44,8 +44,8 @@ TAP's anti-establishment, "fuck the system" ethos was a double-edged sword. It b
 
 Warts and all, it's a fascinating snapshot of how this information was shared and discovered, a slow cat-and-mouse game long before the internet existed. Enjoy the archive!
 
-**The archive**
+**The Archive**
 
-Click any title below to see and download a scan of the original newsletter. Most of the scans come from the [Computer History Museum](https://computerhistory.org/) via a [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/), [archive.org](archive.org), and some private collections.
+Click any title below to view and download a scan of the original newsletter. Most scans come from the [Computer History Museum](https://www.computerhistory.org/collections/catalog/600000568/record/102734878/) via a [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/), a few private collections, and [archive.org](https://archive.org/details/YIPLTAP_1-91). These aren't raw copies: we restructured the pages for better readability across devices and re-ran OCR for improved search.
 
 {{< back-issues "tap-archive" >}}
