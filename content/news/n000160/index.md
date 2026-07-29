@@ -1,6 +1,6 @@
 ---
 id: n000160
-title: "TAP No. 40 - November 1976"
+title: "TAP No. 40 - Black Box Update, Tuning Your Organ"
 slug: tap-040
 date: "1976-11-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-040.pdf"
+local_file: "tap-no-40-black-box-update-tuning-your-organ.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 40
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Black Box Update, Tuning Your Organ"
 
 people: []
 topics: ["espionage and weapons book review", "alternative technology projects", "infrasonics research request"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-040.pdf"
+  - src: "tap-no-40-black-box-update-tuning-your-organ.pdf"
     name: "pdf"
 
 aliases: []

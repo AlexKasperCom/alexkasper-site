@@ -1,6 +1,6 @@
 ---
 id: n000122
-title: "TAP No. 2 - July 1971"
+title: "TAP No. 2 - Blue Box Story and Abbie on Ripoffs"
 slug: tap-002
 date: "1971-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-002.pdf"
+local_file: "tap-no-2-blue-box-story-and-abbie-on-ripoffs.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 2
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Blue Box Story and Abbie on Ripoffs"
 
 people: ["Al Bell", "Russell Baker", "Abbie Hoffman"]
 topics: ["blue box construction", "phone fraud debate", "tone frequencies"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-002.pdf"
+  - src: "tap-no-2-blue-box-story-and-abbie-on-ripoffs.pdf"
     name: "pdf"
 
 aliases: []

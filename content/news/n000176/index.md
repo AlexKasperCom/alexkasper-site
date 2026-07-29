@@ -1,6 +1,6 @@
 ---
 id: n000176
-title: "TAP No. 56 - March 1979"
+title: "TAP No. 56 - The Programmable Blue Box"
 slug: tap-056
 date: "1979-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-056.pdf"
+local_file: "tap-no-56-the-programmable-blue-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 56
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "The Programmable Blue Box"
 
 people: ["Peter Piper"]
 topics: ["digital blue box design", "keypad/shift-register logic", "tone calibration"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-056.pdf"
+  - src: "tap-no-56-the-programmable-blue-box.pdf"
     name: "pdf"
 
 aliases: []

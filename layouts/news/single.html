@@ -17,8 +17,7 @@
     {{ end }}
   </p>
 
-  {{- $headline := partial "display-title.html" . -}}
-  <h1 data-pagefind-meta="title">{{ $headline }}</h1>
+  <h1 data-pagefind-meta="title">{{ .Title }}</h1>
 
 </header>
 
@@ -63,7 +62,7 @@
         <a href="{{ $destinationURL }}" target="_blank" rel="noopener noreferrer">
           <img
             src="{{ .RelPermalink }}"
-            alt="{{ $headline }}"
+            alt="{{ $.Title }}"
             loading="eager">
         </a>
       {{ else }}
@@ -122,8 +121,8 @@
             <li>
               <a
                 href="{{ .RelPermalink }}"
-                title="Permanent Link to {{ partial "display-title.html" . }}">
-                {{ partial "display-title.html" . }}
+                title="Permanent Link to {{ .Title }}">
+                {{ .Title }}
               </a>
             </li>
           {{ end }}

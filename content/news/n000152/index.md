@@ -1,6 +1,6 @@
 ---
 id: n000152
-title: "TAP No. 32 - January 1976"
+title: "TAP No. 32 - '76 CC Code, Improved Red Box"
 slug: tap-032
 date: "1976-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-032.pdf"
+local_file: "tap-no-32-76-cc-code-improved-red-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 32
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "'76 CC Code, Improved Red Box"
 
 people: []
 topics: ["1976 credit card code", "Telident fraud exposed", "destructory assistance categories"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-032.pdf"
+  - src: "tap-no-32-76-cc-code-improved-red-box.pdf"
     name: "pdf"
 
 aliases: []

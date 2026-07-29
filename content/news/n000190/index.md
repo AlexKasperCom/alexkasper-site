@@ -1,6 +1,6 @@
 ---
 id: n000190
-title: "TAP No. 70 - November 1981"
+title: "TAP No. 70 - Freebasing Cocaine"
 slug: tap-070
 date: "1981-11-01"
 
@@ -23,7 +23,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-070.pdf"
+local_file: "tap-no-70-freebasing-cocaine.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -38,7 +38,6 @@ weight: 70
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Freebasing Cocaine"
 
 people: ["Dr. Atomic"]
 topics: ["recreational drug chemistry", "cocaine freebase preparation"]
@@ -56,7 +55,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-070.pdf"
+  - src: "tap-no-70-freebasing-cocaine.pdf"
     name: "pdf"
 
 aliases: []

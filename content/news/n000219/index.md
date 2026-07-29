@@ -1,6 +1,6 @@
 ---
 id: n000219
-title: "TAP Classified Ad Sheet No. 5 - 1981"
+title: "TAP Classified No. C5 - Free Abbie Hoffman Campaign & WATS-80 Report"
 slug: c5
 date: "1981-03-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c5.pdf"
+local_file: "tap-classified-no-c5-free-abbie-hoffman-campaign-wats-80-report.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C5"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "Free Abbie Hoffman Campaign & WATS-80 Report"
 
 people: ["Abbie Hoffman"]
 topics: ["Abbie Hoffman clemency campaign", "TAP 10th anniversary announcement", "WATS-80 convention account", "classified ads"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c5.pdf"
+  - src: "tap-classified-no-c5-free-abbie-hoffman-campaign-wats-80-report.pdf"
     name: "pdf"
 
 aliases: []

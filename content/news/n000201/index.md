@@ -1,6 +1,6 @@
 ---
 id: n000201
-title: "TAP No. 81 - January 1983"
+title: "TAP No. 81 - Security Alert"
 slug: tap-081
 date: "1983-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-081.pdf"
+local_file: "tap-no-81-security-alert.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 81
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Security Alert"
 
 people: ["Tom A. Edison", "Oz Y. Mandias"]
 topics: ["subscription/administrative policy", "toll record privacy and law enforcement access", "chemical shipment surveillance risk"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-081.pdf"
+  - src: "tap-no-81-security-alert.pdf"
     name: "pdf"
 
 aliases: []

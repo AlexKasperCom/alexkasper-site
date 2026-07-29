@@ -54,14 +54,14 @@
     {{- with $prev -}}
     <a class="series-nav-link series-nav-prev" href="{{ .RelPermalink }}">
       <span class="series-nav-dir">&larr; Previous</span>
-      <span class="series-nav-title">{{ with .Params.issue }}No. {{ . }} &mdash; {{ end }}{{ or .Params.feature_article .Title }}</span>
+      <span class="series-nav-title">{{ .Title }}</span>
       <span class="series-nav-date">{{ .Date.Format "Jan 2006" }}</span>
     </a>
     {{- end -}}
     {{- with $next -}}
     <a class="series-nav-link series-nav-next" href="{{ .RelPermalink }}">
       <span class="series-nav-dir">Next &rarr;</span>
-      <span class="series-nav-title">{{ with .Params.issue }}No. {{ . }} &mdash; {{ end }}{{ or .Params.feature_article .Title }}</span>
+      <span class="series-nav-title">{{ .Title }}</span>
       <span class="series-nav-date">{{ .Date.Format "Jan 2006" }}</span>
     </a>
     {{- end -}}

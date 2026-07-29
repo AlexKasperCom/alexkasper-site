@@ -1,6 +1,6 @@
 ---
 id: n000215
-title: "TAP Classified Ad Sheet No. 1 - 1979"
+title: "TAP Classified No. C1 - Ad Sheet Debuts"
 slug: c1
 date: "1979-07-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c1.pdf"
+local_file: "tap-classified-no-c1-ad-sheet-debuts.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C1"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "Ad Sheet Debuts"
 
 people: []
 topics: ["classified ad sheet launch", "reader buy/sell/wanted ads", "TAP ancillary publications"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c1.pdf"
+  - src: "tap-classified-no-c1-ad-sheet-debuts.pdf"
     name: "pdf"
 
 aliases: []

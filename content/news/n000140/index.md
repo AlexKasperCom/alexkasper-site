@@ -1,6 +1,6 @@
 ---
 id: n000140
-title: "TAP No. 20 - July 1973"
+title: "TAP No. 20 - Cheese Box (Conference Line, or Loop-Around)"
 slug: tap-020
 date: "1973-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-020.pdf"
+local_file: "tap-no-20-cheese-box-conference-line-or-loop-around.pdf"
 prefer_local: true
 pages: "3"
 isbn: 
@@ -39,7 +39,6 @@ weight: 20
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Cheese Box (Conference Line, or Loop-Around)"
 
 people: ["John Chancellor"]
 topics: ["foreign telephone signal test numbers", "automatic number identification", "bug-detection rumor debunking"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-020.pdf"
+  - src: "tap-no-20-cheese-box-conference-line-or-loop-around.pdf"
     name: "pdf"
 
 aliases: []

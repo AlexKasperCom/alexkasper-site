@@ -1,6 +1,6 @@
 ---
 id: n000153
-title: "TAP No. 33 - February 1976"
+title: "TAP No. 33 - Supermarket Codes and Ripoffs, Tax Refusal"
 slug: tap-033
 date: "1976-02-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-033.pdf"
+local_file: "tap-no-33-supermarket-codes-and-ripoffs-tax-refusal.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 33
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Supermarket Codes and Ripoffs, Tax Refusal"
 
 people: ["Mr. Phelps", "Tom Edison", "Rene Baxter"]
 topics: ["tax resistance philosophy", "life-extension advocacy", "illegal extension and answering-device detection"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-033.pdf"
+  - src: "tap-no-33-supermarket-codes-and-ripoffs-tax-refusal.pdf"
     name: "pdf"
 
 aliases: []

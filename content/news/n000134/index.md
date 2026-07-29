@@ -1,6 +1,6 @@
 ---
 id: n000134
-title: "TAP No. 14 - November 1972"
+title: "TAP No. 14 - More Codes, AT&T Papers, Ca. Test Numbers"
 slug: tap-014
 date: "1972-11-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-014.pdf"
+local_file: "tap-no-14-more-codes-at-t-papers-ca-test-numbers.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 14
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "More Codes, AT&T Papers, Ca. Test Numbers"
 
 people: []
 topics: ["credit card codes", "overseas dialing codes", "red box tuning", "Bell company internal culture"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-014.pdf"
+  - src: "tap-no-14-more-codes-at-t-papers-ca-test-numbers.pdf"
     name: "pdf"
 
 aliases: []

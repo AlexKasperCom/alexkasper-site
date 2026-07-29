@@ -1,6 +1,6 @@
 ---
 id: n000171
-title: "TAP No. 51 - July 1978"
+title: "TAP No. 51 - Milo Fonebill Issue: Auto-Combo Red-Blue Boxes"
 slug: tap-051
 date: "1978-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-051.pdf"
+local_file: "tap-no-51-milo-fonebill-issue-auto-combo-red-blue-boxes.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 51
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Milo Fonebill Issue: Auto-Combo Red-Blue Boxes"
 
 people: ["Milo Fonebill", "Wizard", "Tom"]
 topics: ["blue box circuit corrections", "TAP financial crisis", "mailing/subscription troubles", "conference announcement"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-051.pdf"
+  - src: "tap-no-51-milo-fonebill-issue-auto-combo-red-blue-boxes.pdf"
     name: "pdf"
 
 aliases: []

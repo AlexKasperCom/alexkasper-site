@@ -1,6 +1,6 @@
 ---
 id: n000191
-title: "TAP No. 71 - January 1982"
+title: "TAP No. 71 - Simon Jester Issue"
 slug: tap-071
 date: "1982-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-071.pdf"
+local_file: "tap-no-71-simon-jester-issue.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 71
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Simon Jester Issue"
 
 people: []
 topics: ["computer terminal password harvesting technique", "mainframe/timesharing systems (HP-2000)", "phone lineman's test set"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-071.pdf"
+  - src: "tap-no-71-simon-jester-issue.pdf"
     name: "pdf"
 
 aliases: []

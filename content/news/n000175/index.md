@@ -1,6 +1,6 @@
 ---
 id: n000175
-title: "TAP No. 55 - January 1979"
+title: "TAP No. 55 - Test Your Stash: Drug-ID Column Debuts"
 slug: tap-055
 date: "1979-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-055.pdf"
+local_file: "tap-no-55-test-your-stash-drug-id-column-debuts.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 55
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Test Your Stash: Drug-ID Column Debuts"
 
 people: ["Oz Y. Mandias"]
 topics: ["drug adulterant testing", "reagent test chemistry", "phone company billing errors"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-055.pdf"
+  - src: "tap-no-55-test-your-stash-drug-id-column-debuts.pdf"
     name: "pdf"
 
 aliases: []

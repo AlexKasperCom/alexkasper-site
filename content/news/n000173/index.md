@@ -1,6 +1,6 @@
 ---
 id: n000173
-title: "TAP No. 53 - September 1978"
+title: "TAP No. 53 - Meeting Phone Phreaks at Trade Shows, THC-79 Conference, Microcomputer Blue Box Tones"
 slug: tap-053
 date: "1978-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-053.pdf"
+local_file: "tap-no-53-meeting-phone-phreaks-at-trade-shows-thc-79-conference-microcomputer-blue-box-tones.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 53
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Meeting Phone Phreaks at Trade Shows, THC-79 Conference, Microcomputer Blue Box Tones"
 
 people: []
 topics: ["phreak social networking", "conference logistics", "microprocessor-generated MF tones"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-053.pdf"
+  - src: "tap-no-53-meeting-phone-phreaks-at-trade-shows-thc-79-conference-microcomputer-blue-box-tones.pdf"
     name: "pdf"
 
 aliases: []

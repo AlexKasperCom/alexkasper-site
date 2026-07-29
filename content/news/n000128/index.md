@@ -1,6 +1,6 @@
 ---
 id: n000128
-title: "TAP No. 8 - February 1972"
+title: "TAP No. 8 - Credit Card Calls / 1972 Code"
 slug: tap-008
 date: "1972-02-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-008.pdf"
+local_file: "tap-no-8-credit-card-calls-1972-code.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 8
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Credit Card Calls / 1972 Code"
 
 people: []
 topics: ["1972 credit card code cracked", "induction coupler equipment", "phone tap detection folklore"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-008.pdf"
+  - src: "tap-no-8-credit-card-calls-1972-code.pdf"
     name: "pdf"
 
 aliases: []

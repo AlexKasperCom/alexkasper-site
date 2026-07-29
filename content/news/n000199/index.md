@@ -1,6 +1,6 @@
 ---
 id: n000199
-title: "TAP No. 79 - November 1982"
+title: "TAP No. 79 - Blue Box Equipment and Usage"
 slug: tap-079
 date: "1982-11-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-079.pdf"
+local_file: "tap-no-79-blue-box-equipment-and-usage.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 79
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Blue Box Equipment and Usage"
 
 people: ["Fred Steinbeck", "Nick Haflinger", "Ted Vail"]
 topics: ["blue box hardware sourcing", "hobbyist electronics parts suppliers", "circuit component selection"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-079.pdf"
+  - src: "tap-no-79-blue-box-equipment-and-usage.pdf"
     name: "pdf"
 
 aliases: []

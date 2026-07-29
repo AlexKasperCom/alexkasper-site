@@ -1,6 +1,6 @@
 ---
 id: n000123
-title: "TAP No. 3 - August 1971"
+title: "TAP No. 3 - Telecommand Story"
 slug: tap-003
 date: "1971-08-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-003.pdf"
+local_file: "tap-no-3-telecommand-story.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 3
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Telecommand Story"
 
 people: ["Arthur S. Brewster", "Edward V. Long"]
 topics: ["wiretap devices", "FBI surveillance of subscribers", "YIPL mission statement", "Bell employee tips"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-003.pdf"
+  - src: "tap-no-3-telecommand-story.pdf"
     name: "pdf"
 
 aliases: []

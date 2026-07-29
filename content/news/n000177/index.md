@@ -1,6 +1,6 @@
 ---
 id: n000177
-title: "TAP No. 57 - May 1979"
+title: "TAP No. 57 - Tom Edison Battles Plot!"
 slug: tap-057
 date: "1979-05-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-057.pdf"
+local_file: "tap-no-57-tom-edison-battles-plot.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 57
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Tom Edison Battles Plot!"
 
 people: ["Tom Edison", "Al Bell", "Jim Phelps", "Cheshire", "Wizard"]
 topics: ["TAP internal history", "publisher/editor dispute", "mailing list computerization", "office relocation"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-057.pdf"
+  - src: "tap-no-57-tom-edison-battles-plot.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000194
-title: "TAP No. 74 - April 1982"
+title: "TAP No. 74 - TELENET"
 slug: tap-074
 date: "1982-04-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-074.pdf"
+local_file: "tap-no-74-telenet.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 74
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "TELENET"
 
 people: ["Paul Montgomery", "Tom Edison"]
 topics: ["Telenet packet-switched network access", "regional phone phreak group communications"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-074.pdf"
+  - src: "tap-no-74-telenet.pdf"
     name: "pdf"
 
 aliases: []

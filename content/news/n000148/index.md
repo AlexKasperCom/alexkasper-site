@@ -1,6 +1,6 @@
 ---
 id: n000148
-title: "TAP No. 28 - March 1975"
+title: "TAP No. 28 - Reading Computer Bills, Loop Suffixes"
 slug: tap-028
 date: "1975-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-028.pdf"
+local_file: "tap-no-28-reading-computer-bills-loop-suffixes.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 28
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Reading Computer Bills, Loop Suffixes"
 
 people: []
 topics: ["1975 credit card code", "portable pay phone simulator concept", "Telident device skepticism", "loop and test number lists"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-028.pdf"
+  - src: "tap-no-28-reading-computer-bills-loop-suffixes.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000129
-title: "TAP No. 9 - March 1972"
+title: "TAP No. 9 - Black Box (Super Duper Project)"
 slug: tap-009
 date: "1972-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-009.pdf"
+local_file: "tap-no-9-black-box-super-duper-project.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 9
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Black Box (Super Duper Project)"
 
 people: ["Gerald E. McDaniels"]
 topics: ["black box construction", "ITT boycott", "war profiteering critique", "postage-stamp cancellation avoidance"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-009.pdf"
+  - src: "tap-no-9-black-box-super-duper-project.pdf"
     name: "pdf"
 
 aliases: []

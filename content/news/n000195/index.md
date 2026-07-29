@@ -1,6 +1,6 @@
 ---
 id: n000195
-title: "TAP No. 75 - May 1982"
+title: "TAP No. 75 - 11th Anniversary Issue: WATS Extenders"
 slug: tap-075
 date: "1982-05-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-075.pdf"
+local_file: "tap-no-75-11th-anniversary-issue-wats-extenders.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 75
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "11th Anniversary Issue: WATS Extenders"
 
 people: ["The Magician"]
 topics: ["WATS line toll fraud", "phone company fraud detection", "legal risk warnings"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-075.pdf"
+  - src: "tap-no-75-11th-anniversary-issue-wats-extenders.pdf"
     name: "pdf"
 
 aliases: []

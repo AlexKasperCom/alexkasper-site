@@ -1,6 +1,6 @@
 ---
 id: n000196
-title: "TAP No. 76 - July 1982"
+title: "TAP No. 76 - Life & Death & Dope"
 slug: tap-076
 date: "1982-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-076.pdf"
+local_file: "tap-no-76-life-death-dope.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 76
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Life & Death & Dope"
 
 people: ["Dr. Atomic", "Frank T.G. Schuster"]
 topics: ["editorial defense of drug/chemistry content", "antioxidant supplement (BHT) discussion", "underground chemistry scope debate"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-076.pdf"
+  - src: "tap-no-76-life-death-dope.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000155
-title: "TAP No. 35 - May 1976"
+title: "TAP No. 35 - Bulletproof Vests, Parking Meter Locks"
 slug: tap-035
 date: "1976-05-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-035.pdf"
+local_file: "tap-no-35-bulletproof-vests-parking-meter-locks.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 35
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Bulletproof Vests, Parking Meter Locks"
 
 people: ["Tom Edison", "John Draper", "Mr. Phelps", "Jim"]
 topics: ["TAP 5th anniversary", "Captain Crunch's second arrest", "red box operator-verification workaround", "TAP's editorial stance defended"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-035.pdf"
+  - src: "tap-no-35-bulletproof-vests-parking-meter-locks.pdf"
     name: "pdf"
 
 aliases: []

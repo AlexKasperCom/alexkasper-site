@@ -1,6 +1,6 @@
 ---
 id: n000206
-title: "TAP No. 86 - July 1983"
+title: "TAP No. 86 - The Burglar's Tool Box"
 slug: tap-086
 date: "1983-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-086.pdf"
+local_file: "tap-no-86-the-burglars-tool-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 86
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "The Burglar's Tool Box"
 
 people: ["The Stainless Steal Rat"]
 topics: ["lock-pick tool fabrication", "tension wrench heat treatment", "warded padlock mechanisms"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-086.pdf"
+  - src: "tap-no-86-the-burglars-tool-box.pdf"
     name: "pdf"
 
 aliases: []

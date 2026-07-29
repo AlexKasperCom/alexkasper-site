@@ -1,6 +1,6 @@
 ---
 id: n000172
-title: "TAP No. 52 - August 1978"
+title: "TAP No. 52 - Jim Phelps Issue"
 slug: tap-052
 date: "1978-08-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-052.pdf"
+local_file: "tap-no-52-jim-phelps-issue.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 52
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Jim Phelps Issue"
 
 people: ["Jim Phelps"]
 topics: ["editor tribute/farewell", "UK exchange fraud", "credit card voice validation", "radar detection/jamming"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-052.pdf"
+  - src: "tap-no-52-jim-phelps-issue.pdf"
     name: "pdf"
 
 aliases: []

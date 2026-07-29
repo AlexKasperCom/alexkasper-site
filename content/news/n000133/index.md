@@ -1,6 +1,6 @@
 ---
 id: n000133
-title: "TAP No. 13 - September 1972"
+title: "TAP No. 13 - Int'l Calls & Codes, Bluebox Plans"
 slug: tap-013
 date: "1972-09-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-013.pdf"
+local_file: "tap-no-13-intl-calls-codes-bluebox-plans.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 13
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Int'l Calls & Codes, Bluebox Plans"
 
 people: []
 topics: ["NSA wiretapping revelations", "red box technical details", "subway token fraud", "overseas dialing codes"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-013.pdf"
+  - src: "tap-no-13-intl-calls-codes-bluebox-plans.pdf"
     name: "pdf"
 
 aliases: []

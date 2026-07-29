@@ -1,6 +1,6 @@
 ---
 id: n000183
-title: "TAP No. 63 - June 1980"
+title: "TAP No. 63 - How to Modify Your Bell Touch Tone Fone to Have 1633 Cycle Tones"
 slug: tap-063
 date: "1980-06-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-063.pdf"
+local_file: "tap-no-63-how-to-modify-your-bell-touch-tone-fone-to-have-1633-cycle-tones.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 63
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "How to Modify Your Bell Touch Tone Fone to Have 1633 Cycle Tones"
 
 people: ["The Sagician"]
 topics: ["touch-tone phone hardware modification", "1633 Hz signaling tones"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-063.pdf"
+  - src: "tap-no-63-how-to-modify-your-bell-touch-tone-fone-to-have-1633-cycle-tones.pdf"
     name: "pdf"
 
 aliases: []

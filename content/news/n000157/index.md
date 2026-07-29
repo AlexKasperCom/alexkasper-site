@@ -1,6 +1,6 @@
 ---
 id: n000157
-title: "TAP No. 37 - July 1976"
+title: "TAP No. 37 - Report from NW Canada, CCIS Report"
 slug: tap-037
 date: "1976-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-037.pdf"
+local_file: "tap-no-37-report-from-nw-canada-ccis-report.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 37
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Report from NW Canada, CCIS Report"
 
 people: []
 topics: ["exotic and rural phone systems", "military phone system priority overrides", "automated illegal-extension detection"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-037.pdf"
+  - src: "tap-no-37-report-from-nw-canada-ccis-report.pdf"
     name: "pdf"
 
 aliases: []

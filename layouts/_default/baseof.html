@@ -20,7 +20,7 @@
 {{- if .IsHome -}}
 {{ site.Title }}
 {{- else -}}
-{{ partial "display-title.html" . }} | {{ site.Title }}
+{{ .Title }} | {{ site.Title }}
 {{- end -}}
       </title>
    </head>

@@ -1,6 +1,6 @@
 ---
 id: n000170
-title: "TAP No. 50 - May 1978"
+title: "TAP No. 50 - Special 7th Anniversary Double Issue: Tandem Scanning, Free Cable TV, Making Lock Picks"
 slug: tap-050
 date: "1978-05-01"
 
@@ -26,7 +26,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-050.pdf"
+local_file: "tap-no-50-special-7th-anniversary-double-issue-tandem-scanning-free-cable-tv-making-lock-picks.pdf"
 prefer_local: true
 pages: "8"
 isbn: 
@@ -41,7 +41,6 @@ weight: 50
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Special 7th Anniversary Double Issue: Tandem Scanning, Free Cable TV, Making Lock Picks"
 
 people: ["Alexander Mundy", "Don Victor Harbolt", "Clarence Kelley"]
 topics: ["lock picking", "drug dealer countermeasures", "wiretap detection", "cable TV piracy", "anniversary retrospective"]
@@ -59,7 +58,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-050.pdf"
+  - src: "tap-no-50-special-7th-anniversary-double-issue-tandem-scanning-free-cable-tv-making-lock-picks.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000159
-title: "TAP No. 39 - September 1976"
+title: "TAP No. 39 - Fighting the Biggest Monopoly, Free Postage, Free Xerox"
 slug: tap-039
 date: "1976-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-039.pdf"
+local_file: "tap-no-39-fighting-the-biggest-monopoly-free-postage-free-xerox.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 39
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Fighting the Biggest Monopoly, Free Postage, Free Xerox"
 
 people: ["Jim Phelps", "John Draper"]
 topics: ["Libertarian Party politics", "Captain Crunch's imprisonment", "obscenity standards satire"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-039.pdf"
+  - src: "tap-no-39-fighting-the-biggest-monopoly-free-postage-free-xerox.pdf"
     name: "pdf"
 
 aliases: []

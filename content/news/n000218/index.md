@@ -1,6 +1,6 @@
 ---
 id: n000218
-title: "TAP Classified Ad Sheet No. 4 - 1980"
+title: "TAP Classified No. C4 - WATS-80 Symposium Announcement"
 slug: c4
 date: "1980-09-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c4.pdf"
+local_file: "tap-classified-no-c4-wats-80-symposium-announcement.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C4"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "WATS-80 Symposium Announcement"
 
 people: ["Cheshire Catalyst", "Tom Edison"]
 topics: ["WATS-80 phone phreak symposium", "classified ads", "conference announcement"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c4.pdf"
+  - src: "tap-classified-no-c4-wats-80-symposium-announcement.pdf"
     name: "pdf"
 
 aliases: []

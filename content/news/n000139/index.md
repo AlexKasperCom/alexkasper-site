@@ -1,6 +1,6 @@
 ---
 id: n000139
-title: "TAP No. 19 - June 1973"
+title: "TAP No. 19 - Snoop Light, Taping Fortress Tones"
 slug: tap-019
 date: "1973-06-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-019.pdf"
+local_file: "tap-no-19-snoop-light-taping-fortress-tones.pdf"
 prefer_local: true
 pages: "3"
 isbn: 
@@ -40,7 +40,6 @@ weight: 19
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Snoop Light, Taping Fortress Tones"
 
 people: ["Robert McCrie", "John D. deButts", "Clarence M. Kelley"]
 topics: ["parking meter defeat methods", "tape-recorded red box tones", "line-tap/extension detector circuit", "Watergate-AT&T connections"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-019.pdf"
+  - src: "tap-no-19-snoop-light-taping-fortress-tones.pdf"
     name: "pdf"
 
 aliases: []

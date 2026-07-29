@@ -1,6 +1,6 @@
 ---
 id: n000198
-title: "TAP No. 78 - October 1982"
+title: "TAP No. 78 - Free Pay TV \"Legally!\""
 slug: tap-078
 date: "1982-10-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-078.pdf"
+local_file: "tap-no-78-free-pay-tv-legally.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 78
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Free Pay TV \"Legally!\""
 
 people: ["The Magician"]
 topics: ["satellite television reception", "multipoint distribution system (MDS/subscription TV)", "pay-TV technology overview"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-078.pdf"
+  - src: "tap-no-78-free-pay-tv-legally.pdf"
     name: "pdf"
 
 aliases: []

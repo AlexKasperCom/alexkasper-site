@@ -1,6 +1,6 @@
 ---
 id: n000207
-title: "TAP No. 87 - September 1983"
+title: "TAP No. 87 - The Great Fire of '83"
 slug: tap-087
 date: "1983-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-087.pdf"
+local_file: "tap-no-87-the-great-fire-of-83.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 87
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "The Great Fire of '83"
 
 people: ["Cheshire Catalyst", "Tom Edison"]
 topics: ["TAP organizational history", "burglary and arson incident", "mailing/distribution policy change", "ISSN registration"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-087.pdf"
+  - src: "tap-no-87-the-great-fire-of-83.pdf"
     name: "pdf"
 
 aliases: []

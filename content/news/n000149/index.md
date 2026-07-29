@@ -1,6 +1,6 @@
 ---
 id: n000149
-title: "TAP No. 29 - October 1975"
+title: "TAP No. 29 - Improved Bluebox & Snooplite, Int'l Codes"
 slug: tap-029
 date: "1975-10-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-029.pdf"
+local_file: "tap-no-29-improved-bluebox-snooplite-intl-codes.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 29
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Improved Bluebox & Snooplite, Int'l Codes"
 
 people: []
 topics: ["advanced blue box circuit", "new office opening", "corrected snoop light values", "mail-order parts suppliers"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-029.pdf"
+  - src: "tap-no-29-improved-bluebox-snooplite-intl-codes.pdf"
     name: "pdf"
 
 aliases: []

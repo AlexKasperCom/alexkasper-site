@@ -1,6 +1,6 @@
 ---
 id: n000209
-title: "TAP No. 89 - December 1983"
+title: "TAP No. 89 - 1984, Join the Party of Your Choice!"
 slug: tap-089
 date: "1983-12-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-089.pdf"
+local_file: "tap-no-89-1984-join-the-party-of-your-choice.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 89
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "1984, Join the Party of Your Choice!"
 
 people: ["Cheshire Catalyst", "Dragon Lady"]
 topics: ["fan convention announcement", "vintage computer gaming meetup", "phone exchange line scanning"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-089.pdf"
+  - src: "tap-no-89-1984-join-the-party-of-your-choice.pdf"
     name: "pdf"
 
 aliases: []

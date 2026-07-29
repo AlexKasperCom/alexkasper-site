@@ -1,6 +1,6 @@
 ---
 id: n000189
-title: "TAP No. 69 - September 1981"
+title: "TAP No. 69 - Viva La Muerte!, Microprocessor-Controlled Brown Box"
 slug: tap-069
 date: "1981-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-069.pdf"
+local_file: "tap-no-69-viva-la-muerte-microprocessor-controlled-brown-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 69
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Viva La Muerte!, Microprocessor-Controlled Brown Box"
 
 people: ["Oz Y. Mandias", "The Wizard"]
 topics: ["drug enforcement news commentary", "underground chemistry book reviews", "microprocessor-based phreaking box concept"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-069.pdf"
+  - src: "tap-no-69-viva-la-muerte-microprocessor-controlled-brown-box.pdf"
     name: "pdf"
 
 aliases: []

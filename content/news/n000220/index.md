@@ -1,6 +1,6 @@
 ---
 id: n000220
-title: "TAP Classified Ad Sheet No. 6 - 1981"
+title: "TAP Classified No. C6 - Classified Ads"
 slug: c6
 date: "1981-07-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c6.pdf"
+local_file: "tap-classified-no-c6-classified-ads.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C6"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "Classified Ads"
 
 people: []
 topics: ["classified ads", "contributor dispute"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c6.pdf"
+  - src: "tap-classified-no-c6-classified-ads.pdf"
     name: "pdf"
 
 aliases: []

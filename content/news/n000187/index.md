@@ -1,6 +1,6 @@
 ---
 id: n000187
-title: "TAP No. 67 - May 1981"
+title: "TAP No. 67 - TAP's 10th Anniversary, Picking Mushroom-Pin Locks"
 slug: tap-067
 date: "1981-05-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-067.pdf"
+local_file: "tap-no-67-taps-10th-anniversary-picking-mushroom-pin-locks.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 67
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "TAP's 10th Anniversary, Picking Mushroom-Pin Locks"
 
 people: ["Tom Edison", "Al Bell", "Abbie Hoffman", "Jim Phelps", "R. Systat", "Al Mundy"]
 topics: ["organizational history/anniversary retrospective", "list of past editors and contributors", "mushroom-pin lock picking"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-067.pdf"
+  - src: "tap-no-67-taps-10th-anniversary-picking-mushroom-pin-locks.pdf"
     name: "pdf"
 
 aliases: []

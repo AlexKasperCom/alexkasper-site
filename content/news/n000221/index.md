@@ -1,6 +1,6 @@
 ---
 id: n000221
-title: "TAP Classified Ad Sheet No. 7 - 1981"
+title: "TAP Classified No. C7 - Editor's Financial Appeal"
 slug: c7
 date: "1981-11-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c7.pdf"
+local_file: "tap-classified-no-c7-editors-financial-appeal.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C7"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "Editor's Financial Appeal"
 
 people: ["Tom Edison"]
 topics: ["editor's fundraising appeal", "TAP finances", "classified ads"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c7.pdf"
+  - src: "tap-classified-no-c7-editors-financial-appeal.pdf"
     name: "pdf"
 
 aliases: []

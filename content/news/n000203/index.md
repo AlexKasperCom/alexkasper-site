@@ -1,6 +1,6 @@
 ---
 id: n000203
-title: "TAP No. 83 - March 1983"
+title: "TAP No. 83 - Video Voodoo"
 slug: tap-083
 date: "1983-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-083.pdf"
+local_file: "tap-no-83-video-voodoo.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 83
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Video Voodoo"
 
 people: ["Fred Steinbeck"]
 topics: ["arcade game coin-mechanism exploits", "police vehicle surveillance techniques", "drug culture news briefs"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-083.pdf"
+  - src: "tap-no-83-video-voodoo.pdf"
     name: "pdf"
 
 aliases: []

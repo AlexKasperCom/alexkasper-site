@@ -1,6 +1,6 @@
 ---
 id: n000124
-title: "TAP No. 4 - September 1971"
+title: "TAP No. 4 - Pay Phone Issue"
 slug: tap-004
 date: "1971-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-004.pdf"
+local_file: "tap-no-4-pay-phone-issue.pdf"
 prefer_local: true
 pages: "3"
 isbn: 
@@ -39,7 +39,6 @@ weight: 4
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Pay Phone Issue"
 
 people: ["Abbie Hoffman"]
 topics: ["pay phone fraud techniques", "coin mechanism exploitation"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-004.pdf"
+  - src: "tap-no-4-pay-phone-issue.pdf"
     name: "pdf"
 
 aliases: []

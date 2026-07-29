@@ -1,6 +1,6 @@
 ---
 id: n000165
-title: "TAP No. 45 - July 1977"
+title: "TAP No. 45 - Beginning of the End, CB Frequencies"
 slug: tap-045
 date: "1977-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-045.pdf"
+local_file: "tap-no-45-beginning-of-the-end-cb-frequencies.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 45
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Beginning of the End, CB Frequencies"
 
 people: ["Tom Edison", "Mr. Phelps"]
 topics: ["TAP financial crisis", "subscription and fee policy changes", "reader support appeal"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-045.pdf"
+  - src: "tap-no-45-beginning-of-the-end-cb-frequencies.pdf"
     name: "pdf"
 
 aliases: []

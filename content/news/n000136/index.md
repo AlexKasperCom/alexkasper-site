@@ -1,6 +1,6 @@
 ---
 id: n000136
-title: "TAP No. 16 - February 1973"
+title: "TAP No. 16 - Red Box Plans"
 slug: tap-016
 date: "1973-02-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-016.pdf"
+local_file: "tap-no-16-red-box-plans.pdf"
 prefer_local: true
 pages: "5"
 isbn: 
@@ -39,7 +39,6 @@ weight: 16
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Red Box Plans"
 
 people: []
 topics: ["red box circuit build", "destructory assistance service", "subscriber growth appeal"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-016.pdf"
+  - src: "tap-no-16-red-box-plans.pdf"
     name: "pdf"
 
 aliases: []

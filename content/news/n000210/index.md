@@ -1,6 +1,6 @@
 ---
 id: n000210
-title: "TAP No. 90 - January 1984"
+title: "TAP No. 90 - Your Rights as a Phone Phreak"
 slug: tap-090
 date: "1984-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-090.pdf"
+local_file: "tap-no-90-your-rights-as-a-phone-phreak.pdf"
 prefer_local: true
 pages: "3"
 isbn: 
@@ -39,7 +39,6 @@ weight: 90
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Your Rights as a Phone Phreak"
 
 people: ["Fred Steinbeck"]
 topics: ["federal wiretap statute (18 U.S.C. 605)", "case law on communications privacy", "Dialed Number Recorder (DNR) surveillance"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-090.pdf"
+  - src: "tap-no-90-your-rights-as-a-phone-phreak.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000150
-title: "TAP No. 30 - November 1975"
+title: "TAP No. 30 - Party Lines, Fortress Extension & Locks"
 slug: tap-030
 date: "1975-11-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-030.pdf"
+local_file: "tap-no-30-party-lines-fortress-extension-locks.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 30
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Party Lines, Fortress Extension & Locks"
 
 people: ["Tom Edison"]
 topics: ["party line discontinuation", "extension phone installation", "Fortress payphone modification", "telephone lock realism"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-030.pdf"
+  - src: "tap-no-30-party-lines-fortress-extension-locks.pdf"
     name: "pdf"
 
 aliases: []

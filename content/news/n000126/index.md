@@ -1,6 +1,6 @@
 ---
 id: n000126
-title: "TAP No. 6 - November 1971"
+title: "TAP No. 6 - Blue Box 2 (Early Model)"
 slug: tap-006
 date: "1971-11-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-006.pdf"
+local_file: "tap-no-6-blue-box-2-early-model.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 6
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Blue Box 2 (Early Model)"
 
 people: ["Al Gilbertson"]
 topics: ["Esquire blue box article response", "credit card codes by area", "reader-contributed information network"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-006.pdf"
+  - src: "tap-no-6-blue-box-2-early-model.pdf"
     name: "pdf"
 
 aliases: []

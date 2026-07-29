@@ -1,6 +1,6 @@
 ---
 id: n000186
-title: "TAP No. 66 - March 1981"
+title: "TAP No. 66 - Fortress Fun-Ding"
 slug: tap-066
 date: "1981-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-066.pdf"
+local_file: "tap-no-66-fortress-fun-ding.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 66
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Fortress Fun-Ding"
 
 people: []
 topics: ["payphone electronics", "coin signaling circuits", "Variable Initial Rate totalizing"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-066.pdf"
+  - src: "tap-no-66-fortress-fun-ding.pdf"
     name: "pdf"
 
 aliases: []

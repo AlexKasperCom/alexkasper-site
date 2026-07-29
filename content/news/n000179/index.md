@@ -1,6 +1,6 @@
 ---
 id: n000179
-title: "TAP No. 59 - September 1979"
+title: "TAP No. 59 - TAP Changes Name to Technological Assistance Program, THC-79 Convention Recap"
 slug: tap-059
 date: "1979-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-059.pdf"
+local_file: "tap-no-59-tap-changes-name-to-technological-assistance-program-thc-79-convention-recap.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 59
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "TAP Changes Name to Technological Assistance Program, THC-79 Convention Recap"
 
 people: []
 topics: ["organization rename", "address change", "convention recap", "government/military phone system access"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-059.pdf"
+  - src: "tap-no-59-tap-changes-name-to-technological-assistance-program-thc-79-convention-recap.pdf"
     name: "pdf"
 
 aliases: []

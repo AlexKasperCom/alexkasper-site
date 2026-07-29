@@ -1,6 +1,6 @@
 ---
 id: n000162
-title: "TAP No. 42 - January 1977"
+title: "TAP No. 42 - Interview With A Grand Guy, Blue Box Keyboard"
 slug: tap-042
 date: "1977-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-042.pdf"
+local_file: "tap-no-42-interview-with-a-grand-guy-blue-box-keyboard.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 42
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Interview With A Grand Guy, Blue Box Keyboard"
 
 people: ["Jim Phelps", "Guy Grand (interview subject, pseudonym)"]
 topics: ["countercultural prankster interview", "media-covered institutional hoaxes"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-042.pdf"
+  - src: "tap-no-42-interview-with-a-grand-guy-blue-box-keyboard.pdf"
     name: "pdf"
 
 aliases: []

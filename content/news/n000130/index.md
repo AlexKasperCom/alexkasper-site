@@ -1,6 +1,6 @@
 ---
 id: n000130
-title: "TAP No. 10 - May 1972"
+title: "TAP No. 10 - Black Box"
 slug: tap-010
 date: "1972-05-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-010.pdf"
+local_file: "tap-no-10-black-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 10
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Black Box"
 
 people: []
 topics: ["community organizing", "Peoples Yellow Pages directories", "black box circuit comparison"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-010.pdf"
+  - src: "tap-no-10-black-box.pdf"
     name: "pdf"
 
 aliases: []

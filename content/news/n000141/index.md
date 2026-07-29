@@ -1,6 +1,6 @@
 ---
 id: n000141
-title: "TAP No. 21 - August 1973"
+title: "TAP No. 21 - Automatic Phone Tap, Convention Report"
 slug: tap-021
 date: "1973-08-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-021.pdf"
+local_file: "tap-no-21-automatic-phone-tap-convention-report.pdf"
 prefer_local: true
 pages: "3"
 isbn: 
@@ -39,7 +39,6 @@ weight: 21
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Automatic Phone Tap, Convention Report"
 
 people: ["Abbie Hoffman"]
 topics: ["TAP name change and broadened scope", "Abbie Hoffman legal defense", "phone phreak convention recap"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-021.pdf"
+  - src: "tap-no-21-automatic-phone-tap-convention-report.pdf"
     name: "pdf"
 
 aliases: []

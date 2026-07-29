@@ -1,6 +1,6 @@
 ---
 id: n000143
-title: "TAP No. 23 - November 1973"
+title: "TAP No. 23 - Free Electricity"
 slug: tap-023
 date: "1973-11-01"
 
@@ -26,7 +26,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-023.pdf"
+local_file: "tap-no-23-free-electricity.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -41,7 +41,6 @@ weight: 23
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Free Electricity"
 
 people: ["Abbie Hoffman", "George Metesky"]
 topics: ["energy crisis", "electric meter tampering", "free electricity", "lock picking", "Abbie Hoffman legal defense"]
@@ -59,7 +58,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-023.pdf"
+  - src: "tap-no-23-free-electricity.pdf"
     name: "pdf"
 
 aliases: []

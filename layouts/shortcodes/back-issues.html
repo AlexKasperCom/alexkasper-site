@@ -19,8 +19,8 @@
   sub-series (e.g. only the numbered issues, excluding the ad sheets).
 
   Intended for numbered periodical archives (e.g. TAP) where each
-  issue's leaf bundle carries `issue` and `feature_article` fields.
-  Falls back to the page title if `feature_article` is empty.
+  issue's leaf bundle carries an `issue` field and a `title` that
+  already reads as "Series No. N - Feature Name".
 */ -}}
 {{- $slug := .Get 0 -}}
 {{- $seriesFilter := .Get 1 -}}
@@ -35,7 +35,7 @@
       <tr>
         <th class="issue-no">No.</th>
         <th class="issue-date">Date</th>
-        <th class="issue-feature">Feature Article</th>
+        <th class="issue-feature">Title</th>
       </tr>
     </thead>
     <tbody>
@@ -44,7 +44,7 @@
         <td class="issue-no">{{ .Params.issue }}</td>
         <td class="issue-date">{{ with .Date }}{{ .Format "Jan 2006" }}{{ end }}</td>
         <td class="issue-feature">
-          <a href="{{ .RelPermalink }}">{{ or .Params.feature_article .Title }}</a>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </td>
       </tr>
       {{- end }}

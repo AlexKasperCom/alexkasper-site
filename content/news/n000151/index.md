@@ -1,6 +1,6 @@
 ---
 id: n000151
-title: "TAP No. 31 - December 1975"
+title: "TAP No. 31 - Black Box, RAO Credit Card Codes"
 slug: tap-031
 date: "1975-12-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-031.pdf"
+local_file: "tap-no-31-black-box-rao-credit-card-codes.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 31
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Black Box, RAO Credit Card Codes"
 
 people: ["Tom Edison", "Al Bell", "John Draper"]
 topics: ["1975 year-in-review editorial", "black box circuit variants", "Captain Crunch reappearance"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-031.pdf"
+  - src: "tap-no-31-black-box-rao-credit-card-codes.pdf"
     name: "pdf"
 
 aliases: []

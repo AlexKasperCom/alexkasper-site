@@ -1,6 +1,6 @@
 ---
 id: n000178
-title: "TAP No. 58 - July 1979"
+title: "TAP No. 58 - Pro-Gun Rights Postage Stamp Campaign, Mr. Phelps Strikes Again!"
 slug: tap-058
 date: "1979-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-058.pdf"
+local_file: "tap-no-58-pro-gun-rights-postage-stamp-campaign-mr-phelps-strikes-again.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 58
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Pro-Gun Rights Postage Stamp Campaign, Mr. Phelps Strikes Again!"
 
 people: ["Jim Phelps", "William Goiger"]
 topics: ["gun rights advocacy", "returning humor column"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-058.pdf"
+  - src: "tap-no-58-pro-gun-rights-postage-stamp-campaign-mr-phelps-strikes-again.pdf"
     name: "pdf"
 
 aliases: []

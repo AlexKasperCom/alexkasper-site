@@ -80,7 +80,7 @@ Template: `layouts/shortcodes/back-issues.html`
 
 ### Why it exists
 
-Numbered periodical archives (e.g. TAP) carry `issue` and `feature_article` fields in front matter. This shortcode turns that data into a browsable index on the parent project page, in the spirit of the "Back Issues - Listed by Feature Articles" catalog the source publication itself used to print.
+Numbered periodical archives (e.g. TAP) carry an `issue` field and a descriptive `title` in front matter (e.g. `"TAP No. 28 - Reading Computer Bills, Loop Suffixes"`). This shortcode turns that data into a browsable index on the parent project page, in the spirit of the "Back Issues - Listed by Feature Articles" catalog the source publication itself used to print.
 
 ### Usage
 
@@ -102,15 +102,15 @@ The slug must match the parent project page's own `slug` field exactly (e.g. `co
 ### Required / used front matter fields
 
 * `projects` — must include the slug passed to the shortcode, and must match a project page's `slug` for `visit-project.html` to find it. Used to select which pages appear.
-* `issue` — numeric issue number. Used to sort the table ascending.
-* `feature_article` — short name of the issue's lead feature. Used as the link text.
-* `date` — used to render the "Date" column (formatted `Jan 2006`); omitted from the row if not set.
+* `issue` — the issue label shown in the "No." column (can be numeric, like TAP's `1`-`91`, or a string, like Classified TAP's `"C1"`-`"C7"` — sorting doesn't depend on it, so mixed types across a sub-series are fine).
+* `title` — used directly as the link text, so it should already read the way you want it displayed (e.g. `"TAP No. 28 - Reading Computer Bills, Loop Suffixes"`).
+* `date` — used both to sort the table and to render the "Date" column (formatted `Jan 2006`); omitted from the row if not set.
 
-If `feature_article` is empty, the shortcode falls back to the page's `title`.
+An optional second argument to the shortcode narrows the table to one `series` value, for projects that host more than one independently-numbered sub-series under the same project slug (see `series-nav.html` above, which handles the prev/next side of the same problem).
 
 ### Output
 
-Renders an HTML table with columns No. / Date / Feature Article:
+Renders an HTML table with columns No. / Date / Title:
 
 ```html
 <table class="back-issues-table">
@@ -118,7 +118,7 @@ Renders an HTML table with columns No. / Date / Feature Article:
     <tr>
       <td class="issue-no">1</td>
       <td class="issue-date">Jun 1971</td>
-      <td class="issue-feature"><a href="/news/n000121/tap-001/">Extensions, Conference Switches</a></td>
+      <td class="issue-feature"><a href="/news/n000121/tap-001/">TAP No. 1 - Extensions, Conference Switches</a></td>
     </tr>
     ...
   </tbody>
@@ -131,11 +131,11 @@ A small `<style>` block scoped to `.back-issues-table` is emitted alongside the 
 
 ```go-html-template
 {{- $pages := where site.RegularPages "Params.projects" "intersect" (slice $slug) -}}
-{{- $pages = sort $pages "Params.issue" "asc" -}}
+{{- $pages = sort $pages "Date" "asc" -}}
 ```
 
-Same `where site.RegularPages` pattern as `ref-id` above, filtered by the `projects` list and sorted numerically by `issue`.
+Same `where site.RegularPages` pattern as `ref-id` above, filtered by the `projects` list and sorted by publication date — not by `issue` — so a sub-series with its own numbering (like the Classified TAP ad sheets) can interleave correctly among the numbered issues instead of colliding with them.
 
 ### Adding new periodical archives
 
-Any project can use this shortcode as long as its issues carry `projects` (matching the slug passed to the shortcode) and `issue` in front matter — no changes needed to the shortcode itself. `feature_article` is optional but recommended for readable link text.
+Any project can use this shortcode as long as its issues carry `projects` (matching the slug passed to the shortcode), `issue`, and a `title` that already reads the way you want it linked — no changes needed to the shortcode itself.

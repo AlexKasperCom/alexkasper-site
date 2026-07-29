@@ -1,6 +1,6 @@
 ---
 id: n000142
-title: "TAP No. 22 - October 1973"
+title: "TAP No. 22 - Answeroo, \"How We Catch Red Boxers\""
 slug: tap-022
 date: "1973-10-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-022.pdf"
+local_file: "tap-no-22-answeroo-how-we-catch-red-boxers.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 22
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Answeroo, \"How We Catch Red Boxers\""
 
 people: []
 topics: ["Answeroo call-announcer device", "Destructory Assistance information exchange", "Nixon-era political satire"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-022.pdf"
+  - src: "tap-no-22-answeroo-how-we-catch-red-boxers.pdf"
     name: "pdf"
 
 aliases: []

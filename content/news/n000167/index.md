@@ -1,6 +1,6 @@
 ---
 id: n000167
-title: "TAP No. 47 - November 1977"
+title: "TAP No. 47 - Radar Detectors, CB Info"
 slug: tap-047
 date: "1977-11-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-047.pdf"
+local_file: "tap-no-47-radar-detectors-cb-info.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 47
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Radar Detectors, CB Info"
 
 people: ["Dale Smith"]
 topics: ["radar detector legality and technology", "police speed-enforcement countermeasures"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-047.pdf"
+  - src: "tap-no-47-radar-detectors-cb-info.pdf"
     name: "pdf"
 
 aliases: []

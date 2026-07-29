@@ -1,6 +1,6 @@
 ---
 id: n000217
-title: "TAP Classified Ad Sheet No. 3 - 1980"
+title: "TAP Classified No. C3 - For Sale, Wanted & Personals"
 slug: c3
 date: "1980-03-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c3.pdf"
+local_file: "tap-classified-no-c3-for-sale-wanted-personals.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C3"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "For Sale, Wanted & Personals"
 
 people: []
 topics: ["classified ads", "reader personals and trade listings", "TAP merchandise pricing"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c3.pdf"
+  - src: "tap-classified-no-c3-for-sale-wanted-personals.pdf"
     name: "pdf"
 
 aliases: []

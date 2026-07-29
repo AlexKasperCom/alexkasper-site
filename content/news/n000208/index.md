@@ -1,6 +1,6 @@
 ---
 id: n000208
-title: "TAP No. 88 - November 1983"
+title: "TAP No. 88 - Telecom '83 - Techno Toyland"
 slug: tap-088
 date: "1983-11-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-088.pdf"
+local_file: "tap-no-88-telecom-83-techno-toyland.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 88
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Telecom '83 - Techno Toyland"
 
 people: ["Cheshire Catalyst"]
 topics: ["international telecom trade show recap", "satellite ground stations and shortwave radio hobbyism", "telecom development in poorer nations"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-088.pdf"
+  - src: "tap-no-88-telecom-83-techno-toyland.pdf"
     name: "pdf"
 
 aliases: []

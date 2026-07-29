@@ -1,6 +1,6 @@
 ---
 id: n000181
-title: "TAP No. 61 - January 1980"
+title: "TAP No. 61 - 1979 Year in Review, Better Living Through Chemistry"
 slug: tap-061
 date: "1980-01-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-061.pdf"
+local_file: "tap-no-61-1979-year-in-review-better-living-through-chemistry.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 61
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "1979 Year in Review, Better Living Through Chemistry"
 
 people: ["Tom Edison", "Oz Y. Mandias", "Agent MDA"]
 topics: ["annual financial recap", "underground chemistry literature", "patent research for drug synthesis"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-061.pdf"
+  - src: "tap-no-61-1979-year-in-review-better-living-through-chemistry.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000164
-title: "TAP No. 44 - May 1977"
+title: "TAP No. 44 - Ringing Generator Circuits"
 slug: tap-044
 date: "1977-05-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-044.pdf"
+local_file: "tap-no-44-ringing-generator-circuits.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 44
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Ringing Generator Circuits"
 
 people: ["Tom Edison"]
 topics: ["editorial leadership transition", "subscription and renewal policy", "TAP's sixth anniversary"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-044.pdf"
+  - src: "tap-no-44-ringing-generator-circuits.pdf"
     name: "pdf"
 
 aliases: []

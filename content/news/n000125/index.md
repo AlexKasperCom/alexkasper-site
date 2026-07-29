@@ -1,6 +1,6 @@
 ---
 id: n000125
-title: "TAP No. 5 - October 1971"
+title: "TAP No. 5 - Blue Box 1 (Early Model)"
 slug: tap-005
 date: "1971-10-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-005.pdf"
+local_file: "tap-no-5-blue-box-1-early-model.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 5
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Blue Box 1 (Early Model)"
 
 people: ["F. Allen Wells Jr."]
 topics: ["blue box schematic", "credit card fraud evasion tactics", "underground press prosecution", "war tax resistance"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-005.pdf"
+  - src: "tap-no-5-blue-box-1-early-model.pdf"
     name: "pdf"
 
 aliases: []

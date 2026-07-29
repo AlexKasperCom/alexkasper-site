@@ -1,6 +1,6 @@
 ---
 id: n000174
-title: "TAP No. 54 - November 1978"
+title: "TAP No. 54 - Review of Exotic Weapons: An Access Book"
 slug: tap-054
 date: "1978-11-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-054.pdf"
+local_file: "tap-no-54-review-of-exotic-weapons-an-access-book.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 54
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Review of Exotic Weapons: An Access Book"
 
 people: ["Michael Hoy"]
 topics: ["weapons reference book review", "lock picking supplies", "commercial tone-generator hardware", "editorial on violence", "publisher controversy"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-054.pdf"
+  - src: "tap-no-54-review-of-exotic-weapons-an-access-book.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000121
-title: "TAP No. 1 - June 1971"
+title: "TAP No. 1 - Extensions, Conference Switches"
 slug: tap-001
 date: "1971-06-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-001.pdf"
+local_file: "tap-no-1-extensions-conference-switches.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 1
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Extensions, Conference Switches"
 
 people: ["Al Bell", "Abbie Hoffman", "Edward V. Long", "Wilbur Mills", "Joseph Beirne"]
 topics: ["credit card fraud", "wiretapping", "war tax resistance", "conference call devices", "YIPL founding"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-001.pdf"
+  - src: "tap-no-1-extensions-conference-switches.pdf"
     name: "pdf"
 
 aliases: []

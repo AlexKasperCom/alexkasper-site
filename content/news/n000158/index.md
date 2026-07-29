@@ -1,6 +1,6 @@
 ---
 id: n000158
-title: "TAP No. 38 - September 1976"
+title: "TAP No. 38 - Jumping Water and Electric Meters and Alternatives, Black Box Info"
 slug: tap-038
 date: "1976-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-038.pdf"
+local_file: "tap-no-38-jumping-water-and-electric-meters-and-alternatives-black-box-info.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 38
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Jumping Water and Electric Meters and Alternatives, Black Box Info"
 
 people: ["Jim Phelps"]
 topics: ["water and electric meter tampering and detection", "energy conservation commentary", "solar heating skepticism"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-038.pdf"
+  - src: "tap-no-38-jumping-water-and-electric-meters-and-alternatives-black-box-info.pdf"
     name: "pdf"
 
 aliases: []

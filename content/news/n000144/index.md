@@ -1,6 +1,6 @@
 ---
 id: n000144
-title: "TAP No. 24 - December 1973"
+title: "TAP No. 24 - Fraud Detectors, Index of TAP Issues, 1974 CC Code"
 slug: tap-024
 date: "1973-12-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-024.pdf"
+local_file: "tap-no-24-fraud-detectors-index-of-tap-issues-1974-cc-code.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 24
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Fraud Detectors, Index of TAP Issues, 1974 CC Code"
 
 people: []
 topics: ["1974 credit card code", "Con Ed meter tampering", "mail surveillance evidence"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-024.pdf"
+  - src: "tap-no-24-fraud-detectors-index-of-tap-issues-1974-cc-code.pdf"
     name: "pdf"
 
 aliases: []

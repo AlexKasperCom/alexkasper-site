@@ -1,6 +1,6 @@
 ---
 id: n000147
-title: "TAP No. 27 - November 1974"
+title: "TAP No. 27 - Free Electricity, Blue Box Correction"
 slug: tap-027
 date: "1974-11-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-027.pdf"
+local_file: "tap-no-27-free-electricity-blue-box-correction.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 27
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Free Electricity, Blue Box Correction"
 
 people: ["Stainless Steel Rat (reader pseudonym)"]
 topics: ["blue box diode improvements", "lock-picking clarification", "credit-card-code legal threats", "caller-ID precursor device", "free electricity meter details"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-027.pdf"
+  - src: "tap-no-27-free-electricity-blue-box-correction.pdf"
     name: "pdf"
 
 aliases: []

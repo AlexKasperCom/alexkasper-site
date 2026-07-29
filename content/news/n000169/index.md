@@ -1,6 +1,6 @@
 ---
 id: n000169
-title: "TAP No. 49 - March 1978"
+title: "TAP No. 49 - More Fortress Fun, TWX Phreaking, Marisat Codes"
 slug: tap-049
 date: "1978-03-01"
 
@@ -23,7 +23,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-049.pdf"
+local_file: "tap-no-49-more-fortress-fun-twx-phreaking-marisat-codes.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -38,7 +38,6 @@ weight: 49
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "More Fortress Fun, TWX Phreaking, Marisat Codes"
 
 people: ["CJ", "The Professor"]
 topics: ["Fortress payphone coin mechanism analysis", "red box temperature drift", "coin-drop click experiments"]
@@ -56,7 +55,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-049.pdf"
+  - src: "tap-no-49-more-fortress-fun-twx-phreaking-marisat-codes.pdf"
     name: "pdf"
 
 aliases: []

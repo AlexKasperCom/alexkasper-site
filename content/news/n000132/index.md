@@ -1,6 +1,6 @@
 ---
 id: n000132
-title: "TAP No. 12 - August 1972"
+title: "TAP No. 12 - Blue Box Plans"
 slug: tap-012
 date: "1972-08-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-012.pdf"
+local_file: "tap-no-12-blue-box-plans.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 12
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Blue Box Plans"
 
 people: ["John Draper", "Jim McMillan"]
 topics: ["Captain Crunch prosecution", "red box construction", "phone company detection rumors"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-012.pdf"
+  - src: "tap-no-12-blue-box-plans.pdf"
     name: "pdf"
 
 aliases: []

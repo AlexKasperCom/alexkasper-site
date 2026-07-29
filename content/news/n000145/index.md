@@ -1,6 +1,6 @@
 ---
 id: n000145
-title: "TAP No. 25 - January 1974"
+title: "TAP No. 25 - New Red Box, Free Gas"
 slug: tap-025
 date: "1974-01-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-025.pdf"
+local_file: "tap-no-25-new-red-box-free-gas.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 25
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "New Red Box, Free Gas"
 
 people: ["John deButts"]
 topics: ["editorial policy statement", "lockpicking preview", "AT&T financial critique", "mail security practices"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-025.pdf"
+  - src: "tap-no-25-new-red-box-free-gas.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,5 +1,3 @@
-{{ $displayTitle := partial "display-title.html" . }}
-
 {{ $shareLinks := slice
   (dict
     "name" "Facebook"
@@ -12,7 +10,7 @@
     "name" "X"
     "url" (printf
       "https://twitter.com/intent/tweet?text=%s&url=%s"
-      ($displayTitle | urlquery)
+      (.Title | urlquery)
       (.Permalink | urlquery)
     )
   )
@@ -28,14 +26,14 @@
     "url" (printf
       "https://www.reddit.com/submit?url=%s&title=%s"
       (.Permalink | urlquery)
-      ($displayTitle | urlquery)
+      (.Title | urlquery)
     )
   )
   (dict
     "name" "WhatsApp"
     "url" (printf
       "https://wa.me/?text=%s"
-      ((printf "%s — %s" $displayTitle .Permalink) | urlquery)
+      ((printf "%s — %s" .Title .Permalink) | urlquery)
     )
   )
 }}
@@ -82,8 +80,8 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   const shareData = {
-    title: {{ $displayTitle | jsonify | safeJS }},
-    text: {{ .Params.summary | default $displayTitle | jsonify | safeJS }},
+    title: {{ .Title | jsonify | safeJS }},
+    text: {{ .Params.summary | default .Title | jsonify | safeJS }},
     url: {{ .Permalink | jsonify | safeJS }}
   };
 

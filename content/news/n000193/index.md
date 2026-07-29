@@ -1,6 +1,6 @@
 ---
 id: n000193
-title: "TAP No. 73 - March 1982"
+title: "TAP No. 73 - Random Ramblings No. 2"
 slug: tap-073
 date: "1982-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-073.pdf"
+local_file: "tap-no-73-random-ramblings-no-2.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 73
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Random Ramblings No. 2"
 
 people: ["Paul Montgomery"]
 topics: ["Bell System internal computer systems (COSMOS)", "PBX/Dimension system exploitation", "lineman's wiretap technique"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-073.pdf"
+  - src: "tap-no-73-random-ramblings-no-2.pdf"
     name: "pdf"
 
 aliases: []

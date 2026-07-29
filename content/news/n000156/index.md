@@ -1,6 +1,6 @@
 ---
 id: n000156
-title: "TAP No. 36 - June 1976"
+title: "TAP No. 36 - Ultimate (hah!) Red Box, TEL Update, Discovering Unlisted Numbers"
 slug: tap-036
 date: "1976-06-01"
 
@@ -23,7 +23,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-036.pdf"
+local_file: "tap-no-36-ultimate-hah-red-box-tel-update-discovering-unlisted-numbers.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -38,7 +38,6 @@ weight: 36
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Ultimate (hah!) Red Box, TEL Update, Discovering Unlisted Numbers"
 
 people: ["Al Bell", "Tom Edison"]
 topics: ["precision red box circuit design"]
@@ -56,7 +55,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-036.pdf"
+  - src: "tap-no-36-ultimate-hah-red-box-tel-update-discovering-unlisted-numbers.pdf"
     name: "pdf"
 
 aliases: []

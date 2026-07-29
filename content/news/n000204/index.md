@@ -1,6 +1,6 @@
 ---
 id: n000204
-title: "TAP No. 84 - April 1983"
+title: "TAP No. 84 - Rate Steps as Forbidden Knowledge"
 slug: tap-084
 date: "1983-04-01"
 
@@ -24,7 +24,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-084.pdf"
+local_file: "tap-no-84-rate-steps-as-forbidden-knowledge.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 84
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Rate Steps as Forbidden Knowledge"
 
 people: ["Cheshire Catalyst", "Fred Steinbeck", "The Magician"]
 topics: ["phone company billing/rate-step tables", "BASIC programming for distance calculation", "touch-tone hardware modification"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-084.pdf"
+  - src: "tap-no-84-rate-steps-as-forbidden-knowledge.pdf"
     name: "pdf"
 
 aliases: []

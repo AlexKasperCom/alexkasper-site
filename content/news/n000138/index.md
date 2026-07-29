@@ -1,6 +1,6 @@
 ---
 id: n000138
-title: "TAP No. 18 - May 1973"
+title: "TAP No. 18 - Outgoing Long Distance Call Stopper"
 slug: tap-018
 date: "1973-05-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-018.pdf"
+local_file: "tap-no-18-outgoing-long-distance-call-stopper.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 18
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Outgoing Long Distance Call Stopper"
 
 people: ["Abbie Hoffman", "Donn Parker", "Clarence M. Kelley", "Golda Meir", "Yitzhak Rabin"]
 topics: ["Pa Bell feminist reframing", "computer crime commentary", "prisoner rights activism", "international eavesdropping"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-018.pdf"
+  - src: "tap-no-18-outgoing-long-distance-call-stopper.pdf"
     name: "pdf"
 
 aliases: []

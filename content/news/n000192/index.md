@@ -1,6 +1,6 @@
 ---
 id: n000192
-title: "TAP No. 72 - February 1982"
+title: "TAP No. 72 - Homemade Fireworks Pt. 1"
 slug: tap-072
 date: "1982-02-01"
 
@@ -23,7 +23,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-072.pdf"
+local_file: "tap-no-72-homemade-fireworks-pt-1.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -38,7 +38,6 @@ weight: 72
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Homemade Fireworks Pt. 1"
 
 people: ["The Magician"]
 topics: ["fireworks regulation history", "pyrotechnics construction overview", "safety warnings/disclaimers"]
@@ -56,7 +55,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-072.pdf"
+  - src: "tap-no-72-homemade-fireworks-pt-1.pdf"
     name: "pdf"
 
 aliases: []

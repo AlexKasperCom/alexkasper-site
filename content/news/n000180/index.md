@@ -1,6 +1,6 @@
 ---
 id: n000180
-title: "TAP No. 60 - November 1979"
+title: "TAP No. 60 - Lock-Pick Larceny"
 slug: tap-060
 date: "1979-11-01"
 
@@ -23,7 +23,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-060.pdf"
+local_file: "tap-no-60-lock-pick-larceny.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -38,7 +38,6 @@ weight: 60
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Lock-Pick Larceny"
 
 people: ["Alexander Mundy"]
 topics: ["lock picking technique", "pin tumbler cylinders", "tool fabrication"]
@@ -56,7 +55,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-060.pdf"
+  - src: "tap-no-60-lock-pick-larceny.pdf"
     name: "pdf"
 
 aliases: []

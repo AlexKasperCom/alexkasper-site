@@ -1,6 +1,6 @@
 ---
 id: n000135
-title: "TAP No. 15 - December 1972"
+title: "TAP No. 15 - 1973 Credit Card Code, T Network"
 slug: tap-015
 date: "1972-12-01"
 
@@ -25,7 +25,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-015.pdf"
+local_file: "tap-no-15-1973-credit-card-code-t-network.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 15
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "1973 Credit Card Code, T Network"
 
 people: ["Al Bell"]
 topics: ["YIPL origin story", "black box", "blue-box-detector countermeasures", "destructory assistance service"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-015.pdf"
+  - src: "tap-no-15-1973-credit-card-code-t-network.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000131
-title: "TAP No. 11 - June 1972"
+title: "TAP No. 11 - Black Box"
 slug: tap-011
 date: "1972-06-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-011.pdf"
+local_file: "tap-no-11-black-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 11
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Black Box"
 
 people: []
 topics: ["phone phreak convention", "black box construction", "Ramparts magazine suppression"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-011.pdf"
+  - src: "tap-no-11-black-box.pdf"
     name: "pdf"
 
 aliases: []

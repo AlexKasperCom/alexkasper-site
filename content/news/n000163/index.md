@@ -1,6 +1,6 @@
 ---
 id: n000163
-title: "TAP No. 43 - March 1977"
+title: "TAP No. 43 - Report From England, Silver Box"
 slug: tap-043
 date: "1977-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-043.pdf"
+local_file: "tap-no-43-report-from-england-silver-box.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 43
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Report From England, Silver Box"
 
 people: []
 topics: ["UK vs US phone system comparison", "UK civil liberties commentary"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-043.pdf"
+  - src: "tap-no-43-report-from-england-silver-box.pdf"
     name: "pdf"
 
 aliases: []

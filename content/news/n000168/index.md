@@ -1,6 +1,6 @@
 ---
 id: n000168
-title: "TAP No. 48 - January 1978"
+title: "TAP No. 48 - Legal Blue Box, Info Rain Data Service, Edison's Interview"
 slug: tap-048
 date: "1978-01-01"
 
@@ -23,7 +23,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-048.pdf"
+local_file: "tap-no-48-legal-blue-box-info-rain-data-service-edisons-interview.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -38,7 +38,6 @@ weight: 48
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Legal Blue Box, Info Rain Data Service, Edison's Interview"
 
 people: ["Tom Edison"]
 topics: ["editor-reader conflict over TAP's tone", "automatic telephone bill payment technology"]
@@ -56,7 +55,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-048.pdf"
+  - src: "tap-no-48-legal-blue-box-info-rain-data-service-edisons-interview.pdf"
     name: "pdf"
 
 aliases: []

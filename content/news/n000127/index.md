@@ -1,6 +1,6 @@
 ---
 id: n000127
-title: "TAP No. 7 - December 1971"
+title: "TAP No. 7 - Tuning Your Organ, 3-Slot Ripoffs"
 slug: tap-007
 date: "1971-12-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-007.pdf"
+local_file: "tap-no-7-tuning-your-organ-3-slot-ripoffs.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 7
 series: "TAP"
 masthead: "YIPL"
 publication_title: "Youth International Party Line"
-feature_article: "Tuning Your Organ, 3-Slot Ripoffs"
 
 people: ["Gerald E. McDaniels"]
 topics: ["1972 credit card code", "code billing system exploit", "ITT boycott call", "free long-distance call device"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-007.pdf"
+  - src: "tap-no-7-tuning-your-organ-3-slot-ripoffs.pdf"
     name: "pdf"
 
 aliases: []

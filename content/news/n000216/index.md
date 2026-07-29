@@ -1,6 +1,6 @@
 ---
 id: n000216
-title: "TAP Classified Ad Sheet No. 2 - 1979"
+title: "TAP Classified No. C2 - Topic Index to Issues 24-50"
 slug: c2
 date: "1979-11-02"
 
@@ -22,7 +22,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "c2.pdf"
+local_file: "tap-classified-no-c2-topic-index-to-issues-24-50.pdf"
 prefer_local: true
 pages: "2"
 isbn: 
@@ -36,7 +36,6 @@ issue: "C2"
 series: "Classified TAP"
 masthead: "TAP"
 publication_title: "TAP Classified Ad Sheet"
-feature_article: "Topic Index to Issues 24-50"
 
 people: []
 topics: ["subject index to TAP issues 24-50", "reader-compiled reference index", "classified ad"]
@@ -54,7 +53,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "c2.pdf"
+  - src: "tap-classified-no-c2-topic-index-to-issues-24-50.pdf"
     name: "pdf"
 
 aliases: []

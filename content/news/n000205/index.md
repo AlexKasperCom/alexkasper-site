@@ -1,6 +1,6 @@
 ---
 id: n000205
-title: "TAP No. 85 - May 1983"
+title: "TAP No. 85 - 12th Anniversary Issue: The Credit Card Code - 1983"
 slug: tap-085
 date: "1983-05-01"
 
@@ -25,7 +25,7 @@ archive1_dead: false
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-085.pdf"
+local_file: "tap-no-85-12th-anniversary-issue-the-credit-card-code-1983.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -40,7 +40,6 @@ weight: 85
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "12th Anniversary Issue: The Credit Card Code - 1983"
 
 people: ["Cheshire Catalyst", "John Williams"]
 topics: ["Calling Card numbering/checksum research", "billing terminology change", "ATM fraud publication controversy"]
@@ -58,7 +57,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-085.pdf"
+  - src: "tap-no-85-12th-anniversary-issue-the-credit-card-code-1983.pdf"
     name: "pdf"
 
 aliases: []

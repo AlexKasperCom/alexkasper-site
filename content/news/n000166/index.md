@@ -1,6 +1,6 @@
 ---
 id: n000166
-title: "TAP No. 46 - September 1977"
+title: "TAP No. 46 - Bell's Blue Box Buster, Autovon Info"
 slug: tap-046
 date: "1977-09-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-046.pdf"
+local_file: "tap-no-46-bells-blue-box-buster-autovon-info.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 46
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Bell's Blue Box Buster, Autovon Info"
 
 people: ["Tom Edison", "E. J. Dionne Jr."]
 topics: ["subscription crisis update", "alias identification privacy tactics", "computerized blue-box detection technology"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-046.pdf"
+  - src: "tap-no-46-bells-blue-box-buster-autovon-info.pdf"
     name: "pdf"
 
 aliases: []

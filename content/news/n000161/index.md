@@ -1,6 +1,6 @@
 ---
 id: n000161
-title: "TAP No. 41 - December 1976"
+title: "TAP No. 41 - Getting Busted, New CB Channels, 1977 CC Code"
 slug: tap-041
 date: "1976-12-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-041.pdf"
+local_file: "tap-no-41-getting-busted-new-cb-channels-1977-cc-code.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 41
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Getting Busted, New CB Channels, 1977 CC Code"
 
 people: ["Jim Phelps", "Alexander Mundy"]
 topics: ["parody holiday poem about utility maintenance", "reader skill-networking directory", "Bell lawsuit anecdote"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-041.pdf"
+  - src: "tap-no-41-getting-busted-new-cb-channels-1977-cc-code.pdf"
     name: "pdf"
 
 aliases: []

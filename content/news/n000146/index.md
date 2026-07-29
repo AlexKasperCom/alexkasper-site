@@ -1,6 +1,6 @@
 ---
 id: n000146
-title: "TAP No. 26 - March 1974"
+title: "TAP No. 26 - New Bluebox, Con Ed Key (also 23, 29)"
 slug: tap-026
 date: "1974-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-026.pdf"
+local_file: "tap-no-26-new-bluebox-con-ed-key-also-23-29.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 26
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "New Bluebox, Con Ed Key (also 23, 29)"
 
 people: []
 topics: ["vending machine fraud tricks", "movement security resources", "phone booth material changes"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-026.pdf"
+  - src: "tap-no-26-new-bluebox-con-ed-key-also-23-29.pdf"
     name: "pdf"
 
 aliases: []

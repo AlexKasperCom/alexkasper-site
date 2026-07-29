@@ -1,6 +1,6 @@
 ---
 id: n000182
-title: "TAP No. 62 - March 1980"
+title: "TAP No. 62 - Milo Fonebill's Automatic Blue Box Explained"
 slug: tap-062
 date: "1980-03-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-062.pdf"
+local_file: "tap-no-62-milo-fonebills-automatic-blue-box-explained.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 62
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Milo Fonebill's Automatic Blue Box Explained"
 
 people: ["Milo Fonebill", "Lavoisier", "Peter Piper"]
 topics: ["blue box circuit analysis", "digital logic explanation"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-062.pdf"
+  - src: "tap-no-62-milo-fonebills-automatic-blue-box-explained.pdf"
     name: "pdf"
 
 aliases: []

@@ -1,6 +1,6 @@
 ---
 id: n000188
-title: "TAP No. 68 - July 1981"
+title: "TAP No. 68 - Secret Service Counterfeit Currency Report"
 slug: tap-068
 date: "1981-07-01"
 
@@ -24,7 +24,7 @@ archive1_dead: true
 archive2_url: 
 archive2_date: 
 archive2_dead: false
-local_file: "tap-068.pdf"
+local_file: "tap-no-68-secret-service-counterfeit-currency-report.pdf"
 prefer_local: true
 pages: "4"
 isbn: 
@@ -39,7 +39,6 @@ weight: 68
 series: "TAP"
 masthead: "TAP"
 publication_title: "Technical Assistance Program"
-feature_article: "Secret Service Counterfeit Currency Report"
 
 people: ["James E. Brown"]
 topics: ["counterfeit currency statistics", "black box (toll fraud) detection methods"]
@@ -57,7 +56,7 @@ images: ["cover.jpg"]
 resources:
   - src: "cover.jpg"
     name: "cover"
-  - src: "tap-068.pdf"
+  - src: "tap-no-68-secret-service-counterfeit-currency-report.pdf"
     name: "pdf"
 
 aliases: []
