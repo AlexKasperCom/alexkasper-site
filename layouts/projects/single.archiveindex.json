@@ -23,6 +23,10 @@
       {{- $pdfURL = .Permalink -}}
     {{- end -}}
   {{- end -}}
+  {{- $transcriptURL := "" -}}
+  {{- with $page.Resources.GetMatch "transcript.txt" -}}
+    {{- $transcriptURL = .Permalink -}}
+  {{- end -}}
   {{- $issues = $issues | append (dict
     "id" $page.Params.id
     "issue" $page.Params.issue
@@ -31,6 +35,7 @@
     "date" ($page.Date.Format "2006-01-02")
     "url" $page.Permalink
     "pdf_url" $pdfURL
+    "transcript_url" $transcriptURL
     "summary" $page.Params.summary
     "tags" $page.Params.tags
     "topics" $page.Params.topics
