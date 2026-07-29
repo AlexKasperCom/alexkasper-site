@@ -48,6 +48,6 @@ Warts and all, it's a fascinating snapshot of how such information was shared an
 
 **The Archive**
 
-Click any title below to view and download a scan of the original newsletter. Most scans come from the [Computer History Museum](https://www.computerhistory.org/collections/catalog/600000568/record/102734878/) via a [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/), a few private collections, and [archive.org](https://archive.org/details/YIPLTAP_1-91). These aren't raw copies: we restructured the pages for better readability across devices and re-ran OCR for improved search.
+Click any title below to view and download a scan of the original newsletter. Most scans come from the [Computer History Museum](https://www.computerhistory.org/collections/catalog/600000568/record/102734878/) via a [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/), a few private collections, and [archive.org](https://archive.org/details/YIPLTAP_1-91). These aren't raw copies: we restructured the pages for better readability across devices and re-ran OCR for improved [search](/search).
 
 {{< back-issues "tap-archive" >}}
