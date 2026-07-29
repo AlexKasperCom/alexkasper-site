@@ -32,19 +32,17 @@ In 1983 someone broke into editor *Tom Edison’s* apartment (which also served 
 
 The index below links to the full scan, transcript, and citation record for the first 91 issues. Some of the scans are rough. (If you have cleaner copies, please [get in touch](/contact) and I’ll replace them. Want to be notified of updates? [Join the mailing list.](/mailing-list))
 
-**Don't get too excited**
+**Context & Disclaimer**
 
-This is no longer a how-to. The analog phone network and the other systems these techniques targeted are long gone, now found only in museums and private collections.
+A quick reality check before diving in: These techniques target networks that haven't existed in decades. They don't work today.
 
-At the time, TAP was the only place to find such technical information, so I read it all as soon as it arrived. But it also pushed an attitude of theft and violence "against the system" (never against people, they claimed), and at least one edition wandered into explosives.
+When TAP was running, it was the only place getting this information out, so everyone in our circle devoured every issue. Looking back, it was a weird mix. Part of it was pure curiosity, just wanting to map out complex networks and figure out how everything worked. But another part was outright rebellion, theft, and occasionally sketchy territory (like explosives).
 
-While my group never tried to profit by stealing from utilities (we just wanted to know how everything worked), the reality is that TAP was likely bankrolled mostly by people chasing the next trick to steal with or sell. These folks didn't care about *why* anything worked and would burn a good technique the moment they had it by blabbing it around, selling it, or overusing it until it got patched.
+The scene attracted a real mix of people. You had folks who were fascinated by figuring it out, and you had an increasing number of people who just wanted free long-distance calls or cable TV. Naturally, the people looking for a free ride tended to burn out techniques pretty fast by overusing them.
 
-For me, the game of figuring it out was always much more interesting than the prize, and that's how most of the hackers I hung out with felt. The moocher types were just self-serving twits who wanted free phone calls or cable TV and would never come up with anything interesting.
+TAP’s anti-establishment, "fuck the system" ethos was a double-edged sword. It built the first real hacking community, but it also cemented the public image of hackers as malicious thieves, a label that stuck to people like {{< ref-id "p000007" "Kevin Mitnick" >}} for decades.
 
-As the first newsletter of its kind, TAP's "fuck the system" attitude and constant attempts to rationalize theft likely shaped the early public image of all hackers as evil thieves, a reputation {{< ref-id "p000007" "Kevin Mitnick" >}} got more than his share of.
-
-Regardless, I still find it interesting to see how this kind of information was discussed and passed around in a slow cat-and-mouse game long before the Internet. Here's hoping you do too!
+Nostalgia aside, it’s a fascinating snapshot of how information was shared in a slow, cat-and-mouse game long before the internet existed. Enjoy the archive!
 
 **The archive**
 
