@@ -1,0 +1,24 @@
+# Alex Kasper
+
+> Official site of Alex Kasper — social engineering and deception research, with a long-running connection to Kevin Mitnick and the early hacking/phone-phreaking scene.
+
+Alex Kasper writes and speaks about social engineering, deception, and the human side of security. The site includes his biography, a news/media archive (press coverage, historical primary sources, and research), project pages, and event listings.
+
+## Key sections
+
+- [About](/about/): Biography and background.
+- [News](/news/): Archive of press coverage, historical documents, and research notes. Mixed content — some entries are third-party press coverage, others (like the TAP archive) are primary-source historical documents hosted directly.
+- [Projects](/projects/): Standing reference pages, each collecting everything on the site related to one subject or body of work.
+- [Events](/events/): Speaking engagements and appearances.
+- [Contact](/contact/) and [mailing list](/mailing-list/).
+
+## TAP Archive
+
+- [TAP Archive](/projects/p000008/tap-archive/): The complete run of *TAP* (originally *YIPL*), the 1971-1984 phone-phreaking/hacking newsletter that predated *2600* and *Phrack* — 91 numbered issues plus 7 "Classified TAP" ad-sheet inserts, each with a scanned PDF, searchable text, and citation metadata.
+- **[Structured JSON index](/projects/p000008/tap-archive/archive.json)**: every issue's id, issue number, series, title, date, summary, tags/topics, page URL, and PDF URL in one machine-readable file — fetch this instead of crawling the individual issue pages.
+
+## Notes for automated access
+
+- Every news and project entry has a stable `id` in its front matter (e.g. `n000121`, `p000008`) that never changes even if the URL slug does.
+- `/id-map.json` is a flat, site-wide map of every content item's `id` to its current URL.
+- Historical documents on this site (e.g. the TAP archive) are reproduced for research and archival purposes; see each entry's linked disclaimer for context.

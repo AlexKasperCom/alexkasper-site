@@ -1,0 +1,50 @@
+{{- /*
+  Structured index of every entry tagged with this project's `slug` via
+  their own front-matter `projects` list — the same pages the
+  {{< back-issues >}} shortcode renders as an HTML table. Emitted as
+  archive.json alongside this page's index.html (see the ArchiveIndex
+  output format in hugo.toml) so a script or AI agent can fetch one file
+  and get every issue's key metadata and URLs, instead of crawling and
+  parsing each page individually.
+
+  Opt in per-project via `outputs: ["html", "archiveindex"]` in front
+  matter — most projects don't have a back-issues-style archive.
+*/ -}}
+{{- $slug := .Params.slug -}}
+{{- $pages := where site.RegularPages "Params.projects" "intersect" (slice $slug) -}}
+{{- $pages = sort $pages "Date" "asc" -}}
+
+{{- $issues := slice -}}
+{{- range $pages -}}
+  {{- $page := . -}}
+  {{- $pdfURL := "" -}}
+  {{- with $page.Params.local_file -}}
+    {{- with $page.Resources.GetMatch . -}}
+      {{- $pdfURL = .Permalink -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $issues = $issues | append (dict
+    "id" $page.Params.id
+    "issue" $page.Params.issue
+    "series" $page.Params.series
+    "title" $page.Title
+    "date" ($page.Date.Format "2006-01-02")
+    "url" $page.Permalink
+    "pdf_url" $pdfURL
+    "summary" $page.Params.summary
+    "tags" $page.Params.tags
+    "topics" $page.Params.topics
+    "people" $page.Params.people
+  ) -}}
+{{- end -}}
+
+{{- dict
+  "project" (dict
+    "id" .Params.id
+    "title" .Title
+    "url" .Permalink
+    "summary" .Params.summary
+  )
+  "issue_count" (len $issues)
+  "issues" $issues
+| jsonify (dict "indent" "  ") -}}

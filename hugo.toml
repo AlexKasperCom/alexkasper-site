@@ -55,5 +55,18 @@ weight = 80
   isPlainText = true
   notAlternative = true
 
+# Emits archive.json alongside a project page's index.html: a structured,
+# machine-readable index of every entry tagged with that project (e.g. all
+# 98 TAP/Classified TAP entries for the TAP Archive project page), so an
+# agent or script can fetch one file instead of crawling and parsing every
+# individual page. Opt in per-page via `outputs: ["html", "archiveindex"]`
+# in front matter (see content/projects/p000008/index.md) — most projects
+# don't have a back-issues-style archive and don't need this.
+[outputFormats.ArchiveIndex]
+  mediaType = "application/json"
+  baseName = "archive"
+  isPlainText = true
+  notAlternative = true
+
 [outputs]
   home = ["HTML", "IDMap"]

@@ -2,6 +2,7 @@
 id: p000008
 title: "TAP Archive"
 slug: tap-archive
+outputs: ["html", "archiveindex"]  # adds archive.json — a structured index of every issue, for scripts/agents
 
 category: reference
 status: in progress
