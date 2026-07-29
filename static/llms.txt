@@ -15,7 +15,7 @@ Alex Kasper writes and speaks about social engineering, deception, and the human
 ## TAP Archive
 
 - [TAP Archive](/projects/p000008/tap-archive/): The complete run of *TAP* (originally *YIPL*), the 1971-1984 phone-phreaking/hacking newsletter that predated *2600* and *Phrack* — 91 numbered issues plus 7 "Classified TAP" ad-sheet inserts, each with a scanned PDF, searchable text, and citation metadata.
-- **[Structured JSON index](/projects/p000008/tap-archive/archive.json)**: every issue's id, issue number, series, title, date, summary, tags/topics, page URL, PDF URL, and a `transcript_url` pointing to the issue's plain-text OCR transcript — fetch this instead of crawling the individual issue pages.
+- **[Structured JSON index](/projects/p000008/tap-archive/archive.json)**: every issue's id, issue number, series, title, date, summary, tags/topics, people, scan quality, page URL, PDF URL, and a `transcript_url` pointing to the issue's plain-text OCR transcript — fetch this instead of crawling the individual issue pages.
 
 ## Notes for automated access
 
