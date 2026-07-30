@@ -41,7 +41,7 @@ As readership grew, interest in free services rather than technical understandin
 
 In 1983 someone broke into editor *Tom Edison*'s apartment (which also served as the *TAP* office), stole the mailing list, financial records, computer, and stereo, and set the place on fire. Edison left the project. *[Cheshire Catalyst](https://archive.org/details/HOPE-1-The_History_of_TAP_Magazine)* continued it for several more issues into 1984 before it stopped at issue 91. Later revivals under different editors produced material that was either unrelated to the original run or merely reprinted it and are not included here (they can be [found on the Internet Archive](https://archive.org/details/yipltap/TAP-92/)).
 
-This archive is presented as a historical record of how technical information about telephone and utility systems circulated before the internet. The methods and the political justifications that accompanied them are obsolete and are not endorsed.
+This archive is presented as a historical record of how restricted technical information circulated before the internet. The methods and the political justifications that accompanied them are obsolete and are not endorsed.
 
 **The Archive**
 
