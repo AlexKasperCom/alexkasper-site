@@ -1,13 +1,13 @@
 ---
 id: p000007
 
-title: "Kevin Mitnick"
-slug: "kevin-mitnick"
+title: "Kevin Mitnick Archive"
+slug: "kevin-mitnick-archive"
 
 category: person
-status: historical
+status: archive
 
-summary: "Computer security consultant, author, and longtime friend and business partner of Alex Kasper."
+summary: "Hacker, Computer security consultant, author, and longtime friend"
 
 cover: cover.jpg
 
