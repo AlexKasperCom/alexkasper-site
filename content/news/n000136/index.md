@@ -26,7 +26,7 @@ archive2_date:
 archive2_dead: false
 local_file: "tap-no-16-red-box-plans.pdf"
 prefer_local: true
-pages: "5"
+pages: "4"
 isbn: 
 time: 
 duration: 
@@ -45,8 +45,8 @@ topics: ["red box circuit build", "destructory assistance service", "subscriber 
 
 scan_quality: good
 ocr: true
-ocr_date: "2026-07-28"
-page_count: 5
+ocr_date: "2026-07-30"
+page_count: 4
 
 source: "Internet Archive"
 disclaimer: "/disclaimer/"  # see note on politics/fundraising content, not an endorsement
