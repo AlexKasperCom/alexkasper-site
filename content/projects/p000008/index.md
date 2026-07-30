@@ -25,7 +25,7 @@ related:              # Related content ids:
 draft: false           # Set to false when ready to publish.
 ---
 
-*TAP* is the original phone-phreaking and hacking newsletter. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and others, starting way back in June 1971 as the ***Youth International Party Line (YIPL)***, a mimeographed sheet from Al Bell and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. At issue 21 it became *TAP*.
+*TAP* is the original, beloved newsletter of phone phreaking and hacking. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and others, starting way back in June 1971 as the ***Youth International Party Line (YIPL)***, a mimeographed sheet from Al Bell and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. At issue 21 it became *TAP*.
 
 Over its run it covered how to build [blue boxes](https://en.wikipedia.org/wiki/Blue_box), [red boxes](https://en.wikipedia.org/wiki/Red_box_(phreaking)), [black boxes](https://en.wikipedia.org/wiki/Black_box_(phreaking)), credit-card codes, lock picking, pirate radio, and a long catalog of other "destructory assistance." The first 91 issues ran from June 1971 to March 1984.
 
@@ -33,17 +33,15 @@ Over its run it covered how to build [blue boxes](https://en.wikipedia.org/wiki/
 
 These techniques targeted networks and systems that haven't existed in decades. *They don't work today.* But when TAP was running, it was the *only* publication carrying most of this information, and it was a goldmine. Every hacker and tech enthusiast I knew devoured every issue.
 
-Looking back, it was a strange mix. Part of it was pure curiosity, the urge to map out complex, mysterious networks and figure out how everything worked. Part of it was something more serious: the realization that if we as curious kids could get into these "secure" systems as hobbyists, so could someone who actually meant harm. And part of it, honestly, catered to outright theft and calls for "revolution" propped up by laughable justifications.
+Looking back, it was a strange mix. Part of it was pure curiosity, the urge to map out complex, mysterious networks and figure out how everything worked. Part of it was something more serious: the realization that if we as curious kids could get into these "secure" systems as hobbyists, so could someone who actually meant harm. And part of it, honestly, catered to outright theft and calls for 'revolution,' propped up by the editors' belief that stealing from monopolies and public utilities was somehow the best solution.
 
-The scene drew all kinds. Some people were fascinated by the puzzle of it, but the growing readership didn't care about any of that and just wanted the free stuff: long-distance calls, cable TV, gas, electricity, whatever they could get.
+TAP's anti-establishment, "fuck the system" ethos was a double-edged sword. It built the first real hacking community, but it also cemented the public's (and prosecutors') image of hackers as evil thieves, a label that stuck hard to people like {{< ref-id "p000007" "Kevin Mitnick" >}} for decades.
 
-And predictably, the ones looking for a free ride burned out techniques by overusing them. The utilities subscribed to TAP too, so anything it printed became a red flag they knew to watch for.
-
-TAP's anti-establishment, "fuck the system" ethos was a double-edged sword. It built the first real hacking community, but it also cemented the public image of hackers as malicious thieves, a label that stuck to people like {{< ref-id "p000007" "Kevin Mitnick" >}} for decades.
+The scene drew all kinds. Some were fascinated by the puzzle of it, but the growing readership didn't care about any of that and just wanted the free stuff: long-distance calls, cable TV, gas, electricity, whatever they could get. And predictably, the ones looking for a free ride burned out techniques by overusing them. As TAP grew more popular, the techniques became less and less effective. The government and the utilities subscribed too, so anything it printed became a red flag they knew to watch for.
 
 **Beginning of the end**
 
-In 1983, someone broke into editor *Tom Edison*'s apartment, which also served as the TAP office, stole the mailing list, financial records, computer, and Tom's stereo, and then set the place on fire. Tom called it quits afterward, but the newsletter didn't quite die with him. *Cheshire Catalyst* took over, and TAP recovered, running several more issues into 1984 before stopping abruptly at issue 91. In later years, various editors revived TAP a few times, each with their own agenda and style, but none continued what TAP had been, so I've decided not to list them here. (You can [find them here in the Internet Archive](https://archive.org/details/yipltap/TAP-92/).)
+In 1983, someone broke into editor *Tom Edison*'s apartment, which also served as the TAP office, stole the mailing list, financial records, computer, and Tom's stereo, and then set the place on fire. Tom called it quits afterward, but the newsletter didn't quite die with him. *[Cheshire Catalyst](https://archive.org/details/HOPE-1-The_History_of_TAP_Magazine)* took over, and TAP recovered, running several more issues into 1984 before stopping abruptly at issue 91. In later years, various editors revived TAP a few times, each with their own agenda and style, but none continued what TAP had been, so I've decided not to list them here. (You can [find them here in the Internet Archive](https://archive.org/details/yipltap/TAP-92/).)
 
 Warts and all, it's a fascinating snapshot of how this information was shared and discovered, a slow cat-and-mouse game long before the internet existed.
 
