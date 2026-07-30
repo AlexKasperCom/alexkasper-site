@@ -29,7 +29,7 @@ draft: false           # Set to false when ready to publish.
 
 Over its run it covered how to build [blue boxes](https://en.wikipedia.org/wiki/Blue_box), [red boxes](https://en.wikipedia.org/wiki/Red_box_(phreaking)), [black boxes](https://en.wikipedia.org/wiki/Black_box_(phreaking)), credit-card codes, lock picking, pirate radio, and a long catalog of other “destructory assistance.” The first 91 issues ran from June 1971 to March 1984.
 
-In 1983 someone broke into editor *Tom Edison’s* apartment (which also served as the TAP office) and set it on fire, destroying the mailing list and financial records. TAP published a few more issues, but Tom eventually left the project and the magic was gone. A few people tried to keep it going and it limped along for a while, but it eventually fizzled out.
+In 1983 someone broke into editor Tom Edison's apartment (which also served as the TAP office) and set it on fire, destroying the mailing list and financial records. Worn down, Tom left, but the newsletter did not die with him. Cheshire Catalyst took over and TAP recovered quickly, running several more issues into 1984 before stopping, still promising a next issue that never came. In later years the name was revived by various editors with their own agendas, but none continued what TAP had been.
 
 The index below links to the full scan, transcript, and citation record for the first 91 issues. Some of the scans are rough. (If you have cleaner copies, please [get in touch](/contact) and I’ll replace them. Want to be notified of updates? [Join the mailing list.](/mailing-list))
 
