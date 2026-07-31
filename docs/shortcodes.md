@@ -139,3 +139,67 @@ Same `where site.RegularPages` pattern as `ref-id` above, filtered by the `proje
 ### Adding new periodical archives
 
 Any project can use this shortcode as long as its issues carry `projects` (matching the slug passed to the shortcode), `issue`, and a `title` that already reads the way you want it linked — no changes needed to the shortcode itself.
+
+---
+
+## `photo-gallery`
+
+Renders a grid of thumbnails from the current page's `photos` front matter, each linking to the full-resolution image.
+
+Template: `layouts/shortcodes/photo-gallery.html`
+
+### Why it exists
+
+Pages like `/press` need a simple photo grid (headshots, event photos) without hand-writing image markup or wiring up a new layout per page. Front-matter-driven, like the `about` page's carousel, but for a plain grid rather than a slider.
+
+### Usage
+
+Inline in any markdown body:
+
+```text
+{{< photo-gallery >}}
+```
+
+Reads its data from the page's own front matter — no arguments:
+
+```yaml
+photos:
+  - image: "ak-portrait-1.jpg"
+    thumb: "ak-portrait-1-square.jpg"
+    alt: "Alex Kasper, studio portrait"
+
+  - image: "ak-speaking-1.jpg"
+    thumb: "ak-speaking-1.jpg"
+    alt: "Alex Kasper speaking on stage"
+```
+
+### Required front matter fields
+
+Each entry under `photos`:
+
+* `image` — the full-resolution page-resource filename; the thumbnail links here.
+* `thumb` — the page-resource filename actually displayed in the grid. Use a separate cropped file for a tighter square thumbnail, or repeat the same filename as `image` to use the full image as its own thumbnail.
+* `alt` — alt text for the thumbnail.
+
+Both `image` and `thumb` must be page resources (files sitting alongside `index.md` in the same page bundle) — the shortcode resolves them with `Resources.GetMatch` and silently skips any entry where either file isn't found.
+
+### Output
+
+Renders a CSS grid of square-cropped thumbnails, each wrapped in a link to the full-resolution original (opens in a new tab):
+
+```html
+<div class="photo-gallery">
+  <figure class="photo-gallery__item">
+    <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">
+      <img src="/press/ak-portrait-1-square.jpg" alt="Alex Kasper, studio portrait" width="2000" height="2000" loading="lazy">
+    </a>
+  </figure>
+  ...
+</div>
+```
+
+A small `<style>` block scoped to `.photo-gallery` is emitted alongside the grid.
+
+### Adding new photos
+
+Drop the image file(s) into the page's bundle directory, add an entry under `photos` in front matter, and (optionally) crop a square thumbnail alongside the original — no changes needed to the shortcode itself.

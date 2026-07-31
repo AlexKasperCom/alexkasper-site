@@ -2,6 +2,23 @@
 title: "Press & Bio"
 description: "Press materials for Alex Kasper: short bio, full bio with sources, and downloadable assets."
 hideDate: true
+
+photos:
+  - image: "ak-portrait-1.jpg"
+    thumb: "ak-portrait-1-square.jpg"
+    alt: "Alex Kasper, studio portrait"
+
+  - image: "ak-microphone-1.jpg"
+    thumb: "ak-microphone-1-square.jpg"
+    alt: "Alex Kasper recording at the microphone"
+
+  - image: "ak-speaking-1.jpg"
+    thumb: "ak-speaking-1.jpg"
+    alt: "Alex Kasper speaking on stage"
+
+  - image: "ak-working-1.jpg"
+    thumb: "ak-working-1.jpg"
+    alt: "Alex Kasper working at his desk"
 ---
 
 ## Short Bio
@@ -77,7 +94,9 @@ Alex now concentrates on the mechanics of manipulation and social engineering, w
 
 ## Photos
 
-High-resolution headshots and other photos will be available here. (Upload assets and link them when ready.)
+{{< photo-gallery >}}
+
+Click any photo for the high-resolution original.
 
 ---
 

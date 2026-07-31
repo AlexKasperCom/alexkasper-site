@@ -1,0 +1,56 @@
+{{- /*
+  Usage: {{< photo-gallery >}}
+
+  Renders a grid of thumbnails from the page's `photos` front matter,
+  each linking to the full-resolution image. Front matter shape:
+
+    photos:
+      - image: "photo.jpg"
+        thumb: "photo-square.jpg"
+        alt: "Description"
+
+  `image` is the full-resolution file the thumbnail links to; `thumb`
+  is what's actually displayed in the grid (a cropped version, or the
+  same filename as `image` if no separate crop exists).
+*/ -}}
+{{- with .Page.Params.photos -}}
+  <div class="photo-gallery">
+    {{- range . }}
+      {{- $full := $.Page.Resources.GetMatch .image }}
+      {{- $thumb := $.Page.Resources.GetMatch .thumb }}
+      {{- if and $full $thumb }}
+        <figure class="photo-gallery__item">
+          <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">
+            <img
+              src="{{ $thumb.RelPermalink }}"
+              alt="{{ .alt }}"
+              width="{{ $thumb.Width }}"
+              height="{{ $thumb.Height }}"
+              loading="lazy">
+          </a>
+        </figure>
+      {{- end }}
+    {{- end }}
+  </div>
+  <style>
+    .photo-gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 16px;
+      margin: 24px 0;
+    }
+
+    .photo-gallery__item {
+      margin: 0;
+    }
+
+    .photo-gallery__item img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 4px;
+    }
+  </style>
+{{- end -}}
