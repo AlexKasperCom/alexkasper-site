@@ -69,8 +69,14 @@ faq_groups:
         answer: "..."
 ---
 
-Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone phreak community alongside Kevin Mitnick, Lewis De Payne, and others, driven not by profit but rather an obsession with understanding how complex systems—and the people behind them—actually worked.
+Alex Kasper (born Alexis C. Kasperavičius) has spent more than four decades exploring the intersection of technology, trust, and human behavior.
 
-That same curiosity led to a career spanning software engineering, telecommunications, cybersecurity, and entrepreneurship. Alex co-founded Defensive Thinking with Kevin Mitnick, helping organizations understand and defend against social engineering attacks through education and security awareness.
+As a teenager in Southern California he became part of the early hacker and phone-phreak community alongside Kevin Mitnick and others. Driven by curiosity rather than profit, he studied how complex systems—and the people who operate them—actually work. That same curiosity later led him into software, telecommunications, cybersecurity, and entrepreneurship.
 
-A longtime technology executive, software developer, and speaker, he now focuses on the mechanics of manipulation, social engineering, and how bad actors weaponize urgency to fool people and machines.
+In the early 2000s Alex co-founded the security consultancy Defensive Thinking with Kevin Mitnick. Together they developed the Certified Social Engineering Prevention Specialist (CSEPS) program—the world's first professional certification dedicated to defending against social engineering. They trained corporations, government agencies, and military organizations including the U.S. Air Force and Marines. Alex is acknowledged in Mitnick's books The Art of Deception, The Art of Intrusion, and Ghost in the Wires, and appeared in the documentary Freedom Downtime.
+
+Earlier in his career he produced the critically acclaimed 3DO game Return Fire (1995) and co-produced the award-winning short film Eyeball Eddie. He also co-founded Nexspace, one of Los Angeles's early coworking spaces, and later built businesses in the flavor and fragrance industry, including the regulatory-document platform Naturesign.
+
+Today Alex focuses on the mechanics of manipulation, social engineering, and how bad actors weaponize urgency to influence both people and machines. His forthcoming book, Manufactured Urgency, examines the recurring patterns behind confidence games, phishing, propaganda, and everyday deception.
+
+**[Press & full background →](/press/)** Photos, a short intro, full bio with sources, and downloadable assets are available on the Press page.
