@@ -66,14 +66,14 @@ Alex now concentrates on the mechanics of manipulation and social engineering, w
 
 ### Selected Sources
 
-- Patrick Gray, "A Tale of Two Hackers," *Wired*, 6 June 2005.
-- Kevin Mitnick with William L. Simon, *Ghost in the Wires* (Little, Brown, 2011).
-- Return Fire credits and 3DO Awards coverage (MobyGames; Business Wire, 1995).
-- Defensive Thinking / CSEPS press materials (archived 2003–2005).
-- Acknowledgments in *The Art of Deception*, *The Art of Intrusion*, and *Ghost in the Wires*.
-- Freedom Downtime (2001); Takedown (2000) end credits.
-- Court records: Alexander Kasper v. Pacific Bell Telephone Company.
-- Nexspace press materials and contemporary coverage (Los Angeles Times, etc.).
+- Patrick Gray, {{< ref-id "n000072" >}}, *Wired*, 6 June 2005.
+- Kevin Mitnick with William L. Simon, {{< ref-id "n000080" >}} (Little, Brown, 2011).
+- {{< ref-id "n000012" >}} (MobyGames) and {{< ref-id "n000041" >}} (Business Wire, 1995).
+- {{< ref-id "n000070" >}} (2004) and {{< ref-id "n000212" >}} (2005) — Defensive Thinking / CSEPS press materials.
+- Acknowledgments in {{< ref-id "n000068" >}}, {{< ref-id "n000073" >}}, and {{< ref-id "n000080" "Ghost in the Wires" >}}.
+- {{< ref-id "n000094" "Freedom Downtime" >}} (2001); {{< ref-id "n000115" "Takedown" >}} (2000) end credits.
+- Court records: Alexander Kasper v. Pacific Bell Telephone Company. *(no matching page in `/news` — let me know if this should be added)*
+- Nexspace press materials and contemporary coverage (Los Angeles Times, etc.). *(no matching page in `/news` — let me know if this should be added)*
 
 ## Photos
 
