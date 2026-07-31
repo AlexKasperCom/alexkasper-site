@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "SecurityWeek's report confirming Kevin Mitnick's July 2023 death from pancreatic cancer at 59, noting he was serving as Chief Hacking Officer at KnowBe4 and was survived by his pregnant wife, Kimberley."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

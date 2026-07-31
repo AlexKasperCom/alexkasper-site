@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "L.A. Weekly profile of the Southern California phone-phreaking community and Lewis De Payne, identified as “Rosco.”"
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - hacking-history
   - lewis-de-payne

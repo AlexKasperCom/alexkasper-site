@@ -2,13 +2,13 @@
 id: n000106
 title: "Ex-hacker reveals tricks of the trade"
 slug: ex-hacker-reveals-tricks-of-the-trade
-date: 
+date: "2015-07-03"
 
 draft: false
 source_type: webpage
 summary: "AsiaOne interview in which Kevin Mitnick explains the social-engineering tricks he used as a hacker and how organizations can guard against them."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

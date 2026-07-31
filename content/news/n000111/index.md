@@ -2,13 +2,13 @@
 id: n000111
 title: "Kevin David Mitnick"
 slug: kevin-david-mitnick
-date: 
+date: "2023-07-19"
 
 draft: false
 source_type: webpage
 summary: "Official obituary of Kevin David Mitnick published by Dignity Memorial, noting he is survived by his wife Kimberley Mitnick, who was pregnant with their first child at the time of his death."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

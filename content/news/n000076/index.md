@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "CNET report by Elinor Mills on live social-engineering demonstrations by Kevin Mitnick and other hackers, illustrating how attackers manipulate people rather than just computers to breach security."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

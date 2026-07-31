@@ -9,7 +9,7 @@ source_type: article
 summary: "A profile contrasting the lives and careers of Alex Kasper and Kevin Mitnick."
 projects:
   - defensive-thinking
-  - return-fire
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - cybersecurity

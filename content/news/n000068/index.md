@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Kevin Mitnick and William L. Simon's first book, presenting real and fictionalized social-engineering case studies to teach organizations how attackers manipulate employees into giving up sensitive information."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - computer-security

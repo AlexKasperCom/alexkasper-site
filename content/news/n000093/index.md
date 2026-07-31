@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Mitnick Security post previewing Werner Herzog's documentary Lo and Behold: Reveries of the Connected World, which features Kevin Mitnick alongside Elon Musk and other tech figures discussing the human element as the internet's weakest link."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

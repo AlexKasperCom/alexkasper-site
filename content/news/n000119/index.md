@@ -2,13 +2,13 @@
 id: n000119
 title: "World's most famous hacker Kevin Mitnick to speak at ULM Business Symposium"
 slug: world-s-most-famous-hacker-kevin-mitnick-to-speak-at-ulm-business-symposium
-date: 
+date: "2016-10-04"
 
 draft: false
 source_type: webpage
 summary: "University of Louisiana Monroe news release announcing Kevin Mitnick as a featured speaker at the university's Business Symposium."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

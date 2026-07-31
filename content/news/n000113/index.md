@@ -2,13 +2,13 @@
 id: n000113
 title: "Kimberley Mitnick one year death anniversary post"
 slug: kimberley-mitnick-one-year-death-anniversary-post
-date: 
+date: "2024-07-16"
 
 draft: false
 source_type: webpage
 summary: "Post by Kevin Mitnick's widow, Kimberley Mitnick, marking the one-year anniversary of his death."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - obituary

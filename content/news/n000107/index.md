@@ -2,13 +2,13 @@
 id: n000107
 title: "Famed hacker to Snowden: Watch out"
 slug: famed-hacker-to-snowden-watch-out
-date: 
+date: "2013-08-05"
 
 draft: false
 source_type: article
 summary: "CNN video interview in which Kevin Mitnick warns NSA leaker Edward Snowden about the risks facing a high-profile fugitive, drawing on his own experience evading the FBI."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

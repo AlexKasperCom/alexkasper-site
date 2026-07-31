@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Los Angeles Times report on Kevin Mitnick's February 1995 arrest by the FBI in Raleigh, North Carolina, ending a two-and-a-half-year manhunt and detailing allegations that he cost victim companies millions in stolen software."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

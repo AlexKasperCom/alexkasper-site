@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Transcript of Kevin Mitnick's April 2003 testimony before the U.S. House Financial Services Committee on cybersecurity and social-engineering threats facing the financial sector."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - government-records

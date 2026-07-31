@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Fast Company first-person account by a business owner describing why hiring Kevin Mitnick to test their company's security was worthwhile."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

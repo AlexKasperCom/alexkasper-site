@@ -2,13 +2,13 @@
 id: n000116
 title: "The Missing Chapter from The Art of Deception by Kevin Mitnick"
 slug: the-missing-chapter-from-the-art-of-deception-by-kevin-mitnick
-date: 
+date: "2002-11-01"
 
 draft: false
 source_type: webpage
 summary: "The excised chapter from Kevin Mitnick's The Art of Deception that Wiley removed from the published book, preserved and republished by the transparency site the Memory Hole."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

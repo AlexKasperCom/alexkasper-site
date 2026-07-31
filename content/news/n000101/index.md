@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "The Jewish Chronicle's obituary of Kevin Mitnick, once dubbed “America's most wanted” hacker, following his death at age 59."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

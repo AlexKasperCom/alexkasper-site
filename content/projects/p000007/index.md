@@ -28,3 +28,5 @@ Kevin Mitnick (1963–2023) was an American computer security consultant, author
 Alex Kasper met Mitnick during the Los Angeles hacker community of the late 1980s. The two later founded Defensive Thinking, Inc., presented together at conferences, and collaborated on numerous security awareness projects.
 
 This page serves as a central reference for material related to Kevin Mitnick throughout the site.
+
+{{< related-articles "kevin-mitnick-archive" >}}

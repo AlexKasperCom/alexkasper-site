@@ -9,6 +9,7 @@ source_type: article
 summary: "A profile of Kevin Mitnick's move from convicted hacker to security consultant."
 projects:
   - defensive-thinking
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - cybersecurity

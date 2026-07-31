@@ -14,14 +14,15 @@ source_type:         webpage
 
 summary:              Kevin Mitnick responds to slashdot questions
 
-projects:             # Related project slugs:
-                      #   - return-fire
+projects:
+  - kevin-mitnick-archive
 
-tags:             Slashdot
-                      #   - review
-                      #   - behind-the-scenes
+tags:
+  - slashdot
+  - kevin-mitnick
+  - social-engineering
 
-author:       Slashdot
+author:
 
 
 publisher:    Slashdot.org

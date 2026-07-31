@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Los Angeles Times report on Lewis De Payne’s surrender and release on bond after his federal indictment."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - hacking-history
   - lewis-de-payne

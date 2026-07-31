@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Los Angeles Times feature by Ann W. O'Neill examining the conflicting mythology around Kevin Mitnick after his arrest, contrasting portrayals of him as a dangerous “electronic terrorist” with accounts from those who knew him as a compulsive prankster."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

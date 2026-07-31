@@ -2,13 +2,13 @@
 id: n000118
 title: "US to yank Kevin Mitnick's radio license"
 slug: us-to-yank-kevin-mitnick-s-radio-license
-date: 
+date: "2002-01-03"
 
 draft: false
 source_type: webpage
 summary: "The Register report on the FCC's move to strip Kevin Mitnick's ham radio license over his criminal record, including his response calling it continued harassment and prosecutor Christopher Painter's rebuttal that Mitnick never accepted responsibility."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - radio

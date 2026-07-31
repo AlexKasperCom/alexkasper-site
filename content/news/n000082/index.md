@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "ZDNet interview with Kevin Mitnick timed to the release of his memoir Ghost in the Wires, discussing his hacking career and life since prison."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

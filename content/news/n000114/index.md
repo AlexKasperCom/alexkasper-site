@@ -2,13 +2,13 @@
 id: n000114
 title: "Post - Kimberley Mitnick"
 slug: post-kimberley-mitnick
-date: 
+date: "2023-07-20"
 
 draft: false
 source_type: webpage
 summary: "Post by Kevin Mitnick's widow, Kimberley Mitnick, on X (formerly Twitter)."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

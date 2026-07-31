@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Kevin Mitnick's bestselling memoir, co-written with William L. Simon, recounting his hacking career, years as a fugitive, arrest, and imprisonment in his own words."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

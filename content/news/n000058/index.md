@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "San Francisco Chronicle report on the legal disputes surrounding Miramax's Takedown film, including objections from Kevin Mitnick and author Jonathan Littman over its portrayal of the case."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

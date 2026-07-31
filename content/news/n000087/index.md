@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Forbes profile demonstrating Kevin Mitnick's identity-theft and social-engineering techniques as a security consultant."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - computer-security

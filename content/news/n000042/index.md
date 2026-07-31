@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Tsutomu Shimomura and John Markoff's account of the technical pursuit that led to Kevin Mitnick's 1995 arrest, later adapted into the film Takedown and criticized by Mitnick's supporters as one-sided."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - books

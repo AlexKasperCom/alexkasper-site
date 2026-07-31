@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Wired report examining claims that imprisoned hacker Kevin Mitnick was denied kosher food, including comments from his prison rabbi that vegetarian meals were available but not certified kosher."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

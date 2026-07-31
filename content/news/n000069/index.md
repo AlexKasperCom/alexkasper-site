@@ -9,6 +9,7 @@ source_type: article
 summary: "A profile of Kevin Mitnick's transition from hacker to security educator."
 projects:
   - defensive-thinking
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - cybersecurity

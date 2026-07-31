@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Computer Fraud & Security trade journal report on Kevin Mitnick's 1999 guilty plea to seven federal charges, ending nearly five years of pretrial detention."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

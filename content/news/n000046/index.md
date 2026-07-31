@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Los Angeles Times report on Kevin Mitnick's arraignment on the federal computer and wire fraud charges brought in the 1996 Los Angeles indictment."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Defense motion filed on Kevin Mitnick's behalf seeking sanctions against prosecutors and renewed access to discovery materials and expert-witness funding, part of the pretrial disputes over his defense team's access to evidence."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

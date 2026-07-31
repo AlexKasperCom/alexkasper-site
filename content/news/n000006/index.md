@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Los Angeles Times investigation of fugitive hacker and government informant Justin Petersen, with discussion of Kevin Mitnick and Lewis De Payne."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - hacking-history
   - lewis-de-payne

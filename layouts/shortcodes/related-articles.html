@@ -1,0 +1,84 @@
+{{- /*
+  Usage: {{< related-articles "kevin-mitnick-archive" >}}
+
+  Renders a table of every page whose front-matter `projects` list
+  includes the given slug, sorted by publication date ascending. The
+  slug should match the parent project page's own `slug` (see
+  `layouts/partials/visit-project.html`, which links entries back to
+  their project page the same way).
+
+  Unlike {{< back-issues >}}, this doesn't assume a numbered periodical
+  — there's no issue-number column. Intended for project pages (e.g. a
+  person or topic archive) that collect articles, books, and other
+  material about the same subject from many different sources.
+*/ -}}
+{{- $slug := .Get 0 -}}
+{{- $pages := where site.RegularPages "Params.projects" "intersect" (slice $slug) -}}
+{{- $pages = sort $pages "Date" "asc" -}}
+<div class="related-articles">
+  <table class="related-articles-table">
+    <thead>
+      <tr>
+        <th class="article-date">Date</th>
+        <th class="article-title">Title</th>
+        <th class="article-publisher">Publication</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- range $pages }}
+      <tr>
+        <td class="article-date">{{ with .Date }}{{ .Format "Jan 2006" }}{{ end }}</td>
+        <td class="article-title">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </td>
+        <td class="article-publisher">{{ .Params.publisher }}</td>
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>
+
+<style>
+  .related-articles-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 1.4rem;
+    line-height: 1.9rem;
+  }
+  .related-articles-table th {
+    text-align: left;
+    text-transform: uppercase;
+    letter-spacing: 0.05rem;
+    font-family: "futura-pt", "Segoe UI", Arial, sans-serif;
+    font-weight: 600;
+    font-size: 1.3rem;
+    color: #323232;
+    border-bottom: 2px solid #323232;
+    padding: 6px 10px;
+  }
+  .related-articles-table td {
+    padding: 6px 10px;
+    border-bottom: 1px solid #e0dbd6;
+    vertical-align: top;
+  }
+  .related-articles-table .article-date {
+    width: 8em;
+    white-space: nowrap;
+    color: #999;
+  }
+  .related-articles-table .article-publisher {
+    width: 12em;
+    white-space: nowrap;
+    color: #999;
+  }
+  .related-articles-table tbody tr:hover {
+    background: #f3ece6;
+  }
+  .related-articles-table a {
+    color: #323232;
+    text-decoration: none;
+  }
+  .related-articles-table a:hover {
+    color: #ff5f24;
+  }
+</style>

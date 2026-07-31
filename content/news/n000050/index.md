@@ -8,13 +8,13 @@ draft: false
 source_type: webpage
 summary: "CNN retrospective by John Christensen tracing the full arc of Kevin Mitnick's hacking career, arrests, and prosecution up to his 1999 guilty plea."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - legal-history
 author:
   - "John Christensen"
-publisher: 
+publisher: "CNN"
 source_url: "http://edition.cnn.com/SPECIALS/1999/mitnick.background/"
 access_date: "2018-12-11"
 source_dead: true

@@ -8,7 +8,7 @@ draft: false
 source_type: broadcast
 summary: "Video of Kevin Mitnick's appearance on The Colbert Report discussing his memoir Ghost in the Wires and his hacking past."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

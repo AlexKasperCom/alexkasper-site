@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Los Angeles Times profile of fugitive hacker Kevin Mitnick and the allegations, history, and mythology surrounding him in 1994."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - hacking-history
   - lewis-de-payne

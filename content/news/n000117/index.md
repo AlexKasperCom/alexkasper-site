@@ -2,13 +2,13 @@
 id: n000117
 title: "United States v. Mitnick, 2:96-cr-00506"
 slug: united-states-v-mitnick-2-96-cr-00506
-date: 
+date: "1996-05-21"
 
 draft: false
 source_type: webpage
 summary: "CourtListener docket page for United States v. Mitnick (2:96-cr-00506), the federal criminal case against Kevin Mitnick in the Central District of California."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

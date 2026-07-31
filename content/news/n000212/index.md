@@ -10,17 +10,19 @@ aliases:              # Previous URLs:
 
 draft: false           # Set to false when ready to publish.
 
-source_type:          # article | blog_post | book | webpage | document |
-                      # image | audio | video | film | podcast
+source_type: article
 
-summary:       At a social engineering prevention workshop in Sydney this week, Mitnick and business partner Alex Kasperavicius shared some of the tactics used by social engineers to bypass a company's technical security by exploiting employees' psychological vulnerabilities.       # One- or two-sentence summary.
+summary: "At a social engineering prevention workshop in Sydney this week, Mitnick and business partner Alex Kasperavicius shared some of the tactics used by social engineers to bypass a company's technical security by exploiting employees' psychological vulnerabilities."
 
-projects:       CSEPS      # Related project slugs:
-                      #   - return-fire
+projects:
+  - defensive-thinking
+  - kevin-mitnick-archive
 
-tags:     CSEPS            # Descriptive tags:
-                      #   - review
-                      #   - behind-the-scenes
+tags:
+  - cseps
+  - cybersecurity
+  - social-engineering
+  - kevin-mitnick
 
 author:     "Kotadia, Munir"          # People: "Last, First"
                       # Organizations: literal name
@@ -29,7 +31,7 @@ author:     "Kotadia, Munir"          # People: "Last, First"
 
 publisher:            # Publication, publisher, production company, or releasing organization.
 
-source_url:			https://www.zdnet.com/article/human-firewall-a-crucial-defence-mitnick/
+source_url: https://www.zdnet.com/article/human-firewall-a-crucial-defence-mitnick/
 access_date:        2026-07-23
 source_dead: false
 

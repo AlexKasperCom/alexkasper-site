@@ -9,6 +9,7 @@ source_type: webpage
 summary: "Background information about Defensive Thinking and its security training programs."
 projects:
   - defensive-thinking
+  - kevin-mitnick-archive
 tags:
   - cseps
   - cybersecurity

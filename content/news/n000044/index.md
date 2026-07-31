@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Los Angeles Times report on the 25-count federal grand jury indictment of Kevin Mitnick on charges including computer fraud, wire fraud, and illegal interception of communications."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

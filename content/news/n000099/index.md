@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Washington Post obituary of Kevin Mitnick, tracing his path from fugitive hacker to celebrated security consultant, following his death from pancreatic cancer at 59."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

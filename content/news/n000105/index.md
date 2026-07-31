@@ -2,13 +2,13 @@
 id: n000105
 title: "About Kevin's Case"
 slug: about-kevin-s-case
-date: 
+date: "1997-07-01"
 
 draft: false
 source_type: webpage
 summary: "Case background page from the Free Kevin Mitnick support site, written by defense attorney Donald C. Randolph, arguing that the charges and media coverage against Mitnick were excessive."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

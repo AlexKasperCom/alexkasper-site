@@ -8,12 +8,12 @@ draft: false
 source_type: article
 summary: "Wired feature collecting Kevin Mitnick's practical security advice for consumers and businesses, drawing on his own hacking and social-engineering experience."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - computer-security
 author:
-publisher: "[[Wired (magazine)"
+publisher: "Wired"
 source_url: "https://www.wired.com/2006/11/kevin-mitnicks-security-advice/"
 access_date: "2020-07-20"
 source_dead: false

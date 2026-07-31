@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "The infamous website publishes a sympathetic writeup of Kevin's situation"
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

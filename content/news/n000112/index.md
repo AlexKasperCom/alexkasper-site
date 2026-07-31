@@ -2,13 +2,13 @@
 id: n000112
 title: "Kevin Mitnick's Federal Indictment"
 slug: kevin-mitnick-s-federal-indictment
-date: 
+date: "1996-09-27"
 
 draft: false
 source_type: webpage
 summary: "Full text of the federal indictment filed against Kevin Mitnick, detailing the computer fraud, wire fraud, and related charges brought against him."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - legal-history

@@ -8,13 +8,13 @@ draft: false
 source_type: article
 summary: "Wired report by Arik Hesseldahl on Kevin Mitnick's pretrial fight for access to a computer to review the government's discovery evidence against him, part of the broader controversy over his conditions of confinement."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history
 author:
   - "Arik Hesseldahl"
-publisher: "[[Wired (magazine)"
+publisher: "Wired"
 source_url: "https://www.wired.com/1998/09/hacker-cant-get-access/"
 access_date: "2023-07-20"
 source_dead: false

@@ -2,13 +2,13 @@
 id: n000110
 title: "Hackers, Sex Offenders, and All the Rest"
 slug: hackers-sex-offenders-and-all-the-rest
-date: 
+date: "2011-10-24"
 
 draft: false
 source_type: webpage
 summary: "Corrections.com commentary discussing supervision and monitoring conditions imposed on hackers like Kevin Mitnick after release, comparing them to restrictions used for other offender categories."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history

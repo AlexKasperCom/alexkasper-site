@@ -2,13 +2,13 @@
 id: n000108
 title: "FBI investigative files concerning Kevin Mitnick (1981–1990s)"
 slug: fbi-investigative-files-concerning-kevin-mitnick-19811990s
-date: 
+date: "2023-07-31"
 
 draft: false
 source_type: webpage
 summary: "FBI Records: The Vault release of investigative files on Kevin Mitnick covering his early hacking activity and prosecutions from 1981 through the 1990s."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - government-records

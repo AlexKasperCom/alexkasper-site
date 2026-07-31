@@ -9,6 +9,7 @@ source_type: audio
 summary: "A KFI radio program about computers, hacking, and internet security."
 projects:
   - defensive-thinking
+  - kevin-mitnick-archive
 tags:
   - radio
   - kfi

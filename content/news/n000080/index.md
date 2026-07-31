@@ -9,6 +9,7 @@ source_type: book
 summary: "Kevin Mitnick recounts his hacking career and eventual move into security consulting."
 projects:
   - defensive-thinking
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - memoir

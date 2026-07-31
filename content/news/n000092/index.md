@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "CNBC “Greed Report” profiling history's most notorious white-collar fugitives, including a recap of Kevin Mitnick's two-year run from the FBI and his eventual 1995 capture in Raleigh, North Carolina."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

@@ -2,13 +2,13 @@
 id: n000115
 title: "Takedown"
 slug: takedown
-date: 
+date: "2004-01-01"
 
 draft: false
 source_type: webpage
 summary: "Turner Classic Movies database entry for Takedown, the 2000 film dramatizing the pursuit and capture of Kevin Mitnick."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
 author:

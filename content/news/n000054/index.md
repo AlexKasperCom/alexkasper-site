@@ -8,7 +8,7 @@ draft: false
 source_type: press-release
 summary: "U.S. Department of Justice press release announcing Kevin Mitnick's sentencing to nearly four years in federal prison and restitution orders to the corporate victims of his hacking, following his 1999 guilty plea."
 projects:
-  - kevin-mitnick
+  - kevin-mitnick-archive
 tags:
   - kevin-mitnick
   - hacking-history
