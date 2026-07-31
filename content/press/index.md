@@ -31,7 +31,7 @@ Alex Kasper has spent more than four decades at the intersection of technology, 
 
 ## Medium Bio
 
-Alex Kasper (born Alexis C. Kasperavičius) has spent more than four decades exploring the intersection of technology, trust, and human behavior.
+Alex Kasper (born Alexis Kasperavičius) has spent more than four decades exploring the intersection of technology, trust, and human behavior.
 
 As a teenager in Southern California he became part of the early hacker and phone-phreak community alongside Kevin Mitnick and others. Driven by curiosity rather than profit, he studied how complex systems—and the people who operate them—actually work. That same curiosity later led him into software, telecommunications, cybersecurity, and entrepreneurship.
 
@@ -47,7 +47,7 @@ Today Alex focuses on the mechanics of manipulation, social engineering, and how
 
 *Long version, with sources.*
 
-Alex Kasper (born Alexis C. Kasperavičius, April 14, 1968) is an American entrepreneur, cybersecurity educator, and video-game producer. He is best known for producing the 1995 game Return Fire, co-founding the security consultancy Defensive Thinking with Kevin Mitnick, and co-developing the Certified Social Engineering Prevention Specialist (CSEPS) training program—the world's first professional certification focused on defending against social engineering.
+Alex Kasper (born Alexis Kasperavičius, April 14, 1968) is an American entrepreneur, cybersecurity educator, and video-game producer. He is best known for producing the 1995 game Return Fire, co-founding the security consultancy Defensive Thinking with Kevin Mitnick, and co-developing the Certified Social Engineering Prevention Specialist (CSEPS) training program—the world's first professional certification focused on defending against social engineering.
 
 ### Early Life
 

@@ -28,6 +28,14 @@
               height="{{ $thumb.Height }}"
               loading="lazy">
           </a>
+          <figcaption class="photo-gallery__links">
+            {{- if ne $thumb.RelPermalink $full.RelPermalink }}
+              <a href="{{ $thumb.RelPermalink }}" target="_blank" rel="noopener">Square crop</a>
+              <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">Original</a>
+            {{- else }}
+              <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">Full size</a>
+            {{- end }}
+          </figcaption>
         </figure>
       {{- end }}
     {{- end }}
@@ -51,6 +59,14 @@
       aspect-ratio: 1 / 1;
       object-fit: cover;
       border-radius: 4px;
+    }
+
+    .photo-gallery__links {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      margin-top: 6px;
+      font-size: 1.3rem;
     }
   </style>
 {{- end -}}

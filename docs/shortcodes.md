@@ -185,7 +185,7 @@ Both `image` and `thumb` must be page resources (files sitting alongside `index.
 
 ### Output
 
-Renders a CSS grid of square-cropped thumbnails, each wrapped in a link to the full-resolution original (opens in a new tab):
+Renders a CSS grid of square-cropped thumbnails, each wrapped in a link to the full-resolution original (opens in a new tab). When `thumb` differs from `image`, both versions are offered as separate download links below the thumbnail — "Square crop" and "Original" — rather than only exposing the original through the image link. When `thumb` and `image` are the same file, a single "Full size" link is shown instead:
 
 ```html
 <div class="photo-gallery">
@@ -193,6 +193,10 @@ Renders a CSS grid of square-cropped thumbnails, each wrapped in a link to the f
     <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">
       <img src="/press/ak-portrait-1-square.jpg" alt="Alex Kasper, studio portrait" width="2000" height="2000" loading="lazy">
     </a>
+    <figcaption class="photo-gallery__links">
+      <a href="/press/ak-portrait-1-square.jpg" target="_blank" rel="noopener">Square crop</a>
+      <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">Original</a>
+    </figcaption>
   </figure>
   ...
 </div>
