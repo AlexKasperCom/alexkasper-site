@@ -29,7 +29,7 @@ related:              # Related content ids:
 draft: false           # Set to false when ready to publish.
 ---
 
-*TAP* is the original phone-phreaking and hacking newsletter. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and the many hacking publications that followed. It started in June 1971 as the ***Youth International Party Line*** (YIPL), a mimeographed sheet by *Al Bell* and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. With issue 21 it became *TAP*, initially standing for "Technological American Party" and later "Technological Assistance Program." The periodical is catalogued under [ISSN 0194-3936](https://portal.issn.org/resource/ISSN/0194-3936), has a [Wikidata entry](https://www.wikidata.org/wiki/Q2383604), and is held under [OCLC 11801135](https://search.worldcat.org/title/11801135).
+*TAP* is the original phone-phreaking and hacking newsletter. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and the many hacking publications that followed. It started in June 1971 as the ***Youth International Party Line*** (YIPL), a mimeographed sheet by *Al Bell* and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. With issue 21 it became *TAP*, initially standing for "Technological American Party" and later "Technological Assistance Program." 
 
 Over its run it covered how to build [blue boxes](https://en.wikipedia.org/wiki/Blue_box), [red boxes](https://en.wikipedia.org/wiki/Red_box_(phreaking)), [black boxes](https://en.wikipedia.org/wiki/Black_box_(phreaking)), credit card codes, lock picking, pirate radio, and a long catalog of methods for unauthorized access, fraud, and theft of service. The original run of 91 issues went from June 1971 to March 1984.
 
@@ -47,7 +47,7 @@ In 1983 someone broke into editor *Tom Edison*'s apartment (which also served as
 
 The end of TAP also coincided with a major change in the telecommunications landscape. On January 1, 1984, AT&T was divested, ending the Bell System monopoly that had been TAP's primary target throughout most of its run.
 
-This archive is presented as a historical record of how restricted technical information circulated before the public Internet.
+This archive is presented as a historical record of how restricted technical information circulated before the public Internet. It is catalogued under [ISSN 0194-3936](https://portal.issn.org/resource/ISSN/0194-3936), [Wikidata Q2383604](https://www.wikidata.org/wiki/Q2383604), and [OCLC 11801135](https://search.worldcat.org/title/11801135).
 
 **The Archive**
 
