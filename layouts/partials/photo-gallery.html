@@ -1,43 +1,56 @@
 {{- /*
   Usage: {{ partial "photo-gallery.html" . }}   (. = a Page)
 
-  Renders a grid of thumbnails from the page's `photos` front matter,
-  each labeled and linking to both a web-resolution and a print-
-  resolution download. Front matter shape:
+  Renders a grid of downloadable photos from the page's `photos` front
+  matter. Each entry becomes one tile per real file present — `full`
+  (the original) and/or `square` (a pre-cropped square version) — so a
+  press person on deadline clicks straight through to the exact file
+  they want. No separate "which resolution" links to parse: the tile
+  *is* the download.
+
+  The on-page preview shown in the grid is generated on the fly by
+  Hugo's image processing, so there's no separate hand-resized file to
+  maintain just for display — only the two real deliverables need to
+  exist. Front matter shape:
 
     photos:
       - label: "Studio headshot"
-        thumb: "photo-web.jpg"
-        print: "photo.jpg"
+        full: "photo.jpg"
+        square: "photo-square.jpg"   # omit if no crop exists
         alt: "Description"
-
-  `thumb` is the lighter, web-resolution file — used both as the grid
-  image and as the "Web" download. `print` is the full-resolution file
-  offered as the "Print" download.
 */ -}}
 {{- with .Params.photos -}}
+  {{- $page := $ }}
+  {{- $versions := slice
+    (dict "field" "full" "name" "Full size")
+    (dict "field" "square" "name" "Square crop")
+  }}
   <div class="photo-gallery">
     {{- range . }}
-      {{- $thumb := $.Resources.GetMatch .thumb }}
-      {{- $print := $.Resources.GetMatch .print }}
-      {{- if and $thumb $print }}
-        <figure class="photo-gallery__item">
-          <a href="{{ $print.RelPermalink }}" target="_blank" rel="noopener">
-            <img
-              src="{{ $thumb.RelPermalink }}"
-              alt="{{ .alt }}"
-              width="{{ $thumb.Width }}"
-              height="{{ $thumb.Height }}"
-              loading="lazy">
-          </a>
-          <figcaption>
-            <span class="photo-gallery__label">{{ .label }}</span>
-            <span class="photo-gallery__links">
-              <a href="{{ $thumb.RelPermalink }}" target="_blank" rel="noopener">Web</a>
-              <a href="{{ $print.RelPermalink }}" target="_blank" rel="noopener">Print</a>
-            </span>
-          </figcaption>
-        </figure>
+      {{- $photo := . }}
+      {{- range $versions }}
+        {{- $versionName := .name }}
+        {{- $filename := index $photo .field }}
+        {{- with $filename }}
+          {{- $resource := $page.Resources.GetMatch $filename }}
+          {{- if $resource }}
+            {{- $preview := $resource.Fill "480x480 Center q80" }}
+            <figure class="photo-gallery__item">
+              <a href="{{ $resource.RelPermalink }}" target="_blank" rel="noopener">
+                <img
+                  src="{{ $preview.RelPermalink }}"
+                  alt="{{ $photo.alt }}"
+                  width="{{ $preview.Width }}"
+                  height="{{ $preview.Height }}"
+                  loading="lazy">
+              </a>
+              <figcaption>
+                <span class="photo-gallery__label">{{ $photo.label }}</span>
+                <span class="photo-gallery__version">{{ $versionName }}</span>
+              </figcaption>
+            </figure>
+          {{- end }}
+        {{- end }}
       {{- end }}
     {{- end }}
   </div>
@@ -70,14 +83,14 @@
     .photo-gallery__label {
       display: block;
       font-size: 1.4rem;
-      margin-bottom: 4px;
     }
 
-    .photo-gallery__links {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      font-size: 1.3rem;
+    .photo-gallery__version {
+      display: block;
+      font-size: 1.2rem;
+      color: #927461;
+      text-transform: uppercase;
+      letter-spacing: 0.03rem;
     }
   </style>
 {{- end -}}

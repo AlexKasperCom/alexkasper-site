@@ -114,23 +114,22 @@ selected_coverage:
 
 photos:
   - label: "Studio headshot"
-    thumb: "ak-portrait-1-web.jpg"
-    print: "ak-portrait-1.jpg"
+    full: "ak-portrait-1.jpg"
+    square: "ak-portrait-1-square.jpg"
     alt: "Alex Kasper, studio headshot"
 
   - label: "Casual portrait"
-    thumb: "ak-microphone-1-web.jpg"
-    print: "ak-microphone-1.jpg"
+    full: "ak-microphone-1.jpg"
+    square: "ak-microphone-1-square.jpg"
     alt: "Alex Kasper, casual portrait"
 
   - label: "Speaking photo"
-    thumb: "ak-speaking-1-web.jpg"
-    print: "ak-speaking-1.jpg"
+    full: "ak-speaking-1.jpg"
+    square: "ak-speaking-1-square.jpg"
     alt: "Alex Kasper speaking on stage"
 
   - label: "Black-and-white portrait"
-    thumb: "ak-portrait-1-bw-web.jpg"
-    print: "ak-portrait-1-bw.jpg"
+    full: "ak-portrait-1-bw.jpg"
     alt: "Alex Kasper, black-and-white portrait"
 
 books_projects:

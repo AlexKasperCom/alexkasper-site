@@ -144,7 +144,7 @@ Any project can use this shortcode as long as its issues carry `projects` (match
 
 ## `photo-gallery`
 
-Renders a grid of labeled thumbnails from the current page's `photos` front matter, each offering a separate web-resolution and print-resolution download.
+Renders a grid of labeled photos from the current page's `photos` front matter. Each real file an entry has — `full` and/or `square` — gets its own tile; clicking a tile downloads that exact file.
 
 Template: `layouts/partials/photo-gallery.html` (the actual rendering logic), with `layouts/shortcodes/photo-gallery.html` as a thin wrapper so it can also be dropped into a markdown body.
 
@@ -171,13 +171,13 @@ Both read from the page's own front matter — no arguments:
 ```yaml
 photos:
   - label: "Studio headshot"
-    thumb: "ak-portrait-1-web.jpg"
-    print: "ak-portrait-1.jpg"
+    full: "ak-portrait-1.jpg"
+    square: "ak-portrait-1-square.jpg"
     alt: "Alex Kasper, studio headshot"
 
   - label: "Speaking photo"
-    thumb: "ak-speaking-1-web.jpg"
-    print: "ak-speaking-1.jpg"
+    full: "ak-speaking-1.jpg"
+    square: "ak-speaking-1-square.jpg"
     alt: "Alex Kasper speaking on stage"
 ```
 
@@ -185,29 +185,35 @@ photos:
 
 Each entry under `photos`:
 
-* `label` — caption shown under the thumbnail (e.g. "Studio headshot").
-* `thumb` — the page-resource filename used both as the grid image and as the "Web" download. Should be a lighter, resized/compressed file — not just a crop of the original — since it's also what loads in the grid.
-* `print` — the page-resource filename offered as the "Print" download; typically the full-resolution original.
-* `alt` — alt text for the thumbnail.
+* `label` — caption shown under each tile (e.g. "Studio headshot").
+* `full` — the page-resource filename for the full-resolution original.
+* `square` — optional page-resource filename for a pre-cropped square version. Omit it if no crop exists for that photo.
+* `alt` — alt text for the tile's image.
 
-Both `thumb` and `print` must be page resources (files sitting alongside `index.md` in the same page bundle) — the partial resolves them with `Resources.GetMatch` and silently skips any entry where either file isn't found.
+At least one of `full`/`square` must be a page resource (a file sitting alongside `index.md` in the same page bundle) — the partial resolves each with `Resources.GetMatch` and silently skips any version whose file isn't found. There's no separate "web" file to maintain: the on-page preview shown in the grid is generated on the fly by Hugo's image processing (`Resource.Fill`) from whichever real file it's previewing.
 
 ### Output
 
-Renders a CSS grid of square thumbnails, each captioned with its `label` and two download links, "Web" and "Print":
+Renders a CSS grid with one tile per available version — clicking a tile opens that exact file:
 
 ```html
 <div class="photo-gallery">
   <figure class="photo-gallery__item">
     <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">
-      <img src="/press/ak-portrait-1-web.jpg" alt="Alex Kasper, studio headshot" width="1200" height="1200" loading="lazy">
+      <img src="/press/ak-portrait-1_hu1234.jpg" alt="Alex Kasper, studio headshot" width="480" height="480" loading="lazy">
     </a>
     <figcaption>
       <span class="photo-gallery__label">Studio headshot</span>
-      <span class="photo-gallery__links">
-        <a href="/press/ak-portrait-1-web.jpg" target="_blank" rel="noopener">Web</a>
-        <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">Print</a>
-      </span>
+      <span class="photo-gallery__version">Full size</span>
+    </figcaption>
+  </figure>
+  <figure class="photo-gallery__item">
+    <a href="/press/ak-portrait-1-square.jpg" target="_blank" rel="noopener">
+      <img src="/press/ak-portrait-1-square_hu5678.jpg" alt="Alex Kasper, studio headshot" width="480" height="480" loading="lazy">
+    </a>
+    <figcaption>
+      <span class="photo-gallery__label">Studio headshot</span>
+      <span class="photo-gallery__version">Square crop</span>
     </figcaption>
   </figure>
   ...
@@ -218,4 +224,4 @@ A small `<style>` block scoped to `.photo-gallery` is emitted alongside the grid
 
 ### Adding new photos
 
-Drop the full-resolution image into the page's bundle directory, generate a resized/compressed web version alongside it (e.g. `magick original.jpg -resize 1200x1200 -quality 82 original-web.jpg`), and add an entry under `photos` in front matter — no changes needed to the partial or shortcode.
+Drop the full-resolution image (and, if you have one, a pre-cropped square version) into the page's bundle directory, and add an entry under `photos` in front matter — no resizing, no separate web copy, no changes needed to the partial or shortcode.
