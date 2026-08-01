@@ -6,6 +6,9 @@ slug:                 # Human-readable URL slug. Replaced by new-project from th
 category:             # What this entry represents, e.g. book | person
 status:               # Free text, e.g. in progress | historical | active
 
+issn:                 # Optional. ISSN of the periodical, if this project
+                      # represents one, e.g. "0194-3936".
+
 mailingListInterest:  # Optional "Join the Mailing List" button (Social Engineering | Cybersecurity | Speaking & Events | Books | Training)
 
 summary:              # One- or two-sentence summary.

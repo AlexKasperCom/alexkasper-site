@@ -50,6 +50,7 @@
     "title" .Title
     "url" .Permalink
     "summary" .Params.summary
+    "issn" .Params.issn
   )
   "issue_count" (len $issues)
   "issues" $issues

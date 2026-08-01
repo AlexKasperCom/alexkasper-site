@@ -29,10 +29,24 @@
 {{- end }}
 {{- if $keywords }}{{ $ld = merge $ld (dict "keywords" (delimit $keywords ", ")) }}{{ end }}
 {{- if and .Params.issue .Params.series }}
+  {{- /* Look up the linked project page (e.g. tap-archive) the same way
+    visit-project.html does, so the periodical's ISSN — recorded once on
+    the project, not duplicated per issue — can be included here. */ -}}
+  {{- $projects := .Params.projects }}
+  {{- $projectPage := "" }}
+  {{- if $projects }}
+    {{- range where site.RegularPages "Section" "projects" }}
+      {{- if in $projects .Slug }}{{ $projectPage = . }}{{ end }}
+    {{- end }}
+  {{- end }}
+  {{- $periodical := dict "@type" "Periodical" "name" .Params.series }}
+  {{- with $projectPage }}
+    {{- with .Params.issn }}{{ $periodical = merge $periodical (dict "issn" .) }}{{ end }}
+  {{- end }}
   {{- $ld = merge $ld (dict "isPartOf" (dict
     "@type" "PublicationIssue"
     "issueNumber" (printf "%v" .Params.issue)
-    "isPartOf" (dict "@type" "Periodical" "name" .Params.series)
+    "isPartOf" $periodical
   )) }}
 {{- end }}
 <script type="application/ld+json">
