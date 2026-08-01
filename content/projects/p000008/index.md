@@ -9,6 +9,7 @@ status: archive
 
 issn: "0194-3936"  # https://portal.issn.org/resource/ISSN/0194-3936 — "TAP (New York)"
 wikidata: "Q2383604"  # https://www.wikidata.org/wiki/Q2383604
+oclc: "11801135"  # https://search.worldcat.org/title/11801135
 
 mailingListInterest:  # Optional "Join the Mailing List" button (Social Engineering | Cybersecurity | Speaking & Events | Books | Training)
 
@@ -28,7 +29,7 @@ related:              # Related content ids:
 draft: false           # Set to false when ready to publish.
 ---
 
-*TAP* is the original phone-phreaking and hacking newsletter. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and the many hacking publications that followed. It started in June 1971 as the ***Youth International Party Line*** (YIPL), a mimeographed sheet by *Al Bell* and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. With issue 21 it became *TAP*, initially standing for "Technological American Party" and later "Technological Assistance Program." The periodical is catalogued under [ISSN 0194-3936](https://portal.issn.org/resource/ISSN/0194-3936) and has a [Wikidata entry](https://www.wikidata.org/wiki/Q2383604).
+*TAP* is the original phone-phreaking and hacking newsletter. It predated *[2600](https://en.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)*, *[Phrack](https://en.wikipedia.org/wiki/Phrack)*, and the many hacking publications that followed. It started in June 1971 as the ***Youth International Party Line*** (YIPL), a mimeographed sheet by *Al Bell* and [Abbie Hoffman](https://en.wikipedia.org/wiki/Abbie_Hoffman) that mixed phone phreaking with New Left politics. With issue 21 it became *TAP*, initially standing for "Technological American Party" and later "Technological Assistance Program." The periodical is catalogued under [ISSN 0194-3936](https://portal.issn.org/resource/ISSN/0194-3936), has a [Wikidata entry](https://www.wikidata.org/wiki/Q2383604), and is held under [OCLC 11801135](https://search.worldcat.org/title/11801135).
 
 Over its run it covered how to build [blue boxes](https://en.wikipedia.org/wiki/Blue_box), [red boxes](https://en.wikipedia.org/wiki/Red_box_(phreaking)), [black boxes](https://en.wikipedia.org/wiki/Black_box_(phreaking)), credit card codes, lock picking, pirate radio, and a long catalog of methods for unauthorized access, fraud, and theft of service. The original run of 91 issues went from June 1971 to March 1984.
 

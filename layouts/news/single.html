@@ -30,9 +30,9 @@
 {{- if $keywords }}{{ $ld = merge $ld (dict "keywords" (delimit $keywords ", ")) }}{{ end }}
 {{- if and .Params.issue .Params.series }}
   {{- /* Look up the linked project page (e.g. tap-archive) the same way
-    visit-project.html does, so the periodical's ISSN and Wikidata link —
-    recorded once on the project, not duplicated per issue — can be
-    included here. */ -}}
+    visit-project.html does, so the periodical's ISSN, Wikidata, and OCLC
+    identifiers — recorded once on the project, not duplicated per issue —
+    can be included here. */ -}}
   {{- $projects := .Params.projects }}
   {{- $projectPage := "" }}
   {{- if $projects }}
@@ -43,9 +43,14 @@
   {{- $periodical := dict "@type" "Periodical" "name" .Params.series }}
   {{- with $projectPage }}
     {{- with .Params.issn }}{{ $periodical = merge $periodical (dict "issn" .) }}{{ end }}
+    {{- $sameAs := slice }}
     {{- with .Params.wikidata }}
-      {{- $periodical = merge $periodical (dict "sameAs" (printf "https://www.wikidata.org/wiki/%s" .)) }}
+      {{- $sameAs = $sameAs | append (printf "https://www.wikidata.org/wiki/%s" .) }}
     {{- end }}
+    {{- with .Params.oclc }}
+      {{- $sameAs = $sameAs | append (printf "https://search.worldcat.org/title/%s" .) }}
+    {{- end }}
+    {{- if $sameAs }}{{ $periodical = merge $periodical (dict "sameAs" $sameAs) }}{{ end }}
   {{- end }}
   {{- $ld = merge $ld (dict "isPartOf" (dict
     "@type" "PublicationIssue"

@@ -52,6 +52,7 @@
     "summary" .Params.summary
     "issn" .Params.issn
     "wikidata" .Params.wikidata
+    "oclc" .Params.oclc
   )
   "issue_count" (len $issues)
   "issues" $issues

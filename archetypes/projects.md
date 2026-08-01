@@ -11,6 +11,9 @@ issn:                 # Optional. ISSN of the periodical, if this project
 
 wikidata:             # Optional. Wikidata QID for this entity, e.g. "Q2383604".
 
+oclc:                 # Optional. WorldCat/OCLC number, if this project
+                      # represents a catalogued work, e.g. "11801135".
+
 mailingListInterest:  # Optional "Join the Mailing List" button (Social Engineering | Cybersecurity | Speaking & Events | Books | Training)
 
 summary:              # One- or two-sentence summary.
