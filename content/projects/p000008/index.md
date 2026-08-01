@@ -43,7 +43,9 @@ As readership grew, interest in obtaining free services started overshadowing te
 
 **Beginning of the end**
 
-In 1983 someone broke into editor *Tom Edison*'s apartment (which also served as the *TAP* office), stole the mailing list, financial records, computer, and stereo, and set the place on fire. Edison left the project. *[Cheshire Catalyst](https://archive.org/details/HOPE-1-The_History_of_TAP_Magazine)* continued publishing TAP for several more issues into 1984 before it ended at issue 91. Later revivals under different editors produced material that was either unrelated to the original run or merely reprinted it and are not included here (they can be [found on the Internet Archive](https://archive.org/details/yipltap/TAP-92/)).
+In 1983 someone broke into editor *Tom Edison*'s apartment (which also served as the *TAP* office), stole the mailing list, financial records, computer, and stereo, and set the place on fire. Edison left the project. *[Cheshire Catalyst](https://archive.org/details/HOPE-1-The_History_of_TAP_Magazine)* continued publishing TAP for several more issues into 1984 before it ended at issue 91. 
+
+Later revivals under different editors produced material that was either unrelated to the original run or merely reprinted it and are not included here (they can be [found on the Internet Archive](https://archive.org/details/yipltap/TAP-92/)).
 
 The end of TAP also coincided with a major change in the telecommunications landscape. On January 1, 1984, AT&T was divested, ending the Bell System monopoly that had been TAP's primary target throughout most of its run.
 
@@ -51,6 +53,6 @@ This archive is presented as a historical record of how restricted technical inf
 
 **The Archive**
 
-Click any title below to view and download a cleaned-up PDF scan of the original newsletter. Most come from the [Computer History Museum](https://www.computerhistory.org/collections/catalog/600000568/record/102734878/) via a [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/), with a few from private collections and [archive.org](https://archive.org/details/YIPLTAP_1-91). These aren't raw copies: we restructured the pages for better readability on any device and re-ran OCR for improved discovery and [search](/search). Some of the later scans are pretty rough, so if you have cleaner copies, please [get in touch](/contact) and I'll replace them. Want to be notified of updates? [Join the mailing list.](/mailing-list)
+Click any title below to view and download a cleaned-up PDF scan of the original newsletter. Most come from the [Computer History Museum](https://www.computerhistory.org/collections/catalog/600000568/record/102734878/) via a [gift of Jim Warren](https://www.computerhistory.org/collections/catalog/102733961/), with a few from private collections and [archive.org](https://archive.org/details/YIPLTAP_1-91). These aren't raw copies: we restructured the pages for better readability on any device and re-ran OCR for improved discovery and [search](/search). Some of the later scans are pretty rough, so if you have cleaner copies, please [get in touch](/contact) and we'll replace them. Want to be notified of any updates? [Join the mailing list.](/mailing-list)
 
 {{< back-issues "tap-archive" >}}
