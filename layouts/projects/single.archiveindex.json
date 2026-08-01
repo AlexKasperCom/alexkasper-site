@@ -51,6 +51,7 @@
     "url" .Permalink
     "summary" .Params.summary
     "issn" .Params.issn
+    "wikidata" .Params.wikidata
   )
   "issue_count" (len $issues)
   "issues" $issues
