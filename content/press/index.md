@@ -20,22 +20,26 @@ at_a_glance:
   - "Based in Montréal, Canada"
 
 bios:
-  - label: "25 words"
-    context: "Conference programs"
+  - label: "One-Liner"
+    context: "~15 words"
     text: "Alex Kasper spent his teenage years in the hacker underground with Kevin Mitnick, later co-founded Defensive Thinking, and now researches deception, urgency, and social engineering."
 
-  - label: "75 words"
-    context: "Podcast intros"
+  - label: "Short Bio"
+    context: "~80 words, third person"
     text: "Montréal-based Alex Kasper has spent more than four decades at the intersection of technology, trust, and human behavior. As a teenager in Southern California he joined the early hacker and phone-phreak community alongside Kevin Mitnick. Together they later co-founded Defensive Thinking, creating the world's first certification for defending against social engineering. Today Alex researches manipulation and manufactured urgency, and how those techniques scale with AI. He is the author of the forthcoming book Manufactured Urgency."
 
-  - label: "150 words"
-    context: "Most common"
+  - label: "Full Bio"
+    context: "~250 words, third person"
     text: |
       Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone-phreak community alongside Kevin Mitnick and others, driven by curiosity rather than profit. That same curiosity later led him into software, telecommunications, cybersecurity, and entrepreneurship.
 
       In the early 2000s Alex co-founded the security consultancy Defensive Thinking with Kevin Mitnick. Together they developed the Certified Social Engineering Prevention Specialist (CSEPS) program, the world's first professional certification dedicated to defending against social engineering, and trained corporations, government agencies, and military organizations including the U.S. Air Force and Marines. Alex is acknowledged in Mitnick's books, including Ghost in the Wires.
 
       Today, based in Montréal, Alex researches the mechanics of manipulation, social engineering, and manufactured urgency, and how those techniques scale with AI. He is the author of the forthcoming book Manufactured Urgency.
+
+backgrounder:
+  label: "Backgrounder"
+  context: "Long-form, with sources"
 
 interview_topics:
   - "Why urgency is the oldest trick in the con artist's playbook"

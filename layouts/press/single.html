@@ -54,8 +54,8 @@
 
               <div class="bio-tier bio-tier--full">
                 <div class="bio-tier__head">
-                  <h3>Full Biography</h3>
-                  <span class="bio-tier__context">Long-form, with sources</span>
+                  <h3>{{ $.Params.backgrounder.label | default "Backgrounder" }}</h3>
+                  {{ with $.Params.backgrounder.context }}<span class="bio-tier__context">{{ . }}</span>{{ end }}
                 </div>
                 <div class="bio-tier__text bio-tier__text--full">
                   {{ $.Content }}
