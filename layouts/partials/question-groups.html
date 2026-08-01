@@ -1,0 +1,28 @@
+{{/*
+Reusable grouped-question list. Modeled on partials/faq.html's data
+shape (group title + list), but without the <details> disclosure —
+these are prompts for interviewers, not answered questions, so there's
+nothing to expand.
+
+Expected front matter:
+question_groups:
+  - title: "Group title"
+    questions:
+      - "Question?"
+*/}}
+
+{{ with .Params.question_groups }}
+  <div class="question-groups">
+    {{ range . }}
+      <section class="question-group">
+        <h3>{{ .title }}</h3>
+
+        <ul>
+          {{ range .questions }}
+            <li>{{ . }}</li>
+          {{ end }}
+        </ul>
+      </section>
+    {{ end }}
+  </div>
+{{ end }}

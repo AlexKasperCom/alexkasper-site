@@ -144,32 +144,40 @@ Any project can use this shortcode as long as its issues carry `projects` (match
 
 ## `photo-gallery`
 
-Renders a grid of thumbnails from the current page's `photos` front matter, each linking to the full-resolution image.
+Renders a grid of labeled thumbnails from the current page's `photos` front matter, each offering a separate web-resolution and print-resolution download.
 
-Template: `layouts/shortcodes/photo-gallery.html`
+Template: `layouts/partials/photo-gallery.html` (the actual rendering logic), with `layouts/shortcodes/photo-gallery.html` as a thin wrapper so it can also be dropped into a markdown body.
 
 ### Why it exists
 
-Pages like `/press` need a simple photo grid (headshots, event photos) without hand-writing image markup or wiring up a new layout per page. Front-matter-driven, like the `about` page's carousel, but for a plain grid rather than a slider.
+Pages like `/press` need a simple, labeled photo grid (headshots, event photos) without hand-writing image markup. Originally shortcode-only; moved to a partial so a page with its own dedicated layout (like `layouts/press/single.html`) can call it directly via `{{ partial "photo-gallery.html" . }}` instead of needing a markdown body just to host a shortcode. Front-matter-driven, like the `about` page's carousel, but for a plain grid rather than a slider.
 
 ### Usage
 
-Inline in any markdown body:
+From a layout template:
+
+```go-html-template
+{{ partial "photo-gallery.html" . }}
+```
+
+Or inline in any markdown body:
 
 ```text
 {{< photo-gallery >}}
 ```
 
-Reads its data from the page's own front matter — no arguments:
+Both read from the page's own front matter — no arguments:
 
 ```yaml
 photos:
-  - image: "ak-portrait-1.jpg"
-    thumb: "ak-portrait-1-square.jpg"
-    alt: "Alex Kasper, studio portrait"
+  - label: "Studio headshot"
+    thumb: "ak-portrait-1-web.jpg"
+    print: "ak-portrait-1.jpg"
+    alt: "Alex Kasper, studio headshot"
 
-  - image: "ak-speaking-1.jpg"
-    thumb: "ak-speaking-1.jpg"
+  - label: "Speaking photo"
+    thumb: "ak-speaking-1-web.jpg"
+    print: "ak-speaking-1.jpg"
     alt: "Alex Kasper speaking on stage"
 ```
 
@@ -177,33 +185,37 @@ photos:
 
 Each entry under `photos`:
 
-* `image` — the full-resolution page-resource filename; the thumbnail links here.
-* `thumb` — the page-resource filename actually displayed in the grid. Use a separate cropped file for a tighter square thumbnail, or repeat the same filename as `image` to use the full image as its own thumbnail.
+* `label` — caption shown under the thumbnail (e.g. "Studio headshot").
+* `thumb` — the page-resource filename used both as the grid image and as the "Web" download. Should be a lighter, resized/compressed file — not just a crop of the original — since it's also what loads in the grid.
+* `print` — the page-resource filename offered as the "Print" download; typically the full-resolution original.
 * `alt` — alt text for the thumbnail.
 
-Both `image` and `thumb` must be page resources (files sitting alongside `index.md` in the same page bundle) — the shortcode resolves them with `Resources.GetMatch` and silently skips any entry where either file isn't found.
+Both `thumb` and `print` must be page resources (files sitting alongside `index.md` in the same page bundle) — the partial resolves them with `Resources.GetMatch` and silently skips any entry where either file isn't found.
 
 ### Output
 
-Renders a CSS grid of square-cropped thumbnails, each wrapped in a link to the full-resolution original (opens in a new tab). When `thumb` differs from `image`, both versions are offered as separate download links below the thumbnail — "Square crop" and "Original" — rather than only exposing the original through the image link. When `thumb` and `image` are the same file, a single "Full size" link is shown instead:
+Renders a CSS grid of square thumbnails, each captioned with its `label` and two download links, "Web" and "Print":
 
 ```html
 <div class="photo-gallery">
   <figure class="photo-gallery__item">
     <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">
-      <img src="/press/ak-portrait-1-square.jpg" alt="Alex Kasper, studio portrait" width="2000" height="2000" loading="lazy">
+      <img src="/press/ak-portrait-1-web.jpg" alt="Alex Kasper, studio headshot" width="1200" height="1200" loading="lazy">
     </a>
-    <figcaption class="photo-gallery__links">
-      <a href="/press/ak-portrait-1-square.jpg" target="_blank" rel="noopener">Square crop</a>
-      <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">Original</a>
+    <figcaption>
+      <span class="photo-gallery__label">Studio headshot</span>
+      <span class="photo-gallery__links">
+        <a href="/press/ak-portrait-1-web.jpg" target="_blank" rel="noopener">Web</a>
+        <a href="/press/ak-portrait-1.jpg" target="_blank" rel="noopener">Print</a>
+      </span>
     </figcaption>
   </figure>
   ...
 </div>
 ```
 
-A small `<style>` block scoped to `.photo-gallery` is emitted alongside the grid.
+A small `<style>` block scoped to `.photo-gallery` is emitted alongside the grid by the partial itself, so both the shortcode and direct `partial` calls stay self-contained.
 
 ### Adding new photos
 
-Drop the image file(s) into the page's bundle directory, add an entry under `photos` in front matter, and (optionally) crop a square thumbnail alongside the original — no changes needed to the shortcode itself.
+Drop the full-resolution image into the page's bundle directory, generate a resized/compressed web version alongside it (e.g. `magick original.jpg -resize 1200x1200 -quality 82 original-web.jpg`), and add an entry under `photos` in front matter — no changes needed to the partial or shortcode.

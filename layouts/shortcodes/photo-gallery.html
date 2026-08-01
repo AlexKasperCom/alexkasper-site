@@ -1,72 +1,9 @@
 {{- /*
   Usage: {{< photo-gallery >}}
 
-  Renders a grid of thumbnails from the page's `photos` front matter,
-  each linking to the full-resolution image. Front matter shape:
-
-    photos:
-      - image: "photo.jpg"
-        thumb: "photo-square.jpg"
-        alt: "Description"
-
-  `image` is the full-resolution file the thumbnail links to; `thumb`
-  is what's actually displayed in the grid (a cropped version, or the
-  same filename as `image` if no separate crop exists).
+  Thin wrapper around partials/photo-gallery.html so a photo grid can
+  also be dropped inline into any markdown page body, not just pages
+  with a dedicated layout. See that partial for the front matter shape
+  and docs/shortcodes.md for full documentation.
 */ -}}
-{{- with .Page.Params.photos -}}
-  <div class="photo-gallery">
-    {{- range . }}
-      {{- $full := $.Page.Resources.GetMatch .image }}
-      {{- $thumb := $.Page.Resources.GetMatch .thumb }}
-      {{- if and $full $thumb }}
-        <figure class="photo-gallery__item">
-          <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">
-            <img
-              src="{{ $thumb.RelPermalink }}"
-              alt="{{ .alt }}"
-              width="{{ $thumb.Width }}"
-              height="{{ $thumb.Height }}"
-              loading="lazy">
-          </a>
-          <figcaption class="photo-gallery__links">
-            {{- if ne $thumb.RelPermalink $full.RelPermalink }}
-              <a href="{{ $thumb.RelPermalink }}" target="_blank" rel="noopener">Square crop</a>
-              <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">Original</a>
-            {{- else }}
-              <a href="{{ $full.RelPermalink }}" target="_blank" rel="noopener">Full size</a>
-            {{- end }}
-          </figcaption>
-        </figure>
-      {{- end }}
-    {{- end }}
-  </div>
-  <style>
-    .photo-gallery {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-      gap: 16px;
-      margin: 24px 0;
-    }
-
-    .photo-gallery__item {
-      margin: 0;
-    }
-
-    .photo-gallery__item img {
-      display: block;
-      width: 100%;
-      height: auto;
-      aspect-ratio: 1 / 1;
-      object-fit: cover;
-      border-radius: 4px;
-    }
-
-    .photo-gallery__links {
-      display: flex;
-      justify-content: center;
-      gap: 10px;
-      margin-top: 6px;
-      font-size: 1.3rem;
-    }
-  </style>
-{{- end -}}
+{{- partial "photo-gallery.html" .Page -}}

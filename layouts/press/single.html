@@ -1,0 +1,521 @@
+{{ define "main" }}
+
+<main id="primary">
+  <section class="content clearfix">
+    <section class="block">
+      <article class="page press-kit" data-pagefind-body>
+
+        <header class="press-hero">
+          <h1 data-pagefind-meta="title">{{ .Title }}</h1>
+
+          {{ with .Params.hero.intro }}
+            <p class="press-hero__intro">{{ . }}</p>
+          {{ end }}
+
+          {{ with .Params.hero.buttons }}
+            <div class="press-hero__buttons">
+              {{ range $index, $button := . }}
+                <a
+                  class="press-button {{ if eq $index 0 }}press-button--primary{{ else }}press-button--secondary{{ end }}"
+                  href="{{ $button.href }}">
+                  {{ $button.label }}
+                </a>
+              {{ end }}
+            </div>
+          {{ end }}
+        </header>
+
+        {{ with .Params.at_a_glance }}
+          <section id="at-a-glance" class="press-section press-glance">
+            <h2>At a Glance</h2>
+            <ul>
+              {{ range . }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+
+        {{ with .Params.bios }}
+          <section id="biography" class="press-section">
+            <h2>Biography</h2>
+
+            <div class="bio-tiers">
+              {{ range . }}
+                <div class="bio-tier">
+                  <div class="bio-tier__head">
+                    <h3>{{ .label }}</h3>
+                    {{ with .context }}<span class="bio-tier__context">{{ . }}</span>{{ end }}
+                  </div>
+                  <div class="bio-tier__text">{{ .text | markdownify }}</div>
+                  <button type="button" class="bio-tier__copy" data-copy-button>Copy</button>
+                </div>
+              {{ end }}
+
+              <div class="bio-tier bio-tier--full">
+                <div class="bio-tier__head">
+                  <h3>Full Biography</h3>
+                  <span class="bio-tier__context">Long-form, with sources</span>
+                </div>
+                <div class="bio-tier__text bio-tier__text--full">
+                  {{ $.Content }}
+                </div>
+                <button type="button" class="bio-tier__copy" data-copy-button>Copy</button>
+              </div>
+            </div>
+          </section>
+        {{ end }}
+
+        {{ with .Params.interview_topics }}
+          <section id="interview-topics" class="press-section">
+            <h2>Interview Topics</h2>
+            <ul class="interview-topics">
+              {{ range . }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+
+        {{ with .Params.question_groups }}
+          <section id="sample-questions" class="press-section">
+            <h2>Sample Questions</h2>
+            <p class="press-section__note">A starting point, not a script — pull whatever fits the story.</p>
+            {{ partial "question-groups.html" $ }}
+          </section>
+        {{ end }}
+
+        {{ if or .Params.featured_media .Params.selected_coverage }}
+          <section id="featured-media" class="press-section">
+            <h2>Featured Media</h2>
+
+            {{ with .Params.featured_media }}
+              <ul class="featured-media-logos">
+                {{ range . }}
+                  <li id="{{ .id }}">
+                    <a href="{{ .page | relURL }}"><span>{{ .name }}</span></a>
+                  </li>
+                {{ end }}
+              </ul>
+            {{ end }}
+
+            {{ with .Params.selected_coverage }}
+              {{ $items := slice }}
+              {{ range . }}
+                {{ with (where site.RegularPages "Params.id" .) }}
+                  {{ $items = $items | append (index . 0) }}
+                {{ end }}
+              {{ end }}
+              {{ $items = sort $items "Date" "desc" }}
+
+              <h3>Selected Coverage</h3>
+              <ul class="selected-coverage">
+                {{ range $items }}
+                  <li>
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                    {{ with .Params.publisher }} — {{ . }}{{ end }}
+                    {{ with .Date }}, {{ .Format "Jan 2006" }}{{ end }}
+                  </li>
+                {{ end }}
+              </ul>
+            {{ end }}
+          </section>
+        {{ end }}
+
+        {{ if .Params.photos }}
+          <section id="photos" class="press-section">
+            <h2>Photos</h2>
+            {{ partial "photo-gallery.html" . }}
+          </section>
+        {{ end }}
+
+        {{ with .Params.books_projects }}
+          <section id="books-projects" class="press-section">
+            <h2>Books &amp; Projects</h2>
+            <ul class="books-projects">
+              {{ range . }}
+                {{ $entry := . }}
+                <li>
+                  {{ if $entry.id }}
+                    {{ with (where site.RegularPages "Params.id" $entry.id) }}
+                      <a href="{{ (index . 0).RelPermalink }}">{{ $entry.title }}</a>
+                    {{ else }}
+                      {{ $entry.title }}
+                    {{ end }}
+                  {{ else }}
+                    {{ $entry.title }}
+                  {{ end }}
+                  {{ with $entry.note }} <span class="books-projects__note">({{ . }})</span>{{ end }}
+                </li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+
+        {{ with .Params.story_angles }}
+          <section id="story-angles" class="press-section">
+            <h2>Story Angles</h2>
+            <p class="press-section__note">Kinds of stories Alex is well suited to contribute to, rather than a description of him.</p>
+            <ul class="story-angles">
+              {{ range . }}
+                <li>{{ . }}</li>
+              {{ end }}
+            </ul>
+          </section>
+        {{ end }}
+
+        {{ with .Params.contact_sections }}
+          <section id="contact" class="press-section">
+            <h2>Contact</h2>
+            <div class="press-contact-sections">
+              {{ range . }}
+                <div class="press-contact-section">
+                  <h3>{{ .title }}</h3>
+                  <a href="mailto:{{ .email }}">{{ with .name }}{{ . }} — {{ end }}{{ .email }}</a>
+                </div>
+              {{ end }}
+            </div>
+          </section>
+        {{ end }}
+
+      </article>
+    </section>
+  </section>
+</main>
+
+<style>
+  .press-hero {
+    text-align: center;
+    padding: 10px 0 20px;
+  }
+
+  .press-hero__intro {
+    max-width: 640px;
+    margin: 0 auto 24px;
+    font-size: 1.7rem;
+    line-height: 2.4rem;
+  }
+
+  .press-hero__buttons {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+
+  .press-button {
+    display: inline-block;
+    padding: 14px 28px;
+    border-radius: 4px;
+    font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.4rem;
+    letter-spacing: 0.05rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: 2px solid #323232;
+  }
+
+  .press-button--primary {
+    background: #323232;
+    color: #fff;
+  }
+
+  .press-button--primary:hover {
+    background: #ff5f24;
+    border-color: #ff5f24;
+    color: #fff;
+  }
+
+  .press-button--secondary {
+    background: transparent;
+    color: #323232;
+  }
+
+  .press-button--secondary:hover {
+    border-color: #ff5f24;
+    color: #ff5f24;
+  }
+
+  .press-section {
+    margin-top: 48px;
+  }
+
+  .press-section__note {
+    margin-top: -12px;
+    margin-bottom: 20px;
+    font-style: italic;
+    color: #927461;
+  }
+
+  .press-glance {
+    padding: 24px 28px;
+    background: #f4ede8;
+    border-radius: 5px;
+  }
+
+  .press-glance ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 10px 24px;
+  }
+
+  .press-glance li {
+    position: relative;
+    padding-left: 18px;
+    list-style: none;
+  }
+
+  .press-glance li::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 10px;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #ff5f24;
+  }
+
+  .bio-tiers {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .bio-tier {
+    padding: 20px 24px;
+    border: 1px solid #e3d8d0;
+    border-radius: 5px;
+  }
+
+  .bio-tier__head {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+
+  .bio-tier__head h3 {
+    margin: 0;
+  }
+
+  .bio-tier__context {
+    font-size: 1.3rem;
+    color: #927461;
+    text-transform: uppercase;
+    letter-spacing: 0.03rem;
+  }
+
+  .bio-tier__text {
+    margin: 0 0 14px;
+  }
+
+  .bio-tier__text--full :where(h4) {
+    margin-top: 24px;
+  }
+
+  .bio-tier__copy {
+    padding: 8px 18px;
+    border: 1px solid #323232;
+    border-radius: 4px;
+    background: transparent;
+    color: #323232;
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03rem;
+    cursor: pointer;
+  }
+
+  .bio-tier__copy:hover {
+    border-color: #ff5f24;
+    color: #ff5f24;
+  }
+
+  .interview-topics,
+  .story-angles {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .interview-topics li,
+  .story-angles li {
+    padding: 14px 0;
+    border-bottom: 1px solid #e3d8d0;
+    font-family: "futura-pt", "Segoe UI", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 1.7rem;
+    letter-spacing: 0.02rem;
+    list-style: none;
+  }
+
+  .interview-topics li:last-child,
+  .story-angles li:last-child {
+    border-bottom: none;
+  }
+
+  .question-groups {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 28px;
+  }
+
+  .question-group h3 {
+    margin-bottom: 10px;
+  }
+
+  .question-group ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .question-group li {
+    padding: 8px 0;
+    border-bottom: 1px solid #e3d8d0;
+    list-style: none;
+  }
+
+  .question-group li:last-child {
+    border-bottom: none;
+  }
+
+  .featured-media-logos {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 30px;
+    margin: 0 0 24px;
+    padding: 30px 28px;
+    background: #927461;
+    border-radius: 5px;
+    list-style: none;
+  }
+
+  .featured-media-logos li {
+    list-style: none;
+  }
+
+  .featured-media-logos li span {
+    display: block;
+    text-indent: -9999px;
+    overflow: hidden;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+  }
+
+  .featured-media-logos li#wired span {
+    width: 101px;
+    height: 20px;
+    background-image: url("/img/featured/wired-01.svg");
+  }
+
+  .featured-media-logos li#wallStreetJournal span {
+    width: 198px;
+    height: 60px;
+    background-image: url("/img/featured/wallStreetJournal-01.svg");
+  }
+
+  .featured-media-logos li#kfiAm640 span {
+    width: 150px;
+    height: 50px;
+    background-image: url("/img/featured/kfiAm640-01.svg");
+  }
+
+  .featured-media-logos li#businessWire span {
+    width: 170px;
+    height: 34px;
+    background-image: url("/img/featured/businessWire-01.svg");
+  }
+
+  .featured-media-logos li#electronicGamingMonthly span {
+    width: 190px;
+    height: 45px;
+    background-image: url("/img/featured/electronicGamingMonthly-01.svg");
+  }
+
+  .selected-coverage {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .selected-coverage li {
+    padding: 10px 0;
+    border-bottom: 1px solid #e3d8d0;
+    list-style: none;
+  }
+
+  .selected-coverage li:last-child {
+    border-bottom: none;
+  }
+
+  .books-projects,
+  .press-contact-sections {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .books-projects li {
+    padding: 10px 0;
+    border-bottom: 1px solid #e3d8d0;
+    list-style: none;
+  }
+
+  .books-projects li:last-child {
+    border-bottom: none;
+  }
+
+  .books-projects__note {
+    color: #927461;
+  }
+
+  .press-contact-sections {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+
+  .press-contact-section {
+    padding: 18px 20px;
+    border: 1px solid #e3d8d0;
+    border-radius: 5px;
+  }
+
+  .press-contact-section h3 {
+    margin-bottom: 8px;
+  }
+
+  @media screen and (max-width: 700px) {
+    .press-hero__buttons {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  document.querySelectorAll("[data-copy-button]").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var textEl = btn.previousElementSibling;
+      var text = textEl.innerText.trim();
+      var original = btn.textContent;
+
+      navigator.clipboard.writeText(text).then(function () {
+        btn.textContent = "Copied!";
+        setTimeout(function () {
+          btn.textContent = original;
+        }, 1500);
+      });
+    });
+  });
+});
+</script>
+
+{{ end }}

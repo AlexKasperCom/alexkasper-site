@@ -1,0 +1,83 @@
+{{- /*
+  Usage: {{ partial "photo-gallery.html" . }}   (. = a Page)
+
+  Renders a grid of thumbnails from the page's `photos` front matter,
+  each labeled and linking to both a web-resolution and a print-
+  resolution download. Front matter shape:
+
+    photos:
+      - label: "Studio headshot"
+        thumb: "photo-web.jpg"
+        print: "photo.jpg"
+        alt: "Description"
+
+  `thumb` is the lighter, web-resolution file — used both as the grid
+  image and as the "Web" download. `print` is the full-resolution file
+  offered as the "Print" download.
+*/ -}}
+{{- with .Params.photos -}}
+  <div class="photo-gallery">
+    {{- range . }}
+      {{- $thumb := $.Resources.GetMatch .thumb }}
+      {{- $print := $.Resources.GetMatch .print }}
+      {{- if and $thumb $print }}
+        <figure class="photo-gallery__item">
+          <a href="{{ $print.RelPermalink }}" target="_blank" rel="noopener">
+            <img
+              src="{{ $thumb.RelPermalink }}"
+              alt="{{ .alt }}"
+              width="{{ $thumb.Width }}"
+              height="{{ $thumb.Height }}"
+              loading="lazy">
+          </a>
+          <figcaption>
+            <span class="photo-gallery__label">{{ .label }}</span>
+            <span class="photo-gallery__links">
+              <a href="{{ $thumb.RelPermalink }}" target="_blank" rel="noopener">Web</a>
+              <a href="{{ $print.RelPermalink }}" target="_blank" rel="noopener">Print</a>
+            </span>
+          </figcaption>
+        </figure>
+      {{- end }}
+    {{- end }}
+  </div>
+  <style>
+    .photo-gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 24px;
+      margin: 24px 0;
+    }
+
+    .photo-gallery__item {
+      margin: 0;
+    }
+
+    .photo-gallery__item img {
+      display: block;
+      width: 100%;
+      height: auto;
+      aspect-ratio: 1 / 1;
+      object-fit: cover;
+      border-radius: 4px;
+    }
+
+    .photo-gallery__item figcaption {
+      margin-top: 8px;
+      text-align: center;
+    }
+
+    .photo-gallery__label {
+      display: block;
+      font-size: 1.4rem;
+      margin-bottom: 4px;
+    }
+
+    .photo-gallery__links {
+      display: flex;
+      justify-content: center;
+      gap: 10px;
+      font-size: 1.3rem;
+    }
+  </style>
+{{- end -}}
