@@ -72,6 +72,91 @@ Any new section works automatically as long as its front matter includes an `id`
 
 ---
 
+## Citations & footnotes (`cite`, `fn`, `references`)
+
+Wikipedia-style citations: a bracketed, superscript number in prose — `[1]` — linked to a numbered, formatted reference list at the bottom of the page, with backlinks from each list entry to every place it's cited.
+
+Templates:
+
+* `layouts/partials/cite-format.html` — the actual citation formatter (shared by both paths below)
+* `layouts/shortcodes/cite.html` — manual path
+* `layouts/shortcodes/fn.html` + `layouts/shortcodes/references.html` — auto-collected path
+* `layouts/partials/footnote-backrefs.html` — JS included site-wide, only relevant to the manual path (see below)
+
+There are **two ways to cite something**, and they render identically — pick whichever fits how you're writing.
+
+### Path 1: `fn` + `references` (auto-collected — use this one)
+
+Drop a citation marker in prose:
+
+```text
+CSEPS was delivered as a two-day course.{{< fn "n000069" >}}
+```
+
+and once, near the bottom of the page, after every citation it should cover:
+
+```text
+{{< references >}}
+```
+
+`{{< references >}}` takes no arguments — it reads back whatever `{{< fn >}}` calls appeared earlier in the *same page* and renders the full list from that, in first-citation order. There's nothing else to maintain: add, remove, or reorder `{{< fn >}}` calls in the prose and the list at the bottom follows automatically.
+
+This works by writing to the page's build-time `.Store` as each `{{< fn "n000069" >}}` renders (first-seen order, plus a per-id usage count for backlinks), which `{{< references >}}` then reads back. Because of that, **`{{< references >}}` must come after every `{{< fn >}}` call it's meant to include** — Hugo renders shortcodes in document order, so a `{{< references >}}` placed too early would simply miss later citations. In practice this just means: keep it at the bottom, like a normal references section.
+
+### Path 2: `cite` + native Markdown footnotes (manual)
+
+The older path, still supported, useful when you want a specific footnote label with its own locator (see below) rather than one shared entry per source:
+
+```text
+CSEPS was delivered as a two-day course.[^n000069]
+
+[^n000069]: {{< cite "n000069" >}}
+```
+
+This pairs `cite` with **Hugo's built-in Goldmark footnote extension**, which is on by default (no config needed) — standard Markdown `[^label]` / `[^label]: ...` syntax. The definitions can live anywhere in the file; by convention, group them at the bottom. The trade-off versus Path 1: you're maintaining two things in sync by hand — the `[^label]` markers in prose and the matching `[^label]: {{< cite ... >}}` definitions.
+
+Reuse the same label to cite a source more than once:
+
+```text
+Mitnick and Kasper developed CSEPS in 2003.[^n000069] ... It was later delivered nationwide.[^n000069]
+```
+
+### Both paths: citing the same source twice
+
+Whichever path you use, citing the same source more than once on a page collapses to **one** numbered entry in the list, with one backlink per place it's cited — Wikipedia's "^ a b c" convention. A source cited once gets a single linked "^"; cited more than once, "^" becomes a plain (non-linked) marker followed by lettered superscript links (a, b, c, ...), one per citation, each jumping back to that specific spot in the prose.
+
+For Path 1 (`fn`/`references`) this is built server-side in `references.html`, straightforwardly, since the shortcode controls the HTML directly.
+
+For Path 2 (native `[^label]` footnotes), Goldmark always renders backlinks as plain trailing arrows (`↩`), one per usage, at the *end* of the entry — Hugo exposes no render hook for footnotes, so there's no template-level way to change that shape. `footnote-backrefs.html` (included site-wide from `baseof.html`, a no-op on any page without a `.footnotes` block) is a small vanilla-JS pass that runs after page load and rewrites that trailing-arrows markup into the same "^ a b c" group at the *front* of the entry, to match Path 1's output. If JS is disabled, the original trailing-arrow version still works — `.footnote-backref` in `ak.css` is kept as that fallback.
+
+### Citation format (shared by both paths)
+
+`cite-format.html` renders Wikipedia CS1-style punctuation:
+
+```text
+With an author:     Author (Date). "Title". Publisher. Locator.
+Without an author:  "Title". Publisher. Date. Locator.
+```
+
+* Title is linked to the cited page. Quoted for most `source_type`s (article, webpage, newsletter, press-release, ...); **italicized instead of quoted** for `source_type: book` or `source_type: document` — a standalone work rather than something published inside a container publication (matches how Wikipedia itself formats book and internal-document citations, e.g. the CSEPS Training Workbook entries in `content/projects/p000004/index.md`).
+* If the cited page's `author` is the same organization as its `publisher` (an internal document whose only "author" is the company that produced it), the author is dropped rather than printed twice.
+* Set `date_precision: year` in the cited page's front matter when only the year of publication is known (its `date` field still needs a full `YYYY-MM-DD` value, e.g. `2003-01-01`, so it still sorts correctly) to display "2003" instead of a fabricated "January 1, 2003".
+* An optional second argument to `cite` (`{{< cite "n000080" "pp. 97–99" >}}`) appends a locator — page numbers, a timestamp — specific to that one citation, without touching the cited page's own `pages` field. Only available on Path 2, since Path 1 keys purely by id (citing the same id twice always collapses into one entry, with no way to attach a different locator to each usage).
+
+### Styling
+
+In `ak.css`:
+
+* `.footnote-ref::before`/`::after` add the `[` `]` brackets around the inline superscript number; `sup[id^="fnref"] { line-height: 0; }` stops the raised glyph from expanding the line box it sits on (otherwise lines with a citation get visibly different leading from lines without one).
+* `.footnotes` sizes and tightens the reference list itself (smaller and denser than body copy — it's a reference list, not prose) and hides the `<hr>` Goldmark inserts above it (redundant once there's already a `#### References`-style heading above the list).
+* `.fullPost h1`–`h6` puts a thin rule under every heading inside page content (`.fullPost` is the shared body-copy wrapper — see `layouts/*/single.html` templates), Wikipedia-style — scoped so it never reaches nav/header/footer/sidebar headings that have their own unrelated styling.
+
+### `cite`/`fn` vs. `ref-id`
+
+Use `cite` or `fn` for anything footnoted as the source for a specific claim. Keep using plain `{{< ref-id >}}` for ordinary in-body links to other pages that aren't functioning as a citation (e.g. "see `{{< ref-id "n000003" >}}` for more on this").
+
+---
+
 ## `back-issues`
 
 Renders a table listing every page tagged with a given project slug, sorted by issue number, each row linking to its page.

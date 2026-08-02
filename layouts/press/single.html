@@ -57,7 +57,7 @@
                   <h3>{{ $.Params.backgrounder.label | default "Backgrounder" }}</h3>
                   {{ with $.Params.backgrounder.context }}<span class="bio-tier__context">{{ . }}</span>{{ end }}
                 </div>
-                <div class="bio-tier__text bio-tier__text--full">
+                <div class="bio-tier__text bio-tier__text--full fullPost">
                   {{ $.Content }}
                 </div>
                 <button type="button" class="bio-tier__copy" data-copy-button>Copy</button>

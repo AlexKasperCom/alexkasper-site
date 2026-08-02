@@ -1,0 +1,92 @@
+{{- /*
+  Formats a Wikipedia CS1-style bibliographic citation for the page whose
+  front-matter `id` matches the given id. Shared by the `cite` shortcode
+  (manual, standalone citations) and the `fn`/`references` shortcode pair
+  (auto-collected citations) so both produce identical formatting.
+
+  Call: {{ partial "cite-format.html" (dict "id" "n000069" "locator" "pp. 97–99" "page" .Page) }}
+
+  "locator" and "page" are optional. "page" is used only for the error
+  message when no match is found — pass the calling page's `.Page` so the
+  error names the right file.
+*/ -}}
+{{- $id := .id -}}
+{{- $locator := .locator -}}
+{{- $callingPage := .page -}}
+{{- $matches := where site.RegularPages "Params.id" $id -}}
+{{- with $matches -}}
+  {{- $page := index . 0 -}}
+  {{- $authors := $page.Params.author -}}
+  {{- $publisher := strings.TrimSuffix "." $page.Params.publisher -}}
+  {{- $authorStr := "" -}}
+  {{- if $authors -}}
+    {{- if reflect.IsSlice $authors -}}
+      {{- $n := len $authors -}}
+      {{- range $i, $a := $authors -}}
+        {{- if eq $i 0 -}}
+          {{- $authorStr = $a -}}
+        {{- else if eq $i (sub $n 1) -}}
+          {{- $authorStr = printf "%s and %s" $authorStr $a -}}
+        {{- else -}}
+          {{- $authorStr = printf "%s, %s" $authorStr $a -}}
+        {{- end -}}
+      {{- end -}}
+    {{- else -}}
+      {{- $authorStr = $authors -}}
+    {{- end -}}
+  {{- end -}}
+  {{- if eq (strings.TrimSuffix "." $authorStr) $publisher -}}
+    {{- $authorStr = "" -}}
+  {{- end -}}
+
+  {{- $dateStr := "" -}}
+  {{- with $page.Date -}}
+    {{- if not .IsZero -}}
+      {{- if eq $page.Params.date_precision "year" -}}
+        {{- $dateStr = .Format "2006" -}}
+      {{- else -}}
+        {{- $dateStr = .Format "January 2, 2006" -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- $titleLink := printf "<a href=%q>%s</a>" $page.RelPermalink $page.Title -}}
+  {{- $sourceType := $page.Params.source_type -}}
+  {{- $titleSegment := "" -}}
+  {{- if or (eq $sourceType "book") (eq $sourceType "document") -}}
+    {{- $titleSegment = printf "<em>%s</em>" $titleLink -}}
+  {{- else -}}
+    {{- $titleSegment = printf "&ldquo;%s&rdquo;" $titleLink -}}
+  {{- end -}}
+
+  {{- $out := "" -}}
+  {{- if $authorStr -}}
+    {{- $out = $authorStr -}}
+    {{- with $dateStr -}}
+      {{- $out = printf "%s (%s)" $out . -}}
+    {{- end -}}
+    {{- $out = printf "%s. %s." $out $titleSegment -}}
+    {{- with $publisher -}}
+      {{- $out = printf "%s <em>%s</em>." $out . -}}
+    {{- end -}}
+    {{- with $locator -}}
+      {{- $out = printf "%s %s." $out . -}}
+    {{- end -}}
+  {{- else -}}
+    {{- $out = printf "%s." $titleSegment -}}
+    {{- with $publisher -}}
+      {{- $out = printf "%s <em>%s</em>." $out . -}}
+    {{- end -}}
+    {{- with $dateStr -}}
+      {{- $out = printf "%s %s." $out . -}}
+    {{- end -}}
+    {{- with $locator -}}
+      {{- $out = printf "%s %s." $out . -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $out | safeHTML -}}
+{{- else -}}
+  {{- $where := "" -}}
+  {{- with $callingPage -}}{{ $where = .File.Path }}{{- end -}}
+  {{- errorf "cite-format: no page found with id %q (used in %q)" $id $where -}}
+{{- end -}}

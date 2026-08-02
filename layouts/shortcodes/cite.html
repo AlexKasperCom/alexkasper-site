@@ -1,0 +1,54 @@
+{{- /*
+  Usage: {{< cite "n000069" >}}
+         {{< cite "n000080" "pp. 97–99" >}}
+
+  Looks up a page anywhere on the site by its front-matter `id` field and
+  renders a Wikipedia CS1-style bibliographic citation for use inside a
+  Markdown footnote definition:
+
+    Mitnick and Kasper delivered CSEPS as a two-day course.[^n000069]
+
+    [^n000069]: {{< cite "n000069" >}}
+
+  Hugo's Goldmark renderer turns `[^n000069]` into a bracketed, superscript
+  number (see the `.footnote-ref` CSS in ak.css) linked to a references
+  list at the bottom of the page, with a backlink arrow back to each place
+  it's cited — the standard Hugo/Goldmark footnote extension, no extra
+  config needed. Reusing the same footnote label for the same source
+  elsewhere on the page collapses to one numbered entry with multiple
+  backlinks, the way Wikipedia's "^ a b c" citations work.
+
+  This is the manual, hand-maintained citation path — you write both the
+  `[^id]` marker in prose and the matching `[^id]: {{< cite "id" >}}`
+  definition. If you'd rather the reference list build itself from what's
+  actually cited in the prose, use {{< fn >}} + {{< references >}} instead
+  (see layouts/shortcodes/fn.html) — same output format, no separate list
+  to keep in sync. The actual formatting logic (author/date/title/
+  publisher punctuation, book-vs-article italics, etc.) lives in
+  layouts/partials/cite-format.html, shared by both paths.
+
+  Format, matching Wikipedia's CS1 punctuation:
+
+    With an author:    Author (Date). "Title". *Publisher*. Locator.
+    Without an author:  "Title". *Publisher*. Date. Locator.
+
+  `source_type: book` or `source_type: document` italicizes the title
+  instead of quoting it (a standalone work rather than an article inside
+  a container publication) — matches how the CSEPS Training Workbook
+  entries read on Wikipedia itself.
+
+  An optional second argument appends a locator (page numbers, a timestamp,
+  etc.) specific to that particular citation, without altering the page's
+  own front-matter `pages` field — useful when the same source is cited
+  at different pages/times in different footnotes.
+
+  If the cited page's author is the same organization as its publisher
+  (e.g. an internal document whose only "author" is the company that
+  produced it), the author is dropped rather than printed twice.
+
+  Set `date_precision: year` in the cited page's front matter when only
+  the year of publication is known (its `date` field still needs a full
+  YYYY-MM-DD value for sorting — this just controls display) to render
+  "2003" instead of a fabricated "January 1, 2003".
+*/ -}}
+{{- partial "cite-format.html" (dict "id" (.Get 0) "locator" (.Get 1) "page" .Page) -}}

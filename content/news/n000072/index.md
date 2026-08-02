@@ -8,9 +8,11 @@ draft: false
 source_type: article
 summary: "A profile contrasting the lives and careers of Alex Kasper and Kevin Mitnick."
 projects:
+  - cseps
   - defensive-thinking
   - kevin-mitnick-archive
 tags:
+  - cseps
   - kevin-mitnick
   - cybersecurity
   - social-engineering

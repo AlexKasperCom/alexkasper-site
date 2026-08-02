@@ -1,0 +1,65 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  var items = document.querySelectorAll(".footnotes li");
+  if (!items.length) return;
+
+  items.forEach(function (li) {
+    var backrefs = Array.prototype.slice.call(
+      li.querySelectorAll("a.footnote-backref")
+    );
+    if (!backrefs.length) return;
+
+    var p = li.querySelector("p") || li;
+    var lead = document.createElement("span");
+    lead.className = "footnote-backrefs";
+
+    if (backrefs.length === 1) {
+      var caret = document.createElement("a");
+      caret.href = backrefs[0].getAttribute("href");
+      caret.className = "footnote-backref-caret";
+      caret.textContent = "^";
+      lead.appendChild(caret);
+    } else {
+      var caret = document.createElement("span");
+      caret.className = "footnote-backref-caret";
+      caret.setAttribute("aria-hidden", "true");
+      caret.textContent = "^";
+      lead.appendChild(caret);
+
+      backrefs.forEach(function (ref, i) {
+        lead.appendChild(document.createTextNode(" "));
+        var letter = document.createElement("sup");
+        var link = document.createElement("a");
+        link.href = ref.getAttribute("href");
+        link.textContent = String.fromCharCode(97 + i);
+        letter.appendChild(link);
+        lead.appendChild(letter);
+      });
+    }
+
+    backrefs.forEach(function (ref) {
+      ref.remove();
+    });
+
+    // Goldmark inserts a &nbsp; text node right before each backref anchor
+    // as a separator — clean up whatever's left trailing now that the
+    // anchors themselves are gone.
+    var lastNode = p.lastChild;
+    while (
+      lastNode &&
+      lastNode.nodeType === Node.TEXT_NODE &&
+      /^[\s ]*$/.test(lastNode.textContent)
+    ) {
+      var toRemove = lastNode;
+      lastNode = lastNode.previousSibling;
+      p.removeChild(toRemove);
+    }
+    if (lastNode && lastNode.nodeType === Node.TEXT_NODE) {
+      lastNode.textContent = lastNode.textContent.replace(/[\s ]+$/, "");
+    }
+
+    lead.appendChild(document.createTextNode(" "));
+    p.insertBefore(lead, p.firstChild);
+  });
+});
+</script>

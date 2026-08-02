@@ -8,9 +8,11 @@ draft: false
 source_type: article
 summary: "A profile of Kevin Mitnick's transition from hacker to security educator."
 projects:
+  - cseps
   - defensive-thinking
   - kevin-mitnick-archive
 tags:
+  - cseps
   - kevin-mitnick
   - cybersecurity
   - social-engineering

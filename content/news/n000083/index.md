@@ -8,8 +8,10 @@ draft: false
 source_type: press-release
 summary: "Press release announcing Kevin Mitnick's partnership with security awareness training company KnowBe4, where he later served as Chief Hacking Officer."
 projects:
+  - cseps
   - kevin-mitnick-archive
 tags:
+  - cseps
   - kevin-mitnick
   - government-records
 author:

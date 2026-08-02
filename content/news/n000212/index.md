@@ -15,6 +15,7 @@ source_type: article
 summary: "At a social engineering prevention workshop in Sydney this week, Mitnick and business partner Alex Kasperavicius shared some of the tactics used by social engineers to bypass a company's technical security by exploiting employees' psychological vulnerabilities."
 
 projects:
+  - cseps
   - defensive-thinking
   - kevin-mitnick-archive
 
@@ -29,7 +30,7 @@ author:     "Kotadia, Munir"          # People: "Last, First"
                       #   - "Kasper, Alex"
                       #   - Associated Press
 
-publisher:            # Publication, publisher, production company, or releasing organization.
+publisher:            ZDNet
 
 source_url: https://www.zdnet.com/article/human-firewall-a-crucial-defence-mitnick/
 access_date:        2026-07-23

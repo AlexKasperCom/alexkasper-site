@@ -1,0 +1,53 @@
+{{- /*
+  Usage: {{< references >}}
+
+  Renders the reference list for every {{< fn "..." >}} citation used
+  earlier on this page, in first-citation order, formatted the same way
+  as the `cite` shortcode (see layouts/partials/cite-format.html). No
+  arguments — it reads back whatever this page's own {{< fn >}} calls
+  recorded, so there's no separate list to keep in sync with the prose.
+
+  Must appear after every {{< fn >}} call it's meant to cover (normally
+  once, near the bottom of the page) — Hugo/Goldmark renders shortcodes
+  in document order, so a {{< references >}} placed before some {{< fn >}}
+  calls would miss them.
+
+  Backlinks match Wikipedia's "^ a b c" convention: a source cited once
+  gets a single linked "^"; cited more than once, "^" becomes a plain
+  (non-linked) marker and separate lettered superscripts (a, b, c, ...)
+  link back to each individual place it was cited — built server-side
+  here, unlike the native-footnote path (see footnote-backrefs.html),
+  which has to do the same reshuffling client-side in JS since Hugo
+  exposes no render hook for Goldmark's own footnote output.
+
+  Renders nothing if the page has no {{< fn >}} citations.
+*/ -}}
+{{- $page := .Page -}}
+{{- $seen := $page.Store.Get "fn_seen" -}}
+{{- with $seen -}}
+<h4 id="references">References</h4>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+  {{- range $id := . -}}
+    {{- $countKey := printf "fn_count_%s" $id -}}
+    {{- $count := $page.Store.Get $countKey -}}
+    {{- if not $count -}}{{- $count = 1 -}}{{- end -}}
+    <li id="fn:{{ $id }}">
+      <span class="footnote-backrefs">
+        {{- if eq $count 1 -}}
+          <a href="#fnref:{{ $id }}:1" class="footnote-backref-caret">^</a>
+        {{- else -}}
+          <span class="footnote-backref-caret" aria-hidden="true">^</span>
+          {{- range $n := seq $count -}}
+            {{- $letter := printf "%c" (add 96 $n) -}}
+            {{ " " }}<sup><a href="#fnref:{{ $id }}:{{ $n }}">{{ $letter }}</a></sup>
+          {{- end -}}
+        {{- end -}}
+      </span>
+      {{- " " }}{{ partial "cite-format.html" (dict "id" $id "page" $page) }}
+    </li>
+  {{- end -}}
+</ol>
+</div>
+{{- end -}}

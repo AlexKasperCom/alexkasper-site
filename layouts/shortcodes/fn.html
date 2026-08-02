@@ -1,0 +1,44 @@
+{{- /*
+  Usage: {{< fn "n000069" >}}
+
+  Marks a claim in prose as sourced from the page whose front-matter `id`
+  is n000069, and records that citation on the page's build-time Store so
+  a later {{< references >}} call can render the full list — no separate
+  `[^n000069]: {{< cite "n000069" >}}` definition to maintain by hand.
+
+  Renders a bracketed, superscript number (e.g. [3]) linked down to that
+  entry in the references list. Citing the same id again anywhere else on
+  the page reuses the same number automatically, and {{< references >}}
+  renders a "^ a b c"-style set of backlinks — one per usage — the way
+  Wikipedia's citations work. Order on the page is first-citation order.
+
+  Pairs with {{< references >}}, which must appear later on the same page
+  (normally once, near the bottom) to actually render the list. A page
+  using {{< fn >}} without a matching {{< references >}} call will show
+  citation markers that don't link anywhere.
+
+  This is the auto-collected path. For a hand-maintained list instead (one
+  `[^id]` marker plus one matching `[^id]: {{< cite "id" >}}` definition
+  per citation), use Hugo's native Markdown footnote syntax with the
+  `cite` shortcode — see layouts/shortcodes/cite.html.
+*/ -}}
+{{- $id := .Get 0 -}}
+{{- $page := .Page -}}
+{{- $seen := $page.Store.Get "fn_seen" -}}
+{{- if not $seen -}}{{- $seen = slice -}}{{- end -}}
+{{- $index := -1 -}}
+{{- range $i, $s := $seen -}}
+  {{- if eq $s $id -}}{{- $index = $i -}}{{- end -}}
+{{- end -}}
+{{- if lt $index 0 -}}
+  {{- $seen = $seen | append $id -}}
+  {{- $page.Store.Set "fn_seen" $seen -}}
+  {{- $index = sub (len $seen) 1 -}}
+{{- end -}}
+{{- $number := add $index 1 -}}
+{{- $countKey := printf "fn_count_%s" $id -}}
+{{- $count := $page.Store.Get $countKey -}}
+{{- if not $count -}}{{- $count = 0 -}}{{- end -}}
+{{- $count = add $count 1 -}}
+{{- $page.Store.Set $countKey $count -}}
+<sup id="fnref:{{ $id }}:{{ $count }}"><a href="#fn:{{ $id }}" class="footnote-ref" role="doc-noteref">{{ $number }}</a></sup>{{- "" -}}
