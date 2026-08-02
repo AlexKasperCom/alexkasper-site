@@ -3,6 +3,7 @@ id: n000025
 title: "Pro Review: Return Fire"
 slug: gamepro-review
 date: "1995-04-01"
+date_precision: month
 
 draft: false
 source_type: article

@@ -180,7 +180,7 @@ In 2001 he co-produced the short dark comedy Eyeball Eddie, directed by Elizabet
 
 #### Technology, Hacking, and Security
 
-Kasper was involved in the Los Angeles hacker scene in the 1980s and 1990s alongside Kevin Mitnick. Mitnick's memoir Ghost in the Wires and other sources describe Kasper's participation in social engineering and technical activities.{{< fn "n000080" >}} In a 2005 Wired interview he acknowledged that he "crossed the line a few times."{{< fn "n000072" >}} He later stepped back from unauthorized activity after recognizing the human costs of privacy violations.
+Kasper was involved in the Los Angeles hacker scene in the 1980s and 1990s alongside Kevin Mitnick. Mitnick's memoir Ghost in the Wires and other sources describe Kasper's participation in social engineering and technical activities.{{< fn "n000080" >}} In a 2005 Wired interview he acknowledged that he "crossed the line a few times.&rdquo;{{< fn "n000072" >}} He later stepped back from unauthorized activity after recognizing the human costs of privacy violations.
 
 He appeared in the documentary Freedom Downtime (2001){{< fn "n000094" >}} and served as a technical consultant on the 2000 film Takedown.{{< fn "n000115" >}} Kasper and Mitnick co-hosted the weekly radio program The DarkSide of the Internet on KFI-AM 640 in Los Angeles and appeared together on Off the Hook and Coast to Coast AM.
 

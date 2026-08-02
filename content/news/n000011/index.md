@@ -3,6 +3,7 @@ id: n000011
 title: "Return Fire: Fact File"
 slug: egm-fact-file
 date: "1994-12-01"
+date_precision: month
 
 draft: false
 source_type: article

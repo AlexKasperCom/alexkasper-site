@@ -3,6 +3,7 @@ id: n000007
 title: "The Next Wave: Return Fire"
 slug: egm2-next-wave
 date: "1994-08-01"
+date_precision: month
 
 draft: false
 source_type: article

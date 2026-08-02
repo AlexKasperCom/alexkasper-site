@@ -15,7 +15,7 @@ tags:
   - kevin-mitnick
   - hacking-history
 author:
-  - "Stu Sjouwerman"
+  - "Sjouwerman, Stu"
 publisher: "Fast Company"
 source_url: "https://www.fastcompany.com/90528167/i-hired-an-infamous-hacker-and-it-was-the-best-decision-i-ever-made"
 access_date: "2026-05-24"

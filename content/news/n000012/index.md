@@ -3,6 +3,7 @@ id: n000012
 title: "Return Fire Credits (3DO)"
 slug: return-fire-credits-3do
 date: "1995-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

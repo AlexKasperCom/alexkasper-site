@@ -3,6 +3,7 @@ id: n000013
 title: "3DO: Making Porsches in a VW World (interview)"
 slug: 3do-interview
 date: "1995-02-01"
+date_precision: month
 
 draft: false
 source_type: article

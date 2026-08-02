@@ -3,6 +3,7 @@ id: n000038
 title: "Happy Returns: Return Fire Simulates War"
 slug: electronic-games-feature
 date: "1995-07-01"
+date_precision: month
 
 draft: false
 source_type: article

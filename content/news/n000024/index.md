@@ -3,6 +3,7 @@ id: n000024
 title: "Test Screen: Return Fire"
 slug: edge-test-screen
 date: "1995-04-01"
+date_precision: month
 
 draft: false
 source_type: article

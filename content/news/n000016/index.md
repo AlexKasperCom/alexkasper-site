@@ -3,6 +3,7 @@ id: n000016
 title: "Game of the Month: Return Fire (Editor's Choice 'Gold Award')"
 slug: egm-game-of-month
 date: "1995-02-01"
+date_precision: month
 
 draft: false
 source_type: article

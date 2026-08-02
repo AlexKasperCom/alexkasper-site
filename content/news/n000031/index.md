@@ -3,6 +3,7 @@ id: n000031
 title: "Return Fire: Exclusive Strategy Guide"
 slug: video-games-strategy
 date: "1995-04-01"
+date_precision: month
 
 draft: false
 source_type: article

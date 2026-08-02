@@ -3,6 +3,7 @@ id: n000035
 title: "Return Fire: Under Fire"
 slug: swat-pro-feature
 date: "1995-05-01"
+date_precision: month
 
 draft: false
 source_type: article

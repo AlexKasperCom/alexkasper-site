@@ -46,9 +46,12 @@
   (e.g. an internal document whose only "author" is the company that
   produced it), the author is dropped rather than printed twice.
 
-  Set `date_precision: year` in the cited page's front matter when only
-  the year of publication is known (its `date` field still needs a full
-  YYYY-MM-DD value for sorting — this just controls display) to render
-  "2003" instead of a fabricated "January 1, 2003".
+  Set `date_precision: year` or `date_precision: month` in the cited
+  page's front matter when only the year, or only the month, of
+  publication is known (its `date` field still needs a full YYYY-MM-DD
+  value for sorting — this just controls display) to render "2003" or
+  "January 2003" instead of a fabricated "January 1, 2003". `month` is
+  the common case for print magazine issues, where only the cover
+  month is known, not a specific day.
 */ -}}
 {{- partial "cite-format.html" (dict "id" (.Get 0) "locator" (.Get 1) "page" .Page) -}}

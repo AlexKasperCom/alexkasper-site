@@ -44,6 +44,8 @@
     {{- if not .IsZero -}}
       {{- if eq $page.Params.date_precision "year" -}}
         {{- $dateStr = .Format "2006" -}}
+      {{- else if eq $page.Params.date_precision "month" -}}
+        {{- $dateStr = .Format "January 2006" -}}
       {{- else -}}
         {{- $dateStr = .Format "January 2, 2006" -}}
       {{- end -}}
