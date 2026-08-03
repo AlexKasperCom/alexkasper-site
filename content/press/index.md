@@ -166,11 +166,11 @@ contact_sections:
     email: "info@alexkasper.com"
 ---
 
-Alex Kasper (born Alexis Kasperavičius, April 14, 1968) is an American entrepreneur, cybersecurity educator, and video-game producer. He is best known for producing the 1995 game Return Fire, co-founding the security consultancy Defensive Thinking with Kevin Mitnick, and co-developing the Certified Social Engineering Prevention Specialist (CSEPS) training program—the world's first professional certification focused on defending against social engineering.
+Alex Kasper (born Alexis Kasperavičius, April 14, 1968){{< fn "n000253" >}} is an American entrepreneur, cybersecurity educator, and video-game producer. He is best known for producing the 1995 game Return Fire, co-founding the security consultancy Defensive Thinking with Kevin Mitnick, and co-developing the Certified Social Engineering Prevention Specialist (CSEPS) training program—the world's first professional certification focused on defending against social engineering.
 
 #### Early Life
 
-Born in Cleveland, Ohio, Kasper moved with his family to Los Angeles as a child. By age 13 he had developed a strong interest in telephones and communication systems. He met Kevin Mitnick while seeking technical advice, beginning a long friendship and collaboration. He later studied classical French horn performance at the University of Southern California.
+Born in Cleveland, Ohio,{{< fn "n000253" >}} Kasper moved with his family to Los Angeles as a child. By age 13 he had developed a strong interest in telephones and communication systems. He met Kevin Mitnick while seeking technical advice, beginning a long friendship and collaboration. He later studied classical French horn performance at the University of Southern California, and today plays horn professionally, including as principal horn with the Sinfonie Orchester Schöneberg in Berlin (2014–2022) and, since 2024, the Orchestre symphonique de l'Isle.{{< fn "n000253" >}}
 
 #### Media and Entertainment
 
@@ -186,13 +186,13 @@ He appeared in the documentary Freedom Downtime (2001){{< fn "n000094" >}} and s
 
 After Mitnick's release from prison, the two co-founded Defensive Thinking in Los Angeles. They developed the CSEPS program and delivered training to corporations, government agencies, and military organizations including the U.S. Air Force and Marines.{{< fn "n000070" >}}{{< fn "n000212" >}} Kasper is acknowledged in Mitnick's books The Art of Deception, The Art of Intrusion, and Ghost in the Wires.{{< fn "n000068" >}}{{< fn "n000073" >}}{{< fn "n000080" >}}
 
-In 2006 Kasper was the lead plaintiff in the class-action lawsuit Alexander Kasper v. Pacific Bell Telephone Company, related to the Anthony Pellicano wiretapping scandal. The case was later settled.
+In 2006 Kasper was the lead plaintiff in the class-action lawsuit Alexander Kasper v. Pacific Bell Telephone Company, related to the Anthony Pellicano wiretapping scandal.{{< fn "n000253" >}} The case was later settled.
 
 #### Entrepreneurship and Later Work
 
-In 2000 Kasper co-founded Nexspace, an early coworking and flexible office space in Westwood, Los Angeles, where he served as Chief Technical Officer. Kevin Mitnick worked from Nexspace while writing The Art of Deception, and Defensive Thinking also operated from there.
+In 1999 Kasper co-founded Nexspace, an early flexible-office facility in Westwood, Los Angeles, where he served as co-founder and Chief Technology Officer until 2006.{{< fn "n000250" >}}{{< fn "n000251" >}}{{< fn "n000253" >}} Kevin Mitnick, who calls Kasper "not only my best friend, but also a business partner and colleague" in the acknowledgments of *The Art of Deception*, worked from Nexspace while writing the book, and Defensive Thinking also operated from there.{{< fn "n000068" >}}
 
-In the late 2000s he was Vice President of Technology for Barkley Court Reporters, where he wrote and lectured on digital signatures and transcript authentication. By the mid-2010s he had relocated to Berlin and worked in international trade and security for the food and perfume industries.
+In the late 2000s he was vice president of technology for Barkley Court Reporters, where he wrote and spoke on digital signatures and transcript authentication, including a presentation at the 2008 NCRA convention.{{< fn "n000247" >}} In June 2013 he relocated to Berlin, where he worked in international trade and security for the food and perfume industries, before relocating to Montreal in April 2022.{{< fn "n000253" >}}
 
 In 2010 Kasper co-founded Kasper Exchange with his brother Nicholas, a wholesale trade broker specializing in spices, essential oils, and flavoring compounds. Drawing on that experience, he later founded Naturesign (launched 2024), a Salesforce-based platform that automates regulatory document generation for the flavor and fragrance industry.
 
@@ -202,4 +202,4 @@ Alex now concentrates on the mechanics of manipulation and social engineering, w
 
 {{< references >}}
 
-*Also drawn on, but without a matching `/news` page yet: court records for Alexander Kasper v. Pacific Bell Telephone Company, and Nexspace press materials and contemporary coverage (Los Angeles Times, etc.) — let me know if these should be added.*
+*Still without a matching `/news` page: court records for Alexander Kasper v. Pacific Bell Telephone Company (Wikidata records the plaintiff role but not the underlying filing), and a source for Kasper Exchange — let me know if these should be added.*
