@@ -7,6 +7,8 @@ slug: "eyeball-eddie"
 category: movie
 status: archive
 
+oclc: "51101620"
+
 mailingListInterest: Other
 
 summary: "2001 USC short dark comedy co-produced by Alex Kasper, starring Martin Starr and M. Emmet Walsh"
@@ -24,7 +26,7 @@ related:
 
 ---
 
-**Eyeball Eddie** is a 2001 American short dark comedy, produced at the USC School of Cinema-Television and directed by Elizabeth Allen Rosenbaum from a screenplay by Nick Pustay. Alex Kasper (credited as Alexis Kasperavicius) co-produced.{{< fn "n000233" >}}
+**Eyeball Eddie** is a 2001 American short dark comedy, produced at the USC School of Cinema-Television in partial fulfillment of the requirements for an MFA degree,{{< fn "n000265" >}} and directed by Elizabeth Allen Rosenbaum from a screenplay by Nick Pustay. Alex Kasper (credited as Alexis Kasperavicius) co-produced.{{< fn "n000233" >}}
 
 ## Plot
 
@@ -35,10 +37,11 @@ Eddie Malick is a 14-year-old high school wrestler who struggles in matches and 
 * Martin Starr as Eddie
 * Michael Rosenbaum as Tom Skelley
 * M. Emmet Walsh as Coach Cook{{< fn "n000238" >}}
+* Melissa Hunter{{< fn "n000265" >}}
 
 ## Production
 
-Producers on the film included Kasper and Rosenbaum, with Martin Cohen (DreamWorks' head of post-production) and Erica Frauman as executive producers; director Gary Fleder mentored the project. The screenplay was registered with the WGA on January 1, 1999, and the production packet assembled to solicit donor and industry support listed backers including Jack Nicholson, Brett Ratner, Cary Woods, and Scott Rosenberg.{{< fn "n000233" >}}
+Producers on the film included Kasper and Rosenbaum, with Martin Cohen (DreamWorks' head of post-production) and Erica Frauman as executive producers; director Gary Fleder mentored the project. The screenplay was registered with the WGA on January 1, 1999, and the production packet assembled to solicit donor and industry support listed backers including Jack Nicholson, Brett Ratner, Cary Woods, and Scott Rosenberg.{{< fn "n000233" >}} Matthew Jensen served as cinematographer; Brett Hedlund and Tripp Reed edited the film, with music by Steve Weisberg.{{< fn "n000265" >}}
 
 ## Release and Festival Screenings
 
