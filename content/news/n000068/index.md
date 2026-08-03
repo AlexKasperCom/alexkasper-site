@@ -39,4 +39,4 @@ language: en
 
 Framed as a guide for organizations, the book argues that technical security measures are of limited use if employees can be talked into bypassing them, and it draws directly on Mitnick's own experience gaining unauthorized access through deception rather than code.
 
-In the book's acknowledgments (p. 343), Mitnick writes of Kasper: "...Kasper, [of] Nexspace, is not only my best friend, but also a business partner and colleague. Together we hosted a popular Internet talk radio show known as 'The Darkside of the Internet' on KFI AM 640 in Los Angeles under the..." (quote as far as Google Books' preview extends).
+In the book's acknowledgments (p. 343), Mitnick writes of Kasper: "...Kasper, [of] Nexspace, is not only my best friend, but also a business partner and colleague. Together we hosted a popular Internet talk radio show known as 'The Darkside of the Internet' on KFI AM 640 in Los Angeles.
