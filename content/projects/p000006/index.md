@@ -26,13 +26,13 @@ related:
 
 ---
 
-**Nexspace** was a technology-focused flexible office company founded in 1999 by David Agger and Alex Kasper.{{< fn "n000251" >}} Its first facility, an 18,000-square-foot space on the 17th floor of the Westwood Center in Westwood Village, Los Angeles — a "renovated status and panoramic view stretching to the Pacific Ocean"{{< fn "n000257" >}} — opened in November 2000, offering "fractional" short-term office space to as many as 39 partner companies at a time.{{< fn "n000250" >}}
+**Nexspace** was a technology-focused flexible office company co-founded in 1999 by David Agger and Alex Kasper.{{< fn "n000250" >}} Its first facility, an 18,000-square-foot space on the 17th floor of the Westwood Center in Westwood Village, Los Angeles (a "renovated status and panoramic view stretching to the Pacific Ocean"{{< fn "n000257" >}}), opened in November 2000, offering "fractional" short-term office space to as many as 39 partner companies at a time.{{< fn "n000250" >}}
 
-Agger served as co-founder and CEO; Kasper, described in the company's own materials as "an experienced data and telecommunications engineer," was recruited as co-founder and Chief Technology Officer, and the two together "managed the development and financing of the company."{{< fn "n000250" >}} Nexspace was headquartered at 1100 Glendon Ave., one block from Wilshire Boulevard in Westwood.{{< fn "n000251" >}}{{< fn "n000250" >}}{{< fn "n000257" >}}
+Agger served as co-founder and CEO; Kasper, described in the company's own materials as "an experienced data and telecommunications engineer," was recruited as co-founder and Chief Technology Officer.{{< fn "n000250" >}} Nexspace was headquartered at 1100 Glendon Ave., one block from Wilshire Boulevard in Westwood.{{< fn "n000250" >}}{{< fn "n000257" >}}
 
 ## Design
 
-Nexspace was designed by Beckson Design Associates (BDA); director of design Steven Heisler said the brief was to "appeal to a broad spectrum, from legal and financial firms to young marketing types and production companies," without taking "the boring middle ground."{{< fn "n000257" >}} The result paired an industrial base — concrete floors, partially exposed ceilings, fiberglass-reinforced plastic partitions on galvanized-steel studs — with design-forward reception furniture including pieces by Charles and Ray Eames, Verner Panton, Alvar Aalto, Karim Rashid, and Ron Arad.{{< fn "n000257" >}}
+Nexspace was designed by Beckson Design Associates (BDA); director of design Steven Heisler said the brief was to "appeal to a broad spectrum, from legal and financial firms to young marketing types and production companies," without taking "the boring middle ground."{{< fn "n000257" >}} The result paired an industrial base (concrete floors, partially exposed ceilings, fiberglass-reinforced plastic partitions on galvanized-steel studs) with design-forward reception furniture including pieces by Charles and Ray Eames, Verner Panton, Alvar Aalto, Karim Rashid, and Ron Arad.{{< fn "n000257" >}}
 
 The design team organized the floor around a theme of "emergence... nascence... a chrysalis," using translucent partitions to divide the space into 39 communal "development rooms" of two to fourteen people each, furnished identically so that, in Heisler's words, "it's easier to move people than walls." Individual "front porch" work spaces lined the windows outside the development rooms, and one of three conference rooms featured a "smart wall" combining a 50-inch monitor with an electronic dry-erase board.{{< fn "n000257" >}} *Interior Design* reported the facility had reached 98 percent occupancy, quoting Heisler: "Visits show it working like we envisioned. Doors are open, and companies share information."{{< fn "n000257" >}}
 
@@ -40,9 +40,9 @@ Marilyn Zelinsky's *The Inspired Workspace* (2002) profiled the space independen
 
 ## People
 
-Kasper's own tenure as co-founder ran from 1999 to 2006.{{< fn "n000253" >}} Nexspace itself was taken over by Techspace in 2010.{{< fn "n000251" >}}
+Kasper's own tenure as co-founder ran from 1999 to 2006. Nexspace itself was later acquired by, and continued to operate as, TechSpace, starting in 2010.{{< fn "n000258" >}}
 
-Kevin Mitnick himself ties Kasper to Nexspace in the acknowledgments of *The Art of Deception*: "Kasper, [of] Nexspace, is not only my best friend, but also a business partner and colleague. Together we hosted a popular Internet talk radio show known as 'The Darkside of the Internet' on KFI AM 640 in Los Angeles..."{{< fn "n000068" >}}
+Mitnick worked from Nexspace while writing *The Art of Deception*, published in October 2003,{{< fn "n000080" >}} and calls Kasper "not only my best friend, but also a business partner and colleague" in the book's acknowledgments.{{< fn "n000068" >}} The floor was an open, communal one by design (see Design, above), and Mitnick wasn't the only notable figure working from it around that time: Red Swoosh, the peer-to-peer content delivery startup Travis Kalanick founded in 2001, years before he co-founded Uber, listed the same building and suite as its address in February 2003, the same period Mitnick was writing there.{{< fn "n000259" >}}
 
 #### Related Articles
 
