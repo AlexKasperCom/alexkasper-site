@@ -11,7 +11,7 @@ wikidata: "Q138497456"
 
 mailingListInterest: Other
 
-summary: "Fractional/flexible office facility in Westwood, Los Angeles, co-founded by Alex Kasper and David Agger in 1999"
+summary: "Early co-working facility in Westwood, Los Angeles, co-founded by Alex Kasper and David Agger in 1999"
 
 cover: cover.jpg
 
@@ -26,9 +26,9 @@ related:
 
 ---
 
-**Nexspace** was a technology-focused flexible office company co-founded in 1999 by David Agger and Alex Kasper.{{< fn "n000250" >}} Its first facility, an 18,000-square-foot space on the 17th floor of the Westwood Center in Westwood Village, Los Angeles (a "renovated status and panoramic view stretching to the Pacific Ocean"{{< fn "n000257" >}}), opened in November 2000, offering "fractional" short-term office space to as many as 39 partner companies at a time.{{< fn "n000250" >}}
+**Nexspace** was a technology-focused co-working company co-founded in 1999 by David Agger and Alex Kasper.{{< fn "n000250" >}} Its first facility, an 18,000-square-foot space on the 17th floor of the Westwood Center in Westwood Village, Los Angeles (wih a "panoramic view stretching to the Pacific Ocean"{{< fn "n000257" >}}), opened in November 2000, offering fractional short-term office space to as many as 39 partner companies at a time.{{< fn "n000250" >}}
 
-Agger served as co-founder and CEO; Kasper, described in the company's own materials as "an experienced data and telecommunications engineer," was recruited as co-founder and Chief Technology Officer.{{< fn "n000250" >}} Nexspace was headquartered at 1100 Glendon Ave., one block from Wilshire Boulevard in Westwood.{{< fn "n000250" >}}{{< fn "n000257" >}}
+Agger served as co-founder and CEO; Kasper as co-founder and Chief Technology Officer.{{< fn "n000250" >}} Nexspace was headquartered at 1100 Glendon Avenue, one block from Wilshire Boulevard and adjacent to the University of California, Los Angeles (UCLA) the birthplace of the Internet.{{< fn "n000250" >}}{{< fn "n000257" >}}
 
 ## Design
 
@@ -40,12 +40,8 @@ Marilyn Zelinsky's *The Inspired Workspace* (2002) profiled the space independen
 
 ## People
 
-Kasper's own tenure as co-founder ran from 1999 to 2006. Nexspace itself was later acquired by, and continued to operate as, TechSpace, starting in 2010.{{< fn "n000258" >}}
+Kasper's own tenure as co-founder ran from 1999 to 2006. Nexspace itself was later acquired by, and continued to operate as, TechSpace, in 2010.{{< fn "n000258" >}}
 
-Mitnick worked from Nexspace while writing *The Art of Deception*, published in October 2003,{{< fn "n000080" >}} and calls Kasper "not only my best friend, but also a business partner and colleague" in the book's acknowledgments.{{< fn "n000068" >}} The floor was an open, communal one by design (see Design, above), and Mitnick wasn't the only notable figure working from it around that time: Red Swoosh, the peer-to-peer content delivery startup Travis Kalanick founded in 2001, years before he co-founded Uber, listed the same building and suite as its address in February 2003, the same period Mitnick was writing there.{{< fn "n000259" >}}
-
-#### Related Articles
-
-{{< related-articles "nexspace" >}}
+Mitnick worked from Nexspace while writing *The Art of Deception*, published in October 2003,{{< fn "n000080" >}} and thanks Kasper of Nexspace as "not only my best friend, but also a business partner and colleague" in the book's acknowledgments.{{< fn "n000068" >}} The floor was an open, communal one by design (see Design, above), and Mitnick wasn't the only notable figure working from it around that time: Red Swoosh, the peer-to-peer content delivery startup Travis Kalanick founded in 2001, years before he co-founded Uber, shared the space during the same period Mitnick was writing there.{{< fn "n000259" >}}
 
 {{< references >}}
