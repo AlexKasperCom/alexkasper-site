@@ -9,8 +9,10 @@ source_type: webpage
 summary: "Page for Freedom Downtime, the 2001 documentary by 2600's Emmanuel Goldstein arguing that Kevin Mitnick was unfairly demonized by the press and prosecutors, made partly in response to the Takedown film."
 projects:
   - kevin-mitnick-archive
+  - freedom-downtime
 tags:
   - kevin-mitnick
+  - freedom-downtime
 author:
 publisher: "archive.org"
 source_url: "https://archive.org/details/FreedomDowntime-TheStoryOfKevinMitnick"
