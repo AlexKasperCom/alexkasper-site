@@ -21,8 +21,8 @@ author:
 publisher: "Wiley Books"
 source_url: "http://www.wiley.com/WileyCDA/WileyTitle/productCd-076454280X.html"
 access_date: "2009-01-14"
-source_dead: false
-archive1_url: "https://web.archive.org/web/20110425155520/http://www.wiley.com/WileyCDA/WileyTitle/productCd-076454280X.html"
+source_dead: true
+archive1_url: "https://openlibrary.org/books/OL24321037M/The_Art_of_Deception"
 archive1_date: "2011-04-25"
 archive1_dead: false
 archive2_url: "https://books.google.ca/books?id=OIy4F-8b_uEC&pg=PA343"
