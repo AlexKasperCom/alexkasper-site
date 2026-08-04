@@ -2,7 +2,8 @@
 id: n000270
 title: "Takedown (2000) - Full Cast & Crew"
 slug: takedown-imdb-full-credits
-date: "2026-08-04"
+date: "2000-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

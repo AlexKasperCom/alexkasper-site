@@ -2,7 +2,8 @@
 id: n000251
 title: "Nexspace"
 slug: nexspace-wikidata
-date: "2026-08-02"
+date: "1999-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

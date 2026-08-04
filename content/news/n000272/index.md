@@ -2,7 +2,8 @@
 id: n000272
 title: "Takedown (2000) production photo — FBI meeting scene"
 slug: takedown-imdb-photo-fbi-meeting-scene
-date: "2026-08-04"
+date: "2000-01-01"
+date_precision: year
 
 draft: false
 source_type: image

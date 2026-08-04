@@ -2,7 +2,8 @@
 id: n000269
 title: "Martin Starr"
 slug: martin-starr-wikipedia
-date: "2026-08-04"
+date: "2001-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

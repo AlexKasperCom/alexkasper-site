@@ -2,7 +2,8 @@
 id: n000271
 title: "Takedown (2000) production photo — theater scene"
 slug: takedown-imdb-photo-theater-scene
-date: "2026-08-04"
+date: "2000-01-01"
+date_precision: year
 
 draft: false
 source_type: image

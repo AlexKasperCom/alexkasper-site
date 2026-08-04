@@ -2,7 +2,8 @@
 id: n000254
 title: "Freedom Downtime"
 slug: freedom-downtime-wikipedia
-date: "2026-08-02"
+date: "2001-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

@@ -2,7 +2,8 @@
 id: n000273
 title: "Eyeball Eddie (Short 2001) - Full Cast & Crew"
 slug: eyeball-eddie-imdb-full-credits
-date: "2026-08-04"
+date: "2001-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

@@ -2,7 +2,8 @@
 id: n000258
 title: "Nexspace, LLC Information"
 slug: nexspace-llc-rocketreach
-date: "2026-08-02"
+date: "1999-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

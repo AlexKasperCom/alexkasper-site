@@ -2,7 +2,8 @@
 id: n000252
 title: "Barkley Court Reporters"
 slug: barkley-court-reporters-wikidata
-date: "2026-08-02"
+date: "1972-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage

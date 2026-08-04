@@ -2,7 +2,8 @@
 id: n000268
 title: "Eyeball Eddie"
 slug: eyeball-eddie-wikipedia
-date: "2026-08-04"
+date: "2001-01-01"
+date_precision: year
 
 draft: false
 source_type: webpage
