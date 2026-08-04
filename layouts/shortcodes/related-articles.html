@@ -20,18 +20,18 @@
     <thead>
       <tr>
         <th class="article-date">Date</th>
-        <th class="article-title">Title</th>
         <th class="article-publisher">Publication</th>
+        <th class="article-title">Title</th>
       </tr>
     </thead>
     <tbody>
       {{- range $pages }}
       <tr>
         <td class="article-date">{{ with .Date }}{{ .Format "Jan 2006" }}{{ end }}</td>
+        <td class="article-publisher">{{ .Params.publisher }}</td>
         <td class="article-title">
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </td>
-        <td class="article-publisher">{{ .Params.publisher }}</td>
       </tr>
       {{- end }}
     </tbody>
