@@ -5,7 +5,7 @@ title: "Naturesign"
 slug: "naturesign"
 
 category: company
-status: active
+status: archive
 
 wikidata: "Q138453250"
 

@@ -5,7 +5,7 @@ title: "Kasper Exchange"
 slug: "kasper-exchange"
 
 category: company
-status: active
+status: archive
 
 mailingListInterest: Other
 
