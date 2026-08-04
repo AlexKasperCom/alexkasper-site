@@ -139,18 +139,15 @@
     </figure>
   {{ end }}
 
-  {{ if $destinationURL }}
-    {{ $actionLabel := partial "news-action-label.html" . }}
-    {{ $actionLink := printf ` <a class="read-more" href="%s" target="_blank" rel="noopener noreferrer">%s &rarr;</a></p>` $destinationURL $actionLabel }}
-    {{ .Content | replaceRE `</p>\s*$` $actionLink | safeHTML }}
-  {{ else }}
-    {{ .Content }}
-  {{ end }}
+  {{ .Content }}
 
 </div>
 <div class="article-actions" data-pagefind-ignore>
-{{ partial "visit-project.html" . }}
 {{ partial "share.html" . }}
+{{ partial "visit-project.html" . }}
+{{ if $destinationURL }}
+  <a class="button button-source" href="{{ $destinationURL }}" target="_blank" rel="noopener noreferrer">Open Link</a>
+{{ end }}
 {{ partial "series-nav.html" . }}
 </div>
 

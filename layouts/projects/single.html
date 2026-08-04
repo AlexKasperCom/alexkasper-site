@@ -38,16 +38,8 @@
 </div>
 
 <div class="article-actions" data-pagefind-ignore>
-  {{ with .Params.mailingListInterest }}
-    {{ $source := printf "%s/%s" $.Params.id $.Slug }}
-    <a
-      href="/mailing-list/?source={{ $source | urlquery }}&interest={{ . | urlquery }}"
-      class="button">
-      Join the Mailing List
-    </a>
-  {{ end }}
-
   {{ partial "share.html" . }}
+  {{ partial "mailing-list-button.html" . }}
 </div>
 
         </article>

@@ -1,5 +1,5 @@
 {{- /*
-  Renders a "Visit Project" button linking back to the parent project
+  Renders a "Project Page" button linking back to the parent project
   page, when the current page's front-matter `projects` list includes
   a slug that matches an actual project page's `slug` (e.g. a TAP
   issue tagged `projects: [tap-archive]` links to the project page at
@@ -19,5 +19,5 @@
   {{- end -}}
 {{- end -}}
 {{- with $projectPage -}}
-<a class="button" href="{{ .RelPermalink }}">Visit Project</a>
+<a class="button button-project" href="{{ .RelPermalink }}">Project Page</a>
 {{- end -}}

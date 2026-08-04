@@ -1,0 +1,16 @@
+{{- /*
+  Renders a "Join the Mailing List" button linking to /mailing-list,
+  pre-filled with a `source` (this page's id/slug) and `interest`
+  (front-matter `mailingListInterest`, e.g. "Books", "Training") so the
+  signup form can attribute and segment the subscriber.
+
+  Renders nothing if the page has no `mailingListInterest` set.
+*/ -}}
+{{- with .Params.mailingListInterest -}}
+  {{- $source := printf "%s/%s" $.Params.id $.Slug -}}
+  <a
+    href="/mailing-list/?source={{ $source | urlquery }}&interest={{ . | urlquery }}"
+    class="button button-mailing-list">
+    Join the Mailing List
+  </a>
+{{- end -}}

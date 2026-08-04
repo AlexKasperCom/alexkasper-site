@@ -35,6 +35,7 @@
   /* Buttons */
   --color-button: #a8320d;
   --color-button-hover: #8f290a;
+  --color-button-active: #6b2008;
 
   /* Font families
      Multi-word family names are quoted; generic families are not. */
@@ -765,6 +766,110 @@ header#hero .caption h2 {
 }
 .article-actions #share.share-menu {
      margin-top: 0;
+}
+/* Distinct colors per action button: source link keeps the default
+   accent orange, "Project Home" uses the muted brown, Share uses dark.
+   Project Home is an <a class="button">, so the override needs to match
+   (and slightly outrank) global.css's `a.button:link, a.button:visited`
+   rule, which a plain `.article-actions .button-project` class selector
+   doesn't have enough specificity to beat. */
+.article-actions a.button-project:link,
+.article-actions a.button-project:visited {
+     background-color: var(--color-muted);
+}
+.article-actions a.button-project:hover {
+     background-color: var(--color-muted-dark);
+     box-shadow: 0 0 0 3px rgba(146, 116, 97, 0.3);
+}
+.article-actions a.button-project:active {
+     background-color: var(--color-muted-darker);
+     box-shadow: none;
+}
+.article-actions #share #share-toggle.button-share {
+     background-color: var(--color-dark);
+}
+.article-actions #share #share-toggle.button-share:hover {
+     background-color: var(--color-black-90);
+     box-shadow: 0 0 0 3px rgba(51, 51, 51, 0.3);
+}
+.article-actions #share #share-toggle.button-share:active {
+     background-color: var(--color-black);
+     box-shadow: none;
+}
+.article-actions a.button-mailing-list:link,
+.article-actions a.button-mailing-list:visited {
+     background-color: var(--color-button);
+}
+.article-actions a.button-mailing-list:hover {
+     background-color: var(--color-button-hover);
+     box-shadow: 0 0 0 3px rgba(168, 50, 13, 0.3);
+}
+.article-actions a.button-mailing-list:active {
+     background-color: var(--color-button-active);
+     box-shadow: none;
+}
+
+/* Action button icons, matching the convention already used by the
+   Subscribe button on /mailing-list/ (see .subscribe in global.css):
+   a left-aligned, vertically centered SVG in a :before pseudo-element,
+   with left padding on the button to make room for it. Values assume
+   the buttons' current 42px height. The anchor-based buttons need the
+   extra `:link, :visited` specificity for the same reason as the color
+   overrides above. */
+.article-actions a.button-source:link,
+.article-actions a.button-source:visited {
+     padding-left: 40px;
+}
+.article-actions .button-source:before {
+     position: absolute;
+     top: 13px;
+     left: 20px;
+     width: 9px;
+     height: 15px;
+     background: transparent url("/img/global/icons/button-arrow.svg") no-repeat;
+     background-size: contain;
+     content: "";
+}
+.article-actions a.button-project:link,
+.article-actions a.button-project:visited {
+     padding-left: 46px;
+}
+.article-actions .button-project:before {
+     position: absolute;
+     top: 13px;
+     left: 20px;
+     width: 16px;
+     height: 16px;
+     background: transparent url("/img/global/icons/button-home.svg") no-repeat;
+     background-size: contain;
+     content: "";
+}
+.article-actions #share #share-toggle.button-share {
+     padding-left: 46px;
+}
+.article-actions #share #share-toggle.button-share:before {
+     position: absolute;
+     top: 12px;
+     left: 20px;
+     width: 16px;
+     height: 18px;
+     background: transparent url("/img/global/icons/button-share.svg") no-repeat;
+     background-size: contain;
+     content: "";
+}
+.article-actions a.button-mailing-list:link,
+.article-actions a.button-mailing-list:visited {
+     padding-left: 50px;
+}
+.article-actions .button-mailing-list:before {
+     position: absolute;
+     top: 13px;
+     left: 20px;
+     width: 22px;
+     height: 16px;
+     background: transparent url("/img/global/icons/button-subscribe.svg") no-repeat;
+     background-size: contain;
+     content: "";
 }
 
 /* Series prev/next nav (inside .article-actions, below the share button —
