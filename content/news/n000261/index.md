@@ -6,6 +6,7 @@ date: "2023-10-30"
 
 draft: false
 source_type: document
+entry_type: reference
 summary: "Florida Division of Corporations record for Rosewood Key, LLC (document number L23000493914), filed October 30, 2023, listing Alexis Kasperavicius as Authorized Member and the company's Miami address."
 projects:
   - naturesign

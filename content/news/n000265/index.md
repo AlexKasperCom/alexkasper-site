@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: document
+entry_type: reference
 summary: "WorldCat's library catalog record (OCLC 51101620) for the Eyeball Eddie DVD, crediting Elizabeth Allen Rosenbaum as director/producer and Alexis Kasperavicius as producer, with Matthew Jensen as cinematographer, editing by Brett Hedlund and Tripp Reed, and music by Steve Weisberg, noting it was produced in partial fulfillment of an MFA degree at USC's School of Cinema-Television."
 projects:
   - eyeball-eddie

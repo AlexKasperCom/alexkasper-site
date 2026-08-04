@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "IMDb's full acting filmography for Martin Starr, showing every screen credit before Eyeball Eddie (2001) was a TV guest spot, a supporting ensemble TV role (Freaks and Geeks), or a minor role in an ensemble film billed under his birth name Martin Schienle (Xtro 3: Watch the Skies, Hero) — none a lead."
 projects:
   - eyeball-eddie

@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "RocketReach's company profile for Nexspace, LLC, describing its Westwood, Los Angeles office space and stating that Nexspace was acquired by, and continues to operate as, TechSpace as of 2010."
 projects:
   - nexspace

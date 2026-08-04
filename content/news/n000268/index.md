@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Wikipedia's entry for Eyeball Eddie, confirming Martin Starr played the title character, Eddie Malick."
 projects:
   - eyeball-eddie

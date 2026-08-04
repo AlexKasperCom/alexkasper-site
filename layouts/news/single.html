@@ -174,9 +174,14 @@
           {{ range first 10
             (where
               (where
-                .Site.RegularPages.ByDate.Reverse
-                "Section"
-                "news"
+                (where
+                  .Site.RegularPages.ByDate.Reverse
+                  "Section"
+                  "news"
+                )
+                "Params.entry_type"
+                "ne"
+                "reference"
               )
               "RelPermalink"
               "ne"

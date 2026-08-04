@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Wikidata's entry for Barkley Court Reporters, Inc., an American court reporting and litigation support company with inception in 1972, headquartered in Los Angeles with additional locations in New York City and Paris, and a California Secretary of State entity number."
 projects:
   - barkley-court-reporters

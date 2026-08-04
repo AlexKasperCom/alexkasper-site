@@ -6,6 +6,7 @@ date: "2026-05-17"
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Rosewood Key, LLC's own site, describing itself as a \"Digital Publishing\" company and listing its two brands: Naturesign and Alex Kasper's own \"Deception Research\" site."
 projects:
   - naturesign

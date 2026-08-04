@@ -6,6 +6,7 @@ date: "2025-03-14"
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Naturesign's homepage describing the platform as generating regulatory documents (allergen statements, certificates of analysis, certificates of origin, and more) for the flavor and fragrance industry, delivered in minutes and built on Salesforce."
 projects:
   - naturesign

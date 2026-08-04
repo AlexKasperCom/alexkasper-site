@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Wikidata's entry for Alex Kasper, recording biographical details (birth name, birthplace, date of birth), residences and dates (Los Angeles from 1971, Berlin June 2013 to April 2022, Montreal from April 2022), languages spoken, the Kasper v. Pacific Bell Telephone Company / Anthony Pellicano wiretapping scandal connection, Nexspace co-founder tenure (1999–2006), and musical roles (principal horn, Sinfonie Orchester Schöneberg 2014–2022; Orchestre symphonique de l'Isle from 2024)."
 projects:
   - nexspace

@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "IMDb's full cast and crew page for Eyeball Eddie, listing Martin Starr as \"Eddie Malick\" first under Cast (in credits order) — i.e., top-billed — and Alex Kasper (as Alexis Kasperavicius) as producer."
 projects:
   - eyeball-eddie

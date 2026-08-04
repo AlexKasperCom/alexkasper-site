@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "IMDb's full cast and crew listing for Takedown, crediting Alex Kasper (as Alexis Kasperavicius) as technical advisor and, separately, as an uncredited cast member playing \"Hacker.\""
 projects:
   - kevin-mitnick-archive

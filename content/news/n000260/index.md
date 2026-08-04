@@ -6,6 +6,7 @@ date: "2026-08-02"
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Kasper Exchange's own \"About Us\" page, stating the company was founded by brothers Nick and Alex Kasper in 2010 as a Miami, Florida wholesale trade broker for spices, essential oils, and flavoring compounds."
 projects:
   - kasper-exchange

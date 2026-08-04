@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Wikipedia's filmography for Martin Starr, showing every screen credit before Eyeball Eddie (2001) was a guest TV spot or a supporting ensemble role (Freaks and Geeks), making Eyeball Eddie his first lead role."
 projects:
   - eyeball-eddie

@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "IMDb event listing for the 2001 Telluride Indiefest, where Eyeball Eddie won an award."
 projects:
   - eyeball-eddie

@@ -6,6 +6,7 @@ date: "2026-08-03"
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Naturesign's \"About\" page, in which founder and president Alex Kasper explains the product's origins at an IFEAT conference, his flavor-and-fragrance background through Kasper Exchange, and his prior work as VP of Technology at Barkley Court Reporters designing document-generation systems."
 projects:
   - naturesign

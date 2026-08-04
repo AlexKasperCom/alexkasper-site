@@ -5,7 +5,7 @@
 
     <!-- Main news column -->
     <section>
-      {{ $pages := .RegularPages.ByDate.Reverse }}
+      {{ $pages := (where .RegularPages "Params.entry_type" "ne" "reference").ByDate.Reverse }}
       {{ $paginator := .Paginate $pages }}
 
       <div class="tilesWrapper two">

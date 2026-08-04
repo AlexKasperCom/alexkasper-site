@@ -39,7 +39,7 @@
          <section class="tilesWrapper two">
             <div class="grid-sizer"></div>
             <div class="gutter-sizer"></div>
-            {{ $news := where site.RegularPages "Section" "news" }}
+            {{ $news := where (where site.RegularPages "Section" "news") "Params.entry_type" "ne" "reference" }}
             {{ range first 8 ($news.ByDate.Reverse) }}
             {{ $page := . }}
             <article class="tile">

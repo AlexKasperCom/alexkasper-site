@@ -115,6 +115,17 @@ Examples:
 * announcement
 * reference
 
+`entry_type: reference` has a functional effect: it excludes the item
+from the homepage's "Latest News", the `/news/` list, and the "Latest
+Posts" sidebar on other news pages. Use it for citation/lookup pages
+that exist only to support a fact elsewhere on the site — Wikidata,
+Wikipedia, IMDb, WorldCat, MobyGames, RocketReach, a company's own
+About/homepage snapshot, a Secretary of State business filing — as
+opposed to actual coverage, reviews, or announcements. Reference items
+still appear in `{{< related-articles >}}` tables and are still
+directly linkable and citable via `{{< fn >}}` / `{{< cite >}}`; they
+just don't clutter "recent" surfaces alongside genuine news.
+
 ### `citation_type`
 
 Controls which Wikipedia CS1 template is emitted.

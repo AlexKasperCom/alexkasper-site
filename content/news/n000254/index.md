@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Wikipedia's entry for Freedom Downtime, the 2001 documentary directed by Emmanuel Goldstein and produced by 2600 Films, naming Alex Kasper among its interview subjects alongside Phiber Optik, Bernie S, Lewis De Payne, and Kevin Mitnick."
 projects:
   - freedom-downtime

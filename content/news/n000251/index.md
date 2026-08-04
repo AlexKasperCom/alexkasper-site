@@ -7,6 +7,7 @@ date_precision: year
 
 draft: false
 source_type: webpage
+entry_type: reference
 summary: "Wikidata's entry for Nexspace, describing it as an American technology-focused flexible office space company founded in 1999, headquartered at 1100 Glendon Ave in Westwood, Los Angeles, co-founded by David Agger and Alex Kasper, and replaced by Techspace in a 2010 takeover."
 projects:
   - nexspace
