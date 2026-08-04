@@ -1,7 +1,7 @@
 ---
 id: n000081
-title: "Kevin Mitnick"
-slug: kevin-mitnick
+title: "Kevin Mitnick on Comedy Central"
+slug: kevin-mitnick-comedy-central
 date: "2011-08-18"
 
 draft: false
