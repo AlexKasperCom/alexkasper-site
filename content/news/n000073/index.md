@@ -27,7 +27,7 @@ archive2_url:
 archive2_date:
 archive2_dead: false
 local_file:
-pages: 
+pages: "xiii"
 isbn: "978-0-7645-6959-3"
 time:
 duration:
@@ -36,3 +36,5 @@ language: en
 *The Art of Intrusion*, Kevin Mitnick's follow-up to *The Art of Deception*, co-written with William L. Simon, recounts real-world hacking incidents told from the perspective of the intruders who carried them out.
 
 The book expands on Mitnick's earlier work by profiling other hackers' techniques and motivations, continuing his effort to translate his own criminal-era knowledge into security education for a legitimate audience.
+
+In the book's acknowledgments (p. xiii), searchable via Google Books, Mitnick again thanks Alex Kasper in language echoing the *Art of Deception* acknowledgment: "...Thank you, Caroline, for being there for me. My colleague Alex [Kasper] is not only..." (the full sentence is not visible in Google Books' snippet view).

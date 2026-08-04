@@ -40,7 +40,7 @@ archive1_url:  https://web.archive.org/web/20260604105826/https://www.zdnet.com/
 archive1_date:        2026-07-23
 archive1_dead: false
 
-archive2_url: https://archive.ph/https://www.zdnet.com/article/human-firewall-a-crucial-defence-mitnick/
+archive2_url: https://archive.ph/47xrl
 archive2_date:        2026-07-23
 archive2_dead: false
 
@@ -62,3 +62,5 @@ language:   en          # en | fr | de | es | ja
 
 ---
 At a social engineering prevention workshop in Sydney this week, Mitnick and business partner Alex Kasperavicius shared some of the tactics used by social engineers to bypass a company's technical security by exploiting employees' psychological vulnerabilities.
+
+As a demonstration, Mitnick and Kasperavicius brought workshop attendees a real haul of dumpster-dived trash: before leaving Los Angeles, "the pair claimed they went to the offices of a prominent female entertainer to salvage some of her company's rubbish bags." After the pizza boxes and cans were cleared out, what remained — email printouts, faxes, wage slips, phone bills — was handed to attendees to search for anything exploitable. They found celebrities' personal phone numbers, admin credentials for a reality-TV star's website, and an unopened fan letter with a dollar bill still paper-clipped to it. "In the garbage you find post-it notes, calendars, project names, printouts of source code, billing, systems names and correspondence," Mitnick told the workshop. "Companies dumpster dive to get competitive intelligence — it is not just the hackers and industrial spies."

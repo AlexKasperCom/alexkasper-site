@@ -6,7 +6,7 @@ date: "2003-10-15"
 
 draft: false
 source_type: article
-summary: "A profile of Kevin Mitnick's transition from hacker to security educator."
+summary: "A profile of Kevin Mitnick's transition from hacker to security educator, naming Intense School Inc. of Fort Lauderdale, Fla. as the training center partnering with Mitnick and Alex Kasper's Defensive Thinking to deliver their social-engineering course to clients including the U.S. Air Force, the Marines, and mortgage companies."
 projects:
   - cseps
   - defensive-thinking
@@ -36,4 +36,4 @@ language: en
 ---
 This *Wall Street Journal* profile examines Kevin Mitnick's move into legitimate cybersecurity work after completing his prison sentence and restrictions on computer use.
 
-It describes his security training and consulting activities, including programs intended to help organizations recognize and prevent intrusions and social-engineering attacks. The article also discusses Defensive Thinking, the consultancy Mitnick founded with Alex Kasper, and their work with corporate, government, and military clients.
+It describes his security training and consulting activities, including programs intended to help organizations recognize and prevent intrusions and social-engineering attacks. The article also discusses Defensive Thinking, the consultancy Mitnick founded with Alex Kasper, and reports that the two were "partnering with a Fort Lauderdale, Fla., information-technology training center called Intense School Inc." to deliver their two-day social-engineering course, with clients including "the U.S. Air Force and Marines and mortgage companies."

@@ -22,20 +22,24 @@ at_a_glance:
 bios:
   - label: "One-Liner"
     context: "~15 words"
-    text: "Alex Kasper spent his teenage years in the hacker underground with Kevin Mitnick, later co-founded Defensive Thinking, and now researches deception, urgency, and social engineering."
+    text: "Former hacker turned technology executive Alex Kasper co-created the CSEPS social-engineering certification with Kevin Mitnick and now researches AI deception."
 
   - label: "Short Bio"
     context: "~80 words, third person"
-    text: "Montréal-based Alex Kasper has spent more than four decades at the intersection of technology, trust, and human behavior. As a teenager in Southern California he joined the early hacker and phone-phreak community alongside Kevin Mitnick. Together they later co-founded Defensive Thinking, creating the world's first certification for defending against social engineering. Today Alex researches manipulation and manufactured urgency, and how those techniques scale with AI. He is the author of the forthcoming book Manufactured Urgency."
+    text: "Alex Kasper is an American technology executive and former hacker. In the 1980s and 90s he was part of a group of young hackers and phone phreaks that included Kevin Mitnick. With Mitnick, he created and taught the Certified Social Engineering Prevention Specialist (CSEPS), the world's first social engineering prevention certification, before moving into digital authentication work spanning the legal and food industries. He now researches AI deception and is the author of the forthcoming book Manufactured Urgency: Craft of the Bad-Faith Actor."
 
   - label: "Full Bio"
     context: "~250 words, third person"
     text: |
-      Alex Kasper has spent more than four decades exploring the intersection of technology, trust, and human behavior. As a teenager in Southern California he became part of the early hacker and phone-phreak community alongside Kevin Mitnick and others, driven by curiosity rather than profit. That same curiosity later led him into software, telecommunications, cybersecurity, and entrepreneurship.
+      Alex Kasper is an American technology executive and former hacker. As a teenager in Los Angeles he was part of an early hacker and phone-phreak circle that included Kevin Mitnick, engaged in the trophy hacking of the era: accessing phone, cellular, and commercial networks for the challenge, not for money. Unlike Mitnick and others in that circle, Kasper was never charged and has no criminal record.
 
-      In the early 2000s Alex co-founded the security consultancy Defensive Thinking with Kevin Mitnick. Together they developed the Certified Social Engineering Prevention Specialist (CSEPS) program, the world's first professional certification dedicated to defending against social engineering, and trained corporations, government agencies, and military organizations including the U.S. Air Force and Marines. Alex is acknowledged in Mitnick's books, including Ghost in the Wires.
+      In the 1990s he worked as a multimedia producer: producing the video game Return Fire and the USC short film Eyeball Eddie, and serving as technical advisor on the Miramax feature Takedown, in which he also appears in two cameos.
 
-      Today, based in Montréal, Alex researches the mechanics of manipulation, social engineering, and manufactured urgency, and how those techniques scale with AI. He is the author of the forthcoming book Manufactured Urgency.
+      In 1999 Kasper co-founded Nexspace, an early networked coworking space in Los Angeles, serving as CTO. Kevin Mitnick, then barred from using a computer under the terms of his prison release, wrote The Art of Deception from Nexspace; Kasper says he handled much of the work Mitnick was legally forbidden to do, and Mitnick thanked him in the book's acknowledgments. In 2002 the two founded Defensive Thinking and created the Certified Social Engineering Prevention Specialist (CSEPS), the world's first social engineering prevention certification, training clients including the U.S. Air Force and Marines.
+
+      Kasper later moved into digital authentication work spanning the legal and food industries, serving as vice president of technology for Barkley and co-founding Kasper Exchange and Naturesign. He lived in Berlin from 2013 to 2022 before relocating to Montreal.
+
+      Kasper now researches manipulation and manufactured urgency, and how those techniques apply to AI. He is the author of the forthcoming book Manufactured Urgency: Craft of the Bad-Faith Actor.
 
 backgrounder:
   label: "Backgrounder"
@@ -166,40 +170,80 @@ contact_sections:
     email: "info@alexkasper.com"
 ---
 
-Alex Kasper (born Alexis Kasperavičius, April 14, 1968){{< fn "n000253" >}} is an American entrepreneur, cybersecurity educator, and video-game producer. He is best known for producing the 1995 game Return Fire, co-founding the security consultancy Defensive Thinking with Kevin Mitnick, and co-developing the Certified Social Engineering Prevention Specialist (CSEPS) training program—the world's first professional certification focused on defending against social engineering.
+#### In brief
 
-#### Early Life
+Alex Kasper (born Alexis Kasperavičius, 1968, in Cleveland; raised in Los Angeles) is an American technology executive and former hacker who focuses on AI deception research. In the 1980s and 90's he was part of a group of young hackers and phone phreaks that included Kevin Mitnick, Lewis De Payne, and others.{{< fn "n000072" >}}{{< fn "n000080" >}} He went on to produce video games{{< fn "n000012" >}} and film{{< fn "n000265" >}}, co-found one of the early networked shared-office companies{{< fn "n000250" >}}, and, with Mitnick, create and teach the world's first social engineering prevention certification, the Certified Social Engineering Prevention Specialist (CSEPS).{{< fn "n000070" >}}{{< fn "n000069" >}} He later moved into digital authentication work spanning the legal and food industries.
 
-Born in Cleveland, Ohio,{{< fn "n000253" >}} Kasper moved with his family to Los Angeles as a child. By age 13 he had developed a strong interest in telephones and communication systems. He met Kevin Mitnick while seeking technical advice, beginning a long friendship and collaboration. He later studied classical French horn performance at the University of Southern California, and today plays horn professionally, including as principal horn with the Sinfonie Orchester Schöneberg in Berlin (2014–2022) and, since 2024, the Orchestre symphonique de l'Isle.{{< fn "n000253" >}}
+#### Early years
 
-#### Media and Entertainment
+As a teenager in Los Angeles, Kasper became a skilled social engineer and phone phreak with a deep working knowledge of telephone systems.{{< fn "n000072" >}} He ran with an early hacker and phreaking circle whose exploits, as recounted in Mitnick's *Ghost in the Wires*, spanned the phone and cellular networks of the era: monitoring calls, manipulating lines, and rewriting the electronic serial numbers that identified cellular handsets.{{< fn "n000080" >}}
 
-From 1993 to 1995 Kasper produced Return Fire, a vehicular combat game developed by Silent Software for the 3DO platform (later ported to PlayStation and Windows). In addition to producing, he served as sound designer and music supervisor. The game received critical acclaim and won the 3DO Two-Player Game of the Year award.{{< fn "n000012" >}}{{< fn "n000041" >}}
+The group also reached into commercial and institutional networks, using them to trace and locate people and to find high-value targets. Among those targets were the very security researchers trying to keep them out, whose findings they harvested for their own use. In some cases they even "patched" widely used software to plant hidden back doors for later access.{{< fn "n000080" >}}
 
-In 2001 he co-produced the short dark comedy Eyeball Eddie, directed by Elizabeth Allen Rosenbaum at USC's School of Cinema-Television. The film starred Martin Starr, Michael Rosenbaum, and M. Emmet Walsh and premiered at Slamdance and other festivals, winning several awards.
+It was trophy hacking. The group was in it for the fun and the challenge, not the money, and never cashed in the access they had. Unlike Mitnick and others, Kasper was never charged and has no criminal record.
 
-#### Technology, Hacking, and Security
+#### Games and film
 
-Kasper was involved in the Los Angeles hacker scene in the 1980s and 1990s alongside Kevin Mitnick. Mitnick's memoir Ghost in the Wires and other sources describe Kasper's participation in social engineering and technical activities.{{< fn "n000080" >}} In a 2005 Wired interview he acknowledged that he "crossed the line a few times.&rdquo;{{< fn "n000072" >}} He later stepped back from unauthorized activity after recognizing the human costs of privacy violations.
+In the 1990s Kasper worked as a multimedia producer. He produced and designed the sound for the critically acclaimed video game *Return Fire*, released for the 3DO in 1995{{< fn "n000012" >}}{{< fn "n000016" >}}{{< fn "n000041" >}} and later ported to the PlayStation and Windows.{{< fn "n000227" >}}{{< fn "n000267" >}}
 
-He appeared in the documentary Freedom Downtime (2001){{< fn "n000094" >}} and served as a technical consultant on the 2000 film Takedown.{{< fn "n000115" >}} Kasper and Mitnick co-hosted the weekly radio program The DarkSide of the Internet on KFI-AM 640 in Los Angeles and appeared together on Off the Hook and Coast to Coast AM.
+He also produced the USC short film *Eyeball Eddie*, which starred Martin Starr in his first lead role{{< fn "n000273" >}}{{< fn "n000274" >}} alongside veteran character actor M. Emmet Walsh.{{< fn "n000265" >}}
 
-After Mitnick's release from prison, the two co-founded Defensive Thinking in Los Angeles. They developed the CSEPS program and delivered training to corporations, government agencies, and military organizations including the U.S. Air Force and Marines.{{< fn "n000070" >}}{{< fn "n000212" >}} Kasper is acknowledged in Mitnick's books The Art of Deception, The Art of Intrusion, and Ghost in the Wires.{{< fn "n000068" >}}{{< fn "n000073" >}}{{< fn "n000080" >}}
+Kasper also served as a technical advisor on the Miramax feature *Takedown*, a dramatization of the pursuit and capture of hacker Kevin Mitnick, and appears in two cameos.{{< fn "n000270" >}}{{< fn "n000271" >}}{{< fn "n000272" >}} Kasper says he used his production background to locate the set and befriend the producers, then pressed for a more sympathetic portrayal of Mitnick, securing changes to the character on set. He is also interviewed in the 2600 Films documentary *Freedom Downtime* about *Takedown*.{{< fn "n000255" >}}
 
-In 2006 Kasper was the lead plaintiff in the class-action lawsuit Alexander Kasper v. Pacific Bell Telephone Company, related to the Anthony Pellicano wiretapping scandal.{{< fn "n000253" >}} The case was later settled.
+#### Nexspace and the Mitnick partnership
 
-#### Entrepreneurship and Later Work
+In 1999 Kasper co-founded Nexspace, an early networked coworking space in Westwood, Los Angeles, serving as CTO alongside co-founder and CEO David Agger.{{< fn "n000250" >}}
 
-In 1999 Kasper co-founded Nexspace, an early flexible-office facility in Westwood, Los Angeles, where he served as co-founder and Chief Technology Officer until 2006.{{< fn "n000250" >}}{{< fn "n000251" >}}{{< fn "n000253" >}} Kevin Mitnick, who calls Kasper "not only my best friend, but also a business partner and colleague" in the acknowledgments of *The Art of Deception*, worked from Nexspace while writing the book, and Defensive Thinking also operated from there.{{< fn "n000068" >}}
+Under the terms of his 2000 prison release, Kevin Mitnick was barred from using a computer.{{< fn "n000060" >}}{{< fn "n000063" >}} Kasper says Mitnick wrote *The Art of Deception* from Nexspace, with Kasper handling much of the work Mitnick was legally forbidden to do. Mitnick thanked him in the book's acknowledgments.{{< fn "n000068" >}}
 
-In the late 2000s he was vice president of technology for Barkley Court Reporters, where he wrote and spoke on digital signatures and transcript authentication, including a presentation at the 2008 NCRA convention.{{< fn "n000247" >}} In June 2013 he relocated to Berlin, where he worked in international trade and security for the food and perfume industries, before relocating to Montreal in April 2022.{{< fn "n000253" >}}
+Nexspace was also the base for their weekly KFI AM 640 radio show, *The Darkside of the Internet*.{{< fn "n000059" >}}
 
-In 2010 Kasper co-founded Kasper Exchange with his brother Nicholas, a wholesale trade broker specializing in spices, essential oils, and flavoring compounds. Drawing on that experience, he later founded Naturesign (launched 2024), a Salesforce-based platform that automates regulatory document generation for the flavor and fragrance industry.
+#### Defensive Thinking and CSEPS
 
-#### Current Focus
+In 2002, anticipating the end of Mitnick's computer restrictions, Kasper and Mitnick founded Defensive Thinking. There they developed the Certified Social Engineering Prevention Specialist certification (CSEPS), which launched in 2003 as the first program of its kind.{{< fn "n000070" >}} It detailed the specific steps and methods for preventing what they believed to be the most effective hacking technique ever devised: social engineering.
 
-Alex now concentrates on the mechanics of manipulation and social engineering, with particular attention to manufactured urgency—the technique of convincing a target that there is no time to think. His forthcoming book Manufactured Urgency explores these patterns across cybersecurity, confidence games, propaganda, marketing, and everyday life.
+The course reached a broad range of participants. In the United States, it was delivered in partnership with Florida training firm Intense School to clients that included corporations, government agencies, and military branches such as the U.S. Air Force and Marines.{{< fn "n000069" >}} Mitnick and Kasper also ran workshops internationally, including one in Sydney where attendees sifted through bags of garbage — real trash brought from a celebrity's office in Los Angeles — to see what an attacker could reconstruct from a company's rubbish.{{< fn "n000212" >}}
+
+#### Later career
+
+In the mid-2000s the CSEPS partnership wound down. Delivering the training was labor-intensive, roughly a week per client, and far less lucrative than speaking, for which Mitnick was increasingly in demand. He moved to Las Vegas to focus on it; Kasper stayed in Los Angeles to build software and businesses. CSEPS was shelved and never restarted. In 2005 Kasper became vice president of technology for Barkley, a large multi-state legal-services firm later acquired by Magna Legal Services, where he introduced digitally signed, secure transcripts and web-based delivery.{{< fn "n000247" >}}{{< fn "n000248" >}}{{< fn "n000249" >}}
+
+In 2010 Kasper co-founded Kasper Exchange, a spice and flavoring brokerage, with his brother Nick.{{< fn "n000260" >}} In 2023 he launched Naturesign, a system that generates the safety and provenance documents guaranteeing that flavor and fragrance products are free of specified substances or made a certain way.{{< fn "n000262" >}}{{< fn "n000263" >}}
+
+Kasper lived in Berlin from 2013 to 2022 before relocating to Montreal, where he now lives.
+
+#### Present work
+
+The untimely death of Kevin in 2023, combined with the emergence of AI at roughly the same time, gave new urgency to something the two had developed but never fully explored. Testing the idea, Kasper observed that the manipulation techniques he and Mitnick had distilled not only work against AI systems but can be turned to detect the same attacks, and he set out to make that case.
+
+His forthcoming book, *Manufactured Urgency: Craft of the Bad-Faith Actor*, examines the recurring structure behind deception: how a common framework emerges across scams, confidence games, and phishing, and now appears in jailbreaking and prompt injection, and how it can be recognized and stopped.{{< ref-id "p000002" >}}
+
+#### Timeline
+
+* 1968 — Born in Cleveland (Alexis Kasperavičius)
+* 1980s to early 1990s — Hacking and phreaking era, Los Angeles
+* 1995 — Return Fire released (3DO)
+* 1999 — Nexspace co-founded
+* 2000 — Takedown released; technical advisor and cameo
+* 2001 — Eyeball Eddie released
+* 2002 — Defensive Thinking co-founded with Mitnick
+* 2003 — CSEPS launches
+* 2005 — Vice president of technology, Barkley
+* 2010 — Kasper Exchange co-founded
+* 2013 to 2022 — Resident in Berlin
+* 2022 — Relocated to Montreal
+* 2023 — Naturesign launched
+* Forthcoming — *Manufactured Urgency: Craft of the Bad-Faith Actor*
+
+#### Selected credits and appearances
+
+* Return Fire (3DO, 1995; PlayStation and Windows ports) — producer, sound design{{< fn "n000012" >}}{{< fn "n000267" >}}
+* Eyeball Eddie (USC short, 2001) — producer{{< fn "n000265" >}}
+* The Darkside of the Internet (KFI AM 640) — co-host{{< fn "n000059" >}}
+* CSEPS / Defensive Thinking — co-creator, instructor{{< fn "n000070" >}}
+* Ghost in the Wires — featured{{< fn "n000080" >}}
+* The Art of Deception, The Art of Intrusion — acknowledged{{< fn "n000068" >}}{{< fn "n000073" >}}
+* Freedom Downtime (2600 Films) — interview subject{{< fn "n000255" >}}
+* Takedown (Miramax) — technical advisor, two cameos{{< fn "n000270" >}}
 
 {{< references >}}
-
-*Still without a matching `/news` page: court records for Alexander Kasper v. Pacific Bell Telephone Company (Wikidata records the plaintiff role but not the underlying filing), and a source for Kasper Exchange — let me know if these should be added.*
