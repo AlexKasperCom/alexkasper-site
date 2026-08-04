@@ -69,14 +69,14 @@ faq_groups:
         answer: "The phrase comes from a 2005 Wired profile of Kasper and Mitnick. Kasper was part of the same hacking circle as Mitnick as a teenager, but unlike Mitnick and others in that circle, he was never charged and has no criminal record."
 ---
 
-Alex Kasper is an American technology executive and former hacker. As a teenager in Los Angeles he was part of an early hacker and phone-phreak circle that included Kevin Mitnick, engaged in the trophy hacking of the era: accessing phone, cellular, and commercial networks for the challenge, not for money. Unlike Mitnick and others in that circle, he was never charged and has no criminal record.
+Alex Kasper is a deception researcher and former hacker who features in Kevin Mitnick's memoir Ghost in the Wires. As a teenager in Los Angeles he ran with the hacker and phone-phreak circle around Mitnick, breaking into phone, cellular, and commercial networks for the challenge, not the money. The group had unfettered access to phone company systems and even turned their skills on the security researchers hunting them, yet, unlike some of them, Kasper was never arrested.
 
-In the 1990s he worked as a multimedia producer, producing the video game Return Fire and the USC short film Eyeball Eddie, and serving as technical advisor on the Miramax feature Takedown, in which he also appears in two cameos.
+He spent the 1990s in multimedia, producing the award-winning 3DO game Return Fire and the USC short Eyeball Eddie, Martin Starr's first lead role. On the Mitnick biopic Takedown he did more than advise: he talked his way onto the production, befriended the producers, and pushed for a more sympathetic portrayal of his friend, social-engineering the film about a social engineer.
 
-In 1999 Kasper co-founded Nexspace, an early networked coworking space in Los Angeles. Mitnick, then barred from using a computer under the terms of his prison release, wrote The Art of Deception from Nexspace; Kasper says he handled much of the work Mitnick was legally forbidden to do, and Mitnick thanked him in the book's acknowledgments. In 2002 the two founded Defensive Thinking and created the Certified Social Engineering Prevention Specialist (CSEPS), the world's first social engineering prevention certification, training clients including the U.S. Air Force and Marines.
+In 1999 Kasper co-founded Nexspace, a Los Angeles coworking space where Mitnick, then barred from touching a computer under the terms of his release, wrote The Art of Deception with Kasper handling the work he was legally forbidden to do. In 2002 the two founded Defensive Thinking and built CSEPS, the world's first social engineering prevention certification, training clients that ranged from corporations to the U.S. Air Force and Marines.
 
-Kasper later moved into digital authentication work spanning the legal and food industries, serving as vice president of technology for Barkley and co-founding Kasper Exchange and Naturesign. He lived in Berlin from 2013 to 2022 before relocating to Montreal.
+Kasper spent the next two decades building document and authentication systems across the legal and food industries, and lived in Berlin before settling in Montreal.
 
-Kasper now researches manipulation and manufactured urgency, and how those techniques apply to AI. He is the author of the forthcoming book Manufactured Urgency: Craft of the Bad-Faith Actor.
+After Mitnick's death in 2023, Kasper returned to an idea the two had developed but never finished: that the manipulation techniques they spent years distilling could be turned on AI, both to break these systems and to detect the same attacks. He makes that case in his forthcoming book, Manufactured Urgency: Craft of the Bad-Faith Actor.
 
 **[Press & full background →](/press/)** Photos, a short intro, full bio with sources, and downloadable assets are available on the Press page.
