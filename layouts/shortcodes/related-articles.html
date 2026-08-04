@@ -41,6 +41,7 @@
 <style>
   .related-articles-table {
     width: 100%;
+    table-layout: fixed;
     border-collapse: collapse;
     font-size: 1.4rem;
     line-height: 1.9rem;
@@ -67,8 +68,9 @@
     color: #999;
   }
   .related-articles-table .article-publisher {
-    width: 12em;
-    white-space: nowrap;
+    width: 9em;
+    white-space: normal;
+    overflow-wrap: break-word;
     color: #999;
   }
   .related-articles-table tbody tr:hover {
