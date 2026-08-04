@@ -69,7 +69,7 @@ faq_groups:
         answer: "The phrase comes from a 2005 Wired profile of Kasper and Mitnick. Kasper was part of the same hacking circle as Mitnick as a teenager, but unlike Mitnick and others in that circle, he was never charged and has no criminal record."
 ---
 
-Alex Kasper is a deception researcher and former hacker who features in Kevin Mitnick's memoir Ghost in the Wires. As a teenager in Los Angeles he ran with the hacker and phone-phreak circle around Mitnick, breaking into phone, cellular, and commercial networks for the challenge, not the money. The group had unfettered access to phone company systems and even turned their skills on the security researchers hunting them, yet, unlike some of them, Kasper was never arrested.
+Alex Kasper is a deception researcher and former hacker who features in Kevin Mitnick's memoir Ghost in the Wires. As a teenager in Los Angeles he ran with the hacker and phone-phreak circle around Mitnick, breaking into phone, cellular, and commercial networks for the challenge, not the money. The group had unfettered access to phone company systems and even turned their skills on the security researchers hunting them, yet, unlike some, Kasper was never arrested.
 
 He spent the 1990s in multimedia, producing the award-winning 3DO game Return Fire and the USC short Eyeball Eddie, Martin Starr's first lead role. On the Mitnick biopic Takedown he did more than advise: he talked his way onto the production, befriended the producers, and pushed for a more sympathetic portrayal of his friend, social-engineering the film about a social engineer.
 
