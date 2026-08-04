@@ -32,6 +32,6 @@ Naturesign solves the bottleneck by letting users enter product and formulation 
 
 Founded in 2023 and based in Miami, Florida, Naturesign is “Digital Regulatory. Simplified.” It focuses exclusively on the specialized needs of flavor and fragrance manufacturers and suppliers, combining domain knowledge of industry requirements with document-automation technology. The goal is to remove a major administrative friction point so companies can move products to market faster while maintaining accurate, compliant documentation.
 
-In short, Naturesign turns a traditionally tedious regulatory workflow into a fast, repeatable digital process tailored to one highly regulated industry.
+In short, Naturesign turns a traditionally tedious regulatory workflow into a fast, repeatable digital process tailored to one highly regulated industry. [Visit website](https://www.naturesign.com).
 
 {{< references >}}
