@@ -58,25 +58,25 @@ faq_groups:
   - title: "Alex and Kevin Mitnick"
     questions:
       - question: "How did Alex meet Kevin Mitnick?"
-        answer: "..."
+        answer: "As teenagers in Los Angeles in the 1980s, Kasper and Mitnick were part of the same early hacker and phone-phreak circle."
 
       - question: "Did Alex and Kevin later work together?"
-        answer: "..."
+        answer: "Yes. In 1999 Kasper co-founded Nexspace, the coworking space where Mitnick wrote The Art of Deception after his release from prison; Kasper says he handled much of the work Mitnick was legally forbidden to do under his release terms, and Mitnick thanked him in the book's acknowledgments. In 2002 the two founded Defensive Thinking and created the Certified Social Engineering Prevention Specialist (CSEPS), the world's first social engineering prevention certification. They also co-hosted a weekly radio show on KFI AM 640."
 
   - title: "Background"
     questions:
       - question: "Why was Alex called “the one that got away”?"
-        answer: "..."
+        answer: "The phrase comes from a 2005 Wired profile of Kasper and Mitnick. Kasper was part of the same hacking circle as Mitnick as a teenager, but unlike Mitnick and others in that circle, he was never charged and has no criminal record."
 ---
 
-Alex Kasper (born Alexis C. Kasperavičius) has spent more than four decades exploring the intersection of technology, trust, and human behavior.
+Alex Kasper is an American technology executive and former hacker. As a teenager in Los Angeles he was part of an early hacker and phone-phreak circle that included Kevin Mitnick, engaged in the trophy hacking of the era: accessing phone, cellular, and commercial networks for the challenge, not for money. Unlike Mitnick and others in that circle, he was never charged and has no criminal record.
 
-As a teenager in Southern California he became part of the early hacker and phone-phreak community alongside Kevin Mitnick and others. Driven by curiosity rather than profit, he studied how complex systems—and the people who operate them—actually work. That same curiosity later led him into software, telecommunications, cybersecurity, and entrepreneurship.
+In the 1990s he worked as a multimedia producer, producing the video game Return Fire and the USC short film Eyeball Eddie, and serving as technical advisor on the Miramax feature Takedown, in which he also appears in two cameos.
 
-In the early 2000s Alex co-founded the security consultancy Defensive Thinking with Kevin Mitnick. Together they developed the Certified Social Engineering Prevention Specialist (CSEPS) program—the world's first professional certification dedicated to defending against social engineering. They trained corporations, government agencies, and military organizations including the U.S. Air Force and Marines. Alex is acknowledged in Mitnick's books The Art of Deception, The Art of Intrusion, and Ghost in the Wires, and appeared in the documentary Freedom Downtime.
+In 1999 Kasper co-founded Nexspace, an early networked coworking space in Los Angeles. Mitnick, then barred from using a computer under the terms of his prison release, wrote The Art of Deception from Nexspace; Kasper says he handled much of the work Mitnick was legally forbidden to do, and Mitnick thanked him in the book's acknowledgments. In 2002 the two founded Defensive Thinking and created the Certified Social Engineering Prevention Specialist (CSEPS), the world's first social engineering prevention certification, training clients including the U.S. Air Force and Marines.
 
-Earlier in his career he produced the critically acclaimed 3DO game Return Fire (1995) and co-produced the award-winning short film Eyeball Eddie. He also co-founded Nexspace, one of Los Angeles's early coworking spaces, and later built businesses in the flavor and fragrance industry, including the regulatory-document platform Naturesign.
+Kasper later moved into digital authentication work spanning the legal and food industries, serving as vice president of technology for Barkley and co-founding Kasper Exchange and Naturesign. He lived in Berlin from 2013 to 2022 before relocating to Montreal.
 
-Today Alex focuses on the mechanics of manipulation, social engineering, and how bad actors weaponize urgency to influence both people and machines. His forthcoming book, Manufactured Urgency, examines the recurring patterns behind confidence games, phishing, propaganda, and everyday deception.
+Kasper now researches manipulation and manufactured urgency, and how those techniques apply to AI. He is the author of the forthcoming book Manufactured Urgency: Craft of the Bad-Faith Actor.
 
 **[Press & full background →](/press/)** Photos, a short intro, full bio with sources, and downloadable assets are available on the Press page.
