@@ -33,8 +33,4 @@ The company credits two earlier chapters of Kasper's career with shaping the pro
 
 Naturesign is one of two brands published by Rosewood Key, LLC, alongside Kasper's own site; both share a Miami, Florida address.{{< fn "n000264" >}}
 
-#### Related Articles
-
-{{< related-articles "naturesign" >}}
-
 {{< references >}}

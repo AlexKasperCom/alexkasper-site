@@ -26,8 +26,4 @@ related:
 
 Kasper Exchange is a Miami, Florida limited liability company, classified under NAICS codes 425120 (Wholesale Trade Agents and Brokers) and 425110 (Business to Business Electronic Markets). Its agents work on behalf of buyers or sellers in the trade of spices, essential oils, and flavoring compounds, without the company itself buying, selling, warehousing, or taking title to the goods; it does not sell to consumers, and its minimum order is USD 5,000.{{< fn "n000260" >}}
 
-#### Related Articles
-
-{{< related-articles "kasper-exchange" >}}
-
 {{< references >}}
