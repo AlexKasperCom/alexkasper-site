@@ -5,7 +5,7 @@ slug: tap-archive
 outputs: ["html", "archiveindex"]  # adds archive.json — a structured index of every issue, for scripts/agents
 
 category: reference
-status: archive
+status: in progress
 
 issn: "0194-3936"  # https://portal.issn.org/resource/ISSN/0194-3936 — "TAP (New York)"
 wikidata: "Q2383604"  # https://www.wikidata.org/wiki/Q2383604
