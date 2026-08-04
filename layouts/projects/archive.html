@@ -3,11 +3,11 @@
 <main id="primary">
   <section class="content clearfix">
     <ul class="categories clearfix">
-      <li class="current-cat">
-        <a href="{{ .RelPermalink }}">Current Projects</a>
-      </li>
       <li>
-        <a href="{{ .RelPermalink }}archive/">Archive</a>
+        <a href="/projects/">Current Projects</a>
+      </li>
+      <li class="current-cat">
+        <a href="/projects/archive/">Archive</a>
       </li>
     </ul>
   </section>
@@ -18,15 +18,15 @@
     <section>
       {{ $archivedStatuses := slice "archive" "historical" }}
 
-      {{ $current := slice }}
-      {{ range .RegularPages }}
+      {{ $archived := slice }}
+      {{ range where site.RegularPages "Section" "projects" }}
         {{ $status := .Params.status | default "" | lower }}
-        {{ if not (in $archivedStatuses $status) }}
-          {{ $current = $current | append . }}
+        {{ if in $archivedStatuses $status }}
+          {{ $archived = $archived | append . }}
         {{ end }}
       {{ end }}
 
-      {{ $pages := sort $current "Title" }}
+      {{ $pages := sort $archived "Title" }}
       {{ $paginator := .Paginate $pages }}
 
       <div class="tilesWrapper two">
@@ -89,7 +89,7 @@
             </div>
           </article>
         {{ else }}
-          <p>No projects have been published yet.</p>
+          <p>No archived projects are currently available.</p>
         {{ end }}
       </div>
 
@@ -147,8 +147,8 @@
           <p>{{ . | markdownify }}</p>
         {{ else }}
           <p>
-            People, organizations, technologies, and ideas that have
-            shaped Alex Kasper's work and career.
+            Projects that have concluded, wound down, or are kept here
+            purely for historical reference.
           </p>
         {{ end }}
       </section>
