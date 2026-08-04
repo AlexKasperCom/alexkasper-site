@@ -25,12 +25,13 @@ related:
 
 ---
 
-**Naturesign** is a Salesforce-based platform that generates regulatory documents, such as allergen statements, certificates of analysis, and certificates of origin, for the flavor and fragrance industry, turning a client's existing paperwork into digital templates that can produce a full, signed document set in minutes.{{< fn "n000262" >}} It trades under Rosewood Key, LLC, a Florida limited liability company filed October 30, 2023, with Alex Kasper (Alexis Kasperavicius) as its Authorized Member.{{< fn "n000261" >}}
+**Naturesign** is a B2B SaaS platform that automates the creation of regulatory documents for the flavor and fragrance industry.
+Companies in this sector must supply extensive compliance paperwork—such as allergen statements, BSE/TSE declarations, vegan certificates, Certificates of Analysis, IFRA statements, safety data sheets, and various ingredient declarations—before buyers will even evaluate samples. Preparing these documents manually is slow, error-prone, and must be repeated or updated whenever formulations or regulations change. Delayed paperwork directly delays sales.
 
-Kasper is Naturesign's founder and president. Its own account traces the idea to "a conversation at a leading global flavor conference (IFEAT)," where he identified a recurring problem: a single flavor sample can require up to 30 customized regulatory documents. "It's not impossible, just tedious, expensive, and exactly the kind of work that shouldn't require so much attention," Kasper says. "Naturesign automates it."{{< fn "n000263" >}}
+Naturesign solves the bottleneck by letting users enter product and formulation data once. The platform then automatically generates a complete, signed, ready-to-send package of the selected documents (from a library of 50+ types) in under three minutes. It can also incorporate third-party certifications such as Kosher, Halal, or Organic into the same package. As regulations evolve, documents can be regenerated quickly without starting from scratch.
 
-The company credits two earlier chapters of Kasper's career with shaping the product: his work in the flavor and fragrance trade since 2010 through {{< ref-id "p000011" "Kasper Exchange" >}}, the essential-oil brokerage he co-founded with his brother Nicholas, and his prior role as vice president of technology at {{< ref-id "p000010" "Barkley Court Reporters" >}}, where he designed systems generating millions of legal documents a year.{{< fn "n000263" >}} Naturesign launched in early 2024 and counts MCI Miritz, described as one of the world's largest citrus oil suppliers, among its early partners.{{< fn "n000263" >}}
+Founded in 2023 and based in Miami, Florida, Naturesign is “Digital Regulatory. Simplified.” It focuses exclusively on the specialized needs of flavor and fragrance manufacturers and suppliers, combining domain knowledge of industry requirements with document-automation technology. The goal is to remove a major administrative friction point so companies can move products to market faster while maintaining accurate, compliant documentation.
 
-Naturesign is one of two brands published by Rosewood Key, LLC, alongside Kasper's own site; both share a Miami, Florida address.{{< fn "n000264" >}}
+In short, Naturesign turns a traditionally tedious regulatory workflow into a fast, repeatable digital process tailored to one highly regulated industry.
 
 {{< references >}}
