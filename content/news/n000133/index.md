@@ -6,7 +6,7 @@ date: "1972-09-01"
 
 draft: false
 source_type: newsletter
-summary: "Readers, More Box Plans, Dialing Overseas Calls, etc."
+summary: "Cites a reader report that the NSA monitors all trans-Atlantic and trans-Pacific calls, publishes corrections and deeper technical notes on the Red Box, warns of a New York City subway slug scheme, and prints a country-code list for direct-dialing international calls."
 projects:
   - tap-archive
 tags:

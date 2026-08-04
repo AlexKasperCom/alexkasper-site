@@ -6,7 +6,7 @@ date: "2023-07-20"
 
 draft: false
 source_type: webpage
-summary: "Post by Kevin Mitnick's widow, Kimberley Mitnick, on X (formerly Twitter)."
+summary: "A post by Kevin Mitnick's widow, Kimberley Mitnick, on X (formerly Twitter), part of her public reflections on him following his death."
 projects:
   - kevin-mitnick-archive
 tags:

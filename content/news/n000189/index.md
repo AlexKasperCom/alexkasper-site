@@ -6,7 +6,7 @@ date: "1981-09-01"
 
 draft: false
 source_type: newsletter
-summary: "Viva La Muerte! drug-scene news column by Oz Y. Mandias, plus a preview of a microprocessor-controlled 'brown box' project."
+summary: "Oz Y. Mandias's column reports on DEA task forces targeting drug labs and reviews several counterculture books, while 'The Wizard' previews an in-progress microprocessor-controlled 'brown box' project merging several tone-box functions into one unit."
 projects:
   - tap-archive
 tags:

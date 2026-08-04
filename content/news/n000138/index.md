@@ -6,7 +6,7 @@ date: "1973-05-01"
 
 draft: false
 source_type: newsletter
-summary: "A Special Sex Change Issue - Ma Bell is Really Pa Bell In Drag!, Ammo, No More Long Distance Calls!, We Try Harder, Holy Shit, Where Your Slug Goes, etc."
+summary: "A reader's call to rename 'Ma Bell' to 'Pa Bell' over AT&T's all-male leadership frames the issue, which also includes an Abbie Hoffman column on free speech, an early profile of computer criminals by Donn Parker, and an account of Israeli operators fired for eavesdropping on a Golda Meir call."
 projects:
   - tap-archive
 tags:

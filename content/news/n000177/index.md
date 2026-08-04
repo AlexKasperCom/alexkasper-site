@@ -6,7 +6,7 @@ date: "1979-05-01"
 
 draft: false
 source_type: newsletter
-summary: "Tom Edison Rattles Plot!, TAP's Internal History and Al Bell Falling Out, New Computer System, Underground Office Move, etc."
+summary: "Editor Tom Edison gives a lengthy, personal account of TAP's founding and near-collapse after publisher Al Bell's 1977 departure left the newsletter without proper mailing labels and mounting unpaid bills, describing how TAP recovered by acquiring its own computer system and relocating to a new office."
 projects:
   - tap-archive
 tags:

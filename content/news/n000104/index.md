@@ -6,7 +6,7 @@ date: "2026-07-10"
 
 draft: false
 source_type: blog_post
-summary: "Prepare yourselves! DEF CON 34 Workshop registration goes live at noon PDT on July 14! First come, first served."
+summary: "Alex Kasper will present the ideas behind *Manufactured Urgency* at DEF CON 34 in Las Vegas, examining how pressure and panic are weaponized to manipulate people and machines."
 projects:
 tags:
 author:

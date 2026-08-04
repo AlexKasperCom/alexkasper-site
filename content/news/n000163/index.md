@@ -6,7 +6,7 @@ date: "1977-03-01"
 
 draft: false
 source_type: newsletter
-summary: "Report from Merrie Olde England, The Silver Box, etc."
+summary: "A UK reader's letter compares British and American credit-card billing schemes and phone-network quirks and closes with commentary on British telecom monopoly practices, civil liberties, and TAP's Libertarian-leaning politics."
 projects:
   - tap-archive
 tags:

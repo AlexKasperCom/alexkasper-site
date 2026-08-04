@@ -6,7 +6,7 @@ date: "1976-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Book of the Year, Up Yours!, Black Box Update, News Clips, Voice Supervision Detector, Tuning your Organ"
+summary: "Reviews Jacques Bergier's *Secret Armies*, a history of industrial espionage and exotic weapons research, and runs reader mail on recycled-envelope mail tricks, PCB fabrication offers, alternative-energy projects, and a request about infrasonic and ultrasonic effects on the body."
 projects:
   - tap-archive
 tags:

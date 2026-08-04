@@ -6,7 +6,7 @@ date: "1972-06-01"
 
 draft: false
 source_type: newsletter
-summary: "Special Convention Issue, Letters, Receive Free Long Distance Calls, Boycott War Products, Support Captain Crunch, etc."
+summary: "Announces the 'World's First Phone Phreak Convention' in Miami Beach and publishes complete build instructions for a black box that lets any phone receive free long-distance calls, noting the article mirrors one Ramparts magazine had published and then suppressed under phone company pressure."
 projects:
   - tap-archive
 tags:

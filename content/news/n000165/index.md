@@ -6,7 +6,7 @@ date: "1977-07-01"
 
 draft: false
 source_type: newsletter
-summary: "CB Bull, AT&T Report, Get Down! etc."
+summary: "Tom Edison warns that TAP is on the verge of folding due to unsustainable printing, postage, and rent costs, announces new fees and the end of most free subscriptions, and pleads for readers to recruit new subscribers to keep the publication alive."
 projects:
   - tap-archive
 tags:

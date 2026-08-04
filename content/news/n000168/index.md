@@ -6,7 +6,7 @@ date: "1978-01-01"
 
 draft: false
 source_type: newsletter
-summary: "Review of Poor Man's James Bond, 312A Test Set (a legal Blue Box), etc."
+summary: "Prints a harsh reader letter accusing editor Tom Edison of filling TAP with complaints instead of information, followed by his lengthy defense recounting the newsletter's brush with financial collapse, plus a feature on an emerging phone bill-payment service."
 projects:
   - tap-archive
 tags:

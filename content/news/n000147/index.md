@@ -6,7 +6,7 @@ date: "1974-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Unannounced 6 month vacation, New Blue Box Info, More Free Electricity, etc."
+summary: "Returns after an unannounced six-month hiatus with reader-sourced improvements to the New Blue Box circuit, warns of an early caller-ID-like device marketed to catch obscene callers, and expands earlier coverage of free-electricity meter wiring."
 projects:
   - tap-archive
 tags:

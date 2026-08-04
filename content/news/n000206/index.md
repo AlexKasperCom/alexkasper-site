@@ -6,7 +6,7 @@ date: "1983-07-01"
 
 draft: false
 source_type: newsletter
-summary: "The Burglar's Tool Box by The Stainless Steal Rat, the start of a series on fabricating lock-picking tools from hardware-store materials."
+summary: "Opens a series on making lock-opening tools at home from automotive feeler-gauge spring steel, covering tension-wrench shaping and heat-tempering, plus how a warded padlock's internal mechanism works."
 projects:
   - tap-archive
 tags:

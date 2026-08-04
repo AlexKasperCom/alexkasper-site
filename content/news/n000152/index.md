@@ -6,7 +6,7 @@ date: "1976-01-01"
 
 draft: false
 source_type: newsletter
-summary: "1976 Credit Card Code, Odds & Ends, Ask Mr. Phelps, Memorize and Burn, etc."
+summary: "Admits an earlier prediction about a new credit-card numbering scheme was wrong and publishes the actual 1976 code, and retracts prior coverage of the 'Telident' instant-caller-ID device after learning it was fabricated for a stock fraud scheme."
 projects:
   - tap-archive
 tags:

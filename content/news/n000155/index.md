@@ -6,7 +6,7 @@ date: "1976-05-01"
 
 draft: false
 source_type: newsletter
-summary: "Odds & Ends, Ask Mr. Phelps, Mission: Impossible!, etc."
+summary: "Marks TAP's fifth anniversary, reports John 'Captain Crunch' Draper's second arrest on wire fraud charges tied to blue-box calls, troubleshoots a common Red Box failure mode, and pushes back forcefully against readers who complained TAP was too political."
 projects:
   - tap-archive
 tags:

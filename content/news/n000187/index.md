@@ -6,7 +6,7 @@ date: "1981-05-01"
 
 draft: false
 source_type: newsletter
-summary: "TAP's 10th Anniversary: A History of YIPL/TAP and Its Editors, plus Picking Mushroom-Pin Locks."
+summary: "Marking ten years since Al Bell and Abbie Hoffman launched the Youth International Party Line, editor Tom Edison recaps the newsletter's lineage and editors, alongside a lock-picking column on cylinders fitted with 'mushroom' security drivers."
 projects:
   - tap-archive
 tags:

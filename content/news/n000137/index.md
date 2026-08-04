@@ -6,7 +6,7 @@ date: "1973-03-01"
 
 draft: false
 source_type: newsletter
-summary: "Ammo, Don't Get Busted!, Red Box Phreaks!, Build a Line Relay, Holy Shit!, Letters, etc."
+summary: "Compiles news of AT&T rate hikes and regulatory failures, lays out phreak operational-security rules for assuming calls may be tapped, and introduces a mechanical Red Box variant and a 'Line Relay' project for triggering devices when the phone rings."
 projects:
   - tap-archive
 tags:

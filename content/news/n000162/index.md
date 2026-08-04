@@ -6,7 +6,7 @@ date: "1977-01-01"
 
 draft: false
 source_type: newsletter
-summary: "Interview With A Grand Guy, Keyboard Krazies, Stick 'Em Up!"
+summary: "Jim Phelps interviews an anonymous prankster nicknamed 'Guy Grand' about years of elaborate hoaxes targeting institutions, including a fabricated reservation billed to a Federal Reserve official that drew Senate scrutiny and national news coverage."
 projects:
   - tap-archive
 tags:

@@ -6,7 +6,7 @@ date: "2003-01-19"
 
 draft: false
 source_type: article
-summary: "A profile of Kevin Mitnick's move from convicted hacker to security consultant."
+summary: "Ventura County Star profile of Kevin Mitnick's transition from convicted hacker to computer-security consultant after his release from prison, including his collaboration with Alex Kasper at Defensive Thinking."
 projects:
   - defensive-thinking
   - kevin-mitnick-archive

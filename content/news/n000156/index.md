@@ -6,7 +6,7 @@ date: "1976-06-01"
 
 draft: false
 source_type: newsletter
-summary: "Ultimate Red Box, Odds & Ends, S-1 Update, Ask Mr. Phelps, etc."
+summary: "Al Bell presents the 'Ultimate Red Box,' a redesigned circuit built around a precision programmable counter-timer chip that fixes the imprecise pulse timing of earlier oscillator-based designs."
 projects:
   - tap-archive
 tags:

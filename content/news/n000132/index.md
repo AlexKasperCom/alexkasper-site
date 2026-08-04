@@ -6,7 +6,7 @@ date: "1972-08-01"
 
 draft: false
 source_type: newsletter
-summary: "New Readers, Ramparts Info, Construction & Operation of the Blue Box, etc."
+summary: "Recaps the July 1972 NYC Phone Phreak Convention, reports wire fraud charges against John 'Captain Crunch' Draper and solicits donations to his defense fund, and publishes full schematics for the Red Box coin-tone oscillator."
 projects:
   - tap-archive
 tags:

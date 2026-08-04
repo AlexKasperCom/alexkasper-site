@@ -6,7 +6,7 @@ date: "1983-01-01"
 
 draft: false
 source_type: newsletter
-summary: "TAP RAP administrative policy update by Tom A. Edison, plus a Security Alert column on toll-record subpoenas and chemical-shipment surveillance."
+summary: "Editor Tom A. Edison opens the year with subscription and payment policy changes, followed by a 'Security Alert' column warning that toll records can be obtained by law enforcement without a warrant and that tracking devices have been found hidden in chemical shipments."
 projects:
   - tap-archive
 tags:

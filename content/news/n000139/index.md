@@ -6,7 +6,7 @@ date: "1973-06-01"
 
 draft: false
 source_type: newsletter
-summary: "Ammo, Meat!, A Red Box in Every Pot, Build a Snoop Light, Head Crash, Light and Sound Weapon Tested, etc."
+summary: "Reports Northwestern Bell removing bells from pay phones, catalogs methods for defeating parking meters, explains recording pay-phone coin tones on cassette tape for reuse, and describes a 'Snoop Light' circuit for detecting picked-up extensions."
 projects:
   - tap-archive
 tags:

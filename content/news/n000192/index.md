@@ -6,7 +6,7 @@ date: "1982-02-01"
 
 draft: false
 source_type: newsletter
-summary: "Homemade Fireworks Pt. 1 by The Magician, covering the regulatory history of consumer fireworks and general construction concepts, with extensive safety warnings."
+summary: "Opens with a history of U.S. fireworks regulation before covering, in general terms with extensive safety warnings, the construction of paper-tube fireworks and coloring/finishing techniques."
 projects:
   - tap-archive
 tags:

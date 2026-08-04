@@ -6,7 +6,7 @@ date: "1975-11-01"
 
 draft: false
 source_type: newsletter
-summary: "The Party's Over, Install an Extension Phone, Fortress Fun, Telephone Locks, Letters, etc."
+summary: "Covers New Jersey Bell's discontinuation of shared party lines as a disguised rate hike, walks through wiring a home extension phone, and covers repurposing a discarded 'Fortress' payphone as an extension."
 projects:
   - tap-archive
 tags:

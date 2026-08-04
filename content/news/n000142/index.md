@@ -6,7 +6,7 @@ date: "1973-10-01"
 
 draft: false
 source_type: newsletter
-summary: "Build The Answeroo, Spiro Agnew is an anagram for Grow a Penis, TAP D.A., Abbie Hoffman Defense Fund, Letters, How We Catch Red Boxers, Ma Bell's Ripoff Warning, Red Box Diagram Correction, etc."
+summary: "Describes building the 'Answeroo,' a relay-based device that silently answers an incoming call with a lamp instead of a ring, and continues the reader-driven 'Destructory Assistance' information exchange."
 projects:
   - tap-archive
 tags:

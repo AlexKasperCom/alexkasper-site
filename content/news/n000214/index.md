@@ -12,7 +12,7 @@ draft: false           # Set to false when ready to publish.
 
 source_type:          webpage
 
-summary:    The U.S. Justice Department is prosecuting an American man for allegedly providing U.S. border authorities with a passcode that wiped the contents of his phone
+summary: "The Guardian reports that Sam Tunick was detained for questioning at Atlanta's airport after being placed on a terrorism watchlist over his alleged ties to the movement against Cop City."
 
 projects:             # Related project slugs:
                       #   - return-fire

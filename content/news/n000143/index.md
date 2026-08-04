@@ -6,7 +6,7 @@ date: "1973-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Special Energy Crisis Issue — Live Better With Free Electricity, Picking the Meter Lock, Rumor Dept., Abbie Hoffman Defense Fund, etc."
+summary: "Skewers the Nixon administration's response to the 1973 energy crisis, then gives a detailed illustrated guide to reading, slowing, jumping, or bypassing residential electric meters and picking a 'rollersmith' meter lock, alongside a fundraising appeal for Abbie Hoffman's legal defense."
 projects:
   - tap-archive
 tags:

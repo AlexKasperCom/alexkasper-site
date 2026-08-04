@@ -6,7 +6,7 @@ date: "1975-12-01"
 
 draft: false
 source_type: newsletter
-summary: "Little Orphan Abbie, Black Box Beats Bell in the Fourth!, Ask Mr. Phelps, RAO Credit Card Codes, etc."
+summary: "Recaps 1975 as a year of Bell 'arson, greed, corruption, and invasion of privacy,' citing a suspicious central-office fire and revelations that the company recorded over 30 million calls hunting for black-box users, and runs a detailed technical breakdown of black-box circuit variants."
 projects:
   - tap-archive
 tags:

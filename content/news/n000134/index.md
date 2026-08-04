@@ -6,7 +6,7 @@ date: "1972-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Credit Cards of the Month, Free Speech, The AT&T Papers, Support Captain Crunch, etc."
+summary: "Answers reader questions on tuning red box volume and warns that blue-box detectors are being deployed, publishes a fresh batch of credit card numbers and overseas dialing codes, and describes Bell's internal operator-training and secrecy culture."
 projects:
   - tap-archive
 tags:

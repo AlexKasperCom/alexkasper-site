@@ -6,7 +6,7 @@ date: "1973-07-01"
 
 draft: false
 source_type: newsletter
-summary: "Cheese Box, 3 & 4 Line Conference Bridges, Phone Phreaks Convention, Ma Bell's Watergate, Stuck Stacks, etc."
+summary: "Publishes a list of New York Telephone's foreign-country dial-tone test numbers, debunks a widely circulated rumor about a phone number that supposedly revealed wiretaps, and covers automatic number identification (ANI)."
 projects:
   - tap-archive
 tags:

@@ -18,11 +18,11 @@ publisher: "archive.org"
 source_url: "https://archive.org/details/FreedomDowntime-TheStoryOfKevinMitnick"
 access_date: "2019-05-14"
 source_dead: false
-archive1_url: 
-archive1_date: 
+archive1_url: "https://cosmolearning.org/documentaries/freedom-downtime-the-story-of-kevin-mitnick-2001/"
+archive1_date: "2023-09-06"
 archive1_dead: false
-archive2_url:
-archive2_date:
+archive2_url: "https://web.archive.org/web/20230906142646/https://cosmolearning.org/documentaries/freedom-downtime-the-story-of-kevin-mitnick-2001/"
+archive2_date: "2023-09-06"
 archive2_dead: false
 local_file:
 pages: 

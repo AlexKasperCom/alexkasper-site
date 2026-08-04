@@ -6,7 +6,7 @@ date: "1976-09-01"
 
 draft: false
 source_type: newsletter
-summary: "Give The Water Company a Blow Job, Classified Information, Black Box Blues, Last Odds & Ends, etc."
+summary: "Reader letters on water-meter tampering and utility-side detection methods lead into broader commentary on energy waste, sewage-to-methane conversion, and skepticism toward a utility-sponsored solar water heating program."
 projects:
   - tap-archive
 tags:

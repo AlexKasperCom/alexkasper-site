@@ -6,7 +6,7 @@ date: "1972-12-01"
 
 draft: false
 source_type: newsletter
-summary: "High \"E\" is 2637 Hz, Sure Cure for Message Units, Build a \"T\" network for Fun & Profit, Destructory Assistance, 1973 Credit Card Code, British System Rigged for Free Calls, etc."
+summary: "Al Bell's origin-story editorial frames YIPL as a deliberate provocation against the phone company, explaining the Black Box for dodging message-unit charges, a tone trick for triggering false alarms on Bell's new blue-box detectors, and a new reader information-trading department called 'Destructory Assistance.'"
 projects:
   - tap-archive
 tags:

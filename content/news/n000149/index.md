@@ -6,7 +6,7 @@ date: "1975-10-01"
 
 draft: false
 source_type: newsletter
-summary: "Advanced Blue Box, Corrected Snoop Lite, Phone Gadgets, Foreign Codes, etc."
+summary: "Announces a new physical TAP office in New York for volunteers and readers, publishes an 'Advanced Blue Box' circuit built around a 555 timer for better frequency stability, and corrects component values from an earlier Snoop Light circuit."
 projects:
   - tap-archive
 tags:

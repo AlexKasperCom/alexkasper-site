@@ -6,7 +6,7 @@ date: "1976-09-01"
 
 draft: false
 source_type: newsletter
-summary: "Fighting the Biggest Monopoly of All, The Way It Sposed To Be, Ask Mr. Phelps about Free Postage, Let's Make a Deal, Xerox Copiers et al: Access, etc."
+summary: "Jim Phelps endorses Libertarian presidential candidate Roger MacBride and frames taxation as 'the biggest monopoly of all,' reports John 'Captain Crunch' Draper's four-month prison sentence after FBI interrogation, and includes a satirical mock 'citizen's arrest' legal document."
 projects:
   - tap-archive
 tags:

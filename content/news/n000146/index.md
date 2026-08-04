@@ -6,7 +6,7 @@ date: "1974-03-01"
 
 draft: false
 source_type: newsletter
-summary: "New Blue Box, Make A Key For Your Rollersmith Lock, etc."
+summary: "Reports Bell's phase-out of glass phone booths for vandalism-resistant designs ahead of a shift to single-slot coin phones, plugs a security kit for handling police encounters, and covers tricks for defeating vending machines."
 projects:
   - tap-archive
 tags:

@@ -6,7 +6,7 @@ date: "2005-06-06"
 
 draft: false
 source_type: article
-summary: "A profile contrasting the lives and careers of Alex Kasper and Kevin Mitnick."
+summary: "Patrick Gray profiles longtime friends and business partners Alex Kasper and Kevin Mitnick, contrasting Kasper's path from teenage phone hacking into video-game production with Mitnick's arrest, imprisonment, and later career as an author and security consultant, tracing how their shared history led to founding Defensive Thinking."
 projects:
   - cseps
   - defensive-thinking

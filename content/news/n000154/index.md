@@ -6,7 +6,7 @@ date: "1976-04-01"
 
 draft: false
 source_type: newsletter
-summary: "Open Sesame!, End the Misuse of the SS Number, TAP Patent Office, Odds & Ends, etc."
+summary: "Mr. Phelps argues the Social Security Number has become a de facto universal identifier enabling cradle-to-grave surveillance and advocates purpose-specific IDs instead, while Tom Edison revisits 'Fortress' payphone coin-box access methods with a more practical technique."
 projects:
   - tap-archive
 tags:

@@ -6,7 +6,7 @@ date: "1978-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Review of Exotic Weapons: An Access Book, Lockpicking Supplies, MF Tone Generator Module, Loompanics Controversy, etc."
+summary: "Reviews Michael Hoy's *Exotic Weapons: An Access Book* as a springboard for disavowing violence, points readers to lock-pick suppliers and a commercial MF tone-generator module, and criticizes publisher Loompanics for distributing a Holocaust-denial title."
 projects:
   - tap-archive
 tags:

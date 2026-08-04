@@ -6,7 +6,7 @@ date: "1976-12-01"
 
 draft: false
 source_type: newsletter
-summary: "A Visit from the Mebco Man, CB Bull, The Big Bust, Un-Due'ing Postage, etc."
+summary: "Opens with a holiday parody about a parking-meter maintenance visit, announces a growing informal directory connecting readers by specialized skill, and recounts a reader's out-of-court settlement against the phone company over unauthorized tree-cutting."
 projects:
   - tap-archive
 tags:

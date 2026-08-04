@@ -6,7 +6,7 @@ date: "1976-02-01"
 
 draft: false
 source_type: newsletter
-summary: "Pay and Die?, Odds & Ends, Oops!, TAP's Black Box Long Distance Rates, Ask Mr. Phelps, Pay Attention!, etc."
+summary: "Mr. Phelps pairs a pitch for radical life-extension research with a constitutional argument for tax resistance, while an 'Odds & Ends' column reports a crackdown on illegal phone extensions and answering machines and asks readers for off-hook line current readings."
 projects:
   - tap-archive
 tags:

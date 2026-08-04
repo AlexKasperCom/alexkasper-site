@@ -6,7 +6,7 @@ date: "1978-05-01"
 
 draft: false
 source_type: newsletter
-summary: "Pick Your Way to Fame & Fortune, Electronics for the Dope Dealer, The Drop, The Birth Certificate, Tandem Scanning, Getting Hooked on Cable TV, 1978 CC Code, etc. Special Double Issue!"
+summary: "TAP's 7th anniversary double issue opens with a step-by-step guide to fabricating lock picks from spring steel, followed by 'Electronics for the Dope Dealer,' covering countersurveillance techniques, and pieces on cable TV descrambling reflecting the era's drift toward broader 'countereconomics' content."
 projects:
   - tap-archive
 tags:

@@ -6,7 +6,7 @@ date: "1995-12-19"
 
 draft: false
 source_type: article
-summary: "The 3DO Company announces the winners of its 1995 game awards."
+summary: "This Business Wire release announces the winners of 3DO's 1995 game awards, including *Return Fire*, published by Prolific Publishing, which won Two-Player Game of the Year."
 projects:
   - return-fire
 tags:

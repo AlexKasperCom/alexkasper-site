@@ -6,7 +6,7 @@ date: "1971-12-01"
 
 draft: false
 source_type: newsletter
-summary: "Free-love masthead, 1972 Credit Card Code, Letters, Baboon takes over South African Phone System, Tuning your Organ (for Phone Tones), etc."
+summary: "Explains the redesigned 1972 credit card billing code and a separate 'Code Billing System' exploit, encourages readers to prank-call Southern Bell's chief of security, and gives an early write-up of what would become the 'black box' for receiving free long-distance calls."
 projects:
   - tap-archive
 tags:

@@ -6,7 +6,7 @@ date: "1977-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Beating the Cops On Speeding, etc."
+summary: "Reprints a feature on the booming radar-detector market, covering the devices' patchwork legality, the ongoing arms race between detector makers and police radar, and commentary from Fuzzbuster inventor Dale Smith."
 projects:
   - tap-archive
 tags:

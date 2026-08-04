@@ -12,7 +12,7 @@ draft: false           # Set to false when ready to publish.
 
 source_type:         webpage
 
-summary:              Kevin Mitnick responds to slashdot questions
+summary: "Slashdot posts Kevin Mitnick's long-delayed, detailed answers to reader-submitted questions, in which he corrects a story he says misquoted him and sets the record straight on several other points."
 
 projects:
   - kevin-mitnick-archive

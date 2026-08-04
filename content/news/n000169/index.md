@@ -6,7 +6,7 @@ date: "1978-03-01"
 
 draft: false
 source_type: newsletter
-summary: "More Fortress Fun!, The Principles of TWX Phreaking, etc."
+summary: "Two collaborators dissect a decommissioned 'Fortress' payphone, refining earlier mechanical details and explaining how its coin-relay mechanism generates tone pulses, and warn that Red Box tone timing drifts with outdoor temperature."
 projects:
   - tap-archive
 tags:

@@ -6,7 +6,7 @@ date: "1971-07-01"
 
 draft: false
 source_type: newsletter
-summary: "\"Blue Box\" Is Linked to Phone Call Fraud, The Dumbest Rip-off, etc."
+summary: "Reprints a New York Times report on a Long Island blue-box arrest, explains the tone-pair frequencies behind blue boxing, and features a published debate between columnist Russell Baker and Abbie Hoffman over whether ripping off the phone company helps or hurts the counterculture."
 projects:
   - tap-archive
 tags:

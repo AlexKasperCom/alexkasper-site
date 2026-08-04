@@ -6,7 +6,7 @@ date: "1983-02-01"
 
 draft: false
 source_type: newsletter
-summary: "Still in Saigon by Oz Y. Mandias, a dated and controversial column touching on remote paging-triggered devices, chemical-weapons documentation, and nuclear-history publications, alongside mail-order novelty/security-supply listings."
+summary: "A provocative, dated column referencing armed guerrilla groups touches on modifying paging equipment for remote triggering and points to declassified government documents on chemical and nuclear weapons history, presented here strictly as a historical record."
 projects:
   - tap-archive
 tags:

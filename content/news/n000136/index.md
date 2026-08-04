@@ -6,7 +6,7 @@ date: "1973-02-01"
 
 draft: false
 source_type: newsletter
-summary: "All New Red Box, 1973 Credit Card Code, Letters, etc."
+summary: "Publishes a redesigned Red Box circuit, appeals to readers to recruit subscribers instead of raising prices, and covers regional wiring variations of the 'T network' along with continued reader information-trading."
 projects:
   - tap-archive
 tags:

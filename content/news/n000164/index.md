@@ -6,7 +6,7 @@ date: "1977-05-01"
 
 draft: false
 source_type: newsletter
-summary: "Tap Rap, Get Down!, Counter Control, etc."
+summary: "New editor Tom Edison announces that TAP's founder has stepped back, restates the newsletter's policy of covering topics beyond phones, lays out administrative housekeeping, and celebrates TAP's sixth anniversary with new T-shirts."
 projects:
   - tap-archive
 tags:

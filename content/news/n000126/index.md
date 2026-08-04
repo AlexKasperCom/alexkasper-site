@@ -6,7 +6,7 @@ date: "1971-11-01"
 
 draft: false
 source_type: newsletter
-summary: "Statement of Purpose, Credit Card Codes by Area, Mixer & Amplifier for \"Toy Organ\" Blue Box, Scotch Taping Stamps for free postage, etc."
+summary: "Confirms the technical accuracy of Ron Rosenbaum's Esquire blue-boxing exposé, restates YIPL's mission as a reader-supplied information pool, and publishes a table of 1972 credit card billing codes by city along with tips for avoiding detection when boxing from pay phones."
 projects:
   - tap-archive
 tags:

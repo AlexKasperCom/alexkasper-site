@@ -12,7 +12,7 @@ draft: false
 
 source_type: article 
 
-summary:           Kevin describes social engineering
+summary: "In this Harvard Business Review piece, Kevin Mitnick argues that despite heavy investment in security technology, employees remain organizations' weakest link and the primary target for intruders seeking to steal intellectual property."
 
 projects:
   - Mitnick

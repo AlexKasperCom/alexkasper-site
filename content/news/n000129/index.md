@@ -6,7 +6,7 @@ date: "1972-03-01"
 
 draft: false
 source_type: newsletter
-summary: "Bugs, Super Duper Project! (the black box), Letters, Where to put the stamp to avoid cancellation, etc."
+summary: "Publishes full build instructions for the 'Super-Duper Project,' an early black box circuit that lets a home phone receive long-distance calls free of charge, alongside a renewed boycott call against ITT and its subsidiaries."
 projects:
   - tap-archive
 tags:

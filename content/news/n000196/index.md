@@ -6,7 +6,7 @@ date: "1982-07-01"
 
 draft: false
 source_type: newsletter
-summary: "Life & Death & Dope by Dr. Atomic, a defense of TAP's chemistry coverage sparked by reader criticism, covering an antioxidant supplement and declining to detail lethal chemistry."
+summary: "Responding to a reader's objection to TAP covering drug chemistry, 'Dr. Atomic' argues chemistry fits the newsletter's broadened mission, discussing a food-preservative antioxidant's possible life-extension effects while explicitly declining to detail any lethal chemistry."
 projects:
   - tap-archive
 tags:

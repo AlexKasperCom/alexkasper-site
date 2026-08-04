@@ -6,7 +6,7 @@ date: "1977-09-01"
 
 draft: false
 source_type: newsletter
-summary: "TAP Update, Counter Control, The Voice, Con-Ned Again, etc."
+summary: "Tom Edison reports TAP survived its financial crisis but lost much of its subscriber base, forcing a rate increase; a column on obtaining a driver's license under an alias as a privacy measure is followed by a reprinted New York Times piece on New York Telephone's new system for instantly tracing blue-box calls."
 projects:
   - tap-archive
 tags:

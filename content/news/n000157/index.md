@@ -6,7 +6,7 @@ date: "1976-07-01"
 
 draft: false
 source_type: newsletter
-summary: "Report from the End of the Earth, Odds & Ends, Tapping/Recording Methods, Bell's Boxin' Us In!, Pen Pals Wanted, etc."
+summary: "Corrects an earlier Red Box schematic error, prints a dispatch from an isolated phreak in rural Canada whose phone service runs through a military/NATO network with priority-override tones, and describes a rumored surveillance system for detecting illegal phone extensions."
 projects:
   - tap-archive
 tags:

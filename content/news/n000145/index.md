@@ -6,7 +6,7 @@ date: "1974-01-01"
 
 draft: false
 source_type: newsletter
-summary: "Ammo, The Methane Game, New Red Box, etc."
+summary: "States TAP's editorial policy of publishing technical information rather than material meant only to cause harm, criticizes AT&T chairman John deButts's public statements against the company's profit jump and a GTE billing scandal, and gives mail-security instructions for corresponding with TAP."
 projects:
   - tap-archive
 tags:

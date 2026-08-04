@@ -15,9 +15,9 @@ tags:
 author:
   - "John Christensen"
 publisher: "CNN"
-source_url: "http://edition.cnn.com/SPECIALS/1999/mitnick.background/"
-access_date: "2018-12-11"
-source_dead: true
+source_url: "https://www.cnn.com/SPECIALS/1999/mitnick.background/"
+access_date: "2026-06-08"
+source_dead: false
 archive1_url: "https://web.archive.org/web/20181208015525/http://edition.cnn.com/SPECIALS/1999/mitnick.background/"
 archive1_date: "2018-12-08"
 archive1_dead: false
@@ -25,7 +25,7 @@ archive2_url:
 archive2_date:
 archive2_dead: false
 local_file:
-pages: 
+pages: "(Includes criminal record timeline)"
 isbn: 
 time:
 duration:

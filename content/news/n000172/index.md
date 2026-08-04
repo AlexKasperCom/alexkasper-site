@@ -6,7 +6,7 @@ date: "1978-08-01"
 
 draft: false
 source_type: newsletter
-summary: "Jim Phelps Tribute Issue, UK Phone Exchange Fraud Tips, Radar Jammer Request, THC-79 Conference, etc."
+summary: "A special issue dedicated to outgoing co-editor Jim Phelps, compiled from material he left behind, including UK telephone-exchange fraud tips, a corporate credit card validated through MCI's voice-response system, and a request for a radar-jammer schematic."
 projects:
   - tap-archive
 tags:
