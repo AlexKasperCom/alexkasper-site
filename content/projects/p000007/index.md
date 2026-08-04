@@ -5,7 +5,7 @@ title: "Kevin Mitnick Archive"
 slug: "kevin-mitnick-archive"
 
 category: person
-status: archive
+status: in-progress
 
 summary: "Hacker, Computer security consultant, author, and longtime friend"
 
@@ -21,12 +21,14 @@ tags:
 related:
   - t000002   # Defensive Thinking
   - t000003   # Lewis De Payne
+
 ---
 
-Kevin Mitnick (1963–2023) was an American computer security consultant, author, and one of the best-known hackers of the 1980s and 1990s.
+Kevin Mitnick (1963–2023) was an American computer security consultant, author, and one of the best-known hackers of the 1980s and 1990s. He was also my best friend.
 
-Alex Kasper met Mitnick during the Los Angeles hacker community of the late 1980s. The two later founded Defensive Thinking, Inc., presented together at conferences, and collaborated on numerous security awareness projects.
+I met Mitnick in the Los Angeles hacker community of the late 1980s. We later founded **Defensive Thinking**, wrote and taught the first social engineering prevention certification, and collaborated on numerous penetration testing and security awareness projects.
 
-This page serves as a central reference for material related to Kevin Mitnick throughout the site.
+This page is a central reference for published material related to Kevin Mitnick, and I'm still adding to it. If you have something you'd like to include, please [get in touch](/contact). If you'd like to know about any updates, please [join the mailing list](/mailing-list).
+
 
 {{< related-articles "kevin-mitnick-archive" >}}

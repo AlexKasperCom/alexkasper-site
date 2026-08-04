@@ -69,11 +69,11 @@ faq_groups:
         answer: "The phrase comes from a 2005 Wired profile of Kasper and Mitnick. Kasper was part of the same hacking circle as Mitnick, as a teenager, but unlike Mitnick and others, he was never charged and has no criminal record."
 ---
 
-Alex Kasper is a deception researcher and former hacker who features in Kevin Mitnick's memoir *Ghost in the Wires.* As a teenager in Los Angeles he ran in the same hacker and phone-phreak circle, breaking into phone, cellular, and commercial networks to satisfy curiosity, not for money. The group had unfettered access to phone company systems and even turned their skills on the security researchers hunting them, yet, unlike some, Kasper was never arrested.
+Alex Kasper is a deception researcher and former hacker who features in Kevin Mitnick's memoir *Ghost in the Wires.* As a teenager in Los Angeles he ran in the same hacker and phone-phreak circle, breaking into phone, cellular, and commercial networks to satisfy curiosity, not for money. The group had unfettered access to phone company systems and even turned their skills on the security researchers hunting them, yet Kasper was never arrested.
 
 He spent the 1990s producing the award-winning **3DO** game *Return Fire* and the **USC** short *Eyeball Eddie*, Martin Starr's first lead role. On the **Miramax** biopic of Mitnick, *Takedown*, he did more than advise: he talked his way onto the production, befriended the producers, and got script changes for a more sympathetic portrayal of his friend, social-engineering the film about a social engineer.
 
-In 1999 Kasper co-founded **Nexspace**, an early coworking space where Mitnick, then barred from touching a computer under the terms of his release, wrote *The Art of Deception* with Kasper handling the work he was legally forbidden to do. In 2002 the two founded **Defensive Thinking** and built *CSEPS*, the world's first social engineering prevention certification, training clients that ranged from corporations and banks to the **U.S. Air Force** and **Marines**.
+In 1999 Kasper co-founded **Nexspace**, an early coworking space where newly released Mitnick, then barred from touching a computer under the terms of his release, wrote *The Art of Deception* with Kasper handling the work Mitnick was legally forbidden to do. In 2002 the two founded **Defensive Thinking** and built *CSEPS*, the world's first social engineering prevention certification, training clients that ranged from corporations and banks to the **U.S. Air Force** and **Marines**.
 
 Kasper spent the next two decades building document and authentication systems across the legal and food industries, and lived in Berlin before settling in Montreal.
 
