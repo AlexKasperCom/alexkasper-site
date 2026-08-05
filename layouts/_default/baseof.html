@@ -5,16 +5,16 @@
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <meta name="copyright" content="&copy; 1968–{{ now.Format "2006" }} Rosewood Key LLC. All rights reserved.">
       <meta name="theme-color" content="#222222">
+      <link rel="icon" href="/img/favicon.ico" sizes="any">
       <link rel="icon" href="/img/favicon.svg" type="image/svg+xml">
-      <link rel="icon" href="/img/favicon-32.png" sizes="32x32" type="image/png">
-      <link rel="icon" href="/img/favicon-16.png" sizes="16x16" type="image/png">
       <link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
 
       <link rel="stylesheet" href="/css/global.css">
       <link rel="stylesheet" href="/css/ak/ak.css">
 
       <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
-      <link rel="canonical" href="{{ .Permalink }}">
+
+      <script src="/js/jquery/min/jquery-3.6.0.min.js"></script>
 
       <title>
 {{- if .IsHome -}}
@@ -23,37 +23,6 @@
 {{ .Title }} | {{ site.Title }}
 {{- end -}}
       </title>
-
-{{- $pageTitle := cond .IsHome site.Title (printf "%s | %s" .Title site.Title) }}
-{{- $description := .Params.description | default .Params.summary | default site.Params.description }}
-{{- $image := "" }}
-{{- with .Resources.GetMatch "cover.*" }}{{ $image = .Permalink }}{{ end }}
-{{- $isDefaultImage := not $image }}
-{{- if not $image }}{{ $image = absURL "img/ak/hero/biography.v1.jpg" }}{{ end }}
-{{- $ogType := "website" }}
-{{- if and (eq .Kind "page") (eq .Section "news") }}{{ $ogType = "article" }}{{ end }}
-
-      {{ with $description }}<meta name="description" content="{{ . }}">{{ end }}
-
-      <meta property="og:site_name" content="{{ site.Title }}">
-      <meta property="og:type" content="{{ $ogType }}">
-      <meta property="og:title" content="{{ $pageTitle }}">
-      {{ with $description }}<meta property="og:description" content="{{ . }}">{{ end }}
-      <meta property="og:url" content="{{ .Permalink }}">
-      <meta property="og:image" content="{{ $image }}">
-      {{ if $isDefaultImage }}
-      <meta property="og:image:width" content="1200">
-      <meta property="og:image:height" content="1200">
-      {{ end }}
-      <meta property="og:locale" content="en_US">
-
-      <meta name="twitter:card" content="summary_large_image">
-      {{ with site.Params.twitter }}<meta name="twitter:site" content="@{{ . }}">{{ end }}
-      <meta name="twitter:title" content="{{ $pageTitle }}">
-      {{ with $description }}<meta name="twitter:description" content="{{ . }}">{{ end }}
-      <meta name="twitter:image" content="{{ $image }}">
-
-      <script src="/js/jquery/min/jquery-3.6.0.min.js"></script>
 
       {{ block "head_extra" . }}{{ end }}
    </head>

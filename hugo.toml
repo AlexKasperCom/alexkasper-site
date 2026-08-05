@@ -1,11 +1,6 @@
-baseURL = 'https://alexkasper.com/'
+baseURL = 'https://test.alexkasper.com/'
 languageCode = 'en-us'
 title = 'Alex Kasper'
-
-[params]
-  description = "Official site of Alex Kasper — social engineering and deception research, with a long-running connection to Kevin Mitnick and the early hacking/phone-phreaking scene."
-  twitter = "AlexKasperCom"
-
 [pagination]
   pagerSize = 15
 
