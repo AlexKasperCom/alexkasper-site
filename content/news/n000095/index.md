@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Kevin Mitnick's third book, a practical privacy guide teaching readers how to protect themselves from surveillance and data collection in an always-connected world."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - books

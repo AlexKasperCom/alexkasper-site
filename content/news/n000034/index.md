@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Three-page strategy guide by Jeff Lundrigan calling Return Fire \"one of the most kickin' games of the year.\" Rated B\\#4 with a score of 88\\%."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
 author:

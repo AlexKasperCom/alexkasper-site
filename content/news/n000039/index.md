@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Return Fire is a brutally effective blend of arcade violence and tactical play, emphasizing its visceral audiovisual impact and immediate, instinctive controls."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
   - soundtrack

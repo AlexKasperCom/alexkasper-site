@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Katie Hafner and John Markoff’s account of three early computer-underground communities, including the Los Angeles scene around Kevin Mitnick."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - hacking-history
   - lewis-de-payne

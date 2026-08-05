@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "This EGM² “Next Wave” preview introduces Return Fire as a fast, action-oriented combat game that combines search-and-destroy gameplay with a simple yet engaging Capture the Flag objective."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - preview
 author:

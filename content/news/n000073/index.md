@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Kevin Mitnick and William L. Simon's follow-up to The Art of Deception, recounting real-world hacking incidents told from the perspective of the intruders themselves."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

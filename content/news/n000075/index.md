@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Playboy profile of Kevin Mitnick's life after prison, examining his transformation into a security consultant and public speaker."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

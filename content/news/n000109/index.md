@@ -8,7 +8,7 @@ draft: false
 source_type: press-release
 summary: "U.S. Department of Justice press release announcing the February 1995 FBI arrest of fugitive computer hacker Kevin Mitnick in Raleigh, North Carolina."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

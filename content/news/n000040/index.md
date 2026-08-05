@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Esquire profile by Katie Hafner (co-author of Cyberpunk) examining Kevin Mitnick's life and psychology in the aftermath of his arrest and the media frenzy surrounding his case."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

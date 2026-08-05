@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Praise for Return Fire as one of the most enjoyable action games available on the 3DO, built around a refreshingly simple rule set that encourages blowing everything up while capturing the enemy flag."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - mainstream-press

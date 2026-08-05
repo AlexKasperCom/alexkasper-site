@@ -10,7 +10,7 @@ source_type: image
 entry_type: reference
 summary: "IMDb production still captioned \"Alex Kasper (cameo, back left), Tsutomu Shimomura (cameo, back right), and Donal Logue (as Alex Lowe, back center) in Takedown (2000).\""
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - takedown

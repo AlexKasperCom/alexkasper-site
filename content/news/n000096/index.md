@@ -9,7 +9,7 @@ source_type: article
 summary: "Fast Company first-person account by a business owner describing why hiring Kevin Mitnick to test their company's security was worthwhile."
 projects:
   - cseps
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - cseps
   - kevin-mitnick

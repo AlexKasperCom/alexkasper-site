@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Games World review describes Return Fire as an impressive Desert Strike–style action game that challenges players to complete multiple military objectives using a small set of clearly differentiated vehicles."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - uk

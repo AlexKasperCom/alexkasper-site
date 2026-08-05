@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Wired report on Kevin Mitnick's Absolute Zero-Day Exploit Exchange, a brokerage selling undisclosed software vulnerabilities to vetted clients for $100,000 apiece."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

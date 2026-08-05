@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Los Angeles Times profile by John Johnson that helped cement Kevin Mitnick's early public image as a dangerous “electronic terrorist,” describing his intense psychological attachment to computers following his first hacking-related arrests."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

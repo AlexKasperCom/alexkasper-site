@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Return Fire is praised as a fast, accessible overhead action game that combines Capture the Flag objectives with distinct vehicle-based combat, resulting in gameplay that is both immediately intuitive and tactically engaging."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

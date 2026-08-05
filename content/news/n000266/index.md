@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "UPI report on Lenny DiCicco's guilty plea and probation sentence for giving Kevin Mitnick unauthorized computer access that let him steal software from Digital Equipment Corporation."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

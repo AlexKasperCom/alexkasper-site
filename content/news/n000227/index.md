@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Next Generation's review of the PlayStation port."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

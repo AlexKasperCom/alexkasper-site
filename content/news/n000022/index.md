@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Game Informer review praises Return Fire for blending fast-paced arcade action with strategic planning, centering on a clear Capture the Flag structure supported by four specialized vehicles."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

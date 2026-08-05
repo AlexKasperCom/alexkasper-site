@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Reference encyclopedia entry situating Kevin Mitnick's hacking career within the broader history of the Internet and computer security."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - books

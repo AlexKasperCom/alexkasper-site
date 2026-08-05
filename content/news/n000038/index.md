@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Two-page feature by Arnie Katz positioning Return Fire as a war game for \"mainstream gamers\" rather than hardcore military simulation fans."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
 author:

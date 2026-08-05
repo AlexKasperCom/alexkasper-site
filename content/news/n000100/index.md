@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "New York Times obituary of Kevin Mitnick recounting his rise as the era's most notorious computer fugitive and his later career as a security consultant and author, following his death at 59."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

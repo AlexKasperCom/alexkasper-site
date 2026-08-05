@@ -10,7 +10,7 @@ source_type: image
 entry_type: reference
 summary: "IMDb production still captioned \"Alex Kasper (left, cameo) with Donal Logue (as Alex Lowe) during the FBI meeting scene involving Tsutomu Shimomura in Takedown (2000).\""
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - takedown

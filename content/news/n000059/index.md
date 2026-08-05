@@ -9,7 +9,7 @@ source_type: audio
 summary: "KFI-AM 640's listing for *DarkSide of the Internet*, a weekly Los Angeles radio program on computers, hacking, and internet security co-hosted by Alex Kasper and Kevin Mitnick."
 projects:
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - radio
   - kfi

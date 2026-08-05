@@ -8,7 +8,7 @@ draft: false
 source_type: book
 summary: "Chapter from Millionaire Within: Untold Stories from the Internet Underworld referencing Kevin Mitnick's hacking exploits, including allegations that he altered computer networks."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - books

@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "The Register report on the FCC's move to strip Kevin Mitnick's ham radio license over his criminal record, including his response calling it continued harassment and prosecutor Christopher Painter's rebuttal that Mitnick never accepted responsibility."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - radio

@@ -12,7 +12,7 @@ summary: "Internal CSEPS course workbook module introducing the fundamentals of 
 projects:
   - cseps
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - cseps
   - social-engineering

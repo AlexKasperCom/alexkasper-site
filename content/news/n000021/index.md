@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This feature presents Return Fire as a rare success in balancing fast-paced action with tactical depth, built around a deceptively simple Capture the Flag objective."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
 author:

@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Los Angeles Times report on Judge Mariana Pfaelzer's acceptance of Kevin Mitnick's guilty plea to seven federal counts, clearing the way for his sentencing."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

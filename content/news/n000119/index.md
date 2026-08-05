@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "University of Louisiana Monroe news release announcing Kevin Mitnick as a featured speaker at the university's Business Symposium."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

@@ -10,10 +10,10 @@ source_type: webpage
 entry_type: reference
 summary: "This MobyGames entry lists the production credits for the 3DO release of *Return Fire*, including Alex Kasper's credited work as producer, sound designer, and music supervisor."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - credits
-  - return-fire
+  - return-fire-archive
   - 3do
 author:
   - "MobyGames"

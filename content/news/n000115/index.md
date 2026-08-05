@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Turner Classic Movies database entry for Takedown, the 2000 film dramatizing the pursuit and capture of Kevin Mitnick."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

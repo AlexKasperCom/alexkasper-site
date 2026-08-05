@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This strategy guide for Return Fire focuses on mastering the game’s deceptively simple Capture the Flag mechanics through vehicle-specific tactics, map awareness, and efficient use of radar, beacons, and terrain."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - strategy-guide
 author:

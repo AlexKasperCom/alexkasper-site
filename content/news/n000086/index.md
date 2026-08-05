@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "TechCrunch report on Zimperium's $8 million funding round for its mobile security tools, noting Kevin Mitnick's role on the company's board of advisors."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - computer-security

@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Los Angeles Times report on the 1996 federal indictment of Kevin Mitnick and Lewis De Payne."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - hacking-history
   - lewis-de-payne

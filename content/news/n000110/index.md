@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Corrections.com commentary discussing supervision and monitoring conditions imposed on hackers like Kevin Mitnick after release, comparing them to restrictions used for other offender categories."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

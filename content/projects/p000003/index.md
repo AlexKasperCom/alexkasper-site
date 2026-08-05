@@ -1,8 +1,8 @@
 ---
 id: p000003
 
-title: "Return Fire"
-slug: "return-fire"
+title: "Return Fire Archive"
+slug: "return-fire-archive"
 
 category: video game
 status: archive
@@ -26,11 +26,11 @@ related:
 
 ---
 
-**Return Fire** is a 1995 vehicular combat game developed by Silent Software for the 3DO, the spiritual successor to designer Baron "Kurt" Von Wolfsheild's earlier 16-bit game Fire Power.{{< fn "n000013" >}} Alex Kasper produced the game and served as its sound designer and music supervisor.{{< fn "n000012" >}}
+**Return Fire** is a 1995 vehicular combat game developed by Silent Software for the 3DO, the spiritual successor to designer Baron Reichart "Kurt" Von Wolfsheild's earlier 16-bit game Fire Power.{{< fn "n000013" >}} I produced the game and served as its sound designer and music supervisor.{{< fn "n000012" >}}
 
 ## Development
 
-Return Fire took about two years to develop, with roughly three months spent on the visual style alone; the 3DO hardware handled between 200,000 and 230,000 polygons per second.{{< fn "n000013" >}} Beyond Von Wolfsheild, the core team included graphic artist Van Arno and programmer Will Ware.{{< fn "n000013" >}} Von Wolfsheild described the game as "more a philosophy than a game" built specifically for two-player competition, comparing its design goals to chess, and framed his approach to development as making "Porsches in a VW world.&rdquo;{{< fn "n000013" >}}
+Return Fire took about two years to develop, with roughly three months spent on the visual style alone; the 3DO hardware handled between 200,000 and 230,000 polygons per second.{{< fn "n000013" >}} Beyond Von Wolfsheild, the core team included graphic artist Van Arno and programmer Will Ware as well as a good sized team.{{< fn "n000013" >}} Von Wolfsheild described the game as "more a philosophy than a game" built specifically for two-player competition, comparing its design goals to chess, and framed his approach to development as making "Porsches in a VW world.&rdquo;{{< fn "n000013" >}}
 
 Critics repeatedly singled out the game's orchestral soundtrack as central to its identity, describing it as "standout&rdquo;{{< fn "n000032" >}} and central to the tension and spectacle of play.{{< fn "n000024" >}}
 
@@ -54,6 +54,6 @@ Return Fire was named 3DO Two-Player Game of the Year at the 1995 3DO Awards.{{<
 
 #### Related Articles
 
-{{< related-articles "return-fire" >}}
+{{< related-articles "return-fire-archive" >}}
 
 {{< references >}}

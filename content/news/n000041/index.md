@@ -8,10 +8,10 @@ draft: false
 source_type: article
 summary: "This Business Wire release announces the winners of 3DO's 1995 game awards, including *Return Fire*, published by Prolific Publishing, which won Two-Player Game of the Year."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - awards
-  - return-fire
+  - return-fire-archive
   - 3do
 author:
   - "Business Wire"

@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "This strategy guide presents Return Fire as a deceptively simple Capture the Flag game whose depth emerges through careful vehicle management, map awareness, and tactical use of terrain, mines, drones, and bunkers."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - strategy-guide
 author:

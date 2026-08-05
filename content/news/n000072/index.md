@@ -10,13 +10,13 @@ summary: "Patrick Gray profiles longtime friends and business partners Alex Kasp
 projects:
   - cseps
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - cseps
   - kevin-mitnick
   - cybersecurity
   - social-engineering
-  - return-fire
+  - return-fire-archive
 author:
   - "Gray, Patrick"
 publisher: "Wired"

@@ -9,7 +9,7 @@ source_type: book
 summary: "Kevin Mitnick's bestselling memoir, co-written with William L. Simon, recounting his hacking career, years as a fugitive, arrest, and imprisonment, including passages on his friendship and later business partnership with Alex Kasper."
 projects:
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

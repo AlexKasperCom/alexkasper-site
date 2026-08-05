@@ -141,13 +141,16 @@
             <!-- eventsOverview -->
          </section>
          <!-- upcomingEvents -->
-         <a href="/the-virtual-choir" id="virtualChoir" class="block">
-            <span>
-               <h2>Alex Kasper's Virtual Choir</h2>
-               <button>Watch The Films</button>
-            </span>
-         </a>
-         <a href="/totw" id="totw" class="block">Teacher of the Week</a>
+         {{ range where site.RegularPages "Section" "projects" }}
+         {{ if eq .Slug "kevin-mitnick-news-archive" }}
+         {{ partial "cta-banner.html" (dict "href" .RelPermalink "title" "The Kevin Mitnick News Archive" "label" "Explore the Archive" "modifier" "mitnick") }}
+         {{ end }}
+         {{ end }}
+         {{ range where site.RegularPages "Section" "projects" }}
+         {{ if eq .Slug "return-fire-archive" }}
+         {{ partial "cta-banner.html" (dict "href" .RelPermalink "title" "Return Fire Archive" "label" "Destroy! Destroy! Destroy!" "modifier" "return-fire") }}
+         {{ end }}
+         {{ end }}
       </section>
    </section>
    <!-- latest -->

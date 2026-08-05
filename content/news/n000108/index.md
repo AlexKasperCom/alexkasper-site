@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "FBI Records: The Vault release of investigative files on Kevin Mitnick covering his early hacking activity and prosecutions from 1981 through the 1990s."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - government-records

@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Player One review presents Return Fire as a highly polished, accessible action game inspired by Desert Strike, emphasizing its clear objectives, varied vehicle control, and exceptional audiovisual presentation."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - france

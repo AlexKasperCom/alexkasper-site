@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Return Fire praised as a demanding but highly rewarding tactical action game, emphasizing disciplined vehicle control, map study, and situational awareness over reckless aggression."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
 author:

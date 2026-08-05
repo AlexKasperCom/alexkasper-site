@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "FCC order designating a hearing to determine whether Kevin Mitnick's criminal record disqualifies him from holding an amateur radio license."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - amateur-radio

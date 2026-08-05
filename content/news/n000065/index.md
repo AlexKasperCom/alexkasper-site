@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "The Register's publication of the first chapter of Kevin Mitnick's own account of his hacking career and prosecution, written shortly after his supervised release ended in January 2003."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

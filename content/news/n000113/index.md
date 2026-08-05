@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Post by Kevin Mitnick's widow, Kimberley Mitnick, marking the one-year anniversary of his death."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - obituary

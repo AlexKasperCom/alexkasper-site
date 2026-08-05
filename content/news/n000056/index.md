@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Linux Journal opinion piece by Jason Kroll marking Kevin Mitnick's January 2000 release from prison after nearly five years without bail, recounting the Free Kevin movement and arguing the open-source and hacker communities should recognize common cause against prosecutorial overreach."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

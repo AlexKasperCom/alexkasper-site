@@ -1,0 +1,18 @@
+{{- /*
+  Full-width homepage call-to-action banner: a single link wrapping a
+  heading and a short label. All text is real markup styled in CSS
+  (see .cta-banner in static/css/ak/ak.css) — never baked into an
+  image, so it stays crisp, selectable, and accessible at any size.
+
+  Params:
+    href     - link target (required)
+    title    - heading text (required)
+    label    - short label shown under the heading (required)
+    modifier - CSS modifier class appended as cta-banner--<modifier>,
+               selects the banner's look (background image or color,
+               defined in CSS)
+*/ -}}
+<a href="{{ .href }}" class="cta-banner cta-banner--{{ .modifier }}">
+   <h2 class="cta-banner__title">{{ .title }}</h2>
+   <span class="cta-banner__label">{{ .label }}</span>
+</a>

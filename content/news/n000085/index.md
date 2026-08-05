@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Israel National News radio interview with Kevin Mitnick discussing his Jewish upbringing, his most memorable teenage prank hacks, and his advice on personal cybersecurity."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

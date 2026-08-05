@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Vice/Motherboard report on Kevin Mitnick's zero-day exploit brokerage, recapping his hacking history and quoting his own account of the Pacific Bell voicemail hack that made him a fugitive."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - vulnerability-research

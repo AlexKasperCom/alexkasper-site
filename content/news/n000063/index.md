@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "New York Times report on the FCC ruling that allowed Kevin Mitnick, then still on supervised release, to use the Internet again."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

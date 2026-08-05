@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Official obituary of Kevin David Mitnick published by Dignity Memorial, noting he is survived by his wife Kimberley Mitnick, who was pregnant with their first child at the time of his death."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

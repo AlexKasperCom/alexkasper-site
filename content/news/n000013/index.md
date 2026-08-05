@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "In-depth interview with Silent Software founder Baron Reichart \"Kurt\" Von Wolfsheild about Return Fire's development and his philosophy on game design."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - interview
 author:

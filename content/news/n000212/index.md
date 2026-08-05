@@ -17,7 +17,7 @@ summary: "At a social engineering prevention workshop in Sydney this week, Mitni
 projects:
   - cseps
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 
 tags:
   - cseps

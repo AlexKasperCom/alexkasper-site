@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Ultimate Future Games feature celebrates Return Fire as a blisteringly intense action game."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
 author:

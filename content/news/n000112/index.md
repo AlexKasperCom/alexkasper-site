@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Full text of the federal indictment filed against Kevin Mitnick, detailing the computer fraud, wire fraud, and related charges brought against him."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - legal-history

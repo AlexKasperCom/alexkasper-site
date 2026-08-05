@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Edge awards Return Fire 94\\% and declares it \"the best game on 3DO.\" Reviewer Simon Kirrane praises the classical music soundtrack including Peer Gynt Suite and \"In the Hall of the Mountain King,\" comparing the game favorably to Urban Strike."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
 author:

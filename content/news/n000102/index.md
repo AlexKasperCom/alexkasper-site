@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "CNN obituary marking the death of Kevin Mitnick, once the FBI's most wanted computer criminal turned celebrated cybersecurity consultant, at age 59."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Justice Department USA Bulletin article by prosecutor Christopher Painter analyzing supervised-release and probation restrictions imposed in computer-hacking cases, drawing on the Kevin Mitnick prosecution as a key example."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

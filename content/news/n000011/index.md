@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "This Electronic Gaming Monthly Fact File presents Return Fire as a fast, objective-driven action game that combines arcade combat with strategic vehicle use and map control."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - preview
 author:

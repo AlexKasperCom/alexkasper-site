@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This award feature recognizes Return Fire as a standout title on the 3DO, praising its fast, destruction-focused gameplay built around a simple yet addictive Capture the Flag premise."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - award
 author:

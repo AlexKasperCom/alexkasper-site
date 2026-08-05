@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "CourtListener docket page for United States v. Mitnick (2:96-cr-00506), the federal criminal case against Kevin Mitnick in the Central District of California."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

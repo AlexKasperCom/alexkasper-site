@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "GamesMaster ranks Return Fire #1 on its '3DO Top 10' list and #51 on its 'Top 100 Games of All Time' list."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - award
 author:

@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "GamePro's PlayStation review, praising it as \"a brilliantly conceived thrill-a-minute war sim\" with an unusually instrumental soundtrack."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

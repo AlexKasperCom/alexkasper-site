@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "John Markoff's New York Times profile portrays Mitnick as a fugitive “computer programmer run amok,” detailing his cellular-phone software thefts, his teenage NORAD intrusion claim, and a quote from a former FBI agent calling him overdue for arrest — the piece Mitnick later said sent his public myth “into overdrive.”"
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

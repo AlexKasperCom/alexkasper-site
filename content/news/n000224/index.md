@@ -12,7 +12,7 @@ summary: "Internal CSEPS course workbook module covering research, intelligence 
 projects:
   - cseps
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - cseps
   - social-engineering

@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "U.S. Attorney's press release announcing Kevin Mitnick's sentencing to 22 months in federal prison for possessing cloned cellular phone codes and for violating the supervised-release conditions of his 1989 computer fraud conviction."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

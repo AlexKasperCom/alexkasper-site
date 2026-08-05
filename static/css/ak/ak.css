@@ -520,7 +520,7 @@ header#hero .caption h2 {
 #featuredAlbum:link header h2, #featuredAlbum:link header h2 a:link, #featuredAlbum:link header h2 a:visited, #featuredAlbum:link header p, #featuredAlbum:link header p a:link, #featuredAlbum:link header p a:visited, #featuredAlbum:visited header h2, #featuredAlbum:visited header h2 a:link, #featuredAlbum:visited header h2 a:visited, #featuredAlbum:visited header p, #featuredAlbum:visited header p a:link, #featuredAlbum:visited header p a:visited {
      color: var(--color-panel);
 }
-#merch:link, #merch:visited, #totw:link, #totw:visited, #virtualChoir:link, #virtualChoir:visited {
+#merch:link, #merch:visited {
      display: block;
      width: 100%;
      height: 0;
@@ -529,37 +529,6 @@ header#hero .caption h2 {
      text-align: center;
      text-indent: -9999px;
      overflow: hidden;
-}
-#virtualChoir:link, #virtualChoir:visited {
-     padding: 0 0 45% 0;
-     border: none;
-     background: var(--color-black) url("/img/vc/hero.vc6.jpg") center center no-repeat;
-     background-size: cover;
-}
-#virtualChoir:link span, #virtualChoir:visited span {
-     position: absolute;
-     width: 100%;
-     height: auto;
-     top: 50%;
-     left: 50%;
-     transform: translate(-50%, -50%);
-}
-#virtualChoir:link span h2, #virtualChoir:visited span h2 {
-     display: block;
-     width: 60%;
-     margin: 0 auto 30px auto;
-     padding: 0 0 11% 0;
-     font-size: 0;
-     line-height: 0;
-     background: transparent url("/img/vc/logo.v1.svg") 0 0 no-repeat;
-     background-size: 100% auto;
-     text-indent: -9999px;
-     overflow: hidden;
-}
-#virtualChoir:link span button, #virtualChoir:visited span button {
-     white-space: nowrap;
-}
-#merch:link, #merch:visited {
      padding: 0 0 40% 0;
      background: var(--color-text) url("/img/ak/officialMerch.svg") center center no-repeat;
      background-size: 70% auto;
@@ -570,18 +539,86 @@ header#hero .caption h2 {
 #merch:active {
      background-color: var(--color-black);
 }
-#totw:link, #totw:visited {
-     margin: 0;
-     padding: 0 0 30% 0;
+/* Homepage CTA banners (Kevin Mitnick Archive, Return Fire, etc.):
+   one link, a real heading, and a real label — no text baked into
+   background images. Modifier classes only change the background;
+   layout and type live here in one place instead of being scattered
+   across the file. See layouts/partials/cta-banner.html. */
+.cta-banner:link, .cta-banner:visited {
+     position: relative;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: center;
+     width: 100%;
+     margin-top: 20px;
+     padding: 90px 40px;
      border: none;
-     background: var(--color-muted) url("/img/ak/totw/totwReversed.v1-01.svg") center center no-repeat;
-     background-size: 70% auto;
+     border-radius: var(--radius);
+     text-align: center;
+     text-decoration: none;
+     overflow: hidden;
 }
-#totw:hover {
-     background-color: var(--color-muted-dark);
+.cta-banner__title {
+     position: relative;
+     z-index: 1;
+     margin: 0 0 28px 0;
+     font-family: var(--font-display);
+     font-weight: var(--weight-normal);
+     font-size: var(--text-hero);
+     line-height: 1.15;
+     letter-spacing: 0.1rem;
+     text-transform: uppercase;
+     color: var(--color-panel);
 }
-#totw:active {
-     background-color: var(--color-muted-darker);
+.cta-banner__label {
+     position: relative;
+     z-index: 1;
+     display: inline-block;
+     padding: 0 24px;
+     font-family: var(--font-display);
+     font-weight: var(--weight-semibold);
+     font-size: var(--text-base);
+     line-height: 4.2rem;
+     min-height: 4.2rem;
+     text-transform: uppercase;
+     letter-spacing: 0.1rem;
+     color: #fff;
+     background-color: var(--color-accent);
+     border-radius: var(--radius);
+}
+.cta-banner--mitnick:link, .cta-banner--mitnick:visited {
+     background: var(--color-black) url("/img/mitnick/hero.jpg") center 20% no-repeat;
+     background-size: cover;
+}
+.cta-banner--mitnick:before, .cta-banner--return-fire:before {
+     position: absolute;
+     inset: 0;
+     background-image: linear-gradient( to bottom, rgba(0, 0, 0, 0.35) 0%, rgba(0, 0, 0, 0.65) 100% );
+     content: "";
+}
+.cta-banner--mitnick:hover:before, .cta-banner--return-fire:hover:before {
+     background-image: linear-gradient( to bottom, rgba(0, 0, 0, 0.45) 0%, rgba(0, 0, 0, 0.75) 100% );
+}
+.cta-banner--return-fire:link, .cta-banner--return-fire:visited {
+     padding: 40px 40px;
+     background: var(--color-muted) url("/img/return-fire/hero.jpg") center center no-repeat;
+     background-size: cover;
+}
+.cta-banner--return-fire .cta-banner__title {
+     margin-bottom: 16px;
+     font-size: 4.4rem;
+}
+@media screen and (max-width: 600px) {
+     .cta-banner:link, .cta-banner:visited {
+         padding: 60px 24px;
+    }
+     .cta-banner__title {
+         font-size: var(--text-3xl);
+    }
+     .cta-banner--return-fire:link, .cta-banner--return-fire:visited {
+         padding: 30px 24px;
+    }
 }
 /* Article cover (floated thumbnail) */
 .article-cover {
@@ -1385,9 +1422,6 @@ header#hero .caption h2 {
          font-size: var(--text-base);
          line-height: 1.6rem;
     }
-     #virtualChoir:link, #virtualChoir:visited {
-         padding: 0 0 60% 0;
-    }
 }
 @media screen and (max-width: 1280px) {
      #sidebar {
@@ -1510,18 +1544,6 @@ header#hero .caption h2 {
      #latest > section:first-child, #latest > section:nth-child(2) {
          flex: 0 1 100%;
          margin: 0;
-    }
-     #virtualChoir:link, #virtualChoir:visited {
-         padding: 0 0 100% 0;
-    }
-     #virtualChoir:link span h2, #virtualChoir:visited span h2 {
-         width: 70%;
-         margin: 0 auto 30px auto;
-         padding-bottom: 13%;
-    }
-     #totw:link, #totw:visited {
-         padding: 0 0 35% 0;
-         background-size: 80% auto;
     }
      #upcomingEvents {
          padding-bottom: 20px;

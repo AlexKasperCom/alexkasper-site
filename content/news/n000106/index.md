@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "AsiaOne interview in which Kevin Mitnick explains the social-engineering tricks he used as a hacker and how organizations can guard against them."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "The excised chapter from Kevin Mitnick's The Art of Deception that Wiley removed from the published book, preserved and republished by the transparency site the Memory Hole."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

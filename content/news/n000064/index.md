@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Wired report on the FCC's decision to grant Kevin Mitnick's amateur radio license renewal despite his criminal record, closing out a year-long licensing dispute."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - amateur-radio

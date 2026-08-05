@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Vox profile explaining how Kevin Mitnick now uses his hacking skills legally as a paid penetration tester, breaking into client systems to expose security flaws."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

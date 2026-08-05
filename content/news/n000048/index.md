@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Wired report by Arik Hesseldahl on Kevin Mitnick's pretrial fight for access to a computer to review the government's discovery evidence against him, part of the broader controversy over his conditions of confinement."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

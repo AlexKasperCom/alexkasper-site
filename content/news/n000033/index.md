@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This South Wales Argus review describes Return Fire as a standout shoot-’em-up for the 3DO, praising its fast-paced action, multiple vehicle types, and satisfying level-based objectives centered on collecting the enemy flag."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - mainstream-press

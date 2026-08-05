@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This 3DO Magazine review hails Return Fire as a deceptively simple yet deeply engaging action–strategy game, built around clear Capture the Flag objectives and four sharply differentiated vehicles."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

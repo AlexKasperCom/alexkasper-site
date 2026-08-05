@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Video Games (Germany) review characterizes Return Fire as a deliberately simple yet highly compelling action–strategy game built around relentless destruction and a Capture the Flag objective."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - germany

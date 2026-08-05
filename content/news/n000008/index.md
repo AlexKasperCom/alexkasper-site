@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This EGM² review introduces Return Fire as a standout action–strategy title for the 3DO, combining fast-paced vehicle combat with clear Capture the Flag objectives and an intuitive overhead perspective."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

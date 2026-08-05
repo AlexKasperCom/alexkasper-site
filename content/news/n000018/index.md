@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Video Business tip sheet presents Return Fire as a strategically accessible yet highly destructive action game that transforms a simple Capture the Flag concept into a compelling competitive experience."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - industry
 author:

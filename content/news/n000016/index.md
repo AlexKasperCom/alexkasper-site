@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Return Fire wins EGM's \"Game of the Month\" and \"Editor's Choice Gold Award.\" Four reviewers score it 9-9-7-9."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - award

@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Computerworld interview with Kevin Mitnick on mobile security threats and his advisory role at Zimperium, the mobile security startup whose board he sat on."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

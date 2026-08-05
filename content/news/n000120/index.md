@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Rotten.com, the long-running shock site and its Rotten Library encyclopedia, profiles Kevin Mitnick sympathetically as a hacker punished far beyond his actual crimes, tracing his path from 1980s bulletin-board intrusions to his 1995 capture while criticizing journalists John Markoff and Tsutomu Shimomura and cataloging abuses in his prosecution."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - hacking-history

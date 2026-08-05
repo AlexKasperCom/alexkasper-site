@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Transcript of Kevin Mitnick's March 2000 testimony before the Senate Committee on Governmental Affairs, describing social-engineering techniques used to breach government and corporate computer systems."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - government-records

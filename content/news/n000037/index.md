@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This 3DO Magazine (Japan) review presents Return Fire as a highly addictive, destruction-driven Capture the Flag action game that emphasizes tactical use of four distinct vehicles across large, cleverly designed maps."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - japan

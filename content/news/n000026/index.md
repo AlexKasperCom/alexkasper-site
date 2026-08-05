@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This Games World feature frames Return Fire as a refreshing alternative to traditional run-and-gun shooters, emphasizing its mission-based structure and focus on tactical vehicle combat."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - feature
   - uk

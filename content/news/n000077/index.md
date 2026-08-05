@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "CNET Q&A with Kevin Mitnick tracing his path from teenage ham radio operator and phone phreaker to FBI fugitive to security consultant."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - amateur-radio

@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Next Generation's 3DO review, praising the classical soundtrack and two-player mode and noting the game holds up in single-player despite its many levels."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

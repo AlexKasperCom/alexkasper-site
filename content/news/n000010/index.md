@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "Two-page preview declaring Return Fire \"a title that marries classic gameplay with 32bit visuals.\" Features quotes from associate producer Alex Kasperavicius"
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - preview
 author:

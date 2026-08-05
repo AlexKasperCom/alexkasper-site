@@ -10,7 +10,7 @@ summary: "A profile of Kevin Mitnick's transition from hacker to security educat
 projects:
   - cseps
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - cseps
   - kevin-mitnick

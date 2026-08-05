@@ -8,7 +8,7 @@ draft: false
 source_type: article
 summary: "This 3DO Magazine (Japan) review presents Return Fire as a tense, survival-oriented action game built around mastering four distinct vehicles to locate, capture, and return the enemy flag under constant pressure."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
   - japan

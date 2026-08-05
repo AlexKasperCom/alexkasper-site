@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Case background page from the Free Kevin Mitnick support site, written by defense attorney Donald C. Randolph, arguing that the charges and media coverage against Mitnick were excessive."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
 author:

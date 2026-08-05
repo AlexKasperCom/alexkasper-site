@@ -10,7 +10,7 @@ summary: "Background information about Defensive Thinking and its security train
 projects:
   - cseps
   - defensive-thinking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - cseps
   - cybersecurity

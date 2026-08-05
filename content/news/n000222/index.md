@@ -16,7 +16,7 @@ summary: "In this Harvard Business Review piece, Kevin Mitnick argues that despi
 
 projects:
   - Mitnick
-                      #   - return-fire
+                      #   - return-fire-archive
 
 tags:
   - Mitnick

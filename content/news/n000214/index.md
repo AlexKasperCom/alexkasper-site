@@ -15,7 +15,7 @@ source_type:          webpage
 summary: "The Guardian reports that Sam Tunick was detained for questioning at Atlanta's airport after being placed on a terrorism watchlist over his alleged ties to the movement against Cop City."
 
 projects:             # Related project slugs:
-                      #   - return-fire
+                      #   - return-fire-archive
 
 tags:                 # Descriptive tags:
                       #   - review

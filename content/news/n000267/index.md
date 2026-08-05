@@ -10,9 +10,9 @@ source_type: webpage
 entry_type: reference
 summary: "MobyGames' overview page for Return Fire, listing its release across the 3DO (1995) and later ports to Windows and the PlayStation (1996)."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
-  - return-fire
+  - return-fire-archive
   - 3do
   - platforms
 author:

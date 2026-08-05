@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Electronic Gaming Monthly's retrospective ranking of the 100 best video games of all time, placing Return Fire at #63 for its high replay value."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - award
 author:

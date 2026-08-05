@@ -8,7 +8,7 @@ draft: false
 source_type: webpage
 summary: "Initial decision by FCC Administrative Law Judge Richard L. Sippel ruling on Kevin Mitnick's fitness to retain his amateur radio license, ultimately permitting him to keep it despite his criminal record."
 projects:
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - kevin-mitnick
   - amateur-radio

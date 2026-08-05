@@ -9,7 +9,7 @@ source_type: article
 summary: "In the 1980s, Susan Headley (aka Susy Thunder) was a pioneering female hacker and phone phreaker known for her mastery of social engineering, running with figures like Kevin Mitnick before disappearing from the scene. The article by Claire L. Evans recounts her turbulent life—from childhood trauma and Hollywood groupie days to her cyber exploits—and the author's year-long effort to track her down."
 projects:
   - hacking
-  - kevin-mitnick-archive
+  - kevin-mitnick-news-archive
 tags:
   - hacking
 author:

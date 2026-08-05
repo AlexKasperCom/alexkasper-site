@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "This Edge “Test Screen” review presents Return Fire as a deceptively elegant blend of arcade action and strategic cat-and-mouse gameplay, centered on capturing the enemy flag using four highly specialized vehicles."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:

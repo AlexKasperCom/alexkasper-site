@@ -9,7 +9,7 @@ draft: false
 source_type: article
 summary: "Maximum's review of Return Fire: Maps O' Death, the game's expansion pack, awarding it 4 out of 5 stars."
 projects:
-  - return-fire
+  - return-fire-archive
 tags:
   - review
 author:
