@@ -17,8 +17,14 @@ Alex Kasper writes and speaks about social engineering, deception, and the human
 - [TAP Archive](/projects/p000008/tap-archive/): The complete run of *TAP* (originally *YIPL*), the 1971-1984 phone-phreaking/hacking newsletter that predated *2600* and *Phrack* — 91 numbered issues plus 7 "Classified TAP" ad-sheet inserts, each with a scanned PDF, searchable text, and citation metadata.
 - **[Structured JSON index](/projects/p000008/tap-archive/archive.json)**: every issue's id, issue number, series, title, date, summary, tags/topics, people, scan quality, page URL, PDF URL, and a `transcript_url` pointing to the issue's plain-text OCR transcript — fetch this instead of crawling the individual issue pages.
 
+## Other notable project archives
+
+- [Kevin Mitnick News Archive](/projects/p000007/kevin-mitnick-news-archive/): Every article, interview, and press mention referencing Kevin Mitnick collected in one place, spanning decades of coverage.
+- [Return Fire Archive](/projects/p000003/return-fire-archive/): Reviews, interviews, and retrospectives on *Return Fire*, the 1995 3DO game Alex Kasper produced and scored.
+
 ## Notes for automated access
 
 - Every news and project entry has a stable `id` in its front matter (e.g. `n000121`, `p000008`) that never changes even if the URL slug does.
 - `/id-map.json` is a flat, site-wide map of every content item's `id` to its current URL.
+- Most project pages (not just TAP) collect every article that names them in an in-page table, oldest to newest — the project page itself is the fastest way to get everything published about a given topic. TAP Archive is the only one with a separate structured JSON index (above); for others, fetch the project page's HTML directly.
 - Historical documents on this site (e.g. the TAP archive) are reproduced for research and archival purposes; see each entry's linked disclaimer for context.
