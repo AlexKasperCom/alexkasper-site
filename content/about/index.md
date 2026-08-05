@@ -23,10 +23,6 @@ carousel:
     alt: "Alex Kasper"
     position: "center 35%"
 
-  - image: "alex-05.jpg"
-    alt: "Alex Kasper"
-    position: "center 35%"
-
 featured_title: "Selected Press"
 
 featured:
@@ -44,7 +40,7 @@ featured:
 
   - id: businessWire
     name: "Business Wire"
-    page: "/n000041/and-the-winner-is-3do-awards-honor-best-of-the-best/"
+    page: "/news/n000041/and-the-winner-is-3do-awards-honor-best-of-the-best/"
 
   - id: electronicGamingMonthly
     name: "Electronic Gaming Monthly"
